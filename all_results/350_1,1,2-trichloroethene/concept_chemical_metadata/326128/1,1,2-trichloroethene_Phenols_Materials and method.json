@@ -1,0 +1,10 @@
+{
+    "context": "After incubation, the MSB in the ampules was analyzed for TCE.The effects of initial TCE concentration on TCE degradation by G4 In order to determine the effect of the initial concentration of TCE on the TCE-degrading ability of G4, three concentrations of TCE were employed, 10, 20 and 60ppm. A 10ml ampules containing 2.5ml of MSB were inoculated with 100\u03bcl of a 3-day-old culture of G4 and TCE added in the form of a TCE\u2013methanol solution. The ampules were immediately sealed, incubated under shake conditions and the MSB analyzed for TCE after 24h. Ampules without the G4 inoculum served as controls.The effects of initial phenol concentrations on TCE degradation Since G4 requires induction of the TCE-degrading enzyme by phenol, an experiment was conducted to determine the effect of initial phenol concentration on the TCE-degrading ability of G4. A 10ml ampules containing 2.5ml of MSB served as the test system. A 100\u03bcl of a 3-day-old culture was used to inoculate the ampules. The phenol concentrations used in this study were 0, 60, 120, 250, 600 and 1200ppm. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Phenols",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) and phenols are related through the study of TCE degradation by the G4 culture, which requires phenol to induce the necessary degrading enzymes. The experiment investigates how varying initial concentrations of phenol affect the ability of G4 to degrade TCE, indicating a direct functional relationship where phenols play a crucial role in enhancing TCE degradation.",
+        "reason": "The score of 4 reflects a significant connection between TCE and phenols, as phenols are essential for inducing the TCE-degrading enzyme in G4. The experimental design demonstrates a clear relationship, supported by varying phenol concentrations impacting TCE degradation.",
+        "score": 4
+    }
+}

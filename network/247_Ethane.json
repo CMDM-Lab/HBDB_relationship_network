@@ -1,0 +1,2220 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Ethane",
+                    "label": "Ethane",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethane",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethane",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethane",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethane",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethane",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethane",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethane",
+                        "label": "Ethane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ischemia",
+                        "label": "Ischemia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration Disorders",
+                        "label": "Respiration Disorders",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lung Diseases, Obstructive",
+                        "label": "Lung Diseases, Obstructive",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Ischemia",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Respiration Disorders",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Lung Diseases, Obstructive",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethane",
+                        "label": "Ethane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrogen",
+                        "label": "Nitrogen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lead salt",
+                        "label": "Lead salt",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrogen gas",
+                        "label": "Nitrogen gas",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Atom",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Nitrogen",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "pentane",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Lead salt",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Chemicals",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Organic Chemicals",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Hydrocarbons",
+                        "score": 13
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Nitrogen gas",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethane",
+                        "label": "Ethane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Blood Circulation",
+                        "label": "Blood Circulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Laser-generated electromagnetic radiation",
+                        "label": "Laser-generated electromagnetic radiation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Noise",
+                        "label": "Noise",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidants",
+                        "label": "Oxidants",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Obstruction",
+                        "label": "Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Blood Circulation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Laser-generated electromagnetic radiation",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Adjudication",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Oxidation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Respiration",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Exhalation",
+                        "score": 39
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Noise",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "inhibitors",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Oxidants",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Inspiration function",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Lipid Peroxidation",
+                        "score": 13
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Obstruction",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Inflammation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Process",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethane",
+                        "target": "Respiratory physiology",
+                        "score": 8
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethane",
+                        "label": "Ethane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethane",
+                        "label": "Ethane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethane",
+                        "label": "Ethane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Ischemia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ischemia",
+                        "label": "Ischemia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642",
+                        "label": "Visceral lipid peroxidation occurs at reperfusion after supraceliac aortic cross-clamping.\nM. Kazui, KA. Andreoni, GM. Williams, BA. Perler, GB. Bulkley, C. Beattie, RT. Donham, SS. Sehnert, JF. Burdick, TH. Risby\nJ. Vasc. Surg. 1994 Mar;19(3):473-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/8126860"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Ischemia_DISCUSSION.json",
+                        "label": "In this context, ethane is linked to ischemia through its role as a biomarker for lipid peroxidation resulting from ischemia and reperfusion injury during surgical procedures. The study indicates that ethane levels can reflect lipid damage associated with prolonged ischemic conditions, suggesting that monitoring ethane may provide insights into the extent of ischemic injury during surgery.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ischemia",
+                        "target": "244642",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Ischemia_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Respiration Disorders": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration Disorders",
+                        "label": "Respiration Disorders",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Respiration Disorders_Conclusion.json",
+                        "label": "In this context, ethane is discussed as a potential biomarker for oxidative stress (OS) in patients, including those with respiratory disorders. However, the study indicates that ethane levels in lung cancer patients did not significantly differ from those in healthy controls or patients with other respiratory diseases. This suggests that while ethane may be related to OS, its utility in diagnosing specific respiratory disorders is limited.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Respiration Disorders_Introduction.json",
+                        "label": "In this context, ethane is highlighted as a potential breath biomarker for oxidative stress (OS) associated with respiratory disorders, particularly lung cancer. Increased ethane exhalation has been observed in patients with respiratory diseases and airway inflammation, suggesting a direct link between elevated ethane levels and respiratory disorders. The study emphasizes the significance of ethane as a volatile organic compound (VOC) in breath analysis for diagnosing and monitoring respiratory conditions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Respiration Disorders_Results.json",
+                        "label": "In this context, ethane is measured in the exhalation of subjects, including lung cancer patients and individuals with respiratory disorders. However, the study finds no significant differences in ethane levels between control subjects and those with respiratory issues or lung cancer. This suggests that ethane exhalation may not be a reliable biomarker for respiratory disorders, indicating a weak relationship between ethane and these conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration Disorders",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Respiration Disorders_Conclusion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Respiration Disorders_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Respiration Disorders_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Lung Diseases, Obstructive": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lung Diseases, Obstructive",
+                        "label": "Lung Diseases, Obstructive",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Lung Diseases, Obstructive_Discussion.json",
+                        "label": "In this context, ethane is discussed in relation to its presence in exhaled breath and the potential contamination of samples from patients with obstructive lung diseases. The study highlights that patients may trap ambient air containing ethane, which complicates the quantification of exhaled ethane. The severity of lung obstruction increases the risk of sample contamination, indicating a connection between ethane levels and the challenges in assessing lung function in obstructive lung diseases.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lung Diseases, Obstructive",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Lung Diseases, Obstructive_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Atom": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Atom_Materials and method.json",
+                        "label": "In this context, ethane is discussed in relation to a measurement technique that relies on sub-atomic optical transitions within ethane molecules. The focus is on the calibration and sensitivity of the instrument used to detect ethane gas, highlighting the atomic-level interactions that enable accurate measurement. However, the relationship between ethane and the concept of 'atom' is primarily technical and does not delve into broader biological or chemical implications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Atom",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Atom_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Nitrogen": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrogen",
+                        "label": "Nitrogen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Nitrogen_Materials and Method.json",
+                        "label": "In this context, ethane and nitrogen are mentioned in relation to a gas chromatographic analysis where ethane is measured in a headspace gas sample. Nitrogen is used as a standard in the calibration process for the ethane measurements. However, there is no direct interaction or functional relationship discussed between ethane and nitrogen beyond their roles in the analytical procedure.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244486",
+                        "label": "Clinical implications of the ethane in exhaled breath in patients with acute paraquat intoxication.\nSY. Hong, HW. Gil, JO. Yang, EY. Lee, JO. Na, KH. Seo, YH. Kim\nChest 2005 Sep;128(3):1506-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16162750"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244486_Ethane_Nitrogen_Materials and Method.json",
+                        "label": "In this context, ethane and nitrogen are related through the process of purging exhaled breath samples with ethane-free nitrogen to ensure accurate measurement of ethane concentrations. The use of nitrogen serves as a carrier gas to eliminate ethane interference during analysis, highlighting its role in the experimental setup rather than a direct biological or chemical interaction between the two gases.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrogen",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Nitrogen_Materials and Method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrogen",
+                        "target": "244486",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244486",
+                        "target": "244486_Ethane_Nitrogen_Materials and Method.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "pentane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_pentane_Discussion.json",
+                        "label": "In this context, ethane and pentane are both mentioned as alkanes used as noninvasive markers of lipid peroxidation in exhaled breath analysis. The preference for ethane over pentane is highlighted due to pentane's rapid metabolism, which complicates its quantification. This suggests a comparative relationship where ethane is favored for its reliability in measuring lipid peroxidation, while pentane's metabolism poses challenges in analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentane",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_pentane_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Lead salt": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lead salt",
+                        "label": "Lead salt",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Lead salt_Materials and method.json",
+                        "label": "In this context, ethane is measured using a laser absorption spectroscopy technique that employs a lead-salt tunable diode laser. The lead salt is crucial for the laser's operation at the specific wavelength where ethane absorption transitions occur. Thus, while ethane and lead salt are not directly related in function, the lead salt is essential for the measurement of ethane concentrations in breath samples, indicating a technical relationship rather than a biological or chemical one.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lead salt",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Lead salt_Materials and method.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Chemicals_Discussion.json",
+                        "label": "In this context, ethane is discussed in relation to its measurement in exhaled breath, particularly in the presence of potential chemical contaminants like cleaning fluids. The study emphasizes the importance of accurately measuring ethane levels to differentiate between endogenous production and external chemical exposure, highlighting the relevance of chemicals in the analysis of ethane concentrations in breath samples.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Chemicals_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Organic Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Organic Chemicals_Introduction.json",
+                        "label": "In this context, ethane is identified as a volatile organic compound (VOC) produced in vivo through lipid peroxidation, making it a potential biomarker for oxidative stress (OS) in lung cancer patients. The relationship between ethane and organic chemicals is significant, as ethane is categorized within the broader group of organic chemicals, specifically hydrocarbons, and its measurement is crucial for assessing oxidative damage in respiratory diseases. The study emphasizes the challenges in detecting ethane at low concentrations, highlighting its relevance in the analysis of organic chemicals in breath samples.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Organic Chemicals_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Hydrocarbons_Materials and Method.json",
+                        "label": "In this context, ethane is analyzed as a specific component of exhaled breath, while hydrocarbons refer to a broader class of organic compounds that include ethane. The study focuses on measuring ethane content in exhaled air, indicating that ethane is a type of hydrocarbon. However, the relationship is primarily categorical, as ethane is one of many hydrocarbons without further exploration of its specific interactions or implications within the broader category.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Hydrocarbons_Discussion.json",
+                        "label": "In this context, ethane is identified as a specific hydrocarbon present in ambient air, which can contaminate breath samples collected from patients with obstructive lung disease. The study emphasizes the need for hydrocarbon-free air during sample collection to avoid interference from ambient ethane levels, highlighting its significance as a component of hydrocarbons in environmental air quality assessments.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Hydrocarbons_Materials and method.json",
+                        "label": "In this context, ethane is discussed as a specific hydrocarbon that is measured using a laser-based spectroscopy system. The measurement technique focuses on ethane's absorption characteristics, highlighting its role as a target compound within the broader category of hydrocarbons. The context emphasizes the technical aspects of detecting ethane, indicating its significance among hydrocarbons in analytical applications.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Hydrocarbons_Introduction.json",
+                        "label": "In this context, ethane is identified as a volatile organic compound (VOC) produced in vivo through lipid peroxidation, making it a potential biomarker for oxidative stress (OS). Hydrocarbons, which include a range of organic compounds, are discussed in relation to VOCs in exhaled breath analysis, particularly in lung cancer patients. Ethane's specific role as a biomarker highlights its connection to the broader category of hydrocarbons, although the focus is primarily on its unique properties and measurement challenges in breath analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Hydrocarbons_Materials and Method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Hydrocarbons_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Hydrocarbons_Materials and method.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Hydrocarbons_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Nitrogen gas": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrogen gas",
+                        "label": "Nitrogen gas",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Nitrogen gas_Materials and method.json",
+                        "label": "In this context, ethane and nitrogen gas are mentioned in relation to a measurement technique for detecting ethane concentrations in breath samples. Nitrogen gas is used to flush the measurement cell to ensure it is free from hydrocarbons, thereby preventing interference during the ethane measurement process. However, there is no direct interaction or functional relationship between ethane and nitrogen gas beyond this calibration role.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrogen gas",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Nitrogen gas_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Blood Circulation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Blood Circulation",
+                        "label": "Blood Circulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642",
+                        "label": "Visceral lipid peroxidation occurs at reperfusion after supraceliac aortic cross-clamping.\nM. Kazui, KA. Andreoni, GM. Williams, BA. Perler, GB. Bulkley, C. Beattie, RT. Donham, SS. Sehnert, JF. Burdick, TH. Risby\nJ. Vasc. Surg. 1994 Mar;19(3):473-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/8126860"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Blood Circulation_DISCUSSION.json",
+                        "label": "In this context, ethane is discussed in relation to its presence in exhaled breath as a marker for its appearance in the bloodstream. The study indicates that ethane injected into the portal system can be quantitatively retrieved in breath samples, suggesting a direct relationship between ethane levels in the blood and its detection in exhaled air. This connection highlights the potential of ethane as a biomarker for assessing blood circulation and metabolic processes in clinical settings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Blood Circulation",
+                        "target": "244642",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Blood Circulation_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Laser-generated electromagnetic radiation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Laser-generated electromagnetic radiation",
+                        "label": "Laser-generated electromagnetic radiation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Laser-generated electromagnetic radiation_Introduction.json",
+                        "label": "In this context, ethane is analyzed using a novel laser spectrometer (Tunable Diode Laser Spectrometer, TDLS) for breath sample analysis, particularly in relation to assessing oxidative stress and its potential association with lung cancer. The laser-generated electromagnetic radiation from the TDLS allows for real-time, sensitive measurement of ethane levels in breath samples, highlighting the technological advancement in detecting this biomarker in clinical settings.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Laser-generated electromagnetic radiation_Discussion.json",
+                        "label": "In this context, ethane is analyzed using laser-generated electromagnetic radiation for breath testing, specifically to assess oxidative stress (OS) in a non-invasive manner. The laser spectrometer's optical selectivity allows for sensitive detection of ethane, which is crucial for accurate breath analysis. The relationship is significant as the technology enables real-time monitoring of ethane levels in breath samples, highlighting its clinical relevance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Laser-generated electromagnetic radiation_Materials and method.json",
+                        "label": "In this context, ethane is analyzed using a spectroscopic technique that employs laser-generated electromagnetic radiation at a specific wavelength (3.4μm) where ethane absorption transitions occur. The laser light passes through a sample cell to measure ethane concentrations in breath samples, demonstrating a direct application of laser technology in detecting ethane gas with high sensitivity and accuracy.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Laser-generated electromagnetic radiation",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Laser-generated electromagnetic radiation_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Laser-generated electromagnetic radiation_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Laser-generated electromagnetic radiation_Materials and method.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642",
+                        "label": "Visceral lipid peroxidation occurs at reperfusion after supraceliac aortic cross-clamping.\nM. Kazui, KA. Andreoni, GM. Williams, BA. Perler, GB. Bulkley, C. Beattie, RT. Donham, SS. Sehnert, JF. Burdick, TH. Risby\nJ. Vasc. Surg. 1994 Mar;19(3):473-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/8126860"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Adjudication_DISCUSSION.json",
+                        "label": "In this context, ethane is discussed in relation to its measurement in exhaled breath as a potential biomarker for assessing physiological changes during surgical procedures. However, the term 'adjudication' appears unrelated to ethane's biochemical role or its measurement, as it typically refers to a legal or decision-making process. Thus, there is no direct relationship between ethane and adjudication in this context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Adjudication_MATERIAL AND METHODS.json",
+                        "label": "In this context, ethane is mentioned as a compound analyzed in exhaled breath samples collected during a surgical procedure, while adjudication is not directly referenced in relation to ethane. The focus is on the measurement of ethane levels as a potential biomarker, but there is no discussion of adjudication or its relevance to the study. Thus, the two terms appear unrelated within the provided context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Adjudication_RESULTS.json",
+                        "label": "In this context, ethane is measured in the exhaled breath of patients undergoing surgical procedures, with specific attention to its levels at various time points. However, there is no mention of adjudication or any direct relationship between ethane levels and adjudication processes. The focus is solely on ethane as a biomarker for surgical outcomes, without any discussion of adjudication as a concept or process related to the findings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "244642",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Adjudication_DISCUSSION.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Adjudication_MATERIAL AND METHODS.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Adjudication_RESULTS.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Oxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Oxidation_Introduction.json",
+                        "label": "In this context, ethane is produced in vivo through the oxidation of cell membrane lipids, which is a result of free-radical-mediated damage. This process indicates that ethane levels can reflect oxidative stress in the body. The relationship highlights how oxidative processes contribute to the production of ethane, linking it to potential lung injury and disease pathogenesis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Oxidation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Respiration_Materials and Method.json",
+                        "label": "In this context, ethane is analyzed as part of a study on respiratory gas exchange. Subjects breathed hydrocarbon-free air, and the exhaled air was collected to measure ethane content. This indicates that ethane is being evaluated in relation to respiration, specifically how it is exhaled after inhalation of clean air, highlighting its presence in respiratory processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Respiration_Materials and Method.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642",
+                        "label": "Visceral lipid peroxidation occurs at reperfusion after supraceliac aortic cross-clamping.\nM. Kazui, KA. Andreoni, GM. Williams, BA. Perler, GB. Bulkley, C. Beattie, RT. Donham, SS. Sehnert, JF. Burdick, TH. Risby\nJ. Vasc. Surg. 1994 Mar;19(3):473-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/8126860"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Exhalation_DISCUSSION.json",
+                        "label": "In this context, ethane is mentioned as a compound that can be measured in exhaled breath, particularly in relation to assessing free radical damage during clinical procedures like aortic repair. The study suggests that exhaled ethane may serve as a biomarker for lipid peroxidation and oxidative stress, indicating its relevance in monitoring physiological processes related to ischemic damage and reperfusion injury.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Exhalation_MATERIAL AND METHODS.json",
+                        "label": "In this context, ethane is measured in exhaled breath as a marker of oxidative stress following surgical procedures. The study reports statistically significant increases in ethane levels in exhalation at specific time points after reperfusion compared to baseline levels. This suggests that ethane exhalation may serve as a noninvasive indicator of metabolic changes related to surgical stress and tissue integrity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Exhalation_RESULTS.json",
+                        "label": "In this context, ethane is measured in exhaled breath during a surgical procedure, indicating its presence as a volatile organic compound released from the body. The study highlights the levels of ethane detected at various time points, particularly noting a significant increase after reperfusion compared to baseline levels. This suggests a potential relationship between ethane exhalation and physiological changes during surgery, possibly linked to oxidative stress or tissue injury.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Exhalation_Discussion.json",
+                        "label": "In this context, exhaled ethane is associated with oxidant load and lung function. The study indicates that higher levels of exhaled ethane correlate negatively with lung function, suggesting that ethane may serve as a biomarker for oxidative stress in the lungs. The administration of vitamin E appears to influence exhaled ethane levels, with better lung function observed in subjects showing significant reductions in ethane after treatment. This highlights the relevance of exhaled ethane in assessing lung health and oxidative damage.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Exhalation_Results.json",
+                        "label": "In this context, ethane is analyzed as a volatile organic compound exhaled by individuals, with its levels being negatively associated with lung function parameters such as FEV1/FVC. The study suggests that increased exhalation of ethane may indicate heightened lipid peroxidation, particularly in smokers, linking ethane levels to respiratory health. However, the statistical significance of these associations varies, particularly after vitamin E intake, indicating a complex relationship between ethane exhalation and lung function.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Exhalation_Discussion.json",
+                        "label": "In this context, ethane is analyzed in relation to its concentration in exhaled breath as a potential biomarker for lung cancer. The study finds no significant increase in exhaled ethane levels among lung cancer patients compared to healthy controls, indicating that ethane is not specifically associated with lung cancer. The findings suggest that measuring ethane in breath may not provide useful clinical information for diagnosing lung cancer, although the reproducibility of ethane levels in healthy individuals is noted.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Exhalation_Conclusion.json",
+                        "label": "In this context, ethane is identified as a potential real-time biomarker for oxidative stress (OS) that can be measured through exhalation. The study highlights the ability to detect ethane levels in breath samples, although it concludes that exhaled ethane is not significantly different in lung cancer patients compared to controls. This suggests that while ethane can be exhaled and measured, its utility as a diagnostic marker for lung cancer is limited.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Exhalation_Introduction.json",
+                        "label": "In this context, ethane is analyzed as a component of exhaled breath samples, specifically in relation to assessing oxidative stress (OS) in medical evaluations. The study highlights the use of a novel laser spectrometer for real-time measurement of ethane levels in breath, aiming to explore its association with lung cancer. This indicates a direct relevance of ethane to the process of exhalation, as it is a volatile organic compound measured in breath samples for clinical purposes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Exhalation_Materials and method.json",
+                        "label": "In this context, ethane is analyzed as a component of exhaled breath samples collected from subjects following a standardized protocol. The concentration of ethane in exhalation is determined by comparing the sample concentration to a background sample, ensuring accurate measurement of ethane levels in breath. This highlights the relationship between ethane and the process of exhalation, as ethane is specifically measured in the breath to assess its concentration and potential significance in physiological studies.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Exhalation_Results.json",
+                        "label": "In this context, ethane is analyzed as a volatile organic compound exhaled by patients undergoing investigation for respiratory diseases. The study measures ethane concentrations in exhaled breath, finding no significant differences between various patient groups, including lung cancer patients and controls. The focus is on the application of laser spectroscopy for accurate ethane measurement in breath samples, highlighting its potential as a diagnostic tool.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "244642",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Exhalation_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Exhalation_MATERIAL AND METHODS.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Exhalation_RESULTS.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Exhalation_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Exhalation_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Exhalation_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Exhalation_Conclusion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Exhalation_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Exhalation_Materials and method.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Exhalation_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Noise": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Noise",
+                        "label": "Noise",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Noise_Discussion.json",
+                        "label": "In this context, ethane is discussed as a potential biomarker for oxidative stress (OS) in breath analysis, while noise refers to extraneous factors that may interfere with the accuracy of breath analysis results. The text suggests that noise can limit the diagnostic applications of ethane as a reliable indicator of OS, indicating that while ethane shows promise, its effectiveness may be compromised by noise factors that are difficult to control in clinical settings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Noise",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Noise_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "inhibitors": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642",
+                        "label": "Visceral lipid peroxidation occurs at reperfusion after supraceliac aortic cross-clamping.\nM. Kazui, KA. Andreoni, GM. Williams, BA. Perler, GB. Bulkley, C. Beattie, RT. Donham, SS. Sehnert, JF. Burdick, TH. Risby\nJ. Vasc. Surg. 1994 Mar;19(3):473-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/8126860"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_inhibitors_DISCUSSION.json",
+                        "label": "In this context, ethane is mentioned in relation to free radical damage and the potential effects of inhibitors like superoxide dismutase. The study aims to measure exhaled ethane as a control to assess the effectiveness of these inhibitors in blocking free radical damage during ischemic events. Ethane serves as a biomarker for oxidative stress, while inhibitors are proposed to mitigate this damage, indicating a significant relationship between them in the context of oxidative stress management.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "244642",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_inhibitors_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Oxidants": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidants",
+                        "label": "Oxidants",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Oxidants_Results.json",
+                        "label": "In this context, ethane is analyzed as a biomarker of oxidative stress, with its exhaled levels positively associated with oxidant load. The study highlights that after vitamin E treatment, the correlation between oxidants and exhaled ethane became statistically significant, suggesting that oxidants may influence ethane production in the body. This relationship indicates that ethane could serve as an indicator of oxidative stress levels influenced by dietary antioxidants.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Oxidants_Discussion.json",
+                        "label": "In this context, ethane is associated with oxidant load, as indicated by the correlation between exhaled ethane levels and oxidative stress. The study suggests that higher oxidant levels correspond to increased exhaled ethane, which negatively impacts lung function. Additionally, vitamin E's limited effect on reducing exhaled ethane implies a complex relationship between antioxidants and oxidant levels in the context of lung health.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidants",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Oxidants_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Oxidants_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642",
+                        "label": "Visceral lipid peroxidation occurs at reperfusion after supraceliac aortic cross-clamping.\nM. Kazui, KA. Andreoni, GM. Williams, BA. Perler, GB. Bulkley, C. Beattie, RT. Donham, SS. Sehnert, JF. Burdick, TH. Risby\nJ. Vasc. Surg. 1994 Mar;19(3):473-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/8126860"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Inspiration function_DISCUSSION.json",
+                        "label": "In this context, ethane is discussed in relation to its detection in exhaled breath as a measure of its presence in the bloodstream. The studies mentioned explore the effects of inspired oxygen on ethane production, indicating a potential relationship between ethane levels and respiratory function. However, the specific impact of inspiration function on ethane levels is not clearly established, as conflicting studies report varying effects of oxygen on ethane production.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "244642",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Inspiration function_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Lipid Peroxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642",
+                        "label": "Visceral lipid peroxidation occurs at reperfusion after supraceliac aortic cross-clamping.\nM. Kazui, KA. Andreoni, GM. Williams, BA. Perler, GB. Bulkley, C. Beattie, RT. Donham, SS. Sehnert, JF. Burdick, TH. Risby\nJ. Vasc. Surg. 1994 Mar;19(3):473-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/8126860"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Lipid Peroxidation_DISCUSSION.json",
+                        "label": "In this context, ethane is presented as a byproduct of lipid peroxidation, which occurs during ischemia and reperfusion injury. The study indicates that the levels of ethane detected correlate with the extent of lipid damage caused by reperfusion, suggesting that ethane can serve as a marker for lipid peroxidation. The absence of ethane changes in one case implies minimal lipid peroxidation, while its presence in others indicates significant lipid damage associated with longer cross-clamping times during surgery.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Lipid Peroxidation_Discussion.json",
+                        "label": "In this context, ethane is highlighted as a noninvasive marker for lipid peroxidation, which is a process that can lead to cellular damage. The authors prefer ethane over pentane for measuring lipid peroxidation due to its more rapid metabolism. This suggests a direct relationship where ethane serves as an indicator of lipid peroxidation levels, particularly in studies involving oxidative stress and respiratory health.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Lipid Peroxidation_Introduction.json",
+                        "label": "In this context, ethane is identified as a potential biomarker for oxidative stress (OS), which is closely linked to lipid peroxidation. Ethane is produced in vivo as a byproduct of lipid peroxidation, making it a relevant indicator of oxidative damage in lung cancer patients. The study highlights the association between increased ethane exhalation and conditions characterized by elevated lipid peroxidation, suggesting a direct relationship between the two in the context of respiratory diseases and cancer.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lipid Peroxidation",
+                        "target": "244642",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Lipid Peroxidation_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lipid Peroxidation",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Lipid Peroxidation_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lipid Peroxidation",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Lipid Peroxidation_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Obstruction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Obstruction",
+                        "label": "Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642",
+                        "label": "Visceral lipid peroxidation occurs at reperfusion after supraceliac aortic cross-clamping.\nM. Kazui, KA. Andreoni, GM. Williams, BA. Perler, GB. Bulkley, C. Beattie, RT. Donham, SS. Sehnert, JF. Burdick, TH. Risby\nJ. Vasc. Surg. 1994 Mar;19(3):473-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/8126860"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244642_Ethane_Obstruction_DISCUSSION.json",
+                        "label": "In this context, ethane is mentioned in relation to free radical damage and lipid peroxidation during the reperfusion of ischemic tissues, particularly in the setting of aortic repair. However, there is no direct mention of obstruction or its specific relationship to ethane. The discussion focuses on ethane as a potential marker for oxidative stress rather than its connection to obstruction, making the relationship unclear.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Obstruction_Discussion.json",
+                        "label": "In this context, ethane is discussed in relation to obstructive lung disease, where patients may trap ambient air containing ethane, leading to potential contamination of exhaled samples. The severity of obstruction increases the risk of this contamination, necessitating careful sampling methods to ensure accurate measurement of ethane levels in breath analysis. Thus, ethane's presence is influenced by the degree of airway obstruction in patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Obstruction",
+                        "target": "244642",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244642",
+                        "target": "244642_Ethane_Obstruction_DISCUSSION.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Obstruction",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Obstruction_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Inflammation_Introduction.json",
+                        "label": "In this context, ethane is linked to inflammation through its role as a biomarker for oxidative stress (OS) resulting from lipid peroxidation. Increased ethane exhalation has been observed in patients with respiratory diseases and airway inflammation, suggesting that elevated levels of ethane in breath may indicate underlying inflammatory processes associated with conditions like lung cancer. The study highlights ethane's potential as a noninvasive indicator of inflammation and oxidative damage in lung tissue.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Inflammation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493",
+                        "label": "Application of laser spectroscopy for measurement of exhaled ethane in patients with lung cancer.\nKD. Skeldon, LC. McMillan, CA. Wyse, SD. Monk, G. Gibson, C. Patterson, T. France, C. Longbottom, MJ. Padgett\nRespir Med 2006 Feb;100(2):300-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16002272"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Process_Materials and method.json",
+                        "label": "In this context, ethane is discussed in relation to the process of measuring its concentration using a spectroscopy system. The instrument's calibration against a known ethane standard and its validation against gas chromatography-mass spectrometry (GC-MS) highlight the importance of accurate measurement processes in breath analysis. The focus is on the technical process of ensuring reliable ethane detection rather than on ethane's biological or chemical implications.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Process_Discussion.json",
+                        "label": "In this context, ethane is discussed as a potential biomarker for oxidative stress (OS) in breath analysis. However, the study indicates a null correlation between exhaled ethane levels and the presence of disease, suggesting that OS may not be the primary process influencing breath ethane patterns. This highlights the complexity of breath analysis and the need for further research to clarify the processes involved in breath exhalates and their clinical implications.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244493_Ethane_Process_Introduction.json",
+                        "label": "In this context, ethane is identified as a product of lipid peroxidation, a biological process associated with oxidative stress (OS). The study highlights ethane's potential as a breath biomarker for OS, particularly in lung cancer patients. The relationship is significant as ethane's production is directly linked to the metabolic process of lipid peroxidation, which is relevant in the context of respiratory diseases and cancer.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "244493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Process_Materials and method.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Process_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244493",
+                        "target": "244493_Ethane_Process_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Respiratory physiology": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590",
+                        "label": "Effect of vitamin E on exhaled ethane in cigarette smokers.\nMP. Habib, LJ. Tank, LC. Lane, HS. Garewal\nChest 1999 Mar;115(3):684-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10084476"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Respiratory physiology_Discussion.json",
+                        "label": "In this context, ethane is discussed as a biomarker of oxidative stress related to lung function in smokers. The study indicates that exhaled ethane levels correlate negatively with lung function measures, suggesting that higher ethane levels may reflect greater oxidative damage in the respiratory system. The administration of vitamin E appears to influence these levels, indicating a potential link between ethane and respiratory physiology, particularly in the context of lung health and disease progression in smokers.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "244590_Ethane_Respiratory physiology_Results.json",
+                        "label": "In this context, ethane is examined as a potential biomarker related to respiratory physiology, specifically lung function as measured by FEV1/FVC ratios. The study indicates a significant negative association between exhaled ethane levels and lung function, particularly after vitamin E intake, suggesting that increased lipid peroxidation, possibly linked to smoking, may adversely affect respiratory health. However, the relationship lacks consistent statistical significance across all measurements, indicating a complex interaction that warrants further investigation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory physiology",
+                        "target": "244590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Respiratory physiology_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "244590",
+                        "target": "244590_Ethane_Respiratory physiology_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

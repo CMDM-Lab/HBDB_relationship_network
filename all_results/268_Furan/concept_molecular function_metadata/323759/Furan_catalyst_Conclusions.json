@@ -1,0 +1,10 @@
+{
+    "context": "An empirical equation is TEQ (ng/dscm)=8.4 exp(\u22120.0084T \u00b0C). \u2022 Dioxin/furan production occurs at the combustion catalyst. \u2022 Catalytic and thermal oxidizers may be destroying dioxins fed from the ambient air. \u2022 Small variations in temperature cause large changes in the congener distribution of the dioxin and furan isomers. \u2022 Molar yields from the parent compounds fed to the oxidizers to the toxic equivalents of 2,3,7,8-TCDD are very small (10\u22129\u201310\u221213). ",
+    "term_A": "Furan",
+    "term_B": "catalyst",
+    "llm_generation": {
+        "summary": "In this context, furan is mentioned in relation to the production of dioxins and furans occurring at the combustion catalyst. The catalyst plays a crucial role in the catalytic and thermal oxidation processes that may help in destroying dioxins emitted from ambient air. The relationship indicates that the catalyst is integral to the chemical transformations involving furan and dioxins during combustion processes.",
+        "reason": "The score of 4 reflects a significant connection between furan and catalyst, as the context discusses the role of the catalyst in the production and destruction of dioxins and furans, indicating a clear functional relationship supported by the chemical processes involved.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "A separate test was carried out in which the same amounts of TCE and sand were held under mixing conditions to quantify the TCE evaporation during the time of packing, which usually took 15min. The residual TCE in the artificially-contaminated sand layers was 43.9g, equivalent to volumetric saturations of 4.3% and 5.1% in FS and SS layers, respectively. The TCE was dyed with Sudan IV to facilitate the observation of its movement. After packing, the whole system was allowed to sit for an hour to establish equilibrium of water and TCE pressures. Neither water drainage nor downward movement of TCE was observed, which indicates that both water and TCE were below residual saturation. The experimental process was recorded by taking photos at certain time intervals with a digital camera. Temperatures were measured continuously at the inlet, outlet, and in the interior of the sandbox and were recorded with a data logger. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Pressure- physical agent",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is involved in an experimental setup where its evaporation and movement in contaminated sand layers are being quantified. The term 'pressure' refers to the physical conditions under which the TCE and water were allowed to establish equilibrium. However, there is no detailed discussion on how pressure specifically affects TCE behavior or its interactions with the sand, making the relationship indirect.",
+        "reason": "The score of 2 reflects an indirect connection, as both TCE and pressure are mentioned in the context of an experiment, but their relationship lacks detailed exploration or evidence of direct interaction.",
+        "score": 2
+    }
+}

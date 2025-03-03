@@ -1,0 +1,10 @@
+{
+    "context": "It contains large quantities of cysteine that has a very stable structure that makes it difficult to degrade by most proteolytic enzymes (Coward-Kelly et al., 2006). The degradation of these proteins can provoke the differences among the ammonia emissions from the different treated wastes. From the values presented in Table 1 for raw sludge and HW, it can be deduced that ammonia was emitted mainly from hair wastes in HW trials although raw sludge also contributes to these emissions. A similar trend was also observed during WR processes, in this case ammonia emissions were clearly related to the presence of raw sludge, as the winterization residue did not contribute to the nitrogen content of the mixture. Values in Table S1 show considerable higher nitrogen content in HW compared with the other mixtures. Also, nitrogen contain in WR is higher than in OP (Table S1), where no ammonia emissions were detected (Table 1). However, WR emissions were lower than RS emissions due to the higher bioavailable C/N ratio (Puyuelo et al., 2011). ",
+    "term_A": "ammonia",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, ammonia is discussed in relation to its emissions from different waste treatments, particularly highlighting its release from hair wastes during HW trials and raw sludge during WR processes. The relationship indicates that ammonia emissions are influenced by the type of waste treatment process, with varying nitrogen content affecting the levels of ammonia released. This suggests that the process of waste treatment significantly impacts ammonia emissions, linking the two terms through their interaction in environmental management.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and the waste treatment processes, as the context provides evidence of how different processes affect ammonia emissions. The relationship is supported by quantitative data regarding nitrogen content and emissions, indicating a clear interaction.",
+        "score": 4
+    }
+}

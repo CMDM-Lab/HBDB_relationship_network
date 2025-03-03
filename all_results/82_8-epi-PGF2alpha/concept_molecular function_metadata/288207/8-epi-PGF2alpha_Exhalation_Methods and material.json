@@ -1,0 +1,10 @@
+{
+    "context": "The range of energy participants consumed in the HFM condition was from 3976.06 to 8307.75 kJ.Airway 8-isoprostane Participants performed EBC measurements before and 3and 6hours post-HFM and MFM. Commercially available RTubes were used for EBC measurements (Respiratory Research, Inc, Austin, TX, USA). Participants performed tidal breathing for 10minutes while seated, with feet flat on the floor and wearing a nose clip. After 10minutes of data collection, ~1.5mL of condensate was collected and immediately frozen at \u221260\u00b0C in the RTubes and later analyzed in triplicate for exhaled 8-isoprostane with a commercially available enzyme-linked immunosorbent assay kit (Cayman Chemical, Ann Arbor, MI, USA; kit no. 516351). The samples only went under one freeze-thaw cycle. Before the assay, EBC samples were concentrated 5-fold by performing C-18 solid-phase extraction (SPE) purification. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha is measured in exhaled breath condensate (EBC) as a biomarker for oxidative stress and inflammation. Participants performed tidal breathing to collect EBC, which was then analyzed for 8-isoprostane, a specific type of 8-epi-PGF2alpha. This indicates a direct relationship where exhalation serves as the method for sampling and quantifying 8-epi-PGF2alpha levels in the respiratory system.",
+        "reason": "The score of 4 reflects a significant connection between 8-epi-PGF2alpha and exhalation, as the latter is the method used to collect samples for measuring the former. The context provides a clear link between the two, supported by the methodology of the study.",
+        "score": 4
+    }
+}

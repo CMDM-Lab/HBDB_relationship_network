@@ -1,0 +1,10 @@
+{
+    "context": "[2] We have previously shown that P2X receptors contribute to the Ca2+ influx in stimulated T cells . [3] To test whether mitochondrial activation is required for Ca2+ influx, we loaded cells with the cytosolic Ca2+ indicator Fluo-4 AM and studied how inhibition of mitochondrial ATP production affects Ca2+ signaling in the cytosol of stimulated T cells. [4] We found that inhibition of mitochondrial ATP production with CCCP blocked sustained Ca2+ signaling. [5] A similar effect was seen by inhibition of ATP release with the panx1 inhibitor CBX. [6] Inhibition of P2 receptors with suramin further blocked cellular Ca2+ signaling (Fig. 7F), but did not alter mitochondrial Ca2+ uptake (Fig. 7E). [7] This indicates that mitochondrial ATP production is required for the sustained phase of Ca2+ signaling, and that mitochondrial ATP and purinergic signaling are needed to sustain Ca2+ levels in stimulated T cells. [1] The findings described above indicate that mitochondrial ATP firing is an essential step in T cell activation. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "inhibitors",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is crucial for sustaining Ca2+ signaling in stimulated T cells, as indicated by the effects of various inhibitors. The inhibition of mitochondrial ATP production with CCCP and ATP release with the panx1 inhibitor CBX both blocked sustained Ca2+ signaling, highlighting the essential role of ATP in T cell activation. Additionally, the inhibition of P2 receptors with suramin further disrupted Ca2+ signaling, suggesting that ATP and purinergic signaling are interconnected in this process.",
+        "reason": "The score of 4 reflects a significant connection between ATP and inhibitors, as the context provides evidence that inhibiting ATP production or release directly impacts Ca2+ signaling in T cells, indicating a clear functional relationship.",
+        "score": 4
+    }
+}

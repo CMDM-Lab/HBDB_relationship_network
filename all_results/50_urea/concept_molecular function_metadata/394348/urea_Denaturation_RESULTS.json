@@ -1,0 +1,10 @@
+{
+    "context": "[11] As the scrambled peptide has no effect on PAI-2 inhibitory activity (see below) and PAI-2 is completely unfolded in 8 m urea , this result may be an artifact of an unusual interaction between denatured PAI-2 and the scrambled peptide. [12] Regardless, it is clear that the scrambled peptide is unable to induce the relaxed conformation of PAI-2. [1] Urea denaturation analysis of  PAI-2 incubated with mutant  RCL peptides. [2] Resistance to denaturation by 8m urea of PAI-2 incubated with 100-fold molar excess of various RCL peptides was monitored by intrinsic fluorescence emission at 360 nm. [3] Data are presented as (F native \u00e2\u02c6\u2019F)/(F native \u00e2\u02c6\u2019F denatured), whereF native is the fluorescence emission (360 nm) of native PAI-2, F is the fluorescence emission (360 nm) of the individual sample, and F denatured is the fluorescence emission (360 nm) of completely denatured PAI-2. [1] We have shown previously  almost complete loss of uPA-specific inhibitory activity of PAI-2 following incubation with 14-mer RCL peptide. [2] Despite this, cleavage of the P1-P1\u00e2\u20ac\u00b2 bond by uPA was still detectable, indicating conversion of PAI-2 from an inhibitor to a substrate of uPA. ",
+    "term_A": "urea",
+    "term_B": "Denaturation",
+    "llm_generation": {
+        "summary": "In this context, urea is used as a denaturing agent to unfold the protein PAI-2, which is crucial for analyzing its inhibitory activity. The study highlights that PAI-2 is completely unfolded in 8 m urea, indicating a direct relationship where urea facilitates the denaturation process, allowing for the assessment of PAI-2's structural and functional properties. This relationship is significant as it underlines the role of urea in protein denaturation studies.",
+        "reason": "The score of 4 reflects a strong connection between urea and denaturation, as urea is explicitly used to induce denaturation of PAI-2, with quantitative analysis provided to support this relationship.",
+        "score": 4
+    }
+}

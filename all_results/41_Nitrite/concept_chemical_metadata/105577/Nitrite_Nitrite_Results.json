@@ -1,0 +1,10 @@
+{
+    "context": "The majority of TBW losses were accounted for by changes in ICW (\u22122.2\u00b11.7L), which were significantly (p=0.02) greater than ECW (\u22121.1\u00b11.6L) after eight weeks (Fig. 3B).Metabolic, vascular and oxy-inflammatory biomarkers With one exception, all plasma biomarkers showed significant changes during the expedition (p<0.001); only ghrelin concentrations remained unchanged (p=0.54). Nitrite levels increased during the expedition, but a substantial drop was observed at eight weeks at high altitude. Similarly, after an initial rapid increase during the ascent, cGMP concentrations progressively declined during the remainder of the expedition. Changes were more distinct for nitrate, which showed levels below baseline in the last two weeks. ProCO (decline), 4-HNE (increase), 8-isoPGF (increase), IL-6 (increase) showed significant changes with prolonged exposure to hypoxia whereas minor changes were seen for CRP and TNF-\u03b1. ",
+    "term_A": "Nitrite",
+    "term_B": "Nitrite",
+    "llm_generation": {
+        "summary": "In this context, nitrite levels are monitored as part of a study on metabolic and vascular biomarkers during an expedition at high altitude. The data indicates that nitrite levels increased initially but then experienced a significant drop after eight weeks. This fluctuation in nitrite levels is part of a broader analysis of how various biomarkers respond to prolonged hypoxia, highlighting the importance of nitrite in physiological adaptations to altitude.",
+        "reason": "The score of 5 reflects a direct and critical relationship between nitrite and its own levels in the context of physiological changes during high altitude exposure. The study provides clear evidence of the dynamics of nitrite levels, emphasizing its relevance in metabolic responses.",
+        "score": 5
+    }
+}

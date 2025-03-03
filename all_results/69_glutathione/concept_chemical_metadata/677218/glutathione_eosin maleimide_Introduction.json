@@ -1,0 +1,10 @@
+{
+    "context": "More flexible choice of excitation wavelength allows better matching to absorption maxima of existing and newly synthesized fluorescent tags. Higher laser wavelengths are beneficial in analysis of biological samples due to the potential lower fluorescence interference of the unwanted matrix compounds. In this article, we describe the use of 515nm green laser module and CE\u2013LIF for sensitive determination of GSH in various biological samples: exhaled breath condensate (EBC) and saliva. Eosin-5-maleimide (EMA) is used as a fluorescent tag for GSH derivatization. This novel reagent that has not been previously used in CE\u2013LIF studies of GSH has a maximum of the excitation spectra exactly at 515nm matching the employed laser module, and thus, yielding limits of detection in the subnanomolar range. We demonstrate, for the first time, that GSH can be quantified in as little as 20\u03bcl of EBC sample. Apparatus Electrophoretic system. ",
+    "term_A": "glutathione",
+    "term_B": "eosin maleimide",
+    "llm_generation": {
+        "summary": "In this context, glutathione (GSH) and eosin maleimide (EMA) are directly related through the use of EMA as a fluorescent tag for the derivatization of GSH in biological samples. The study highlights the application of EMA in capillary electrophoresis-laser induced fluorescence (CE\u2013LIF) for sensitive detection of GSH, demonstrating its effectiveness in quantifying GSH in exhaled breath condensate and saliva. The matching excitation wavelength of EMA with the laser module enhances the detection capabilities, indicating a significant methodological advancement in analyzing GSH levels.",
+        "reason": "The score of 5 reflects a strong and direct relationship between glutathione and eosin maleimide, as EMA is specifically utilized for the derivatization and sensitive detection of GSH in biological samples, showcasing a critical methodological link.",
+        "score": 5
+    }
+}

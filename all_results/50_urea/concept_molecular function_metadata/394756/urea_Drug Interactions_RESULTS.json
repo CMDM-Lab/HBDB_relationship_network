@@ -1,0 +1,10 @@
+{
+    "context": "[3] MAPs bound to separated \u00ce\u00b1-tubulin (\u00ce\u00b1-T, solid lines) and \u00ce\u00b2-tubulin (\u00ce\u00b2-T, broken lines) subunits were detected with specific anti-MAP antibodies. [4] The resulting signals were quantified by densitometric scanning and expressed in arbitrary units (a.u.).  [1] In the presence of increasing concentrations of urea, the binding of MAP2 appeared to be highly sensitive to the presence of this chaotropic agent and decreased linearly as a function of urea concentration (Fig.2 D).  [2] A concentration of 1 m urea was sufficient to reduce MAP2 binding by 50%, and no interaction could be detected above 2 m urea.  [3] Once again, no difference could be observed between the two tubulin subunits.  [4] By contrast, MAP1A in the presence of urea exhibited important differences in binding to the \u00ce\u00b1- and \u00ce\u00b2-tubulin subunit (Fig. 2 C).  [5] As noted above with MAP2, a 50% decrease in the binding of MAP1A to tubulin was observed in the presence of 1 m urea. ",
+    "term_A": "urea",
+    "term_B": "Drug Interactions",
+    "llm_generation": {
+        "summary": "In this context, urea is discussed in relation to its effect on the binding of microtubule-associated proteins (MAPs) to tubulin subunits. The presence of urea significantly reduces the binding affinity of MAP2 and MAP1A to tubulin, indicating that urea acts as a chaotropic agent affecting protein interactions. However, there is no direct mention of drug interactions, making the relationship between urea and drug interactions unclear and indirect.",
+        "reason": "The score of 2 reflects an indirect connection, as urea influences protein binding but does not explicitly relate to drug interactions. The context focuses on urea's effects on MAP binding rather than its role in drug interactions.",
+        "score": 2
+    }
+}

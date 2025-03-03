@@ -1,0 +1,10 @@
+{
+    "context": "Once the sample was transferred to the analysis port, each sample was analyzed using an automated sequential dosing procedure. The instrument manifold is charged with the analysis gas, TCE, until a steady pressure is reached. Upon equilibration at this pressure, the valve separating the sample tube and analysis port is opened, allowing the TCE vapor in the manifold to flow into the sample tube. The gas volume uptake by the sample is then calculated based on known temperature and volume of the instrument manifold, and the difference in pressures measured before and after TCE is released into the ampoule. This procedure is repeated for each of the pressure points obtained. The equilibration time varied depending upon the isotherm dose used for each isotherm point and was directly related to the ability of the instrument to measure set pressure differentials as provided by the instrument\u2019s very sensitive 1torr pressure transducers. Verification of equilibration was determined by comparison between a batch isotherm method using a sealed glass ampoule system for long term (weeks) sorption and the sequential sorption isotherm method using the Micromeritics ASAP 2010 instrument, each at a mid-point temperature of 35\u00b0C. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Pressure- physical agent",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is analyzed under specific pressure conditions during a gas analysis procedure. The relationship between TCE and pressure is critical, as the analysis involves measuring gas volume uptake based on pressure differentials. However, the context does not elaborate on the broader implications of pressure as a physical agent affecting TCE's properties or behavior beyond the analytical procedure.",
+        "reason": "The score of 2 reflects an indirect connection, as TCE is analyzed in relation to pressure during the measurement process. While pressure is essential for the analysis, the context does not provide detailed insights into how pressure influences TCE's chemical behavior or properties.",
+        "score": 2
+    }
+}

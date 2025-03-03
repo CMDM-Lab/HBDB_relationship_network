@@ -1,0 +1,10 @@
+{
+    "context": " [9] It is known that both denaturants disrupt noncovalent interactions that stabilize the native fold , mainly hydrophobic interactions, by causing water to become a better solvent for nonpolar amino acids. [10] In addition to this common property, GdnHCl is a salt and also suppresses electrostatic interactions. [11] The suppression of electrostatic interactions is fundamental to achieve unfolding of an all \u00ce\u00b2-sheet protein, as is the case for LCI. 2) LCI is globally the more stable protein studied by this method as yet. [12] In addition to the inability of urea to denature it, no denaturation was observed either with 65% methanol or by heat treatment (incubation at 65\u00e2\u20ac\u2030\u00c2\u00b0C for 1 h). [13] The high stability of LCI arises from an optimal combination of disulfide-bonding, a compact hydrophobic core, and the high percentage of regular secondary structure. [14] This high conformational stability of LCI in extreme conditions would greatly facilitate its application to human therapy as a profibrinolytic agent.  [1] The denatured LCI was found to be composed of at least 9 scrambled isomers out of the possible 104 (Fig. 1). ",
+    "term_A": "urea",
+    "term_B": "Denaturation",
+    "llm_generation": {
+        "summary": "In this context, urea is mentioned as a denaturant that disrupts noncovalent interactions stabilizing protein structures, particularly in the unfolding of proteins like LCI. However, the text indicates that urea was unable to denature LCI, highlighting its high stability against denaturation. This suggests a specific relationship where urea's role as a denaturant is contrasted with the stability of certain proteins.",
+        "reason": "The score of 3 reflects a moderate relevance, as urea is discussed in the context of its denaturing properties, but the specific inability of urea to denature LCI indicates a nuanced relationship rather than a straightforward interaction.",
+        "score": 3
+    }
+}

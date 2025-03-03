@@ -1,0 +1,1337 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "2-ethylhexan-1-ol",
+                    "label": "2-ethylhexan-1-ol",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethylhexan-1-ol",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethylhexan-1-ol",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethylhexan-1-ol",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethylhexan-1-ol",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethylhexan-1-ol",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethylhexan-1-ol",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethylhexan-1-ol",
+                        "label": "2-ethylhexan-1-ol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pleural Effusion, Malignant",
+                        "label": "Pleural Effusion, Malignant",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "Pleural Effusion, Malignant",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethylhexan-1-ol",
+                        "label": "2-ethylhexan-1-ol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Phenols",
+                        "label": "Phenols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-dodecane",
+                        "label": "n-dodecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-methylnaphthalene",
+                        "label": "2-methylnaphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ketones",
+                        "label": "Ketones",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-phenyl-2-propanol",
+                        "label": "2-phenyl-2-propanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "cyclohexanone",
+                        "label": "cyclohexanone",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "n-hexanal",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "Phenols",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "Toluene",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "Metabolites",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "n-dodecane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "Chemicals",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "2-methylnaphthalene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "decane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "octane",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "Ketones",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "2-phenyl-2-propanol",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "cyclohexanone",
+                        "score": 10
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethylhexan-1-ol",
+                        "label": "2-ethylhexan-1-ol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "effusion",
+                        "label": "effusion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pleural effusion disorder",
+                        "label": "Pleural effusion disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "volatile substances",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "effusion",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "Pleural effusion disorder",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "Process",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethylhexan-1-ol",
+                        "label": "2-ethylhexan-1-ol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "TERT gene",
+                        "label": "TERT gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethylhexan-1-ol",
+                        "target": "TERT gene",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethylhexan-1-ol",
+                        "label": "2-ethylhexan-1-ol",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethylhexan-1-ol",
+                        "label": "2-ethylhexan-1-ol",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Pleural Effusion, Malignant": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pleural Effusion, Malignant",
+                        "label": "Pleural Effusion, Malignant",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Pleural Effusion, Malignant_Conclusions.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is identified as a metabolite that exhibits significantly higher levels in malignant pleural effusions compared to benign ones. This suggests that 2-ethylhexan-1-ol could serve as a potential biomarker for differentiating malignant pleural effusions, indicating its relevance in the diagnosis of lung cancers. The study highlights the importance of analyzing volatile organic metabolites in pleural effusions for cancer detection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pleural Effusion, Malignant",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Pleural Effusion, Malignant_Conclusions.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "n-hexanal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_n-hexanal_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and n-hexanal are both mentioned as standard compounds analyzed in the study of volatile organic metabolites (VOMs) in malignant and benign effusions. However, there is no direct discussion of their relationship or interaction; they are simply part of a comparative analysis aimed at differentiating lung cancer patients from those with inflammatory conditions. Their roles as individual compounds are not elaborated upon in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-hexanal",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_n-hexanal_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Phenols": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Phenols",
+                        "label": "Phenols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Phenols_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and phenols are both mentioned as standard compounds analyzed in the study of volatile organic metabolites (VOMs) to differentiate between malignant and benign effusions in lung cancer patients. However, there is no direct discussion of their relationship or interaction, as they are simply part of a broader analysis of various volatile compounds without specific emphasis on their comparative roles or effects.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Phenols",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Phenols_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Toluene_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and toluene are both mentioned as volatile organic compounds (VOCs) analyzed using solid-phase microextraction and gas chromatography/mass spectrometry. However, their relationship is not explicitly discussed beyond their inclusion in the study of volatile organic metabolites in pleural effusions. The context primarily focuses on the extraction method and detection limits rather than any direct interaction or comparison between the two compounds.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Toluene_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and toluene are both mentioned as compounds analyzed using mass spectrometry (MS) with specific ionization techniques. However, there is no direct discussion of their relationship or interaction beyond their inclusion in the analysis. They are part of a broader study on various compounds, but their specific roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Toluene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Toluene_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Metabolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Metabolites_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is identified as one of the metabolites present in malignant effusion samples, showing a significant fold change compared to benign samples. This indicates that 2-ethylhexan-1-ol is likely involved in the metabolic processes associated with malignancy, highlighting its potential as a biomarker for distinguishing between malignant and benign conditions. The relationship is underscored by the statistical significance of its concentration differences in the two groups.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Metabolites_Conclusions.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is identified as one of the metabolites that significantly differ between malignant and benign pleural effusions. The study highlights that among the 36 identified metabolites, 2-ethylhexan-1-ol, along with cyclohexanone, shows a marked increase in malignant cases, suggesting its potential as a biomarker for differentiating between the two types of effusions. This indicates a direct relationship between 2-ethylhexan-1-ol and the broader category of metabolites analyzed in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolites",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Metabolites_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Metabolites_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "n-dodecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-dodecane",
+                        "label": "n-dodecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_n-dodecane_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and n-dodecane are both mentioned as standard compounds used in the analysis of volatile organic metabolites (VOMs) in malignant and benign effusions. However, there is no direct discussion of their relationship or interaction within the study. They are part of a broader analysis aimed at differentiating lung cancer patients from those with inflammatory conditions, but their specific roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-dodecane",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_n-dodecane_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Chemicals_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is mentioned as one of the standard compounds used in the comparative analysis of volatile organic metabolites (VOMs) in malignant and benign effusions. It is categorized as a chemical among other standard compounds, indicating its role in the study but lacking a specific relationship or interaction with the broader category of 'Chemicals' beyond its inclusion in the list.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Chemicals_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "2-methylnaphthalene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-methylnaphthalene",
+                        "label": "2-methylnaphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_2-methylnaphthalene_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and 2-methylnaphthalene are both mentioned as standard compounds used in the analysis of volatile organic metabolites in malignant and benign effusions. However, there is no direct discussion of their relationship or interaction within the study. They are part of a broader analysis aimed at differentiating lung cancer patients from those with inflammatory conditions, but their specific roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-methylnaphthalene",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_2-methylnaphthalene_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "decane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_decane_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and decane are both mentioned as standard compounds used in the analysis of volatile organic metabolites (VOMs) in malignant and benign effusions. However, there is no direct discussion of their relationship or interaction within the study. They are part of a broader list of chemicals analyzed for their potential to differentiate between lung cancer and inflammatory conditions, but their specific roles or interactions are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_decane_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "octane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_octane_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and octane are both mentioned as compounds analyzed using mass spectrometry (MS) with specific ionization techniques. However, their relationship is limited to their presence in the same analytical procedure without any discussion of their chemical interactions, properties, or significance in relation to each other. They are simply part of a list of compounds analyzed for their peak areas in the MS measurements.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_octane_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and octane are both mentioned as volatile organic compounds (VOCs) analyzed during the characterization of metabolites in pleural effusions. However, their relationship is not explicitly discussed beyond their inclusion in the list of compounds measured for detection limits and repeatability of the extraction method. There is no indication of interaction or specific relevance between the two compounds in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_octane_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_octane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Ketones": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ketones",
+                        "label": "Ketones",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Ketones_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is categorized as an alcohol, which, along with ketones, forms part of the metabolomic profile analyzed in malignant and benign effusions. The study highlights that both ketones and alcohols, including 2-ethylhexan-1-ol, show significant differences in their relative abundances between malignant and benign groups, indicating a potential role in distinguishing between these conditions. However, the specific interaction or functional relationship between 2-ethylhexan-1-ol and ketones is not elaborated upon beyond their classification as part of the same chemical profile.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ketones",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Ketones_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "2-phenyl-2-propanol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-phenyl-2-propanol",
+                        "label": "2-phenyl-2-propanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_2-phenyl-2-propanol_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and 2-phenyl-2-propanol are both identified as metabolites present in significantly higher levels in malignant effusions compared to benign effusions, with fold changes greater than 14.0. This suggests that both compounds may serve as potential biomarkers for distinguishing between malignant and benign conditions, indicating their relevance in the study of cancer diagnostics.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-phenyl-2-propanol",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_2-phenyl-2-propanol_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "cyclohexanone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "cyclohexanone",
+                        "label": "cyclohexanone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_cyclohexanone_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and cyclohexanone are both identified as urinary biomarkers for lung cancer. Cyclohexanone is linked to metabolic conditions associated with advanced cancer, while 2-ethylhexan-1-ol shows a significant increase in cancerous cell headspace compared to controls. Both compounds are considered potential candidates for differentiating malignant from benign pleural effusions, indicating a shared relevance in cancer diagnostics.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_cyclohexanone_Conclusions.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and cyclohexanone are both identified as volatile organic compounds (VOCs) found in malignant pleural effusions, suggesting their potential as biomarkers for differentiating malignant from benign conditions. The study highlights their statistical significance in the context of lung cancer diagnosis, indicating a shared relevance in medical diagnostics, particularly in oncology.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_cyclohexanone_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol and cyclohexanone are both mentioned as compounds analyzed using mass spectrometry (MS) for their peak areas at specific m/z values. However, there is no discussion of their chemical interactions, functional relationships, or significance beyond their inclusion in the same analytical procedure. They are simply part of a broader analysis of various compounds.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "cyclohexanone",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_cyclohexanone_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_cyclohexanone_Conclusions.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_cyclohexanone_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "volatile substances": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_volatile substances_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is identified as one of the major volatile compounds analyzed during the optimization of headspace solid-phase microextraction (HS-SPME) parameters. The study focuses on extracting volatile substances from pleural effusions, indicating that 2-ethylhexan-1-ol is part of a broader category of volatile compounds being investigated for their extraction efficiency. However, the specific interactions or implications of 2-ethylhexan-1-ol within the group of volatile substances are not elaborated upon in detail.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "volatile substances",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_volatile substances_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "effusion": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "effusion",
+                        "label": "effusion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_effusion_Conclusions.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is identified as a metabolite that exhibits significantly higher levels in malignant pleural effusions compared to benign ones. This suggests that 2-ethylhexan-1-ol could serve as a potential biomarker for differentiating between malignant and benign pleural effusions, highlighting its relevance in the diagnosis of lung cancers.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "effusion",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_effusion_Conclusions.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Pleural effusion disorder": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pleural effusion disorder",
+                        "label": "Pleural effusion disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Pleural effusion disorder_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is identified as a potential urinary biomarker for lung cancer, with its presence significantly increased in the headspace of cancerous cells compared to controls. The study suggests that it may help differentiate malignant from benign pleural effusions, indicating a potential diagnostic relevance in pleural effusion disorders related to lung cancer. However, further validation is needed to confirm its suitability as a biomarker.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pleural effusion disorder",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Pleural effusion disorder_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_Process_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is one of the volatile compounds analyzed during the optimization of the headspace solid-phase microextraction (HS-SPME) process. The study focuses on improving extraction efficiency by selecting appropriate fibers and conditions for isolating volatile compounds from pleural effusions. While 2-ethylhexan-1-ol is included in the optimization process, the relationship is primarily procedural rather than indicating a direct interaction or significance beyond its role in the extraction methodology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_Process_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "TERT gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "TERT gene",
+                        "label": "TERT gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485",
+                        "label": "Investigation of volatile organic metabolites in lung cancer pleural effusions by solid-phase microextraction and gas chromatography/mass spectrometry.\nH. Liu, H. Wang, C. Li, L. Wang, Z. Pan, L. Wang\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2014 Jan;945-946:53-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24321761"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_TERT gene_Materials and method.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is mentioned as one of the volatile organic metabolites analyzed in the study comparing lung cancer patients to those with benign inflammatory conditions. However, there is no direct mention or discussion of the TERT gene, which is often associated with cancer biology and telomerase activity. The relationship between 2-ethylhexan-1-ol and the TERT gene is not established in the provided context, indicating a lack of direct relevance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "485_2-ethylhexan-1-ol_TERT gene_Results and discussi.json",
+                        "label": "In this context, 2-ethylhexan-1-ol is identified as one of the major metabolites in the metabolomic profile of malignant effusions, while the TERT gene is not directly mentioned or linked to the analysis of these metabolites. The study focuses on the differences in volatile metabolites between benign and malignant groups, but does not establish a clear relationship between 2-ethylhexan-1-ol and the TERT gene, which is typically associated with telomerase activity and cancer biology. Therefore, their connection remains unclear within this specific context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "TERT gene",
+                        "target": "485",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_TERT gene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "485",
+                        "target": "485_2-ethylhexan-1-ol_TERT gene_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

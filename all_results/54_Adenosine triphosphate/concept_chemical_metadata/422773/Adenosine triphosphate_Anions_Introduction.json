@@ -1,0 +1,10 @@
+{
+    "context": "Now it is firmly established that ATP is used either as a sole transmitter or cotransmitter by many neurons in the peripheral and central nervous system (CNS). Receptors for purines and pyrimidines were cloned and characterized in the 1990s; four subtypes of G-protein-coupled P1 (adenosine) receptors, seven subtypes of ionotropic P2X receptor subunits (which form homomeric or heteromeric channels) and eight subtypes of G-protein-coupled metabotropic P2Y receptors for ATP have been identified. Apart from a release of ATP by damaged or dying cells, physiological release of ATP from both neuronal and non-neuronal cells can be triggered by various stimuli. Several mechanisms of ATP release have been described that include the involvement of vesicular exocytosis, connexin and/or pannexin hemichannels, maxi anion and P2X7 channels. In the extracellular space ATP is rapidly broken down by ectonucleotidases to ADP, AMP and adenosine. Ectonucleotidase activity is important in shaping purinergic signalling by removing ATP and also by producing ATP metabolites, which are also active ligands for various purinergic receptors. Functionally, adenosine might be the most important product of ATP degradation by ectonucleotidases. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Anions",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is discussed as a key signaling molecule in the nervous system, which is broken down into various metabolites, including anions such as ADP and AMP, through the action of ectonucleotidases. These anions play a role in purinergic signaling, influencing receptor activity and cellular responses. The relationship highlights ATP's function as a precursor to anionic metabolites that are crucial for neurotransmission and cellular communication.",
+        "reason": "The score of 4 reflects a significant connection between ATP and anions, as ATP is metabolized into anionic products that are active ligands for purinergic receptors, indicating a clear functional relationship in cellular signaling.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[2] One of these processes is first-pass or presystemic elimination. [3] Ingested chemicals that are absorbed into venous mesenteric blood vessels are conveyed via the portal vein through the liver before reaching the arterial circulation and extrahepatic organs. [4] report that a substantial proportion of oral TCE, a well metabolized VOC, is eliminated its first pass through the liver and lungs of male rats. [5] were essentially unable to detect TCE in the exhaled breath of persons who consumed 0.5 liter of water containing 20 or 40 \u00ce\u00bcg TCE/liter. [6] proposed that the liver was capable of removing essentially all of the orally administered VOCs with high extraction ratios from portal blood, if their concentrations were not high enough to saturate metabolism. [7] If true, this effect could have profound implications for theoretical cancer risks in extrahepatic tissues. [8] Our research group has recently developed analytical techniques  that are sensitive enough to evaluate the efficiency of first-pass elimination of trace levels of TCE in drinking water. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is discussed in relation to its first-pass elimination through the liver and lungs, with a focus on how a significant portion of orally ingested TCE is metabolized before it can be detected in exhaled breath. The study highlights the liver's role in removing TCE from the bloodstream, suggesting that exhalation may not be a significant route for TCE elimination in low concentrations, which has implications for understanding its potential cancer risks in other tissues.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2-trichloroethene and exhalation, as the context discusses the elimination of TCE through the lungs and its detection in exhaled breath, supported by evidence of first-pass metabolism. This indicates a clear relationship within the physiological processes involved.",
+        "score": 4
+    }
+}

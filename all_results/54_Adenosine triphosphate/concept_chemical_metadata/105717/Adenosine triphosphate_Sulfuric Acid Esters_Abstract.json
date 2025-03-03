@@ -1,0 +1,10 @@
+{
+    "context": "[1] Adenylate kinases undergo large conformational changes upon substrate binding as shown by crystallography . [2] The substrate-free enzyme has a more open conformation, and substrate binding leads to a closed conformation. [3] The NMPbind domain and the LID domain rearrange upon binding of AMP and ATP, whereas the conformation of the CORE domain remains unchanged . [4] The three-dimensional structures of HSV1 TK known to date have been solved for ternary complexes with natural and non-natural substrates, inhibitors, cofactors, or sulfate ions mimicking the \u00ce\u00b2-phosphate of ATP  and correspond to the closed conformation of NMP kinases. [5] The structure of the free apoenzyme is not known. [6] Since structural similarities in the CORE domain and substrate binding pockets are substantial in the NMP kinase family, one may assume that substrate-free HSV1 TK also exists in an open conformation and that conformational changes take place when HSV1 TK is converted to the closed conformation during substrate binding. [1] Here we present a comprehensive thermodynamic analysis of nucleoside (dT) and cofactor (ATP) binding to HSV1 TK. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Sulfuric Acid Esters",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is discussed in relation to its binding and conformational changes in the enzyme HSV1 TK, which is involved in nucleotide metabolism. However, sulfuric acid esters are not mentioned in a relevant context or linked to ATP's function or metabolism. Therefore, there is no direct relationship between ATP and sulfuric acid esters in this discussion.",
+        "reason": "The score of 1 reflects the lack of any meaningful connection between ATP and sulfuric acid esters in the context provided. They are mentioned separately without any indication of interaction or relevance to each other.",
+        "score": 1
+    }
+}

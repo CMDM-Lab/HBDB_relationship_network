@@ -1,0 +1,10 @@
+{
+    "context": "[11] Those lesions can be detected by incubation of isolated nuclei with the repair enzyme, hOGG1, which excises them in vitro, producing additional DNA breaks. [12] Accordingly, incubation with hOGG1 increases DNA breaks in nuclei from cells exposed to high urea, but not cells exposed to high NaCl (Fig. 1B ). [13] Comet moment increases to 35.3% in nuclei from cells exposed to high urea but is unaffected in nuclei from cells exposed to high NaCl (Table 1). [14] We conclude that urea causes single-strand DNA breaks, associated with oxidative lesions in DNA, but high NaCl does not. [1] High Urea Carbonylates Proteins in Renal Cell Culture. [2] Given the evidence that high urea causes oxidative stress, we tested for oxidative damage to proteins by measuring protein carbonylation in mIMCD3 cells exposed to high urea. [3] Increasing osmolality from 300 to 600 mosmol/kg by adding urea for 1 h increases protein carbonylation (Fig. 2A ), indicating that high urea does cause oxidative damage to proteins. ",
+    "term_A": "urea",
+    "term_B": "Strand breaks",
+    "llm_generation": {
+        "summary": "In this context, urea is shown to induce single-strand DNA breaks in isolated nuclei, as evidenced by increased DNA breaks when cells are exposed to high urea concentrations. The study highlights that urea causes oxidative lesions in DNA, leading to significant damage, while high NaCl does not produce similar effects. This establishes a clear and direct relationship between urea and the occurrence of strand breaks in DNA.",
+        "reason": "The score of 5 reflects a strong relevance, as the context provides direct evidence that high urea levels cause single-strand DNA breaks, indicating a critical relationship between urea and oxidative DNA damage.",
+        "score": 5
+    }
+}

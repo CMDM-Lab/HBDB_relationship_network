@@ -1,0 +1,10 @@
+{
+    "context": "[7] The increased carbonylation of serum albumin found in chronic renal failure was attributed to oxidative stress . [8] We suggest that high urea might be the cause of the oxidative stress. [9] Further, the carbonylation of albumin might be occurring in the liver cells in which it is synthesized. [1] It has been suggested that urea might be a uremic toxin because cyanate, which forms spontaneously from urea, is elevated in chronic renal failure, resulting in increased protein carbamylation . [2] The present studies add to the evidence that urea is a uremic toxin, given our observation that protein carbonylation is increased over the range of urea concentration that occurs in chronic renal failure (Fig. 2C ). [3] Both carbonylation and carbamylation can be toxic because they alter protein function . [1] Numerous proteins are heavily carbonylated in normal mouse renal inner medulla (Fig. 3). ",
+    "term_A": "urea",
+    "term_B": "Cyanates",
+    "llm_generation": {
+        "summary": "In this context, urea and cyanates are closely related through the biochemical processes occurring in chronic renal failure. Urea is suggested to be a uremic toxin, and it spontaneously forms cyanate, which is elevated in this condition. The increased levels of cyanate lead to protein carbamylation, contributing to oxidative stress and altering protein function, indicating a significant toxicological relationship between urea and cyanates in the context of renal failure.",
+        "reason": "The score of 5 reflects a strong relevance, as the context explicitly links urea to the formation of cyanate and discusses their combined toxic effects in chronic renal failure, highlighting a critical biochemical relationship.",
+        "score": 5
+    }
+}

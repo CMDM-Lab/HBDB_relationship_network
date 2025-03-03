@@ -1,0 +1,10 @@
+{
+    "context": "Burkholderia cepacia strain G4 (G4) has been shown to effectively degrade TCE [3,5\u20137]. G4 was isolated from an industrial waste treatment facility at the Naval Air Station (NAS) in Pensacola, FL. Initially, TCE mineralization only occurred when G4 was grown using the NAS water. G4 growth on acetate, succinate, lactate, glucose and ethanol inhibited TCE degradation. The component in the NAS water that induced TCE degradation was phenol. Furthermore, TCE-degradative ability of G4 was also induced by toluene, o-cresol, and m-cresol. Lun et al. reported that the enzyme that initiates TCE mineralization is the toluene o-monooxygenase (TOM). ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Lactates",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned in relation to the degradation capabilities of Burkholderia cepacia strain G4, which can mineralize TCE when grown in specific conditions. Lactates are listed among the carbon sources that inhibit TCE degradation by G4. However, there is no direct interaction or significant relationship established between TCE and lactates beyond their mention in the same study.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are involved in the context of microbial degradation processes, but their relationship is not elaborated upon, indicating a general association rather than a detailed interaction.",
+        "score": 2
+    }
+}

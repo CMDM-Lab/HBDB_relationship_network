@@ -1,0 +1,10 @@
+{
+    "context": "The effect of Novel Tobacco Vapor (NTV) product use on indoor air quality (IAQ) was examined and evaluated in a test chamber. Chemical constituents for the IAQ evaluations were determined by (1) the detected constituents in NTV product emissions (i.e., mainstream) and (2) ETS and representative air quality markers. Three different environmental simulations were applied to the test chamber; two types of non-smoking rooms (ETS-free area) and one smoking room (ETS area). NTV generated propylene glycol, glycerol, triacetin, nicotine, and ammonia but no other chemical constituents in mainstream, and no constituents in sidestream. The amount of ammonia per puff from NTV was one fifth of that from a cigarette. NTV generated no sidestream. The concentrations of ETS markers (RSP, UVPM, FPM, solanesol, nicotine, 3-ethenylpyridine), volatile organic compound (VOC: toluene), total volatile organic compounds (TVOC), and carbon monoxide CO were below the limits of detection (LOD) or limits of quantification (LOQ) in both the non-smoking and the smoking areas when using the NTV product in the simulation chamber. ",
+    "term_A": "ammonia",
+    "term_B": "Chemicals",
+    "llm_generation": {
+        "summary": "In this context, ammonia is identified as a chemical constituent generated from the use of Novel Tobacco Vapor (NTV) products. The study evaluates indoor air quality (IAQ) by analyzing various chemical emissions, including ammonia, which is compared to emissions from traditional cigarettes. While ammonia is mentioned as part of the chemical profile of NTV, the relationship is primarily descriptive, focusing on its presence rather than a deeper interaction with other chemicals.",
+        "reason": "The score of 2 reflects an indirect connection, as ammonia is listed among the chemicals produced by NTV. However, there is no detailed discussion of its interactions or significance beyond its identification as a constituent, indicating a general relationship without specific functional relevance.",
+        "score": 2
+    }
+}

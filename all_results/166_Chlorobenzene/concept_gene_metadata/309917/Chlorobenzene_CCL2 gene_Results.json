@@ -1,0 +1,10 @@
+{
+    "context": "The IFN-\u03b3 production of PBMC was not affected by these culture supernatants (Fig. 4 ). In A549 culture supernatants neither on protein nor on mRNA level any IL-13 signal was found (data not shown). Thus, it can be excluded that IL-13 was produced from A549 cells themselves. To analyze whether MCP-1 produced from A549 cells is responsible for the IL-13 induction in PBMC, culture supernatants from chlorobenzene-exposed A549 cells were incubated with PBMC in the presence of an anti-MCP-1 antibody. The IL-13 production in PBMC was significantly inhibited by the anti-MCP-1 antibody (Fig. 5 ). Discussion In vitro studies of toxic/sub-toxic effects of volatile chemicals face a number of problems due to the volatile nature of these chemicals. We have recently described in vitro models which allow the investigation of VOC effects on human blood and lung epithelial cells based on sealed exposure systems, suspension cultures and exposure via gas phase (Wichmann et al., 2005; Fisch\u00e4der et al., 2007). ",
+    "term_A": "Chlorobenzene",
+    "term_B": "CCL2 gene",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is linked to the CCL2 gene through its role in the production of MCP-1 (monocyte chemoattractant protein-1) by A549 cells. The study indicates that chlorobenzene exposure leads to MCP-1 production, which subsequently influences IL-13 induction in PBMC (peripheral blood mononuclear cells). The inhibition of IL-13 production by an anti-MCP-1 antibody suggests a significant interaction between chlorobenzene exposure and the CCL2 gene's role in inflammatory responses.",
+        "reason": "The score of 4 reflects a significant connection between chlorobenzene and the CCL2 gene, as chlorobenzene exposure influences MCP-1 production, which is directly related to the CCL2 gene's function in immune responses. The evidence provided supports this relationship.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The other source for bicarbonate may be the cap system of the landfill which consists of a two-foot thick layer of lime rock, a commonly found natural material in Florida. The lime rock consists of primarily calcium carbonate and it is the consolidated form of limestone. The rain water slowly dissolves the limestone cap and creating voids within the limestone cover by the following reactions (www.swfwmd.state.fl.us/hydrology/sinkholes/brochure.pdf): CaCO 3 + 2 H 2 O \u2192 Ca ( OH ) 2 + H 2 CO 3 H 2 CO 3 \u2192 H + + HCO 3 - Fig. 4d presents the ammonia levels in leachate from April 2001 to April 2006. Although the time series projections indicate a decreasing trend, field data showed a steady trend for ammonia levels. Ammonia data did not show the typical seasonal trend in 2003 and 2004. These irregularities may be due to changes in sample handling. ",
+    "term_A": "ammonia",
+    "term_B": "ANP32B gene",
+    "llm_generation": {
+        "summary": "In this context, ammonia is mentioned in relation to leachate levels over time, but there is no direct connection to the ANP32B gene. The discussion focuses on environmental factors affecting ammonia levels in landfill leachate, without any reference to the ANP32B gene or its biological significance. Thus, the relationship between ammonia and the ANP32B gene is not established.",
+        "reason": "The score of 1 reflects a lack of any relevant relationship between ammonia and the ANP32B gene, as they are mentioned in the same context but without any discussion of their interaction or significance.",
+        "score": 1
+    }
+}

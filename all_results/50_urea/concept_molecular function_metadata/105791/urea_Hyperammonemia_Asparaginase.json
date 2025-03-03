@@ -1,0 +1,10 @@
+{
+    "context": "Argininosuccinate lyase Argininosuccinate lyase (ASL) is a cytosolic enzyme that catalyzes the breakdown of argininosuccinate to arginine and fumarate. The human gene that encodes argininosuccinate lyase is positioned on chromosome 7. ASL deficiency results in argininosuccinic aciduria, an autosomal recessive disease characterized by tissue accumulation of argininosuccinate and excessive excretion of this compound in urine. Similarly to other urea cycle disorders except arginase-1 deficiency, ASL deficiency leads to reduced arginine synthesis. Patients with ASL deficiency share the acute clinical phenotype of hyperammonemia, encephalopathy, and respiratory alkalosis common to other urea cycle defects, but they also display chronic neurological symptoms that seem to be inevitable in spite of careful treatment of hyperammonemia, believed to be caused by a combination of tissue specific deficiency of arginine and/or elevation of argininosuccinate. 3.3.6 Arginase-1 Arginase is the enzyme that catalyzes the hydrolysis of arginine to ornithine and urea. In humans, two isoenzymes of arginase have been demonstrated. ",
+    "term_A": "urea",
+    "term_B": "Hyperammonemia",
+    "llm_generation": {
+        "summary": "In this context, urea and hyperammonemia are related through the urea cycle, where urea is a product of the breakdown of arginine, catalyzed by arginase. ASL deficiency, a urea cycle disorder, leads to hyperammonemia due to impaired conversion of argininosuccinate to arginine and fumarate, resulting in elevated ammonia levels. This condition is characterized by neurological symptoms and is a direct consequence of disrupted urea metabolism.",
+        "reason": "The score of 5 reflects a strong relevance between urea and hyperammonemia, as hyperammonemia is a direct result of urea cycle dysfunction, specifically linked to ASL deficiency. The context clearly establishes this critical relationship.",
+        "score": 5
+    }
+}

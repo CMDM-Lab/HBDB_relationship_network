@@ -1,0 +1,10 @@
+{
+    "context": "The ratio of nonspecific reactions with the immunoaffinity sorbent was negligible. Immunomagnetic microbeads with coated antibody (anti-cys LTs) were compared with a mixture of immunomagnetic microbeads with three different specific antibodies \u2013 anti-LTC4, LTD4 and LTE4. The prepared immunobeads were compared on the basis of determined specificity of the antibodies \u2013 see Table 3 . The magnetic immunobeads with an anti-cys LTs antibody demonstrated worse specificity to LTE4 (65%), which is comparable to the specificity of its metabolite N-acetyl-LTE4 (60%). Antibodies against individual leukotrienes (anti-LTC4, anti-LTD4 and anti-LTE4) show a high cross reaction with the leukotriene of the fifth row (e.g. LTC5, LTD5 and LTE5), but these leukotrienes are not involved in the pathophysiology of bronchial asthma. Other eicosanoids demonstrate low levels of cross-reactions with all types of tested antibodies.UHPLC\u2013ESI-MS/MS analysis The determination of picogram levels of cys LTs in EBC (alternatively urine or plasma) is a tractable problem when the UHPLC\u2013MS/MS method is employed. ",
+    "term_A": "Leukotriene E4",
+    "term_B": "Metabolites",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene E4 (LTE4) is discussed in relation to its metabolites, specifically N-acetyl-LTE4. The study evaluates the specificity of antibodies against various leukotrienes, including LTE4 and its metabolite, highlighting that the immunobeads show comparable specificity for both. This suggests a direct relationship between LTE4 and its metabolites in the context of immunological assays and their relevance in studying conditions like bronchial asthma.",
+        "reason": "The score of 4 reflects a significant connection between Leukotriene E4 and its metabolites, supported by evidence of antibody specificity and cross-reactivity. The context indicates that LTE4 and its metabolite are relevant in the analysis of eicosanoids, particularly in relation to bronchial asthma.",
+        "score": 4
+    }
+}

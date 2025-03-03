@@ -1,0 +1,10 @@
+{
+    "context": "Using helium and argon as main gas [21\u201323] obtained slightly higher rates of destruction, but the same behaviour with power, gas flow and VOC concentration. The plasma torch investigated in this study can be used in industrial settings for the removal of VOCs because it can be operated with an air plasma at atmospheric pressure and the cost of operation is low. Moreover, the range of treatable VOC concentrations is virtually unrestricted, which is a significant advantage to the proposed method. The analysis of byproducts formed during the destruction process under optimal conditions revealed that the output concentration of C2HCl3 and CCl4 was in the ppbv range. Moreover, the results indicated that the treatment of C2HCl3 generates ClCl4 and C2Cl4 at concentrations in the ppbv range. Additional byproducts found in the output gases include CO2, N2O and NO, which can be carefully controlled using the appropriate filters, which must be considered in the final costing of the process. Optical emission spectra confirmed the presence of atomic chlorine in the plasma. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene is discussed as a volatile organic compound (VOC) that is treated using a plasma torch process for its destruction in industrial settings. The process is highlighted for its efficiency in removing VOCs, including 1,1,2-trichloroethene, and the analysis of byproducts formed during this treatment indicates the effectiveness of the process. However, the relationship is primarily focused on the operational aspects of the process rather than a detailed interaction with the compound itself.",
+        "reason": "The score of 3 reflects a moderate relevance, as 1,1,2-trichloroethene is specifically mentioned in the context of a destruction process, indicating its significance in the treatment of VOCs. However, the details of its chemical interactions within the process are not extensively discussed.",
+        "score": 3
+    }
+}

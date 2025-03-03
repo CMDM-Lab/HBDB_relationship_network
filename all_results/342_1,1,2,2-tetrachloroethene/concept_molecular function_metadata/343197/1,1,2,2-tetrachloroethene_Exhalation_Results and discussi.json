@@ -1,0 +1,10 @@
+{
+    "context": "Fig. 3 illustrates the chromatograms obtained with samples collected before and after a typical exposure on the third day of the week. The time required to perform the complete sampling procedure and analysis described is less than 11 min, which is lower than that required using S2C or thermal desorption methods. Table 6 shows the resulting alveolar concentrations. It is remarkable the presence of tetrachloroethylene in the sample of exhaled air taken 16 h after exposure. Tetrachloroethylene tends to accumulate in fatty tissues. Hence, in repeated daily exposure there is a progressive accumulation of the solvent in the organism. This fact could explain the relatively high level of this sample. ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene is highlighted as a solvent that accumulates in fatty tissues, leading to its presence in exhaled air samples taken 16 hours post-exposure. The study indicates that repeated daily exposure results in progressive accumulation, which is reflected in the elevated levels of this compound in exhalation samples, suggesting a direct relationship between the solvent's accumulation in the body and its subsequent exhalation.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2,2-tetrachloroethene and exhalation, as the context provides evidence of its accumulation in the body and its detection in exhaled air, indicating a clear physiological relationship.",
+        "score": 4
+    }
+}

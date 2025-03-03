@@ -1,0 +1,10 @@
+{
+    "context": "[2] HDSs are highlighted in red. [3] The data are presented as hourly means of n = 4 \u00c2\u00b1 se. [4] The PS and CS scenarios were performed under elevated [CO2]. [1] Transpiration rate in the light (E), A, WUE, stomatal water vapor conductance (gs), intercellular [CO2] (ci), ratio of intracellular to extracellular [CO2] (Ratio), transpiration rate in the dark (Ed), mitochondrial respiration in the dark (Rd), isoprene emission rate (I), and percentage of photosynthetic C emitted as isoprene (C%) are shown for IE and NE poplar plants grown in the four different scenarios (AC, EC, PS, and CS). [2] Gas-exchange measurements were performed at maximum stress (S3) and after 7 d of recovery (R3). [3] Leaf-level cuvette measurements of gas exchange and isoprene emission were performed under steady-state standard conditions (30\u00c2\u00b0C leaf temperature and 1,000 \u00ce\u00bcmol photons m\u00e2\u02c6\u20192 s\u00e2\u02c6\u20191). [4] [CO2] in the cuvette was set as in the respective scenario. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Respiration",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene, also known as isoprene, is mentioned in relation to gas exchange measurements in plants, specifically regarding its emission rate during photosynthesis and respiration processes. The study examines how isoprene emission correlates with various physiological parameters, including mitochondrial respiration in the dark. However, the direct relationship between isoprene and respiration is not explicitly detailed, indicating a broader context of plant physiological responses rather than a focused interaction.",
+        "reason": "The score of 3 reflects a moderate relevance, as 2-methylbuta-1,3-diene (isoprene) is linked to respiration through its emission during gas exchange in plants, but the specific interactions or implications of this relationship are not thoroughly explored in the context provided.",
+        "score": 3
+    }
+}

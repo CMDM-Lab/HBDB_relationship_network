@@ -1,0 +1,10 @@
+{
+    "context": " [9] p = 0.07) and PM10 (1.2 (1.0\u00e2\u20ac\u201c1.9); [10] p = 0.10). [1] Associations between exposure to air pollutants and health outcomes according to the duration of residence at the address recorded during the survey. [2] a) Lifetime asthma, b) asthma in the last 1 yr and c) sensitisation to pollens. [3] A: 4,907 children residing at their current address for \u00e2\u2030\u00a53 yrs; B: 2,834 children residing at their current address for \u00e2\u2030\u00a58 yrs; C: 2,213 children residing at their current address since birth. [4] VOC: volatile organic compounds; PM10: particles with a 50% cut-off aerodynamic diameter of 10 \u00ce\u00bcm. [5] Data are presented as OR and 95% CI obtained with a marginal model adjusted for age, sex, older siblings, family history of allergy, parental education, mother's ethnic origin, smoking at home, mould or dampness at home, natural gas used for heating, cooking or for water-heater at home, and pets at home, with an exchangeable working correlation structure using the community as a stratum. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is mentioned as an air pollutant potentially linked to respiratory health outcomes, including asthma. The study examines associations between exposure to various air pollutants and asthma prevalence among children. While sulfur dioxide is part of the broader discussion on air quality and asthma, the specific relationship between SO2 and asthma is not detailed, indicating a need for further investigation into its direct effects on asthma incidence or exacerbation.",
+        "reason": "The score of 2 reflects an indirect connection, as sulfur dioxide is included in the context of air pollutants affecting asthma, but there is no direct evidence or detailed discussion of its specific impact on asthma outcomes.",
+        "score": 2
+    }
+}

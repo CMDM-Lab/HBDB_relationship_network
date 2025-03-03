@@ -1,0 +1,10 @@
+{
+    "context": "In the first set of experiments, we expected to observe the lowest reactivity of the permeable reactive layer. In this case, 1.0ml of water was injected instantaneously into the permeable reactive layer using a syringe. Results showed that the concentration of TCE vapor in the headspace initially decreased rapidly, but then increased gradually up to a maximum (Fig.\u00a05a). Results for the TCE control experiment showed only a minor reduction in the TCE vapor concentration of the headspace due to the dissolution process. In the second set of experiments, after reaching steady-state conditions, water was injected continuously (at the rate of around 2.1\u00d710\u22123 mlmin\u22121) into the permeable reactive layer using a syringe pump. As shown in Fig.\u00a05b, the concentration of TCE vapor in the headspace decreased gradually until the pump was turned off. The increase in the reactivity of the permeable reactive layer due to added water is attributed to a reduction in the proton concentrations. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is involved in experiments assessing its vapor concentration in relation to a permeable reactive layer process. The study examines how the injection of water affects the reactivity of this layer and the concentration of TCE vapor, indicating a relationship between the chemical behavior of TCE and the experimental process being utilized to analyze its reactivity and concentration changes over time.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses the interaction of TCE with the experimental process of water injection into a reactive layer, showing some significance in how TCE's concentration is affected by this process.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Known concentrations in the final gas mixture and the integration results based on peak heights were used for calibration. Samples were analyzed for methane thiol, ethane thiol, 2-propane thiol, dimethylsulfide, 2-butane thiol and dimethyldisulfide. But no methane thiol, ethane thiol and dimethyldisulfide could be detected in the air. Limits of detection for methane thiol and ethane thiol were 0.20 and 0.25 mgm\u22123, respectively. Detection limits for propane thiol and butane thiol were both 0.35 mgm\u22123. In gas chromatography a signal-to-noise ratio of 10 was used throughout the integrations. No peaks corresponding to the studied substances were detected in the blanks. ",
+    "term_A": "Methylsulfanylmethane",
+    "term_B": "Sulfhydryl Compounds",
+    "llm_generation": {
+        "summary": "In this context, Methylsulfanylmethane is mentioned alongside various thiol compounds, including methane thiol, ethane thiol, and others. While Methylsulfanylmethane is a type of sulfhydryl compound, the context primarily focuses on the detection and analysis of these compounds in air samples without detailing their specific interactions or relevance to each other. Thus, the relationship is implied but not explicitly discussed.",
+        "reason": "The score of 2 reflects an indirect connection, as Methylsulfanylmethane is categorized under sulfhydryl compounds, but the context does not provide detailed interactions or significance between them.",
+        "score": 2
+    }
+}

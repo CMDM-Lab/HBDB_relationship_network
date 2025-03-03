@@ -1,0 +1,10 @@
+{
+    "context": "The highest level of CO was found during the third experiment and was established to be 145mgm\u22123. The total amount of carbon monoxide emitted varied between 5 and 17gkg\u22121 combusted material. Most CO was emitted during the first phase of the fire although in 2 cases (experiments 2 and 4) a distinct decrease in emission was found between phases 1 and 2 (Fig. 3 ). The peak emissions during both phases were comparable.Nitrogen oxides (NO x ), hydrogen cyanide (HCN) and ammonia (NH3) The NO x emission measured in the smoke almost exclusively existed of NO-gas (>99%). Between 3 and 140gkg\u22121 of NO was formed. Most NO is emitted during the first minutes of the experiment. During this phase of the fire the polyamide was not burning yet. ",
+    "term_A": "ammonia",
+    "term_B": "Nitrogen Oxides",
+    "llm_generation": {
+        "summary": "In this context, ammonia (NH3) and nitrogen oxides (NOx) are both mentioned as emissions produced during combustion experiments. While ammonia is listed alongside nitrogen oxides, the context does not provide specific details about their interaction or relationship. The focus is primarily on the emissions of nitrogen oxides, particularly NO gas, without elaborating on how ammonia relates to or affects nitrogen oxides in this scenario.",
+        "reason": "The score of 2 reflects an indirect connection, as both ammonia and nitrogen oxides are mentioned as combustion byproducts, but there is no detailed discussion of their relationship or interaction in the context provided.",
+        "score": 2
+    }
+}

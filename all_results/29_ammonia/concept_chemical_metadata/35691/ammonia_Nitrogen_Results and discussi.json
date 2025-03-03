@@ -1,0 +1,10 @@
+{
+    "context": "These emissions correspond to a 24\u201333% of the nitrogen content in the starting composting material. In similar conditions (125L aerated reactors), Eklind and Kirchmann (2000) reported an ammonia emission of 9.6kg NH3 Mgwaste\u22121 (70% of the initial nitrogen). In all cases, the final value of ammonia emissions depended on the composting process duration and conditions and on the C/N ratio of the initial waste. Ammonia emissions obtained in the present study correspond to a percentage of 46% of the nitrogen present in the composting material at the beginning of the curing phase. There are fewer studies published in the case of VOC emission, especially at full scale. Under laboratory conditions, Staley et al. (2006) found a total VOC emission of 0.282kgMgdry matter\u22121 when composting a mixture of food waste, garden waste and non-recyclable paper in 8L composting reactors. Smet et al. (1999) reported a cumulative VOC emission of 0.590kg VOCMg of waste\u22121 during a pilot scale (224L) composting experiment treating a similar waste. ",
+    "term_A": "ammonia",
+    "term_B": "Nitrogen",
+    "llm_generation": {
+        "summary": "In this context, ammonia (NH3) is discussed as a significant emission resulting from the composting process, representing a substantial portion of the nitrogen content in the composting material. The study highlights that ammonia emissions can account for 24-33% of the nitrogen in the starting compost, indicating a direct relationship between ammonia and nitrogen, as ammonia is a nitrogenous compound released during decomposition. The percentage of nitrogen represented by ammonia emissions underscores its role in the nitrogen cycle within composting systems.",
+        "reason": "The score of 4 reflects a strong connection between ammonia and nitrogen, as ammonia is a direct product of nitrogen decomposition in composting. The context provides quantitative data on ammonia emissions as a percentage of total nitrogen, indicating a significant relationship.",
+        "score": 4
+    }
+}

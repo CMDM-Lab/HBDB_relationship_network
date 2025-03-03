@@ -1,0 +1,10 @@
+{
+    "context": "Breathing ethylbenzene from air can enter the body via lungs. If the source of exposure to benzene is food or water, it can pass through digestive tract. It may also enter the body by skin contact. Short term exposure to high levels of ethylbenzene may cause irritation of eye and throat. Exposure may also result in vertigo and dizziness. Long term exposure to low levels ethylbenzene can result in irreversible damage to the inner ear and hearing among animals. If the exposure lasts several months and years, kidney damage may result in animals. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Irritation",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is associated with irritation as a result of short-term exposure to high levels. The text indicates that such exposure can lead to irritation of the eyes and throat, highlighting a direct relationship between ethylbenzene and irritation symptoms. Additionally, it mentions other health effects, but irritation is specifically noted as an immediate consequence of exposure.",
+        "reason": "The score of 4 reflects a significant connection between ethylbenzene and irritation, as the context provides clear evidence of irritation symptoms resulting from exposure. This relationship is well-supported by the description of effects experienced during short-term exposure.",
+        "score": 4
+    }
+}

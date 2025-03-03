@@ -1,0 +1,10 @@
+{
+    "context": "The anemia in the myocardium causing ischemic changes could be a consequence of the mechanical barrier in lung circulation caused by microangiopathy. Pfeiffer et\u00a0al. also offer another explanation for such a distinct histological picture of the alveolar walls. Namely, because of its lipophilicity, butane could be easily incorporated into the lipid layer of the basal capillary membrane blocking microcirculation. 1 Either way, chronic hypoxia could be the main cause of diffuse chronic changes seen in the myocardium in both cases, especially in\u00a0Case 1, probably because of older age and longer abuse. Cardiac arrhythmia cannot be excluded as a cause of premortem phenomena, but it cannot be proved either. Therefore, we had to focus on possible early ischemic changes of the myocardium hardly seen in HE stainings but detectable by immunohistochemical agents. Therefore we recommend an immunohistochemical panel (Table 1) helpful for the detection of an acute ischemic cardiac incident/AMI after asphyxiant abuse with no histological features on H/E staining. ",
+    "term_A": "Butane",
+    "term_B": "Hypoxia",
+    "llm_generation": {
+        "summary": "In this context, butane is discussed in relation to its lipophilicity, which allows it to integrate into the lipid layer of the basal capillary membrane, potentially obstructing microcirculation. This obstruction may contribute to chronic hypoxia, which is identified as a significant factor leading to ischemic changes in the myocardium. The relationship suggests that butane exposure could exacerbate hypoxic conditions, particularly in the context of chronic lung issues.",
+        "reason": "The score of 4 reflects a significant connection between butane and hypoxia, as the text indicates that butane's properties can lead to microcirculatory blockages, contributing to chronic hypoxia and ischemic changes in the myocardium. This relationship is supported by the context's discussion of physiological effects.",
+        "score": 4
+    }
+}

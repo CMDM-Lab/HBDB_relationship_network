@@ -1,0 +1,10 @@
+{
+    "context": " [4] According to the laws of thermodynamics, the temperature dependence of \u00ce\u201dH and \u00ce\u201dS results from substantial changes in heat capacity.  [5] In almost all association processes with proteins, \u00ce\u201dCp has a negative sign if the free components are the reference state .  [6] In the present case, \u00ce\u201dCp of the overall reaction was \u00e2\u02c6\u2019510 cal K\u00e2\u02c6\u20191 mol\u00e2\u02c6\u20191.  [7] Binding of dT contributed 70%, and ATP binding contributed 30% to this large negative heat capacity change.  [8] Recently, it has been shown that the enthalpy slope observed in ITC experiments may include contributions arising from temperature-induced changes in the heat capacities of all participants of the association reaction over the considered temperature range .  [9] The quantitative information that is needed to correct the experimental \u00ce\u201dCp for such effects could be obtained by DSC, given that the individual components undergo a reversible thermal unfolding. [10] Unfortunately, the thermal unfolding of HSV1 TK was fully irreversible, with an apparent midpoint at 43\u00e2\u20ac\u2030\u00c2\u00b0C. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "ATP binding",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is discussed in relation to its binding properties, specifically contributing to a significant negative heat capacity change during association processes with proteins. The text indicates that ATP binding plays a role in the thermodynamic parameters of the reaction, highlighting its importance in biochemical interactions. This suggests a direct relationship between ATP and its binding characteristics in the context of protein interactions.",
+        "reason": "The score of 4 reflects a significant connection between ATP and ATP binding, as the context provides quantitative data on the contribution of ATP binding to the overall heat capacity change in protein interactions, indicating a clear biochemical relevance.",
+        "score": 4
+    }
+}

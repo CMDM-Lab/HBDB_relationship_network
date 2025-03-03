@@ -1,0 +1,10 @@
+{
+    "context": "[1] In order to confirm that saliva contamination may add LTB4 to EBC samples, saliva was collected from 17 healthy volunteers. [2] Immunoreactive LTB4 levels in saliva were 469\u00e2\u20ac\u2026pg\u00c2\u00b7mL-1 (140\u00e2\u20ac\u201c1,358). [3] \u00ce\u00b1-Amylase activity in the same samples was 426\u00e2\u20ac\u2026U\u00c2\u00b7mL-1 (147\u00e2\u20ac\u201c807). [1] Finally, spiking EBC with increasing amounts of saliva produced consistent parallel increments in LTB4 levels and \u00ce\u00b1-amylase activity, respectively (fig. [2] 5\u00e2\u2021\u201c). [1] The figure shows increasing amounts of saliva (volume/volume) added to exhaled breath condensate (EBC). [2] a) Immunoreactive leukotriene (LT)B4 and b) \u00ce\u00b1-amylase activity. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "amylase activity",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) and amylase activity are both measured in saliva samples collected from healthy volunteers. The study demonstrates a direct relationship, as increasing amounts of saliva added to exhaled breath condensate (EBC) resulted in parallel increments in both LTB4 levels and amylase activity. This suggests a potential correlation between the two, indicating that saliva contamination can influence the levels of both biomarkers in EBC samples.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and amylase activity, supported by quantitative data showing that increases in saliva lead to corresponding increases in both substances. This indicates a clear relationship within the context of saliva contamination affecting EBC analysis.",
+        "score": 4
+    }
+}

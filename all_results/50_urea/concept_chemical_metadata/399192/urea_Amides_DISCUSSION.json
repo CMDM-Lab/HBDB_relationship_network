@@ -1,0 +1,10 @@
+{
+    "context": " [8] A urea-ammonium antiporter at normal gastric levels would not facilitate urea entry given an interior negative potential at pH 6.2 of \u00e2\u02c6\u2019101 mV.  [9] Based on these arguments, theureI gene product is either directly responsible for urea permeability and is active at acidic pH or it regulates the urea permeability of another cytoplasmic membrane protein. [10] It is homologous to the amiS genes described as amide transporters . [11] Since urea is an amide, the ureI gene product is possibly a urea transporter. [1] The large surface-area-to-volume ratio of prokaryotes has prevented measurement of passive permeability of a variety of solutes, and we were unable to show a time or pH dependence of urea uptake intoH. [2] pylori. [3] Recently, we expressed UreI in Xenopusoocytes, which, in contrast, have a large volume-to-surface ratio (D. ",
+    "term_A": "urea",
+    "term_B": "Amides",
+    "llm_generation": {
+        "summary": "In this context, urea is identified as an amide, and the ureI gene product is suggested to function as a urea transporter, potentially regulating urea permeability in prokaryotic membranes. The relationship is further supported by the mention of homologous amiS genes, which are known as amide transporters, indicating a functional connection between urea and amides in transport mechanisms.",
+        "reason": "The score of 4 reflects a significant connection between urea and amides, as urea is classified as an amide and the context discusses the transport mechanisms involving both. The evidence provided supports their relationship in biological transport processes.",
+        "score": 4
+    }
+}

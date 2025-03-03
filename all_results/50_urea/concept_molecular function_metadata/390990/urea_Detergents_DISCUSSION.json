@@ -1,0 +1,10 @@
+{
+    "context": "[6] A detailed proteomic analysis of the ricin-binding glycoproteins2 revealed the presence of lysosomal/endosomal p67, flagellar pocket acid phosphatase, traces of VSG, and several other known and unknown glycoproteins. [7] Thus, although the fraction we prepared clearly contains flagellar pocket matrix material, it is not representative of this material alone. [8] Nevertheless, analysis of this ricin-binding material has provided several new insights into the glycobiology of bloodstream form T. brucei, as described below. [1] The approach of solubilizing cell ghosts with 8 m urea and 3% SDS allowed the complete extraction of high molecular mass glycoproteins that were not, in our hands, well extracted by detergents alone. [2] This may explain why glycoproteins extracted in 1% CHAPS and purified by tomato lectin appear to have a more restricted molecular mass range . [3] However, as reported for tomato lectin , the majority of the ricin-binding glycans of bloodstream form T. brucei glycoproteins are N-linked to asparagine residues. [4] Some of the ricin-binding glycoproteins may form higher molecular mass complexes maintained by disulfide linkage, as judged by the effect of dithiothreitol reduction, but disulfide linkages do not appear to be extensive. ",
+    "term_A": "urea",
+    "term_B": "Detergents",
+    "llm_generation": {
+        "summary": "In this context, urea is used as a solubilizing agent in combination with detergents (specifically 3% SDS) to extract high molecular mass glycoproteins from cell ghosts. The study indicates that urea enhances the extraction process, suggesting a synergistic relationship where urea improves the effectiveness of detergents in solubilizing complex protein structures, which may not be achieved by detergents alone.",
+        "reason": "The score of 4 reflects a significant connection between urea and detergents, as the context provides evidence of their combined use in protein extraction, highlighting how urea enhances the effectiveness of detergents in this process.",
+        "score": 4
+    }
+}

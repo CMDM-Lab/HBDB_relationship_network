@@ -1,0 +1,10 @@
+{
+    "context": "Argininosuccinate lyase Argininosuccinate lyase (ASL) is a cytosolic enzyme that catalyzes the breakdown of argininosuccinate to arginine and fumarate. The human gene that encodes argininosuccinate lyase is positioned on chromosome 7. ASL deficiency results in argininosuccinic aciduria, an autosomal recessive disease characterized by tissue accumulation of argininosuccinate and excessive excretion of this compound in urine. Similarly to other urea cycle disorders except arginase-1 deficiency, ASL deficiency leads to reduced arginine synthesis. Patients with ASL deficiency share the acute clinical phenotype of hyperammonemia, encephalopathy, and respiratory alkalosis common to other urea cycle defects, but they also display chronic neurological symptoms that seem to be inevitable in spite of careful treatment of hyperammonemia, believed to be caused by a combination of tissue specific deficiency of arginine and/or elevation of argininosuccinate. 3.3.6 Arginase-1 Arginase is the enzyme that catalyzes the hydrolysis of arginine to ornithine and urea. In humans, two isoenzymes of arginase have been demonstrated. ",
+    "term_A": "urea",
+    "term_B": "Argininosuccinate lyase deficiency",
+    "llm_generation": {
+        "summary": "In this context, urea is indirectly related to argininosuccinate lyase deficiency (ASL deficiency) through the urea cycle, where ASL catalyzes the breakdown of argininosuccinate to arginine and fumarate. ASL deficiency leads to argininosuccinic aciduria and reduced arginine synthesis, which can affect urea production. Consequently, patients with ASL deficiency experience hyperammonemia and other urea cycle disorder symptoms, highlighting the importance of urea metabolism in this condition.",
+        "reason": "The score of 4 reflects a significant connection between urea and ASL deficiency, as the urea cycle's dysfunction due to ASL deficiency impacts urea production and leads to clinical symptoms. The relationship is supported by the biochemical context of the urea cycle and its disorders.",
+        "score": 4
+    }
+}

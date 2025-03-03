@@ -1,0 +1,10 @@
+{
+    "context": "The optimum number of membrane modules and pressure differences could be selected according to the concentration of styrene from the biofilter in actual cases. The moisture will affect the styrene permeation through the membrane. A contrast test was conducted to investigate the influence of moisture on the membrane separation efficiency. The concentration of styrene in feed stream was 226.8mgm\u22123 and the flow rate was 1.5m3 h\u22121. The concentration of styrene in retentate stream would increase from 45.7 to 82.3mgm\u22123 when the relative humidity of feed stream increased from 30% to 76%. High moisture content in the feed stream inhibited styrene passing through the membrane which brought about the increasing styrene present in retentate stream.Microbial characteristics Gas-phase bioreactors utilize microbial metabolic reactions to remove contaminants from air, in which microbial communities use the contaminants as food or substrate. Consequently, treatment of pollution relies on developing better microbial communities. ",
+    "term_A": "Styrene",
+    "term_B": "Protium",
+    "llm_generation": {
+        "summary": "In this context, styrene is discussed in relation to its concentration and permeation through membranes in a biofilter system, while protium, a stable isotope of hydrogen, is not mentioned or connected to the discussion of styrene's behavior or treatment processes. There is no direct or indirect relationship established between styrene and protium in the context provided.",
+        "reason": "The score of 1 reflects that styrene and protium are mentioned in the same context, but there is no discussion or indication of their relationship. Protium is not relevant to the analysis of styrene's behavior in the biofilter system.",
+        "score": 1
+    }
+}

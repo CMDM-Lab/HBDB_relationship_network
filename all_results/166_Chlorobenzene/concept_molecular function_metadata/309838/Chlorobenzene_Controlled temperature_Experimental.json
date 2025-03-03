@@ -1,0 +1,10 @@
+{
+    "context": "(Mn+Cu)) was prepared.Catalytic tests Catalytic tests were carried out in a stainless steel reactor (height=60cm, i.d.=2.7cm) at atmospheric pressure and in the temperature range of 150\u2013400\u00b0C. The bench test can be found elsewhere. The volume of catalytic fixed bed was 10cm3 and the air flow rate was 50NLh\u22121 corresponding to a gas hourly space velocity (GHSV) of 5000h\u22121. Chlorobenzene (CB) was fed to the reactor by means of a saturator at controlled temperature. In order to adjust the CB concentration, two streams of air were employed: one is introduced into a regulated bubble saturator to carry out a constant flow rate of organic vapour, and the other is used to balance the overall concentration. The CB concentration in air was about 500ppm (3000ppm eq. CH4). ",
+    "term_A": "Chlorobenzene",
+    "term_B": "Controlled temperature",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene (CB) is introduced into a reactor at a controlled temperature to facilitate catalytic tests. The temperature is crucial for regulating the concentration of chlorobenzene in the air flow, as it is fed through a saturator. This indicates a direct relationship where controlled temperature is essential for maintaining the desired concentration of chlorobenzene during the experiment.",
+        "reason": "The score of 4 reflects a significant connection between chlorobenzene and controlled temperature, as the temperature directly influences the concentration of chlorobenzene in the reactor setup, which is critical for the catalytic tests being conducted.",
+        "score": 4
+    }
+}

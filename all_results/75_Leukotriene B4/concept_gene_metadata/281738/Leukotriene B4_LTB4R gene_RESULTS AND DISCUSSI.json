@@ -1,0 +1,10 @@
+{
+    "context": "[5] When we activated eosinophils with ionomycin, there was \u00e2\u02c6\u00bc10-fold more LTB4 than LTE4 in the supernatant (Fig. 4 B). [6] Furthermore, mixing of eosinophils with C. elegans stimulated eosinophil LTB4 production, which was completely inhibited by MK886 (Fig. 4 C). [7] In contrast, there was no detectable production of LTE4 by eosinophils in response to worms. [8] Finally, Ltb4r1\u00e2\u02c6\u2019/\u00e2\u02c6\u2019 eosinophils exhibited a >90% reduction in accumulation around worms (Fig. 4 D), establishing that LTB4 signaling is required for Alox5-dependent migration and accumulation.  [1] Involvement of LTB4 in collective eosinophil migration.  [2] (A) Migration of eosinophils across Transwell membranes in response to CCL11 or leukotrienes.  [3] (B) LTB4 and LTE4 production in wild-type or Alox5\u00e2\u02c6\u2019/\u00e2\u02c6\u2019 eosinophils treated with 1 \u00c2\u00b5M ionomycin. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "LTB4R gene",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is shown to play a crucial role in eosinophil migration, with its signaling being essential for the accumulation of eosinophils around stimuli such as C. elegans. The LTB4R gene, which encodes the receptor for LTB4, is directly implicated in this process, as evidenced by the significant reduction in eosinophil accumulation observed in Ltb4r1\u00e2\u02c6\u2019/\u00e2\u02c6\u2019 eosinophils. This indicates a strong functional relationship between LTB4 and the LTB4R gene in mediating eosinophil responses.",
+        "reason": "The score of 5 reflects a direct and critical relationship between LTB4 and the LTB4R gene, as the context provides strong evidence of LTB4 signaling being necessary for eosinophil migration, which is directly linked to the function of the LTB4R gene.",
+        "score": 5
+    }
+}

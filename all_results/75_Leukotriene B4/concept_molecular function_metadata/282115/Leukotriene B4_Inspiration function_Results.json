@@ -1,0 +1,10 @@
+{
+    "context": "Among steroid-treated atopic children with asthma, children who were receiving the lower dose of inhaled fluticasone (100\u03bcg/day at a constant dose for at least 8 weeks) had higher exhaled LTB4 values [245.0 (235.0\u2013282.5) pg, p <0.002] than those who were treated with the higher dose of inhaled fluticasone (200\u03bcg/day for at least 8 weeks) [25.0 (25.0\u2013102.5) pg] (Fig. 7B). No differerence in median exhaled LTB4 values was observed between asthmatic children who were treated with the higher dose of fluticasone, atopic non-asthmatic children (p =0.15) and healthy controls (p =0.10), whereas exhaled LTB4 values were elevated in asthmatic children who were receiving the lower dose of inhaled fluticasone (atopic non-asthmatic children: p <0.005; healthy children: p <0.001). A major unknown peak that has to be identified was observed in all samples obtained from steroid-na\u00efve asthmatic children (Fig. 6), healthy children (Fig. 6), and atopic non-asthmatic children (not shown), whereas it was not always present in steroid-treated children with asthma. There was no correlation between exhaled LTB4 and exhaled NO values in any study group. There was no correlation between exhaled LTB4 or exhaled NO and age, sex, or lung function in any study group. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Inspiration function",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is measured in exhaled breath as a potential biomarker in asthmatic children receiving different doses of inhaled fluticasone. While LTB4 levels are discussed in relation to asthma treatment, there is no direct mention of its impact on inspiration function or lung function parameters. The study primarily focuses on LTB4 levels without establishing a clear link to the mechanics of inspiration.",
+        "reason": "The score of 2 reflects an indirect connection, as LTB4 is relevant to asthma and inflammation, but its relationship to inspiration function is not explicitly detailed or supported by data in the context provided.",
+        "score": 2
+    }
+}

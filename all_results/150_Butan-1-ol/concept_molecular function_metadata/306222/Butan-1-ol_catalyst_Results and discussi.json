@@ -1,0 +1,10 @@
+{
+    "context": "Indeed the redox properties of catalysts are known to govern the catalytic activity in the total VOC oxidation. These results can be connected with (i) the oxygen mobility and (ii) the surface Mn4+ concentration, both maximum for x =0.36 value (Table 2). With similar space velocity (15,000h\u22121) and over a monolith Pt/Al2O3 catalyst, conversion of butanol higher than 90% was obtained in the 180\u2013200\u00b0C temperature range by Hermia and Vigneron. With a double space velocity and over Co, Pd, Pt supported on \u03b3 alumina (the majority of commercial catalysts consists of Pt or Pd supported on alumina supports), 90% of butanol is transformed at 220, 220 and 180\u00b0C, respectively. This comparison with commercial catalysts illustrates the excellent behaviour of the Zr0.4Ce0.6\u2212x Mn x O2 catalytic system for oxygenated VOC removal since n-butanol conversion of 90% is obtained at 175\u00b0C for x =0.36 value. Zr0.4Ce0.6\u2212x ",
+    "term_A": "Butan-1-ol",
+    "term_B": "catalyst",
+    "llm_generation": {
+        "summary": "In this context, butan-1-ol is discussed in relation to its conversion efficiency over various catalysts, particularly in the oxidation of volatile organic compounds (VOCs). The text highlights the performance of different catalytic systems, including commercial catalysts, in achieving high conversion rates of butan-1-ol at specific temperatures. This indicates a direct relationship where the catalytic properties significantly influence the oxidation process of butan-1-ol.",
+        "reason": "The score of 4 reflects a significant connection between butan-1-ol and catalysts, as the context provides evidence of how different catalysts affect the conversion efficiency of butan-1-ol in VOC oxidation. The relationship is supported by quantitative data on conversion rates.",
+        "score": 4
+    }
+}

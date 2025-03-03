@@ -1,0 +1,642 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Formonitrile",
+                    "label": "Formonitrile",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Formonitrile",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Formonitrile",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Formonitrile",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Formonitrile",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Formonitrile",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Formonitrile",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Formonitrile",
+                        "label": "Formonitrile",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chronic infectious disease",
+                        "label": "Chronic infectious disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cystic Fibrosis",
+                        "label": "Cystic Fibrosis",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Formonitrile",
+                        "target": "Chronic infectious disease",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Formonitrile",
+                        "target": "Cystic Fibrosis",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Formonitrile",
+                        "label": "Formonitrile",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cyanides",
+                        "label": "Cyanides",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Formonitrile",
+                        "target": "Cyanides",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Formonitrile",
+                        "label": "Formonitrile",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "acidification",
+                        "label": "acidification",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "biofilm formation",
+                        "label": "biofilm formation",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Formonitrile",
+                        "target": "volatile substances",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Formonitrile",
+                        "target": "Exhalation",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Formonitrile",
+                        "target": "acidification",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Formonitrile",
+                        "target": "biofilm formation",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Formonitrile",
+                        "label": "Formonitrile",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Formonitrile",
+                        "label": "Formonitrile",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Formonitrile",
+                        "label": "Formonitrile",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Chronic infectious disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chronic infectious disease",
+                        "label": "Chronic infectious disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522",
+                        "label": "Is hydrogen cyanide a marker of Burkholderia cepacia complex?\nFJ. Gilchrist, H. Sims, A. Alcock, AM. Jones, RJ. Bright-Thomas, D. Smith, P. Španel, AK. Webb, W. Lenney\nJ. Clin. Microbiol. 2013 Nov;51(11):3849-51.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23966502"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_Chronic infectious disease_TEXT.json",
+                        "label": "In this context, Formonitrile is indirectly related to chronic infectious disease through its association with hydrogen cyanide (HCN) production by Burkholderia cepacia complex (BCC) in patients with cystic fibrosis (CF). The study investigates HCN as a potential marker for BCC infection, which is a chronic condition in CF patients. However, Formonitrile itself is not directly discussed as a factor in the disease process, limiting the depth of the relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_Chronic infectious disease_ABSTRACT.json",
+                        "label": "In this context, Formonitrile is indirectly related to chronic infectious diseases through its association with hydrogen cyanide (HCN), a compound linked to infections caused by Burkholderia cepacia complex (BCC) and Pseudomonas aeruginosa. However, the study indicates that HCN is not a reliable marker for BCC infections in cystic fibrosis patients, suggesting limited relevance of Formonitrile in the context of chronic infectious diseases.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic infectious disease",
+                        "target": "247522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_Chronic infectious disease_TEXT.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_Chronic infectious disease_ABSTRACT.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Cystic Fibrosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cystic Fibrosis",
+                        "label": "Cystic Fibrosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522",
+                        "label": "Is hydrogen cyanide a marker of Burkholderia cepacia complex?\nFJ. Gilchrist, H. Sims, A. Alcock, AM. Jones, RJ. Bright-Thomas, D. Smith, P. Španel, AK. Webb, W. Lenney\nJ. Clin. Microbiol. 2013 Nov;51(11):3849-51.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23966502"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_Cystic Fibrosis_TEXT.json",
+                        "label": "In this context, Formonitrile is indirectly related to cystic fibrosis (CF) through the discussion of hydrogen cyanide (HCN) as a volatile compound associated with Pseudomonas aeruginosa infections in CF patients. While HCN is mentioned as a marker for P. aeruginosa in exhaled breath of CF patients, Formonitrile itself is not directly discussed or linked to CF or its pathology. The focus is primarily on HCN and its implications in CF rather than on Formonitrile's role.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_Cystic Fibrosis_ABSTRACT.json",
+                        "label": "In this context, formonitrile is indirectly related to cystic fibrosis through the investigation of hydrogen cyanide (HCN) as a potential marker for Burkholderia cepacia complex (BCC) infections in cystic fibrosis patients. However, the study found that HCN was not elevated in the breath of these patients, indicating that formonitrile's relevance is minimal as it is not directly discussed or linked to cystic fibrosis beyond the context of infection markers.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cystic Fibrosis",
+                        "target": "247522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_Cystic Fibrosis_TEXT.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_Cystic Fibrosis_ABSTRACT.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Cyanides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cyanides",
+                        "label": "Cyanides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522",
+                        "label": "Is hydrogen cyanide a marker of Burkholderia cepacia complex?\nFJ. Gilchrist, H. Sims, A. Alcock, AM. Jones, RJ. Bright-Thomas, D. Smith, P. Španel, AK. Webb, W. Lenney\nJ. Clin. Microbiol. 2013 Nov;51(11):3849-51.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23966502"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_Cyanides_TEXT.json",
+                        "label": "In this context, formonitrile and cyanides are related through the discussion of hydrogen cyanide (HCN) production by bacterial cultures. While formonitrile is a nitrile compound, cyanides refer to a broader class of compounds that include HCN. The text suggests that the bacterial cultures may produce compounds that interact with HCN, but it does not provide a direct relationship between formonitrile and cyanides beyond this general connection to cyanide production.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cyanides",
+                        "target": "247522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_Cyanides_TEXT.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "volatile substances": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522",
+                        "label": "Is hydrogen cyanide a marker of Burkholderia cepacia complex?\nFJ. Gilchrist, H. Sims, A. Alcock, AM. Jones, RJ. Bright-Thomas, D. Smith, P. Španel, AK. Webb, W. Lenney\nJ. Clin. Microbiol. 2013 Nov;51(11):3849-51.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23966502"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_volatile substances_TEXT.json",
+                        "label": "In this context, Formonitrile is not directly mentioned, but hydrogen cyanide (HCN), a volatile compound, is discussed as a marker for infections, particularly in relation to Pseudomonas aeruginosa and cystic fibrosis. While HCN is a volatile substance, the relationship between Formonitrile and volatile substances is not explicitly established, leaving their connection unclear.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "volatile substances",
+                        "target": "247522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_volatile substances_TEXT.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522",
+                        "label": "Is hydrogen cyanide a marker of Burkholderia cepacia complex?\nFJ. Gilchrist, H. Sims, A. Alcock, AM. Jones, RJ. Bright-Thomas, D. Smith, P. Španel, AK. Webb, W. Lenney\nJ. Clin. Microbiol. 2013 Nov;51(11):3849-51.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23966502"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_Exhalation_ABSTRACT.json",
+                        "label": "In this context, Formonitrile is not directly mentioned, but hydrogen cyanide (HCN), a volatile compound, is discussed in relation to exhalation as a potential marker for infections caused by Burkholderia cepacia complex (BCC) and Pseudomonas aeruginosa. The study indicates that HCN was not elevated in the exhaled breath of cystic fibrosis patients with chronic BCC infection, suggesting that exhalation analysis may not be effective for detecting this infection. The relationship between Formonitrile and exhalation remains unclear, as Formonitrile is not explicitly linked to the findings presented.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_Exhalation_TEXT.json",
+                        "label": "In this context, Formonitrile is indirectly related to exhalation through the analysis of breath samples for volatile compounds, including hydrogen cyanide (HCN) and acetone. While the study focuses on breath concentrations of various compounds, Formonitrile itself is not explicitly mentioned as being exhaled or measured, indicating a lack of direct relevance to the exhalation process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "247522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_Exhalation_ABSTRACT.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_Exhalation_TEXT.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "acidification": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "acidification",
+                        "label": "acidification",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522",
+                        "label": "Is hydrogen cyanide a marker of Burkholderia cepacia complex?\nFJ. Gilchrist, H. Sims, A. Alcock, AM. Jones, RJ. Bright-Thomas, D. Smith, P. Španel, AK. Webb, W. Lenney\nJ. Clin. Microbiol. 2013 Nov;51(11):3849-51.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23966502"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_acidification_TEXT.json",
+                        "label": "In this context, Formonitrile is indirectly related to acidification through the production of cyanide in biofilm cultures. The acidification of these cultures appears to influence the concentration of cyanide ions, suggesting that Formonitrile may play a role in cyanogenesis under acidic conditions. However, the relationship is not explicitly detailed, and the overall impact of Formonitrile on acidification is not thoroughly explored.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "acidification",
+                        "target": "247522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_acidification_TEXT.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "biofilm formation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "biofilm formation",
+                        "label": "biofilm formation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522",
+                        "label": "Is hydrogen cyanide a marker of Burkholderia cepacia complex?\nFJ. Gilchrist, H. Sims, A. Alcock, AM. Jones, RJ. Bright-Thomas, D. Smith, P. Španel, AK. Webb, W. Lenney\nJ. Clin. Microbiol. 2013 Nov;51(11):3849-51.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23966502"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "247522_Formonitrile_biofilm formation_TEXT.json",
+                        "label": "In this context, Formonitrile is not directly mentioned in relation to biofilm formation. The study focuses on the methodology for assessing biofilm formation and measuring headspace HCN concentrations in cultures. While biofilm formation is quantitatively assessed, there is no indication of how Formonitrile influences or interacts with this process, leading to a lack of direct relevance between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "biofilm formation",
+                        "target": "247522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "247522",
+                        "target": "247522_Formonitrile_biofilm formation_TEXT.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

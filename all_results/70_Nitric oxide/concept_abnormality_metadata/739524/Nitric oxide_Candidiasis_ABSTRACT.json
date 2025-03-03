@@ -1,0 +1,10 @@
+{
+    "context": "[4] than that of C57BL/6 control (55.5%) and IL-4 KO (61.1%) animals, but was not correlated with the extent of organ colonization. [5] Immunohistological analysis with a panel of myeloid and lymphoid markers revealed multiple renal abscesses, myocarditis, hepatitis, meningoencephalitis, and pneumonia in each strain, with a dominant presence of M\u00cf\u2020. [6] In the absence of IFN-\u00ce\u00b3, C. albicans induced striking changes in the phenotype of alveolar M\u00cf\u2020 and extensive perivascular lymphoid infiltrates in the lung. [7] Impairment in nitric oxide production by peritoneal M\u00cf\u2020 was shown only in GKO mice, and they produced Candida-specific immunoglobulin G (IgG), IgM, IgA, and IgG subclasses in lower titers. [8] Our in vivo studies with KO mice elucidate a critical role for IFN-\u00ce\u00b3, but not IL-4, in host defense against C. albicans. [1] Candida albicans is a common commensal organism in humans, and its importance as an opportunistic pathogen, particularly in immunocompromised patients, has continued to increase over the last two decades. [2] According to the National Nosocomial Infections Surveillance System, the ratio ofC. ",
+    "term_A": "Nitric oxide",
+    "term_B": "Candidiasis",
+    "llm_generation": {
+        "summary": "In this context, nitric oxide (NO) is implicated in the immune response against Candidiasis, specifically in the production by peritoneal macrophages (M\u00cf\u2020). The study indicates that impairment in NO production correlates with reduced antibody responses to Candida albicans in GKO mice, highlighting NO's role in host defense mechanisms against this opportunistic pathogen. The findings suggest that adequate NO levels are crucial for effective immune responses to C. albicans infections.",
+        "reason": "The score of 4 reflects a significant connection between nitric oxide and Candidiasis, as the context discusses the role of NO in immune responses and its impairment leading to reduced antibody production against Candida. This indicates a clear relationship within the context of host defense.",
+        "score": 4
+    }
+}

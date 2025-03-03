@@ -1,0 +1,10 @@
+{
+    "context": "For 20 H. pylori positive patients, no rise of 13C enrichment was found in 17 patients with duodenal 13C-UBT until 180 min (Fig. 2 ); however, there were three cases with 13C enrichment increasing from 15 min (Fig. 3 ). Two of these three patients received therapy for H. pylori eradication (lansoprazole 30 mg bid, amoxicillin 1 g bid, clarithromycin 500 mg bid, for 1 week) and follow-up endoscopic examination. Follow-up duodenal 13C-UBT was performed and no further rise of 13C enrichment was found. The urea breath test, especially 13C-UBT, has become a popular noninvasive test to diagnose H. pylori infection. It is especially useful and accurate to confirm H. pylori eradication [12\u201315]. It detects urease activity in the stomach. If there is urease activity strong enough elsewhere in the gastrointestinal tract, it can cause a positive test. ",
+    "term_A": "urea",
+    "term_B": "Infection, H Pylori",
+    "llm_generation": {
+        "summary": "In this context, urea is directly related to the diagnosis of H. pylori infection through the urea breath test (13C-UBT). This noninvasive test detects urease activity produced by H. pylori in the stomach, indicating the presence of the infection. The test's effectiveness in confirming H. pylori eradication further emphasizes the critical role of urea in this diagnostic process.",
+        "reason": "The score of 5 reflects a strong and direct relationship between urea and H. pylori infection, as the urea breath test is a key diagnostic tool that relies on the detection of urease activity associated with the infection.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The effect of Novel Tobacco Vapor (NTV) product use on indoor air quality (IAQ) was examined and evaluated in a test chamber. Chemical constituents for the IAQ evaluations were determined by (1) the detected constituents in NTV product emissions (i.e., mainstream) and (2) ETS and representative air quality markers. Three different environmental simulations were applied to the test chamber; two types of non-smoking rooms (ETS-free area) and one smoking room (ETS area). NTV generated propylene glycol, glycerol, triacetin, nicotine, and ammonia but no other chemical constituents in mainstream, and no constituents in sidestream. The amount of ammonia per puff from NTV was one fifth of that from a cigarette. NTV generated no sidestream. The concentrations of ETS markers (RSP, UVPM, FPM, solanesol, nicotine, 3-ethenylpyridine), volatile organic compound (VOC: toluene), total volatile organic compounds (TVOC), and carbon monoxide CO were below the limits of detection (LOD) or limits of quantification (LOQ) in both the non-smoking and the smoking areas when using the NTV product in the simulation chamber. ",
+    "term_A": "ammonia",
+    "term_B": "Propylene Glycols",
+    "llm_generation": {
+        "summary": "In this context, ammonia and propylene glycol are both identified as constituents generated from the emissions of Novel Tobacco Vapor (NTV) products. While ammonia is noted for its presence in the mainstream emissions, propylene glycol is also mentioned as a component. However, the relationship between them is not explored in detail, and they are presented more as co-occurring substances rather than having a direct interaction or functional relationship.",
+        "reason": "The score of 2 reflects a low relevance, as ammonia and propylene glycol are mentioned together in the context of NTV emissions, but there is no detailed discussion of their interaction or significance beyond their co-occurrence in the emissions.",
+        "score": 2
+    }
+}

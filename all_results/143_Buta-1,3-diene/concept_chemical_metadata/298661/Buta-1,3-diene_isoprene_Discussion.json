@@ -1,0 +1,10 @@
+{
+    "context": "Propylene does not have an AMCV because it is a simple asphyxiant. Annual average air concentration trends from 2002 to 2012 for nine monitoring sites were not significantly different, whereas for three monitoring sites increasing trends were noted (i.e., 1,3-butadiene at Groves, isoprene at Longview, and propylene at HRM 8). The toxicological significance of these increasing concentrations was minimal since all measured concentrations were well below their relevant AMCVs. Eight monitoring sites had significant decreasing trends of a specific olefin: 1,3-butadiene at Milby Park and Channelview; ethylene at Laredo Bridge and Lynchburg Ferry; isoprene at Danciger; and propylene at Baytown, HRM #3 Haden Rd, and Groves. Most of the sites showing decreasing trends from 2002 to 2012 are located in the Houston\u2013Galveston\u2013Brazoria ozone nonattainment areas. 1,3-Butadiene, propylene, and ethylene have been identified as highly reactive VOCs (HRVOCs) in Harris County, while ethylene and propylene are identified as HRVOCs in Brazoria County. HRVOCs contribute to ground-level ozone formation in these areas. ",
+    "term_A": "Buta-1,3-diene",
+    "term_B": "isoprene",
+    "llm_generation": {
+        "summary": "In this context, buta-1,3-diene and isoprene are both mentioned as volatile organic compounds (VOCs) monitored for air quality trends in specific locations. The text notes increasing trends for both compounds at different monitoring sites, indicating their relevance in environmental monitoring. However, there is no detailed discussion of their chemical relationship or interactions, limiting the depth of their connection.",
+        "reason": "The score of 2 reflects an indirect connection between buta-1,3-diene and isoprene, as they are both identified as VOCs with monitored trends. However, the lack of specific interactions or functional relationships in the context prevents a higher score.",
+        "score": 2
+    }
+}

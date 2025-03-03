@@ -1,0 +1,10 @@
+{
+    "context": "K H = exp ( A 0 ) and A 1 is a function of adsorbate/adsorbate interactions. It is known that the virial constants (A2, A3, etc.) can be ignored under conditions of low surface coverage, and linear section of the Virial graph (\u223c0.01\u202f<\u202fp/p0\u202f<\u202f\u223c0.2) can be fitted accurately (Zhao et\u00a0al., 2005). From table S1, the values of K H for toluene and chlorobenzene at 298\u202fK are in the order of chlorobenzene\u202f>\u202ftoluene. It is obvious that the K H for chlorobenzene is much greater than that for toluene. In general, the adsorption potential includes dispersive energy, repulsive energy, the field-dipole interaction and field gradient-quadripole interaction, among which dispersive and repulsive energies are the contributor of adsorption potential. The potentials are affected by the intermolecular distance (r) and polarization (\u03b1), and the latter is the decisive parameter. In this study, both adsorbed molecules contain benzene ring, and the difference is the substitutional group. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene and toluene are compared in terms of their adsorption characteristics, specifically their Henry's law constants (K_H) at 298 K. The data indicates that chlorobenzene has a significantly higher K_H value than toluene, suggesting that chlorobenzene is adsorbed more strongly than toluene under the specified conditions. Both compounds share a common structural feature, the benzene ring, but differ in their substituent groups, which influences their adsorption behavior.",
+        "reason": "The score of 4 reflects a significant connection between chlorobenzene and toluene, as evidenced by quantitative data comparing their adsorption potentials. The context provides clear information on their relative adsorption strengths, indicating a meaningful relationship based on their chemical properties.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[2] Surface or free urease has a pH optimum between pH 7.5 and 8.0 but is irreversibly inactivated below pH 4.0 . [3] The activity of cytoplasmic urease is low at neutral pH but increases 10- to 20-fold as the external pH falls between 6.5 and 5.5, and its activity remains high down to pH \u00e2\u02c6\u00bc2.5 . [4] Thus, cytoplasmic, not surface, urease is required for acid resistance. [5] The unmodified urea permeability of the inner membrane is insufficient to supply enough urea to intrabacterial urease for urease activity to buffer the bacterial periplasm in the face of gastric acidity (the median diurnal acidity of the human stomach is pH 1.4). [6] The data here show that H. pylori expresses a urea transport protein with unique acid-dependent properties that activates the rate of urea entry into the cytoplasm. [1] The permeability of urea across phospholipid bilayer membranes, 4 \u00c3\u2014 10\u00e2\u02c6\u20196 cm s\u00e2\u02c6\u20191, is insufficient to saturate internal urease. [2] At neutral pH, this rate of urea entry is not able to saturate intrabacterial urease even with 100 mM external urea. ",
+    "term_A": "urea",
+    "term_B": "Gastric acidity",
+    "llm_generation": {
+        "summary": "In this context, urea and gastric acidity are interconnected through the activity of urease in response to pH levels. Urease activity is crucial for buffering the acidic environment of the stomach, particularly in Helicobacter pylori, which requires urea to counteract gastric acidity. The study highlights that the permeability of urea is insufficient to meet the demands of urease activity under acidic conditions, indicating a significant relationship between urea availability and gastric acidity for bacterial survival.",
+        "reason": "The score of 4 reflects a strong connection between urea and gastric acidity, as the context discusses how urease activity is influenced by pH and how urea is necessary for buffering against gastric acidity. The relationship is supported by specific data on urease activity and its dependence on pH levels.",
+        "score": 4
+    }
+}

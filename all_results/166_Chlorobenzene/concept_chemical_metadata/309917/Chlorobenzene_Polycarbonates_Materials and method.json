@@ -1,0 +1,10 @@
+{
+    "context": "Prior to application, chlorobenzene was diluted in methanol (Merck) serially. Cellular assays The human adherent lung epithelial cell line A549 (lung carcinoma, ATCC no. CCL-185; LGC Promochem, Wesel, Germany) and PBMC were used as indicator cells. For the direct exposure to chlorobenzene tissue culture inserts with a polycarbonate membrane (pore diameter 0.4\u03bcm, growth surface 2.6cm2, Maxicell 24w, TPP\u00ae, Trasadingen, Switzerland) and Slide Wells (SonicSeal Slide\u2122 Wells, Nunc, Wiesbaden, Germany) were utilized. Cell culture of PBMC Peripheral blood mononuclear cells were isolated from buffy coats of healthy donors by density gradient centrifugation with Ficoll-Paque\u2122 (Amersham Pharmacia Biotech, Freiburg, Germany). The cell number was adjusted to 2.5\u00d7106 PBMC/ml in CO2-independent cell culture medium (Gibco Invitrogen Corp., Paisly, UK) that was supplemented with 30% RPMI1640, 5% fetal bovine serum, 1% stabilized glutamine (200mM N-acetyl-l-alanyl-l-glutamine), and 1% essential amino acids (BME-amino acids 100\u00d7; all reagents by Biochrom, Berlin, Germany). Tissue culture inserts were placed into 24-well plates (TPP\u00ae) with 400\u03bcl/well medium. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "Polycarbonates",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is used as a chemical for direct exposure in cellular assays, while polycarbonates are mentioned as the material of the membrane in tissue culture inserts utilized for these assays. The relationship is primarily structural, as polycarbonate membranes serve as a barrier for the exposure of cells to chlorobenzene, but there is no discussion of any chemical interaction or biological significance between the two.",
+        "reason": "The score of 2 reflects an indirect connection, as chlorobenzene and polycarbonates are related through their roles in the experimental setup, but there is no detailed discussion of their interaction or functional relationship.",
+        "score": 2
+    }
+}

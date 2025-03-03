@@ -1,0 +1,10 @@
+{
+    "context": "However, the agreement with the results of spiked EBC demonstrates a high reliability of this kind of calibration. Moreover, the assurance of the method was proved against artificial synthesis of nitrotyrosine. Because tyrosine could partly be nitrated under strong acid conditions and in the presence of nitrite but not under conditions of pH 3\u20135, extreme acid conditions were not used in our method. Using a worst-case simulated solution of tyrosine, nitrite and nitrate no additional amounts of nitrotyrosine were formed during the procedure. As seen in the chromatogram the qualifier mass reaction of 3-nitrotyrosine could be used for concentration of about of 100pg/mL and higher, which provides a favoured possibility for the verification of increased NT levels. Since nitrotyrosine was assumed to be a biological marker for inflammatory processes, several methods for the quantification of free and protein-bonded 3-nitrotyrosine in biological materials have been developed. Most applications were performed for the analysis of nitrotyrosine in plasma. ",
+    "term_A": "3-Nitrotyrosine",
+    "term_B": "Nitrate",
+    "llm_generation": {
+        "summary": "In this context, 3-Nitrotyrosine is discussed as a biological marker for inflammatory processes, with its formation potentially linked to the presence of nitrating agents such as nitrate and nitrite. The study indicates that while tyrosine can be nitrated under certain conditions, the method used did not produce additional nitrotyrosine from nitrate or nitrite under controlled pH conditions. This suggests a relationship where nitrate may influence the formation of nitrotyrosine, but the specific conditions and mechanisms are not fully elucidated.",
+        "reason": "The score of 3 reflects a moderate relevance, as there is an indication that nitrate can influence the formation of 3-Nitrotyrosine, but the context does not provide detailed evidence or a clear mechanism of interaction.",
+        "score": 3
+    }
+}

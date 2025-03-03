@@ -1,0 +1,10 @@
+{
+    "context": "with R 2 =0.988. Therefore, HCNS itself, or a bigger molecule fragmenting into HCNS, is a likely candidate for this mass m/z 60. To further investigate the origin of m/z 60, the fragmentation patterns of a number of volatile glucosinolate breakdown products were studied. Based on GC\u2013MS analysis, B. nigra root glucosinolate and VOC profiles reported in the literature, the following thiocyanates (TC) and isothiocyanates (ITC) were considered as candidates for the parent mass: methyl TC, methyl ITC, ethyl TC, ethyl ITC, allyl ITC and 2-phenethyl ITC. Pure samples of the above mentioned compounds were measured with PTR-MS in order to obtain their mass spectra and fragmentation patterns. For this, closed vials (5mL volume) containing the pure compound were used, with a syringe needle penetrating the septum in the cap. These emitters were placed in a 1L volume cuvette and flushed with air. ",
+    "term_A": "Methylsulfanylmethane",
+    "term_B": "Thiocyanates",
+    "llm_generation": {
+        "summary": "In this context, methylsulfanylmethane and thiocyanates are discussed in relation to the breakdown products of glucosinolates from B. nigra roots. The study investigates the fragmentation patterns of various volatile compounds, including thiocyanates, suggesting that methylsulfanylmethane may be related to the formation of thiocyanates through metabolic processes. However, the specific interaction between these two compounds is not deeply explored.",
+        "reason": "The score of 3 reflects a moderate relevance, as both methylsulfanylmethane and thiocyanates are part of the same investigation into glucosinolate breakdown products, indicating some level of interaction, but lacking detailed discussion on their specific relationship.",
+        "score": 3
+    }
+}

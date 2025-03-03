@@ -1,0 +1,10 @@
+{
+    "context": "[1] (A) The total OH reactivity measurements (open circles) are shown with the OH reactivity we calculated from the sum of individual chemicals' reaction frequencies (solid squares). [2] Calculated and measured OH reactivity increase with temperature, as expected, because they are both dominated by isoprene emissions, which increase with temperature over this temperature range. [3] Error bars for measurements and calculations are the combination of the total uncertainty in the measurements or calculations and the SEM. [4] (B) The calculated OH reactivity (solid black squares) consists of contributions from OH reactions with isoprene (open orange squares), CO and NO2 (green diamonds), HCHO (black plus symbols), acetaldehyde (magenta circles), anthropogenic VOCs (red triangles), and terpenes (blue crosses). [5] The data are smoothed with a running mean over 5 K, which smoothes the curves without changing the statistics of the missing OH reactivity. [1] We used the chemical species reported in Table 1 to calculate the OH reactivity for PROPHET (Fig. 1B). [2] Isoprene provides the largest contribution (49%), with contributions from CO and NO2 (21%), HCHO and acetaldehyde (12% each), anthropogenic VOCs (3%), monoterpenes (2%), and O3, HO2, SO2, and NO (<1% combined). ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Rosaniline Dyes",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene (isoprene) is discussed in relation to its contribution to OH reactivity, which is influenced by temperature and is a significant factor in atmospheric chemistry. However, Rosaniline Dyes are not mentioned or connected to the discussion of isoprene or OH reactivity, indicating no direct relationship between the two terms in this context.",
+        "reason": "The score of 1 reflects that 2-methylbuta-1,3-diene and Rosaniline Dyes are mentioned in the same context but without any discussion of their relationship or relevance to each other. They appear coincidentally without any direct interaction.",
+        "score": 1
+    }
+}

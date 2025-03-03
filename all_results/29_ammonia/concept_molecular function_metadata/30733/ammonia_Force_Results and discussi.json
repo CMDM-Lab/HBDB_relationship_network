@@ -1,0 +1,10 @@
+{
+    "context": "This coincides with earlier studies that ammonia mass transfer coefficient is much more sensitive to a change of air velocity in a lower velocity range than that in a higher velocity range (Ye et\u00a0al., 2008; Arogo et\u00a0al., 1999). Meanwhile, free ammonia accounted for only 79\u201388% of total ammonia at 50\u201358\u00a0\u00b0C compared with 92\u201399% at 65\u2013100\u00a0\u00b0C. The ammonia saturation concentrations (C s ) were similar across the seven combinations of boiling point temperature and vacuum (p\u00a0=\u00a00.25), although it appeared to have a higher C s at a lower temperature as shown in Table\u00a01. Therefore, ammonia mass transfer slowed down due to decreasing driving force as stripping temperature decreased to below 65\u00a0\u00b0C. Both K L and C s were similar across the combinations of boiling point temperature 65\u2013100\u00a0\u00b0C and vacuum pressure 25.1\u2013101.3 kPa. Because vacuum increases vapor current and liquid turbulence, it enhances ammonia mass transfer. ",
+    "term_A": "ammonia",
+    "term_B": "Force",
+    "llm_generation": {
+        "summary": "In this context, ammonia is discussed in relation to its mass transfer characteristics, particularly how its transfer coefficient is influenced by air velocity and temperature. The term 'Force' refers to the driving force behind ammonia mass transfer, which decreases as the stripping temperature lowers. This indicates a significant relationship where the efficiency of ammonia transfer is directly affected by the driving force, particularly in terms of temperature and vacuum conditions.",
+        "reason": "The score of 4 reflects a strong connection between ammonia and Force, as the context provides evidence of how changes in temperature and vacuum pressure affect the mass transfer of ammonia, indicating a clear relationship between the two terms.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Naphthalene increased risk for asthmatics in the second trimester and whole pregnancy (21%) and whole pregnancy pyrene increased preeclampsia risk for non-asthmatics (7%). Analyses restricted to nulliparous women, as well as those restricted by pre-pregnancy BMI status to normal weight only and obese women only, generally yielded similar results as the main analyses although with a loss of precision due to the smaller sample. Restriction to severe preeclampsia cases attenuated the results and several inverse associations were observed (data not shown). We found first trimester exposure to NOx and SO2 and whole pregnancy elemental carbon were associated with higher risks of preeclampsia among asthmatic women compared to their non-asthmatic counterparts. SO2 has not been previously studied in relation to preeclampsia alone, so our findings for this pollutant are novel. Most notably, nearly all the VOCs we studied were associated with increased risk of preeclampsia, with significantly higher risk in pregnancies complicated by maternal asthma. In our data, modeled VOC exposure among asthmatics was associated with increased preeclampsia risk up to 70%. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Elements",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is identified as an air pollutant associated with increased risks of preeclampsia among asthmatic women. While the term 'elements' is mentioned, it refers to elemental carbon and does not directly relate to sulfur dioxide. The study highlights the novel association of SO2 with preeclampsia, but does not elaborate on its relationship with other elements, indicating a lack of direct connection between SO2 and the broader category of elements.",
+        "reason": "The score of 2 reflects an indirect connection, as sulfur dioxide is discussed in relation to health risks, while 'elements' refers to a general category without specific interaction with SO2. Their relationship is not detailed, indicating limited relevance.",
+        "score": 2
+    }
+}

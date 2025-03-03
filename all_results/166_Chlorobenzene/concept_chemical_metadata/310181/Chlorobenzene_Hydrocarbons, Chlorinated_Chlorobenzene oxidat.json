@@ -1,0 +1,10 @@
+{
+    "context": "The resulting destruction pathways relied heavily on a C\u2013Cl scission to initiate reaction. The bond dissociation energy for the C\u2013Cl bond in chlorobenzene is about 15% less than the C\u2013H bond in benzene. When pure or inert-diluted chlorobenzene is pyrolyzed, the weaker bond strength results in C\u2013Cl scission as the dominant route of unimolecular chlorobenzene decomposition. Further, in a dilute atmosphere, chlorinated hydrocarbon byproducts are reduced, since the liberated chlorine radical quickly abstracts hydrogen to form HCl. The C\u2013Cl scission step is weakly chain branching and does not provide for the oxidation of chlorobenzene observed at lower temperatures (e.g., 1000 K), which requires a stronger chain-branching mechanism to describe the measured results. Based on the above observations, the chain-branching destruction pathway seen for benzene is proposed to exist for chlorobenzene oxidation as well. This is used to develop chemical-kinetic modeling that adequately describes the experimental results. Two chlorobenzene chemical-kinetic mechanisms are developed. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "Hydrocarbons, Chlorinated",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is discussed in relation to its decomposition pathways, particularly focusing on the C\u2013Cl bond scission that is characteristic of chlorinated hydrocarbons. The weaker bond strength of chlorobenzene compared to benzene leads to specific reaction mechanisms during pyrolysis, highlighting its role as a chlorinated hydrocarbon. The study emphasizes the chemical-kinetic modeling of chlorobenzene's behavior, which is relevant to understanding the broader category of chlorinated hydrocarbons.",
+        "reason": "The score of 4 reflects a significant connection between chlorobenzene and chlorinated hydrocarbons, as the context discusses specific chemical mechanisms and reactions involving chlorobenzene that are characteristic of chlorinated hydrocarbons. The detailed analysis of bond strengths and reaction pathways supports this relationship.",
+        "score": 4
+    }
+}

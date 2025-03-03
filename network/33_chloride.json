@@ -1,0 +1,1252 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "chloride",
+                    "label": "chloride",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "chloride",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "chloride",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "chloride",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "chloride",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "chloride",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "chloride",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chloride",
+                        "label": "chloride",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Epilepsy",
+                        "label": "Epilepsy",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Epilepsy",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chloride",
+                        "label": "chloride",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Bicarbonates",
+                        "label": "Bicarbonates",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ferric chloride",
+                        "label": "ferric chloride",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chlorides",
+                        "label": "Chlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Coal",
+                        "label": "Coal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "WATER,DISTILLED",
+                        "label": "WATER,DISTILLED",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Bicarbonates",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "ferric chloride",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Chemicals",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Elements",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Chlorides",
+                        "score": 21
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Coal",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "WATER,DISTILLED",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chloride",
+                        "label": "chloride",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exocytosis",
+                        "label": "Exocytosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ion Transport",
+                        "label": "Ion Transport",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "chloride transport",
+                        "label": "chloride transport",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chromosome Pairing",
+                        "label": "Chromosome Pairing",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Regulation",
+                        "label": "Regulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "symporter activity",
+                        "label": "symporter activity",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Exhalation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Exocytosis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Ion Transport",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "chloride transport",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Chromosome Pairing",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "Regulation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "symporter activity",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chloride",
+                        "label": "chloride",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "CLCA2 gene",
+                        "label": "CLCA2 gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "chloride",
+                        "target": "CLCA2 gene",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chloride",
+                        "label": "chloride",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chloride",
+                        "label": "chloride",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Epilepsy": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Epilepsy",
+                        "label": "Epilepsy",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390",
+                        "label": "Chloride - a precursor in the formation of volatile organochlorines by forest plants?\nF. Laturnus, M. Matucha\nJ Environ Radioact 2008 Jan;99(1):119-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17850934"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390_chloride_Epilepsy_Abstract.json",
+                        "label": "In this context, chloride (Clâˆ’) homeostasis is implicated in the generation of epileptic activities, particularly in patients with mesial temporal lobe epilepsy associated with hippocampal sclerosis. The study investigates whether alterations in Clâˆ’ levels affect GABAergic signaling, which is crucial for inhibitory neurotransmission. The findings suggest that disrupted Clâˆ’ homeostasis may contribute to abnormal neuronal excitability and spontaneous interictal-like activity in the brain tissue of epilepsy patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Epilepsy",
+                        "target": "58390",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "58390",
+                        "target": "58390_chloride_Epilepsy_Abstract.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Bicarbonates": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Bicarbonates",
+                        "label": "Bicarbonates",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390",
+                        "label": "Chloride - a precursor in the formation of volatile organochlorines by forest plants?\nF. Laturnus, M. Matucha\nJ Environ Radioact 2008 Jan;99(1):119-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17850934"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390_chloride_Bicarbonates_Introduction.json",
+                        "label": "In this context, chloride (Clâˆ’) and bicarbonates (HCO3âˆ’) are both involved in the synaptic currents mediated by GABAA receptors, which are crucial for GABAergic signaling in neurons. Their concentrations influence whether GABA binding results in hyperpolarization or depolarization of the neuron. Changes in Clâˆ’ homeostasis can affect the role of bicarbonates in this signaling pathway, particularly in the context of epilepsy, where alterations in these ions can switch the signaling dynamics.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Bicarbonates",
+                        "target": "58390",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "58390",
+                        "target": "58390_chloride_Bicarbonates_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "ferric chloride": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ferric chloride",
+                        "label": "ferric chloride",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "55240",
+                        "label": "Synthesis of 4-vinylpyridine-divinylbenzene copolymer adsorbents for microwave-assisted desorption of benzene.\nQB. Meng, GS. Yang, YS. Lee\nJ. Hazard. Mater. 2012 Feb;205-206:118-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22236950"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "55240_chloride_ferric chloride_Experimental.json",
+                        "label": "In this context, chloride is indirectly related to ferric chloride through the process of polymer bead modification. Ferric chloride, which contains chloride ions, is used as a reagent in the post-crosslinking reaction of the polymer beads. The presence of ferric chloride suggests that chloride plays a role in the chemical interactions during the modification process, although the specific role of chloride itself is not detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ferric chloride",
+                        "target": "55240",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "55240",
+                        "target": "55240_chloride_ferric chloride_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "54895",
+                        "label": "Exhaust characteristics during the pyrolysis of ZnCl2 immersed biosludge.\nHL. Chiang, KH. Lin, HH. Chiu\nJ. Hazard. Mater. 2012 Aug;229-230:233-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22738773"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "54895_chloride_Chemicals_Results and discussi.json",
+                        "label": "In this context, chloride, specifically in the form of zinc chloride (ZnCl2), is discussed as a chemical agent used in the activation of biosludge during pyrolysis. The relationship highlights how the concentration of ZnCl2 affects the micropore volume and overall structure of the biosludge, indicating that chloride, as part of a chemical compound, plays a significant role in the chemical treatment process. However, the term 'chemicals' is used broadly to refer to various substances involved in the process without a specific focus on chloride beyond its role in ZnCl2.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "55240",
+                        "label": "Synthesis of 4-vinylpyridine-divinylbenzene copolymer adsorbents for microwave-assisted desorption of benzene.\nQB. Meng, GS. Yang, YS. Lee\nJ. Hazard. Mater. 2012 Feb;205-206:118-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22236950"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "55240_chloride_Chemicals_Experimental.json",
+                        "label": "In this context, chloride is mentioned as part of a list of chemicals purchased for a study, specifically anhydrous ferric chloride (FeCl3). However, there is no detailed discussion of its role or interaction with other chemicals listed. The mention of chloride is incidental, as it is one of many chemicals used in the research without further elaboration on its significance or function.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "54895",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "54895",
+                        "target": "54895_chloride_Chemicals_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "55240",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "55240",
+                        "target": "55240_chloride_Chemicals_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Elements": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "54895",
+                        "label": "Exhaust characteristics during the pyrolysis of ZnCl2 immersed biosludge.\nHL. Chiang, KH. Lin, HH. Chiu\nJ. Hazard. Mater. 2012 Aug;229-230:233-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22738773"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "54895_chloride_Elements_Results and discussi.json",
+                        "label": "In this context, chloride is mentioned as part of a broader discussion on the content of various elements in pyrolytic residues affected by zinc chloride (ZnCl2) concentration. While chloride itself is not explicitly detailed, it is implied as one of the elements being analyzed alongside others like Al, Na, Ca, and toxic elements. The relationship is indirect, as chloride is part of the elemental composition being studied, but no specific interactions or significance are provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Elements",
+                        "target": "54895",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "54895",
+                        "target": "54895_chloride_Elements_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chlorides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chlorides",
+                        "label": "Chlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812",
+                        "label": "Moderate intensity exercise mediates comparable increases in exhaled chloride as albuterol in individuals with cystic fibrosis.\nCM. Wheatley, SE. Baker, MA. Morgan, MG. Martinez, B. Liu, SM. Rowe, WJ. Morgan, EC. Wong, SR. Karpen, EM. Snyder\nRespir Med 2015 Aug;109(8):1001-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26077038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812_chloride_Chlorides_Introduction.json",
+                        "label": "In this context, 'chloride' and 'Chlorides' refer to the same ion, specifically in the study of ion transport pathways in airway epithelial cells. The research focuses on the regulation of chloride transport through various mechanisms, including CFTR and CaCC, highlighting the importance of chloride ions in lung function and their measurement in exhaled breath condensate (EBC) and nasal potential difference (NPD) assessments. The terms are used interchangeably to discuss chloride's role in ion regulation during exercise and pharmacological interventions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812_chloride_Chlorides_Methods.json",
+                        "label": "In this context, 'chloride' and 'chlorides' refer to the same ion, Cl-, which is involved in the measurement of nasal potential difference (NPD) in cystic fibrosis research. The study discusses changes in chloride conductance during various treatments, indicating that both terms are used interchangeably to describe the same physiological component relevant to ion transport and respiratory function in cystic fibrosis patients.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52881",
+                        "label": "Temporal and spatial variability of trace volatile organic compounds in rainwater.\nKM. Mullaugh, JM. Hamilton, GB. Avery, JD. Felix, RN. Mead, JD. Willey, RJ. Kieber\nChemosphere 2015 Sep;134:203-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25950137"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52881_chloride_Chlorides_Material and methods.json",
+                        "label": "In this context, chloride (Cl−) and chlorides are discussed in relation to their measurement in rainwater samples. Chloride is specifically analyzed as part of the chemical composition of the rain, indicating its presence as an ion in the samples. The terms are used interchangeably, with chloride referring to the anion and chlorides generally encompassing all forms of chloride compounds present in the samples. However, there is no detailed exploration of their distinct roles or interactions beyond their measurement.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390",
+                        "label": "Chloride - a precursor in the formation of volatile organochlorines by forest plants?\nF. Laturnus, M. Matucha\nJ Environ Radioact 2008 Jan;99(1):119-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17850934"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390_chloride_Chlorides_Abstract.json",
+                        "label": "In this context, chloride (Cl-) and chlorides are discussed in relation to their role in GABAergic signaling and the function of chloride transporters like KCC2 and NKCC1. The study highlights how changes in chloride transporter expression can influence neuronal excitability and contribute to epileptiform activity, suggesting that both terms are integral to understanding the mechanisms of epilepsy and potential therapeutic targets.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390_chloride_Chlorides_Introduction.json",
+                        "label": "In this context, chloride (Clâˆ’) and chlorides are discussed in relation to GABAA receptor-mediated synaptic currents. Chloride ions are essential for the function of these receptors, influencing neuronal excitability by either hyperpolarizing or depolarizing neurons based on their concentrations. The text highlights the importance of chloride homeostasis and transporters in regulating GABAergic signaling, indicating a direct and critical relationship between chloride and chlorides in neuronal function.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chlorides",
+                        "target": "52812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "52812",
+                        "target": "52812_chloride_Chlorides_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "52812",
+                        "target": "52812_chloride_Chlorides_Methods.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chlorides",
+                        "target": "52881",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "52881",
+                        "target": "52881_chloride_Chlorides_Material and methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chlorides",
+                        "target": "58390",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "58390",
+                        "target": "58390_chloride_Chlorides_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "58390",
+                        "target": "58390_chloride_Chlorides_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Coal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Coal",
+                        "label": "Coal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "54895",
+                        "label": "Exhaust characteristics during the pyrolysis of ZnCl2 immersed biosludge.\nHL. Chiang, KH. Lin, HH. Chiu\nJ. Hazard. Mater. 2012 Aug;229-230:233-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22738773"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "54895_chloride_Coal_Results and discussi.json",
+                        "label": "In this context, chloride is mentioned in relation to the effects of zinc chloride (ZnCl2) on the composition of coal during pyrolysis. The presence of ZnCl2 is noted to influence the breakdown of coal structure and the subsequent release or alteration of various elemental contents, including chloride. However, the specific role of chloride itself in the coal reaction process is not elaborated upon, indicating a more indirect relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Coal",
+                        "target": "54895",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "54895",
+                        "target": "54895_chloride_Coal_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "WATER,DISTILLED": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "WATER,DISTILLED",
+                        "label": "WATER,DISTILLED",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "55240",
+                        "label": "Synthesis of 4-vinylpyridine-divinylbenzene copolymer adsorbents for microwave-assisted desorption of benzene.\nQB. Meng, GS. Yang, YS. Lee\nJ. Hazard. Mater. 2012 Feb;205-206:118-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22236950"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "55240_chloride_WATER,DISTILLED_Experimental.json",
+                        "label": "In this context, chloride and distilled water are mentioned in the process of washing and extracting polymer beads. Distilled water is used as a solvent in the washing process, which may help remove impurities, including chloride ions, from the polymer beads. However, there is no direct discussion of the chemical interaction or specific relevance of chloride in relation to distilled water beyond its incidental mention in the washing procedure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "WATER,DISTILLED",
+                        "target": "55240",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "55240",
+                        "target": "55240_chloride_WATER,DISTILLED_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812",
+                        "label": "Moderate intensity exercise mediates comparable increases in exhaled chloride as albuterol in individuals with cystic fibrosis.\nCM. Wheatley, SE. Baker, MA. Morgan, MG. Martinez, B. Liu, SM. Rowe, WJ. Morgan, EC. Wong, SR. Karpen, EM. Snyder\nRespir Med 2015 Aug;109(8):1001-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26077038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812_chloride_Exhalation_Methods.json",
+                        "label": "In this context, chloride is quantified in exhaled breath condensate (EBC) collected from subjects during cycling. The study details the methodology for measuring chloride levels, including the calculation of net chloride efflux, which accounts for ion transport dynamics during exhalation. This indicates a direct relationship between chloride levels and the process of exhalation, particularly in the context of respiratory physiology and ion transport mechanisms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "52812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "52812",
+                        "target": "52812_chloride_Exhalation_Methods.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Exocytosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exocytosis",
+                        "label": "Exocytosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812",
+                        "label": "Moderate intensity exercise mediates comparable increases in exhaled chloride as albuterol in individuals with cystic fibrosis.\nCM. Wheatley, SE. Baker, MA. Morgan, MG. Martinez, B. Liu, SM. Rowe, WJ. Morgan, EC. Wong, SR. Karpen, EM. Snyder\nRespir Med 2015 Aug;109(8):1001-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26077038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812_chloride_Exocytosis_Introduction.json",
+                        "label": "In this context, chloride (Cl−) is linked to exocytosis through the activation of calcium-activated chloride channels (CaCC), which provide a CFTR-independent mechanism for Cl− secretion. The study discusses how purinergic stimulation can enhance Cl− secretion and inhibit epithelial sodium channel (ENaC) activity, suggesting a role for chloride in the regulation of ion transport in airway epithelial cells, particularly in cystic fibrosis (CF) patients. This relationship highlights the importance of chloride in cellular processes related to exocytosis and ion regulation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exocytosis",
+                        "target": "52812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "52812",
+                        "target": "52812_chloride_Exocytosis_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Ion Transport": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ion Transport",
+                        "label": "Ion Transport",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812",
+                        "label": "Moderate intensity exercise mediates comparable increases in exhaled chloride as albuterol in individuals with cystic fibrosis.\nCM. Wheatley, SE. Baker, MA. Morgan, MG. Martinez, B. Liu, SM. Rowe, WJ. Morgan, EC. Wong, SR. Karpen, EM. Snyder\nRespir Med 2015 Aug;109(8):1001-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26077038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812_chloride_Ion Transport_Introduction.json",
+                        "label": "In this context, chloride is directly linked to ion transport mechanisms in airway epithelial cells, particularly through the regulation of CFTR (Cystic Fibrosis Transmembrane Conductance Regulator) and CaCC (Calcium-activated Chloride Channels). The study investigates how exercise and pharmacological agents like albuterol affect chloride transport, hypothesizing that exercise may enhance chloride transport more effectively than albuterol. This indicates a significant role of chloride in the overall ion transport processes critical for lung function, especially in individuals with cystic fibrosis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ion Transport",
+                        "target": "52812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "52812",
+                        "target": "52812_chloride_Ion Transport_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "chloride transport": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chloride transport",
+                        "label": "chloride transport",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812",
+                        "label": "Moderate intensity exercise mediates comparable increases in exhaled chloride as albuterol in individuals with cystic fibrosis.\nCM. Wheatley, SE. Baker, MA. Morgan, MG. Martinez, B. Liu, SM. Rowe, WJ. Morgan, EC. Wong, SR. Karpen, EM. Snyder\nRespir Med 2015 Aug;109(8):1001-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26077038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812_chloride_chloride transport_Introduction.json",
+                        "label": "In this context, chloride and chloride transport are directly related as the study investigates the regulation of chloride ions in the airway through various measurement techniques. The research hypothesizes that exercise will enhance chloride transport, as measured by exhaled breath condensate (EBC) and nasal potential difference (NPD), indicating a significant role of chloride in respiratory ion transport mechanisms, particularly in individuals with cystic fibrosis (CF).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chloride transport",
+                        "target": "52812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "52812",
+                        "target": "52812_chloride_chloride transport_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Chromosome Pairing": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromosome Pairing",
+                        "label": "Chromosome Pairing",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390",
+                        "label": "Chloride - a precursor in the formation of volatile organochlorines by forest plants?\nF. Laturnus, M. Matucha\nJ Environ Radioact 2008 Jan;99(1):119-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17850934"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390_chloride_Chromosome Pairing_Introduction.json",
+                        "label": "In this context, chloride (Clâˆ’) is discussed primarily in relation to its role in GABAergic signaling and neuronal activity, particularly in the context of epilepsy. However, there is no mention or connection to chromosome pairing, which typically involves genetic processes rather than ionic transport mechanisms. Thus, the relationship between chloride and chromosome pairing is not established in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chromosome Pairing",
+                        "target": "58390",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "58390",
+                        "target": "58390_chloride_Chromosome Pairing_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Regulation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Regulation",
+                        "label": "Regulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812",
+                        "label": "Moderate intensity exercise mediates comparable increases in exhaled chloride as albuterol in individuals with cystic fibrosis.\nCM. Wheatley, SE. Baker, MA. Morgan, MG. Martinez, B. Liu, SM. Rowe, WJ. Morgan, EC. Wong, SR. Karpen, EM. Snyder\nRespir Med 2015 Aug;109(8):1001-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26077038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812_chloride_Regulation_Introduction.json",
+                        "label": "In this context, chloride is discussed in relation to its transport regulation in airway epithelial cells, particularly through the CFTR and CaCC pathways. The study aims to compare the effects of exercise and albuterol on chloride regulation, hypothesizing that exercise may enhance chloride transport more effectively than pharmacological intervention. This indicates a significant relationship between chloride and its regulation mechanisms in the context of lung function and cystic fibrosis treatment.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Regulation",
+                        "target": "52812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "52812",
+                        "target": "52812_chloride_Regulation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "symporter activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "symporter activity",
+                        "label": "symporter activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390",
+                        "label": "Chloride - a precursor in the formation of volatile organochlorines by forest plants?\nF. Laturnus, M. Matucha\nJ Environ Radioact 2008 Jan;99(1):119-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17850934"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "58390_chloride_symporter activity_Introduction.json",
+                        "label": "In this context, chloride (Clâˆ’) is crucial for GABAergic signaling, with its homeostasis influenced by symporter activity. The Na-K-2Cl cotransporter (NKCC1) increases intracellular Clâˆ’, promoting depolarization, while the K-Cl cotransporter (KCC2) extrudes Clâˆ’, facilitating hyperpolarization. The balance of these transporters is essential for proper neuronal function and is regulated during development, affecting GABA responses in neurons.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "symporter activity",
+                        "target": "58390",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "58390",
+                        "target": "58390_chloride_symporter activity_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "CLCA2 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "CLCA2 gene",
+                        "label": "CLCA2 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812",
+                        "label": "Moderate intensity exercise mediates comparable increases in exhaled chloride as albuterol in individuals with cystic fibrosis.\nCM. Wheatley, SE. Baker, MA. Morgan, MG. Martinez, B. Liu, SM. Rowe, WJ. Morgan, EC. Wong, SR. Karpen, EM. Snyder\nRespir Med 2015 Aug;109(8):1001-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26077038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "52812_chloride_CLCA2 gene_Introduction.json",
+                        "label": "In this context, chloride is discussed in relation to ion transport mechanisms in individuals with cystic fibrosis (CF), where the CLCA2 gene is implicated in the regulation of chloride channels. The study examines how exercise and albuterol affect chloride transport, suggesting that the CLCA2 gene may play a role in modulating chloride levels in the airway, which is critical for maintaining proper lung function in CF patients. However, the direct relationship between chloride levels and the CLCA2 gene is not explicitly detailed in the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "CLCA2 gene",
+                        "target": "52812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "52812",
+                        "target": "52812_chloride_CLCA2 gene_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        }
+    }
+}

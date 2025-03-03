@@ -1,0 +1,10 @@
+{
+    "context": "[8] Taken together, these findings show that mitochondrial ATP production generates the intracellular ATP spike, and the ATP that is released in response to stimulation of Jurkat cells as well as primary CD4+ T cells, regardless of whether or not these cells utilize their mitochondria for bulk ATP production in the resting, non-stimulated state. [1] Mitochondria generate the ATP that is released by stimulated T cells. [2] A and B, resting Jurkat cells derive their ATP mainly from glycolysis and primary CD4+ T cells mainly from mitochondrial oxidative phosphorylation. [3] Jurkat cells (A) or CD4+ T cells (B) were treated with vehicle control (black), 2-DG (20 mm, blue) to block glycolysis or CCCP (10 \u00ce\u00bcm, red) or oligomycin (10 \u00ce\u00bcm, green) to inhibit mitochondrial ATP production for the indicated times, and intracellular ATP (iATP) levels were measured with a luciferase bioluminescence assay. [4] Data show means \u00c2\u00b1 S.D. of n = 4 independent experiments; *, p < 0.05 versus control. [5] C, Jurkat cells were treated with CCCP (1 \u00ce\u00bcm) for 10 min, stimulated with anti-CD3/CD28 coated beads for 30 s, and iATP was assessed by HPLC. [6] Data represent means \u00c2\u00b1 S.D. of n = 3 separate experiments; *, p < 0.05. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Glycolysis",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is highlighted as a critical energy molecule produced primarily through glycolysis in resting Jurkat cells, while primary CD4+ T cells generate ATP mainly via mitochondrial oxidative phosphorylation. The study emphasizes the role of glycolysis in ATP production under specific conditions, indicating a direct relationship between ATP levels and glycolytic activity in T cells.",
+        "reason": "The score of 4 reflects a significant connection between ATP and glycolysis, as the context discusses how ATP is generated from glycolysis in Jurkat cells, supported by experimental data showing the effects of glycolytic inhibition on ATP levels.",
+        "score": 4
+    }
+}

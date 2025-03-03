@@ -1,0 +1,10 @@
+{
+    "context": "[2] We intended to evaluate the clinical validity of the test for first diagnosis of H pylori infection and for monitoring efficacy of eradication treatment. [1] In another part of this study, 115 participants (62 men, 53 women; 18-78 years) with H pylori infection (according to positive breath test results) were treated with a triple therapy (omeprazole 20 mg twice daily, clarithromycin 250 mg twice daily, and metronidazole 400 mg twice daily for seven days). [2] At least four weeks after the end of treatment the participants were retested with the breath test and the antigen detection test. [1] For the breath test, the participants ingested 75 mg 13C-urea (99% atom percent excess) dissolved in 200 ml of 0.1N citric acid. [2] H pylori infection was indicated by a delta over baseline value >5\u00ce\u00b4 after 30 minutes. [1] The faecal test is based on a sandwich enzyme immunoassay with H pylori antigen detection (HpSA test, Meridian Diagnostics, Cincinnati, OH). [2] An optical density OD450 >0.140 indicates the presence of H pylori antigens. ",
+    "term_A": "urea",
+    "term_B": "Atom",
+    "llm_generation": {
+        "summary": "In this context, urea is used as a substrate in a breath test for diagnosing H. pylori infection, specifically utilizing 13C-urea with a specified atom percent excess. The term 'atom' refers to the isotopic composition of the urea used in the test, indicating the presence of the carbon-13 isotope. While urea is crucial for the test's function, the relationship with 'atom' is primarily technical, focusing on the isotopic labeling rather than a biological or chemical interaction.",
+        "reason": "The score of 2 reflects an indirect connection, as urea is involved in a diagnostic test where the atom percent excess of carbon-13 is relevant. However, there is no detailed discussion of their relationship beyond this technical aspect.",
+        "score": 2
+    }
+}

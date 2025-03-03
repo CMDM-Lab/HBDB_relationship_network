@@ -1,0 +1,10 @@
+{
+    "context": "This VOC mixture contained 0.125ppm limonene and 0.16ppm \u03b1-pinene. Nasal lavage fluid showed no increase of polymorphonuclear cells, total protein, IL-6 and IL-8 (Laumbach et al., 2005), which agrees with the lack of inflammatory effects of LOP in our study. Overall, clinically relevant airway inflammation from LOP is not supported from our study or from the controlled human exposures. One hour airborne exposures in mice to limonene (52ppm) and ozone-initiated limonene oxidation products, induced by admixing of 0.5\u20133.9ppm ozone, caused sensory irritation, which did not progress over the 10-day period. This suggests that sensory irritation of complex indoor air mixtures can be predicted from acute studies. Airflow limitation increased slowly during the daily exposures, but there was no carry-over effect from day to day. ",
+    "term_A": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "term_B": "Oxidation",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is indirectly related to oxidation through its mention alongside limonene and ozone, which are known to undergo oxidation reactions. The study discusses the sensory irritation caused by limonene oxidation products, suggesting that oxidation processes are relevant to the effects observed in the study. However, the specific relationship between 1-methyl-4-prop-1-en-2-ylcyclohexene and oxidation is not explicitly detailed.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are associated with the broader topic of VOCs and their oxidation, but there is no direct evidence or detailed discussion of their specific relationship.",
+        "score": 2
+    }
+}

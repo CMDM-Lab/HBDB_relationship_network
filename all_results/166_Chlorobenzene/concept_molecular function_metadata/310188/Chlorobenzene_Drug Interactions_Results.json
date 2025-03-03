@@ -1,0 +1,10 @@
+{
+    "context": "In general, the adsorption potential includes dispersive energy, repulsive energy, the field-dipole interaction and field gradient-quadripole interaction, among which dispersive and repulsive energies are the contributor of adsorption potential. The potentials are affected by the intermolecular distance (r) and polarization (\u03b1), and the latter is the decisive parameter. In this study, both adsorbed molecules contain benzene ring, and the difference is the substitutional group. The larger polarization of Cl (2.18) leads to stronger interaction potential between chlorobenzene and adsorbent than C (1.76), thereby making chlorobenzene more easily adsorbed by CDC. Comparison of adsorbents It is meaningful to construct the structure-activity relationships between the physicochemical properties of the typical adsorbents and the VOCs. By comparing the adsorption performance between CDC and CAC, CDC is more suitable for the VOCs adsorption. The characterizations of BET and Raman show that the better performance for CDC attributes to the developed microporosity and suitable PSD, which usually play important roles in the adsorption process as suggested by previous researchers (Bhatia et\u00a0al., 2009; Lemus et\u00a0al., 2012). ",
+    "term_A": "Chlorobenzene",
+    "term_B": "Drug Interactions",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is discussed in relation to its adsorption potential and interaction with adsorbents, particularly focusing on its physicochemical properties due to the presence of a benzene ring and a chlorine substituent. However, there is no direct mention or exploration of drug interactions involving chlorobenzene, making the relationship between chlorobenzene and drug interactions unclear and indirect.",
+        "reason": "The score of 2 reflects a low relevance, as chlorobenzene is mentioned in the context of adsorption properties but lacks any direct connection to drug interactions. The relationship is more about its chemical characteristics rather than any pharmacological implications.",
+        "score": 2
+    }
+}

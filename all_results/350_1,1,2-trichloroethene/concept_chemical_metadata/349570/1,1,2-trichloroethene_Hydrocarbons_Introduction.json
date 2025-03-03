@@ -1,0 +1,10 @@
+{
+    "context": "Higher water saturation absorbed more heat and therefore retarded the overall TCE removal substantially. An accompanying effect is the reduction of TCE evaporation-enhancement and so the reduction of TCE accumulation at the steam front, which in this simulation prevented the downward movement of NAPL TCE in the early part of the simulation period. On the other hand, once the TCE penetrated to the underlying coarse sand, the lack of effective heating because of the high water saturation led to faster downward TCE movement. Chlorinated solvents (e.g., trichloroethene, tetrachloroethene, carbon tetrachloride) and hydrocarbon fuels (gasoline, aviation fuel, diesel fuel) are ubiquitous contaminants of subsurface environments for industrialized areas. Characterization and remediation of sites contaminated by these organic immiscible liquids are complicated by a host of issues (see Brusseau et al., in press, for a recent review). One issue of significance is the presence of contaminant sources located in the vadose zone. There are two primary concerns associated with sites that contain vadose-zone sources. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Hydrocarbons",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as a chlorinated solvent, which is categorized alongside hydrocarbons such as gasoline and diesel fuel as common contaminants in subsurface environments. Both TCE and hydrocarbons are highlighted as significant pollutants, but the context does not delve into their specific interactions or relationships beyond their shared status as environmental contaminants.",
+        "reason": "The score of 2 reflects an indirect connection, as both 1,1,2-trichloroethene and hydrocarbons are identified as contaminants in subsurface environments. However, there is no detailed discussion of their interactions or specific relevance to each other beyond this general categorization.",
+        "score": 2
+    }
+}

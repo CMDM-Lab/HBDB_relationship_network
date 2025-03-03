@@ -1,0 +1,10 @@
+{
+    "context": "Dialysate loss of NT was associated with a progressive decrease in serum NT from 34.4 \u00b1 28.2 \u03bcmol/L/L at initiation of dialysis to 10.0 \u00b1 7.4 \u03bcmol/L/L at end of dialysis (P < 0.001). NT concentration was comparable in all the three groups at all time points. Pre-dialysis NT and FENO demonstrated only a modest correlation with MAP, systolic and diastolic blood pressure (P = NS, all comparisons). Pre- and post-dialysis L-Arg and ADMA Pre-dialysis (all) L-Arg (105.3 \u00b1 25.2 vs. 93.7 \u00b1 6.0 \u03bcmol/L/L, P < 0.05) and ADMA (4.0 \u00b1 1.8 vs. 0.9 \u00b1 0.2 \u03bcmol/L/L, P < 0.001) levels were significantly higher in ESRD patients compared to the controls. Dialysis resulted in significant reduction in L-Arg concentration (105.3 \u00b1 25.2 vs. 86.8 \u00b1 19.8 \u03bcmol/L/L, P < 0.005). Although ADMA levels also declined significantly post-HD (4.0 \u00b1 1.8 vs. 1.6 \u00b1 0.7 \u03bcmol/L/L, P < 0.001), they were still significantly higher than the ADMA concentration in controls (P < 0.001). ",
+    "term_A": "N,N-dimethylarginine",
+    "term_B": "End stage renal failure",
+    "llm_generation": {
+        "summary": "In this context, N,N-dimethylarginine (ADMA) is discussed in relation to end-stage renal failure (ESRD) patients, where its levels are significantly elevated compared to controls. The study indicates that dialysis reduces ADMA levels, but they remain higher than those in healthy individuals. This suggests a potential link between elevated ADMA and the pathophysiology of ESRD, highlighting its role as a biomarker for renal dysfunction.",
+        "reason": "The score of 4 reflects a significant connection between N,N-dimethylarginine and end-stage renal failure, supported by quantitative data showing elevated ADMA levels in ESRD patients and the impact of dialysis on these levels. This indicates a clear relationship within the context of renal health.",
+        "score": 4
+    }
+}

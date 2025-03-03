@@ -1,0 +1,10 @@
+{
+    "context": "Although a thorough search for relevant articles in the medical literature has been performed, the broad scope of the topic makes it difficult to expand the content of the information in every section. The knowledge regarding the human distribution and activity of the enzymes involved in ammonium metabolism and the molecular basis of the different disorders causing hyperammonemia has fundamental translational potential in order to establish the pathogenic mechanisms and the therapy for these diseases. Authors contributions M. Adeva and G. Souto carried out the literature search and wrote the draft of the manuscript. N. Blanco reviewed urea cycle disorders. Ammonium metabolism in healthy humans and liver disease was reviewed by C. Donapetry. M. Adeva and G. Souto reviewed glutamine synthetase, glutaminase and glutamate dehydrogenase and hyperammonemia. All authors contributed to the final version of the manuscript. ",
+    "term_A": "urea",
+    "term_B": "urea cycle",
+    "llm_generation": {
+        "summary": "In this context, urea is indirectly related to the urea cycle, which is a crucial metabolic pathway for the detoxification of ammonia in the body. The mention of urea cycle disorders suggests that understanding urea's role in ammonium metabolism is essential for addressing hyperammonemia and related diseases. However, the specific interactions or mechanisms between urea and the urea cycle are not elaborated upon in detail.",
+        "reason": "The score of 3 reflects a moderate relevance, as urea is a product of the urea cycle, and the context discusses urea cycle disorders. However, the relationship is not deeply explored, limiting the strength of the connection.",
+        "score": 3
+    }
+}

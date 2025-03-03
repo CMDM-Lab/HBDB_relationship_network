@@ -1,0 +1,10 @@
+{
+    "context": "After a tracer was injected, at predetermined times, 100\u00a0\u03bcl of the gaseous effluent from the sand column was injected into a gas chromatograph (GC, Agilent Co., Model 6890, column HP-5, injection port 150\u00a0\u00b0C, column oven 150\u00a0\u00b0C, Flame ionization detector 250\u00a0\u00b0C) using a Rheodyne valve (Rheodyne LLC., model 7010) (Fig. 1). Moment analyses using Eqs. (6) and (7) were applied to the resultant BTCs of the tracers. Based on the result of moment analysis, a R value of n-decane (Table 1) and the a i value at each air saturation were calculated using Eq. (4) and a K ia value of 2.84\u00d710\u22124\u00a0cm (Kim et al., 2001). Air saturation\u2013surface tension of water Based on the results of the experiments performed in this study, it is clear that the water saturation achieved by air sparging is not a simple linear function of the surface tension of water (Fig. 2 ). With no surfactant applied in the water prior to sparging, the average water saturation achieved in the sand column due to air sparging at an air flowrate of 7.2\u00a0cm3/min was 0.85. ",
+    "term_A": "Decane",
+    "term_B": "decane",
+    "llm_generation": {
+        "summary": "In this context, decane is mentioned as a tracer used in a gas chromatographic analysis to study the behavior of gaseous effluents from a sand column. The analysis involves calculating specific values related to n-decane, indicating its role in the experimental setup. However, there is no discussion of different forms or functions of decane, as both terms refer to the same compound without any additional context or interaction described.",
+        "reason": "The score of 1 reflects a very low relationship because 'Decane' and 'decane' are simply the same chemical compound mentioned in the context without any functional or chemical interaction or distinction between them.",
+        "score": 1
+    }
+}

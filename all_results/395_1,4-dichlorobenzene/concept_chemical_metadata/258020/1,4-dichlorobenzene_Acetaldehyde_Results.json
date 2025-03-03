@@ -1,0 +1,10 @@
+{
+    "context": "It indicates that homes have the largest total HAP concentrations and that HAP concentrations in indoor environments (typically >100\u03bcg/m3) are significantly higher than in outdoor environments. Overall population inhalation exposure to carbonyls and 1,3-butadiene mainly occurs in homes while commuters are exposed to higher concentration of aromatic hydrocarbons as these are associated with vehicle emission.Modeled personal exposures Table\u00a05 shows summary statistics for the modeled personal exposures to each HAP. Mean personal exposure to individual compounds for urban working adults in China ranges from <0.5\u03bcg/m3 for 1,3-butadiene and carbon tetrachloride, to >40\u03bcg/m3 for formaldehyde. On average, formaldehyde, toluene, 1,4-dichlorobenzene and acetaldehyde contribute most to the total personal HAP exposures (32.5\u201334.0%, 15.6\u201316.6%, 12.7\u201313.1% and 10.4\u201310.5% respectively). Mean personal HAPs concentrations are larger than the median personal HAPs concentrations, because the former include the full distribution of values including extremes, whereas the median lack physical meaning and would underestimate the exposure (Ott, 1994). ",
+    "term_A": "1,4-dichlorobenzene",
+    "term_B": "Acetaldehyde",
+    "llm_generation": {
+        "summary": "In this context, 1,4-dichlorobenzene and acetaldehyde are both identified as hazardous air pollutants (HAPs) contributing to personal exposure levels in urban environments. They are mentioned together in the context of indoor air quality, where their concentrations are significantly higher than outdoor levels. However, the relationship between them is not explicitly detailed, indicating they are part of a broader discussion on HAPs rather than having a direct interaction or comparison.",
+        "reason": "The score of 2 reflects an indirect connection, as both compounds are categorized as HAPs contributing to indoor air pollution. However, there is no specific discussion of their interactions or comparative significance in the context provided.",
+        "score": 2
+    }
+}

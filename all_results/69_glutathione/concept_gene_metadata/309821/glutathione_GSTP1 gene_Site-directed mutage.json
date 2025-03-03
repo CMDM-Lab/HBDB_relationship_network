@@ -1,0 +1,10 @@
+{
+    "context": "[5] Fluorescence data were corrected for inner filter effects and fitted to Eq. A, which yields the apparent dissociation constant (KD) for the NBDHEX bound to GST,where \u00ce\u201dF is the protein fluorescence change observed in the presence of a given amount of NBDHEX, \u00ce\u201dFmax is the maximum fluorescence change observed at saturating NBDHEX concentration, and nH is the Hill coefficient. [1] Spectrophotometric analysis. [2] The interaction of NBDHEX with GSTs and GSH was analyzed as previously reported . [3] The UV-visible spectrum of NBDHEX (50 \u00ce\u00bcmol/L) in 0.1 mol/L of potassium phosphate buffer (pH 6.5), containing 1 mmol/L of GSH was recorded at 25\u00c2\u00b0C before and after the addition of GSTP1-1/Ile104, GSTP1-1/Val104, or GSTP1-1/Ala104 (100 \u00ce\u00bcmol/L). [1] Structure of the GSTP1-1/GSH/NBDHEX complex. [2] We obtained the crystal structure of the GSTP1-1/GSH/NBDHEX complex at 1.55 \u00c3\u2026 resolution from a crystal that was grown in the presence of protein and GSH only, and subsequently soaked with NBDHEX, because cocrystallization experiments with both NBDHEX and GSH did not lead to well-diffracting crystals. [3] Figure 1B shows NBDHEX bound to the protein H-site in proximity to the bound GSH. ",
+    "term_A": "glutathione",
+    "term_B": "GSTP1 gene",
+    "llm_generation": {
+        "summary": "In this context, glutathione (GSH) is analyzed in relation to the GSTP1 gene, which encodes the GSTP1-1 enzyme. The study investigates the interaction of NBDHEX with GSTs and GSH, highlighting the role of GSTP1 in binding GSH. The crystal structure of the GSTP1-1/GSH/NBDHEX complex indicates a direct functional relationship, as GSH is a substrate for the GSTP1 enzyme, which is crucial for detoxification processes in cells.",
+        "reason": "The score of 4 reflects a significant connection between glutathione and the GSTP1 gene, as the context discusses their interaction in the formation of a complex and the role of GSTP1 in binding GSH, supported by structural data.",
+        "score": 4
+    }
+}

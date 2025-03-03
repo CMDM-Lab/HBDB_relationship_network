@@ -1,0 +1,419 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "kynurenine",
+                    "label": "kynurenine",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "kynurenine",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "kynurenine",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "kynurenine",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "kynurenine",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "kynurenine",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "kynurenine",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "kynurenine",
+                        "label": "kynurenine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxygen toxicity",
+                        "label": "Oxygen toxicity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Convulsions",
+                        "label": "Convulsions",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "kynurenine",
+                        "target": "Oxygen toxicity",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "kynurenine",
+                        "target": "Convulsions",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "kynurenine",
+                        "label": "kynurenine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Amines",
+                        "label": "Amines",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "indole",
+                        "label": "indole",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "kynurenine",
+                        "target": "Amines",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "kynurenine",
+                        "target": "indole",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "kynurenine",
+                        "label": "kynurenine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "kynurenine",
+                        "label": "kynurenine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "kynurenine",
+                        "label": "kynurenine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "kynurenine",
+                        "label": "kynurenine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Oxygen toxicity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxygen toxicity",
+                        "label": "Oxygen toxicity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "126045",
+                        "label": "Effects of oxygen on 3-hydroxyanthranilate oxidase of the kynurenine pathway.\nY. Dang, C. Xia, OR. Brown\nFree Radic. Biol. Med. 1998 Dec;25(9):1033-43.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/9870556"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "126045_kynurenine_Oxygen toxicity_Discussion.json",
+                        "label": "In this context, kynurenine is linked to oxygen toxicity through its role in the kynurenine pathway, which produces kynurenic acid, an NMDA antagonist. The production of kynurenic acid may be stimulated by oxygen, suggesting a potential protective mechanism against excitotoxicity during conditions of oxygen poisoning. However, the exact relationship between kynurenine levels and oxygen toxicity remains unclear, particularly regarding the effects of hyperbaric oxygen (HBO) on the pathway's enzyme activity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxygen toxicity",
+                        "target": "126045",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "126045",
+                        "target": "126045_kynurenine_Oxygen toxicity_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Convulsions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Convulsions",
+                        "label": "Convulsions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "126045",
+                        "label": "Effects of oxygen on 3-hydroxyanthranilate oxidase of the kynurenine pathway.\nY. Dang, C. Xia, OR. Brown\nFree Radic. Biol. Med. 1998 Dec;25(9):1033-43.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/9870556"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "126045_kynurenine_Convulsions_Discussion.json",
+                        "label": "In this context, kynurenine is linked to convulsions through its metabolic pathway, which produces quinolinic acid, a potent excitatory compound. The stimulation of the kynurenine pathway by hyperbaric oxygen may lead to increased levels of quinolinic acid, potentially causing convulsions. Conversely, recovery from convulsions may involve increased production of kynurenic acid, an NMDA antagonist, suggesting a complex interplay between these compounds in the context of oxygen exposure and seizure activity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Convulsions",
+                        "target": "126045",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "126045",
+                        "target": "126045_kynurenine_Convulsions_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Amines": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Amines",
+                        "label": "Amines",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "126045",
+                        "label": "Effects of oxygen on 3-hydroxyanthranilate oxidase of the kynurenine pathway.\nY. Dang, C. Xia, OR. Brown\nFree Radic. Biol. Med. 1998 Dec;25(9):1033-43.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/9870556"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "126045_kynurenine_Amines_Discussion.json",
+                        "label": "In this context, kynurenine is discussed as a substrate in the kynurenine pathway, which leads to the production of kynurenic acid, an NMDA antagonist. While amines are not directly mentioned in relation to kynurenine, the kynurenine pathway involves the metabolism of tryptophan, which is an amino acid and a type of amine. The relationship is indirect, as kynurenine's role in the pathway may influence the levels of certain amines, but no specific interactions are detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Amines",
+                        "target": "126045",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "126045",
+                        "target": "126045_kynurenine_Amines_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "indole": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "indole",
+                        "label": "indole",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "126045",
+                        "label": "Effects of oxygen on 3-hydroxyanthranilate oxidase of the kynurenine pathway.\nY. Dang, C. Xia, OR. Brown\nFree Radic. Biol. Med. 1998 Dec;25(9):1033-43.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/9870556"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "126045_kynurenine_indole_Discussion.json",
+                        "label": "In this context, kynurenine and indole are related through the kynurenine pathway, where kynurenine serves as a substrate for the production of kynurenic acid, an NMDA antagonist. The stimulation of indole amine 2,3-dioxygenase by oxygen leads to increased kynurenine levels, which may enhance kynurenic acid production. This relationship highlights the biochemical interplay between these two compounds in response to hyperbaric oxygen conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "indole",
+                        "target": "126045",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "126045",
+                        "target": "126045_kynurenine_indole_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

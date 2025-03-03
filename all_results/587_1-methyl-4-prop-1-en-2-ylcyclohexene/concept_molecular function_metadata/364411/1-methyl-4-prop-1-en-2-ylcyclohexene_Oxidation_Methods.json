@@ -1,0 +1,10 @@
+{
+    "context": "Exposures were conducted between 10% and 30% RH and between 22 and 28\u00a0\u00b0C (RH/Temp data logger: HOHO Pro, Onset, Burne, MA; monitor: model Testo 625, Hotek Technologies, Tacoma, WA). The mean residual ozone in the exposure chamber was 0.062\u00a0ppm (photometric ozone analyzer, model 1008-AH; Dasabi Environmental Corp, Glendale, CA). Residual d-limonene was not measured. Assuming the reaction of d-limonene and ozone is pseudo-first order (d-limonene levels were much higher than ozone levels), and using the reactor residence time and the rate constant for d-limonene oxidation by ozone (5.1\u00d710\u22126ppb\u22121s\u22121 at 23\u00a0\u00b0C) (Atkinson et al., 1990) the predicted ozone concentration at the exposure chamber entrance is 0.046\u00a0ppm. This is comparable to the measured concentration of 0.062\u00a0ppm. Applying a comparable loss rate for d-limonene, 5.2\u00a0ppm d-limonene is predicted at the entrance of the exposure chamber. Particle number concentrations in the exposure chamber increased immediately after the initiation of the reaction and reached steady state within 10\u201330\u00a0min (TSI 7610 condensation particle counter, CPC, >0.01\u00a0\u03bcm in diameter; Shoreview, MN). ",
+    "term_A": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "term_B": "Oxidation",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene (d-limonene) is discussed in relation to its oxidation by ozone. The study assumes a pseudo-first order reaction between d-limonene and ozone, indicating that oxidation is a significant process affecting d-limonene levels in the exposure chamber. The rate constant for this oxidation reaction is provided, suggesting a clear relationship between the compound and the oxidation process it undergoes when exposed to ozone.",
+        "reason": "The score of 4 reflects a significant connection between 1-methyl-4-prop-1-en-2-ylcyclohexene and oxidation, as the context discusses the oxidation reaction in detail, providing quantitative data on the reaction rate and its implications for d-limonene levels.",
+        "score": 4
+    }
+}

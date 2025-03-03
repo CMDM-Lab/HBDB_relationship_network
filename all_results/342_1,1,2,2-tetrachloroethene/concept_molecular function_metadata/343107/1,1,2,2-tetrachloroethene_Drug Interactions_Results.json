@@ -1,0 +1,10 @@
+{
+    "context": "This analysis allows comparison of effects of VOCs on these different variables using a single statistical analysis, thus decreasing the possibility of a Type I error. This four-way ANOVA indicated statistically significant main effects of concentration and solvent type and a statistically significant interaction between these variables (P < 0.0001 for all three effects). This result implies (1) that the concentration\u2013effect curves for TOL and PERC were not parallel; (2) that human and rat receptors did not differ in sensitivity to either TOL or PERC; and (3) that the three receptor types did not differ in sensitivity to either TOL or PERC. To analyze the interaction between concentration and solvent type, stepdown procedures (Proc Mixed) were conducted to fit separate concentration\u2013effect curves for TOL and PERC. The resulting concentration\u2013effect equations were: IN TOL = 17.24 log e ( C TOL ) \u2212 40.11 and IN PERC = 10.53 log e ( C PERC + 10.0 ) in which IN is percent inhibition, C is concentration in \u03bcM, and the subscripts indicate the VOC. These equations describe VOC effects for either human or rat receptors. Fig. 6 is a plot of the concentration\u2013effect functions for TOL and PERC with their 95% confidence intervals. ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "Drug Interactions",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene (PERC) is mentioned alongside toluene (TOL) in a study analyzing the effects of volatile organic compounds (VOCs) on receptor sensitivity. However, there is no direct discussion of drug interactions related to PERC or TOL. The focus is on the concentration-effect relationships of these solvents rather than any pharmacological interactions, indicating a lack of relevance between PERC and drug interactions in this analysis.",
+        "reason": "The score of 1 reflects a very low relationship, as 1,1,2,2-tetrachloroethene is mentioned in the context of VOC effects without any discussion of its interactions with drugs. The terms appear coincidentally without a direct connection.",
+        "score": 1
+    }
+}

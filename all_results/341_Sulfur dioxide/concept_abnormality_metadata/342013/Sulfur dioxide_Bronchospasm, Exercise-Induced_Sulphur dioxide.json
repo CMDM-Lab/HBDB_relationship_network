@@ -1,0 +1,10 @@
+{
+    "context": "[10] Cromolyn sodium blocks histamine release thereby minimising bronchoconstriction, whereas a \u00ce\u00b2-agonist produces relaxation of airway smooth muscle. [1] Although SO2 is clearly an important irritant for exercising asthmatics and may cause problems for the asthmatic athlete, it is unlikely to be of concern to the athlete with normal lungs at current ambient levels. [2] Air temperature and humidity influence the degree of symptoms experienced, with cold dry air producing a faster and more intense response to SO2 than warm moist air. [3] It is possible that SO2 may be one of the triggers for exercise induced bronchospasm. [4] The overall incidence of exercise induced bronchospasm across all sports and sexes in a recent survey of Olympic winter sport athletes was reported as 23%. [1] The general category of VOCs consists of many chemicals, including non-methane hydrocarbons (for example, alkanes, alkenes, and aromatics), halocarbons (for example, trichloroethylene), and oxygenates (alcohols, aldehydes, and ketones). [2] The emission into the British environment of well over two million tonnes of VOCs per year is similar in magnitude to that of SO2 and NOx. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Bronchospasm, Exercise-Induced",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is identified as a significant irritant for individuals with asthma, particularly during exercise, potentially triggering exercise-induced bronchospasm. The text suggests that while SO2 poses a risk for asthmatic athletes, it is less concerning for those with normal lung function. The relationship indicates that SO2 exposure can exacerbate bronchospasm symptoms in susceptible individuals during physical activity.",
+        "reason": "The score of 4 reflects a strong connection between sulfur dioxide and exercise-induced bronchospasm, as SO2 is noted as a potential trigger for bronchospasm in asthmatic athletes, supported by contextual evidence of its irritant effects during exercise.",
+        "score": 4
+    }
+}

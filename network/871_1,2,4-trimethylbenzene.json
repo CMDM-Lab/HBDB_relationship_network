@@ -1,0 +1,1914 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "1,2,4-trimethylbenzene",
+                    "label": "1,2,4-trimethylbenzene",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,2,4-trimethylbenzene",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,2,4-trimethylbenzene",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,2,4-trimethylbenzene",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,2,4-trimethylbenzene",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,2,4-trimethylbenzene",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,2,4-trimethylbenzene",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,2,4-trimethylbenzene",
+                        "label": "1,2,4-trimethylbenzene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Rhinitis",
+                        "label": "Rhinitis",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Asthma",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Rhinitis",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,2,4-trimethylbenzene",
+                        "label": "1,2,4-trimethylbenzene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Glycol",
+                        "label": "Glycol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "trichlorotrifluoroethane",
+                        "label": "trichlorotrifluoroethane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Phenols",
+                        "label": "Phenols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cyclic alkane",
+                        "label": "Cyclic alkane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Aromatic",
+                        "label": "Hydrocarbons, Aromatic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ethyl-n-butyl ketone",
+                        "label": "ethyl-n-butyl ketone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Halogenated",
+                        "label": "Hydrocarbons, Halogenated",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-dodecane",
+                        "label": "n-dodecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-butoxyethanol",
+                        "label": "n-butoxyethanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "undecane",
+                        "label": "undecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "dimethyl disulfide",
+                        "label": "dimethyl disulfide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1-methoxy-2-propanol",
+                        "label": "1-methoxy-2-propanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aliphatic hydrocarbon",
+                        "label": "Aliphatic hydrocarbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2,2,4-trimethylpentane",
+                        "label": "2,2,4-trimethylpentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "n-hexanal",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Glycol",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "trichlorotrifluoroethane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Phenols",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "3-xylene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Cyclic alkane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Hydrocarbons, Aromatic",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Toluene",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "ethyl-n-butyl ketone",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Aldehydes",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Hydrocarbons, Halogenated",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Metabolites",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "n-dodecane",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "n-butoxyethanol",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "undecane",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "dimethyl disulfide",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "pentane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "1-methoxy-2-propanol",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Aliphatic hydrocarbon",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "decane",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "octane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Acetaldehyde",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "2,2,4-trimethylpentane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "4-xylene",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,2,4-trimethylbenzene",
+                        "label": "1,2,4-trimethylbenzene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Drug Kinetics",
+                        "label": "Drug Kinetics",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,2,4-trimethylbenzene",
+                        "target": "Drug Kinetics",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,2,4-trimethylbenzene",
+                        "label": "1,2,4-trimethylbenzene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,2,4-trimethylbenzene",
+                        "label": "1,2,4-trimethylbenzene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,2,4-trimethylbenzene",
+                        "label": "1,2,4-trimethylbenzene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Asthma_Discussion.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is identified as a volatile organic compound (VOC) associated with an increased risk of asthma in dwellings with high concentrations of VOCs. The study indicates a significant correlation between the presence of this aromatic hydrocarbon and reported cases of asthma, suggesting that exposure to 1,2,4-trimethylbenzene may contribute to respiratory issues in affected populations.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Asthma_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is identified as a volatile organic compound (VOC) significantly associated with asthma. The study reports an odds ratio of 2.10, indicating that exposure to this compound is linked to an increased risk of developing asthma. This suggests a potential role of 1,2,4-trimethylbenzene as a contributing factor in asthma pathogenesis, highlighting its relevance in respiratory health assessments.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Asthma_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Asthma_Results.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Rhinitis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Rhinitis",
+                        "label": "Rhinitis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Rhinitis_Discussion.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is identified as a volatile organic compound (VOC) associated with an increased risk of rhinitis. The study indicates that higher concentrations of this compound in dwellings correlate with a significant rise in reported cases of rhinitis, suggesting a direct link between exposure to 1,2,4-trimethylbenzene and respiratory health issues, particularly rhinitis. This relationship is supported by statistical data showing odds ratios for rhinitis associated with VOC exposure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Rhinitis",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Rhinitis_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "n-hexanal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_n-hexanal_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and n-hexanal are both categorized as volatile organic compounds (VOCs) contributing to the global VOC score, which assesses air pollution levels in dwellings. They are included in different specific VOC categories: 1,2,4-trimethylbenzene as an aromatic hydrocarbon and n-hexanal as an aldehyde. However, there is no direct interaction or specific relationship discussed between these two compounds beyond their classification as VOCs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-hexanal",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_n-hexanal_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Glycol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Glycol",
+                        "label": "Glycol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Glycol_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and glycol are both categorized as volatile organic compounds (VOCs) contributing to the global VOC score, which quantifies air pollutants in dwellings. While they are included in separate classifications of VOCs (aromatic hydrocarbons for 1,2,4-trimethylbenzene and glycol ethers for glycol), there is no direct interaction or specific relationship discussed between them beyond their classification as air pollutants.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Glycol",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Glycol_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "trichlorotrifluoroethane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "trichlorotrifluoroethane",
+                        "label": "trichlorotrifluoroethane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447",
+                        "label": "Biodegradation of petroleum hydrocarbon vapors: laboratory studies on rates and kinetics in unsaturated alluvial sand.\nP. Höhener, C. Duwig, G. Pasteris, K. Kaufmann, N. Dakhel, H. Harms\nJ. Contam. Hydrol. 2003 Oct;66(1-2):93-115.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14516943"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_trichlorotrifluoroethane_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and trichlorotrifluoroethane are mentioned among various volatile organic compounds (VOCs) analyzed for their degradation activity. However, there is no direct interaction or relationship discussed between these two compounds. The focus is primarily on the kinetic parameters of other VOCs, with 1,2,4-trimethylbenzene noted for first-order kinetics, while trichlorotrifluoroethane is included in a list of compounds without specific degradation data.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "trichlorotrifluoroethane",
+                        "target": "274447",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_trichlorotrifluoroethane_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Phenols": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Phenols",
+                        "label": "Phenols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274421",
+                        "label": "Solid phase microextraction, mass spectrometry and metabolomic approaches for detection of potential urinary cancer biomarkers--a powerful strategy for breast cancer diagnosis.\nCL. Silva, M. Passos, JS. Câmara\nTalanta 2012 Jan;89:360-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22284503"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274421_1,2,4-trimethylbenzene_Phenols_Results and discussi.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and phenols are mentioned as variables analyzed in a study comparing urinary volatile metabolites between healthy individuals and breast cancer patients. While both compounds are part of the metabolomic profile, the specific relationship or interaction between them is not detailed. They are identified as relevant to the study but do not exhibit a direct connection or shared function within the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Phenols",
+                        "target": "274421",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274421",
+                        "target": "274421_1,2,4-trimethylbenzene_Phenols_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "3-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447",
+                        "label": "Biodegradation of petroleum hydrocarbon vapors: laboratory studies on rates and kinetics in unsaturated alluvial sand.\nP. Höhener, C. Duwig, G. Pasteris, K. Kaufmann, N. Dakhel, H. Harms\nJ. Contam. Hydrol. 2003 Oct;66(1-2):93-115.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14516943"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_3-xylene_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and 3-xylene are both mentioned as volatile organic compounds (VOCs) analyzed in a study of vapor profiles and their transport behavior. However, there is no direct interaction or specific relationship discussed between these two compounds beyond their classification as VOCs. Their presence in the study is more about their individual profiles rather than a comparative or functional relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "274447",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_3-xylene_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Cyclic alkane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cyclic alkane",
+                        "label": "Cyclic alkane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447",
+                        "label": "Biodegradation of petroleum hydrocarbon vapors: laboratory studies on rates and kinetics in unsaturated alluvial sand.\nP. Höhener, C. Duwig, G. Pasteris, K. Kaufmann, N. Dakhel, H. Harms\nJ. Contam. Hydrol. 2003 Oct;66(1-2):93-115.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14516943"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_Cyclic alkane_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is categorized alongside cyclic alkanes in a discussion about the kinetic parameters of various volatile organic compounds (VOCs). Both terms are mentioned in relation to their degradation activity and kinetic behavior, indicating that 1,2,4-trimethylbenzene is a type of cyclic alkane. However, the specific interactions or implications of this relationship are not elaborated upon, limiting the depth of their connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cyclic alkane",
+                        "target": "274447",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_Cyclic alkane_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons, Aromatic": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Aromatic",
+                        "label": "Hydrocarbons, Aromatic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Hydrocarbons, Aromatic_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is categorized as one of the aromatic hydrocarbons included in the assessment of volatile organic compounds (VOCs) in dwellings. The study groups various VOCs by type, indicating that 1,2,4-trimethylbenzene is part of the broader category of aromatic hydrocarbons, which also includes other compounds like benzene and toluene. However, the specific interactions or implications of 1,2,4-trimethylbenzene within the context of health outcomes are not detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons, Aromatic",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Hydrocarbons, Aromatic_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447",
+                        "label": "Biodegradation of petroleum hydrocarbon vapors: laboratory studies on rates and kinetics in unsaturated alluvial sand.\nP. Höhener, C. Duwig, G. Pasteris, K. Kaufmann, N. Dakhel, H. Harms\nJ. Contam. Hydrol. 2003 Oct;66(1-2):93-115.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14516943"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_Toluene_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and toluene are both mentioned as volatile organic compounds (VOCs) whose vapor profiles were analyzed in a study involving reactive transport modeling and biodegradation. However, the specific interactions or comparative significance between these two compounds are not discussed, indicating they are part of a broader analysis of VOC behavior without a direct relationship established between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Toluene_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and toluene are both categorized as aromatic hydrocarbons and included in the assessment of volatile organic compounds (VOCs) in dwellings. They contribute to the global VOC score, which quantifies air pollutants based on their elevated concentrations. However, the context does not provide specific interactions or health implications directly linking these two compounds beyond their classification as VOCs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "274447",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_Toluene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Toluene_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "ethyl-n-butyl ketone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ethyl-n-butyl ketone",
+                        "label": "ethyl-n-butyl ketone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274421",
+                        "label": "Solid phase microextraction, mass spectrometry and metabolomic approaches for detection of potential urinary cancer biomarkers--a powerful strategy for breast cancer diagnosis.\nCL. Silva, M. Passos, JS. Câmara\nTalanta 2012 Jan;89:360-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22284503"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274421_1,2,4-trimethylbenzene_ethyl-n-butyl ketone_Results and discussi.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and ethyl-n-butyl ketone are mentioned as part of a study investigating volatile metabolites in breast cancer patients and healthy controls. However, there is no direct discussion of their relationship or interaction. While both compounds are part of the broader analysis of volatile organic compounds, their specific roles or connections in the context of breast cancer are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ethyl-n-butyl ketone",
+                        "target": "274421",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274421",
+                        "target": "274421_1,2,4-trimethylbenzene_ethyl-n-butyl ketone_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aldehydes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Aldehydes_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is categorized as an aromatic hydrocarbon among various volatile organic compounds (VOCs), while aldehydes are listed as a separate category of VOCs. Both are included in a broader analysis of air pollutants and their associations with health indices. However, there is no direct interaction or specific relationship discussed between 1,2,4-trimethylbenzene and aldehydes, indicating they are simply part of a larger classification of VOCs without further elaboration on their interrelation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aldehydes",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Aldehydes_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons, Halogenated": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Halogenated",
+                        "label": "Hydrocarbons, Halogenated",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Hydrocarbons, Halogenated_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is categorized as an aromatic hydrocarbon, which is part of a broader classification of volatile organic compounds (VOCs). The term 'Hydrocarbons, Halogenated' refers to a different category of VOCs that includes compounds with halogen atoms. While both terms relate to air pollutants and VOCs, they belong to distinct chemical classes without a direct interaction or relationship discussed in the context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons, Halogenated",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Hydrocarbons, Halogenated_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Metabolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274421",
+                        "label": "Solid phase microextraction, mass spectrometry and metabolomic approaches for detection of potential urinary cancer biomarkers--a powerful strategy for breast cancer diagnosis.\nCL. Silva, M. Passos, JS. Câmara\nTalanta 2012 Jan;89:360-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22284503"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274421_1,2,4-trimethylbenzene_Metabolites_Results and discussi.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is identified as one of the urinary metabolites analyzed in a study comparing cancer patients to healthy controls. The study highlights significant differences in the excretion levels of certain metabolites, including 1,2,4-trimethylbenzene, suggesting its potential role as a biomarker in distinguishing between these two groups. The analysis indicates that this metabolite, among others, may be relevant in the context of cancer diagnosis or monitoring.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolites",
+                        "target": "274421",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274421",
+                        "target": "274421_1,2,4-trimethylbenzene_Metabolites_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "n-dodecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-dodecane",
+                        "label": "n-dodecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447",
+                        "label": "Biodegradation of petroleum hydrocarbon vapors: laboratory studies on rates and kinetics in unsaturated alluvial sand.\nP. Höhener, C. Duwig, G. Pasteris, K. Kaufmann, N. Dakhel, H. Harms\nJ. Contam. Hydrol. 2003 Oct;66(1-2):93-115.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14516943"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_n-dodecane_Discussion.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and n-dodecane are both mentioned as compounds with high boiling points that posed analytical challenges during experiments involving vapor concentrations. The study highlights issues related to the condensation of these vapors in sampling equipment, indicating that their physical properties may affect experimental outcomes. However, there is no direct interaction or functional relationship discussed between the two compounds beyond their shared analytical difficulties.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_n-dodecane_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and n-dodecane are both mentioned as volatile organic compounds (VOCs) whose concentrations decreased after injection into sterile sand. The decrease in their concentrations was noted to occur in an erratic manner, suggesting processes like condensation and sorption. However, there is no detailed discussion of their specific interactions or comparative significance in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-dodecane",
+                        "target": "274447",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_n-dodecane_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_n-dodecane_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "n-butoxyethanol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-butoxyethanol",
+                        "label": "n-butoxyethanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_n-butoxyethanol_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and n-butoxyethanol are both categorized as volatile organic compounds (VOCs) contributing to the global VOC score, which quantifies air pollutants in dwellings. They are included in separate classifications of VOCs—1,2,4-trimethylbenzene as an aromatic hydrocarbon and n-butoxyethanol as a glycol ether—indicating they share a commonality as air pollutants but lack a direct interaction or specific relationship within the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-butoxyethanol",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_n-butoxyethanol_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "undecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "undecane",
+                        "label": "undecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_undecane_Discussion.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and undecane are both identified as volatile organic compounds (VOCs) associated with increased risks of asthma and rhinitis in dwellings with high concentrations of these substances. The study highlights their individual significance in contributing to respiratory health issues, indicating a shared relevance in the context of air quality and health outcomes related to VOC exposure.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_undecane_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and undecane are both identified as volatile organic compounds (VOCs) that exhibit significant associations with asthma. The study reports non-linear significant associations for both compounds, indicating that higher concentrations of these VOCs are linked to increased asthma risk. The statistical significance of their associations suggests a potential relationship in the context of respiratory health, particularly concerning asthma prevalence.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_undecane_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and undecane are both categorized as volatile organic compounds (VOCs) and are included in the analysis of air pollutants within dwellings. They are part of distinct groups of VOCs, with 1,2,4-trimethylbenzene classified as an aromatic hydrocarbon and undecane as an aliphatic hydrocarbon. However, the context does not provide any specific interaction or relationship between the two compounds beyond their classification as VOCs and their inclusion in the overall VOC score analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "undecane",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_undecane_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_undecane_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_undecane_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "dimethyl disulfide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "dimethyl disulfide",
+                        "label": "dimethyl disulfide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274421",
+                        "label": "Solid phase microextraction, mass spectrometry and metabolomic approaches for detection of potential urinary cancer biomarkers--a powerful strategy for breast cancer diagnosis.\nCL. Silva, M. Passos, JS. Câmara\nTalanta 2012 Jan;89:360-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22284503"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274421_1,2,4-trimethylbenzene_dimethyl disulfide_Results and discussi.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and dimethyl disulfide are both identified as urinary metabolites whose excretion levels were compared between breast cancer patients and control groups. The study found statistically significant differences in the levels of these metabolites, suggesting they may have relevance as potential biomarkers in cancer diagnosis or monitoring. However, the specific biochemical relationship or interaction between these two compounds is not detailed in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "dimethyl disulfide",
+                        "target": "274421",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274421",
+                        "target": "274421_1,2,4-trimethylbenzene_dimethyl disulfide_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "pentane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447",
+                        "label": "Biodegradation of petroleum hydrocarbon vapors: laboratory studies on rates and kinetics in unsaturated alluvial sand.\nP. Höhener, C. Duwig, G. Pasteris, K. Kaufmann, N. Dakhel, H. Harms\nJ. Contam. Hydrol. 2003 Oct;66(1-2):93-115.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14516943"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_pentane_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and pentane are both mentioned as volatile organic compounds (VOCs) analyzed for their degradation activity. However, the text indicates that while 1,2,4-trimethylbenzene exhibited first-order kinetics, pentane showed no degradation activity, suggesting a lack of interaction or significant relationship between the two compounds in terms of metabolic or degradation processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentane",
+                        "target": "274447",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_pentane_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "1-methoxy-2-propanol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methoxy-2-propanol",
+                        "label": "1-methoxy-2-propanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_1-methoxy-2-propanol_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and 1-methoxy-2-propanol are both categorized as volatile organic compounds (VOCs) contributing to the global VOC score, which quantifies air pollutants in dwellings. They are included in separate classifications of VOCs: 1,2,4-trimethylbenzene as an aromatic hydrocarbon and 1-methoxy-2-propanol as a glycol ether. However, there is no direct interaction or specific relationship discussed between these two compounds beyond their classification as VOCs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "1-methoxy-2-propanol",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_1-methoxy-2-propanol_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aliphatic hydrocarbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aliphatic hydrocarbon",
+                        "label": "Aliphatic hydrocarbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Aliphatic hydrocarbon_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is categorized as an aromatic hydrocarbon, while aliphatic hydrocarbons refer to a different class of organic compounds. The mention of both terms occurs within the framework of a global VOC score, which aggregates various types of volatile organic compounds, including both aromatic and aliphatic hydrocarbons. However, there is no direct interaction or relationship discussed between 1,2,4-trimethylbenzene and aliphatic hydrocarbons beyond their classification as different types of VOCs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aliphatic hydrocarbon",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Aliphatic hydrocarbon_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "decane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447",
+                        "label": "Biodegradation of petroleum hydrocarbon vapors: laboratory studies on rates and kinetics in unsaturated alluvial sand.\nP. Höhener, C. Duwig, G. Pasteris, K. Kaufmann, N. Dakhel, H. Harms\nJ. Contam. Hydrol. 2003 Oct;66(1-2):93-115.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14516943"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_decane_Discussion.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and decane are both mentioned as volatile organic compounds (VOCs) with high boiling points that posed analytical challenges during experiments. The study highlights issues related to vapor condensation in sampling equipment for these compounds, indicating that their physical properties may affect experimental outcomes. However, there is no direct interaction or functional relationship discussed between the two compounds beyond their shared characteristics as VOCs with high boiling points.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_decane_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and decane are both mentioned as volatile organic compounds (VOCs) whose concentrations were observed to decrease over time after injection into abiotic controls. However, the specific interactions or relationships between these two compounds are not detailed, and their behavior is described in a general manner without direct comparison or functional relevance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_decane_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and decane are both categorized as volatile organic compounds (VOCs) and are included in the analysis of air pollutants within dwellings. They are part of distinct groups of VOCs, with 1,2,4-trimethylbenzene classified as an aromatic hydrocarbon and decane as an aliphatic hydrocarbon. However, the context does not provide specific interactions or relationships between these two compounds beyond their classification as VOCs contributing to overall air quality assessments.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "274447",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_decane_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_decane_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_decane_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "octane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447",
+                        "label": "Biodegradation of petroleum hydrocarbon vapors: laboratory studies on rates and kinetics in unsaturated alluvial sand.\nP. Höhener, C. Duwig, G. Pasteris, K. Kaufmann, N. Dakhel, H. Harms\nJ. Contam. Hydrol. 2003 Oct;66(1-2):93-115.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14516943"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_octane_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and octane are both mentioned as volatile organic compounds (VOCs) whose vapor profiles were analyzed in a study involving reactive transport modeling and biodegradation. However, there is no direct interaction or specific relationship discussed between the two compounds beyond their classification as VOCs and their presence in the same experimental setup. Their fluxes were measured, but no comparative analysis or functional relationship is provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "274447",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_octane_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Acetaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_Acetaldehyde_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and acetaldehyde are both categorized as volatile organic compounds (VOCs) and are included in separate classifications of air pollutants. The study focuses on the global VOC score, which aggregates various VOCs, including aromatic hydrocarbons like 1,2,4-trimethylbenzene and aldehydes like acetaldehyde. However, there is no direct discussion of their specific interactions or health effects in relation to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acetaldehyde",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_Acetaldehyde_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "2,2,4-trimethylpentane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2,2,4-trimethylpentane",
+                        "label": "2,2,4-trimethylpentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447",
+                        "label": "Biodegradation of petroleum hydrocarbon vapors: laboratory studies on rates and kinetics in unsaturated alluvial sand.\nP. Höhener, C. Duwig, G. Pasteris, K. Kaufmann, N. Dakhel, H. Harms\nJ. Contam. Hydrol. 2003 Oct;66(1-2):93-115.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14516943"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274447_1,2,4-trimethylbenzene_2,2,4-trimethylpentane_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and 2,2,4-trimethylpentane are both mentioned as volatile organic compounds (VOCs) analyzed for their degradation kinetics. However, the text primarily focuses on the kinetic parameters of other compounds, with no direct comparison or interaction between the two compounds discussed. Their mention is more about their classification as VOCs rather than any specific relationship or functional interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2,2,4-trimethylpentane",
+                        "target": "274447",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274447",
+                        "target": "274447_1,2,4-trimethylbenzene_2,2,4-trimethylpentane_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "4-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424",
+                        "label": "Quantitative assessments of indoor air pollution and respiratory health in a population-based sample of French dwellings.\nC. Billionnet, E. Gay, S. Kirchner, B. Leynaert, I. Annesi-Maesano\nEnviron. Res. 2011 Apr;111(3):425-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21397225"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274424_1,2,4-trimethylbenzene_4-xylene_Materials and method.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene and 4-xylene are both categorized as aromatic hydrocarbons and included in the assessment of volatile organic compounds (VOCs) in dwellings. They contribute to the global VOC score, which quantifies air pollutants based on their elevated concentrations. However, the context does not provide specific details on their individual interactions or health effects beyond their classification as part of the same group of compounds.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "274424",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274424",
+                        "target": "274424_1,2,4-trimethylbenzene_4-xylene_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Drug Kinetics": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Drug Kinetics",
+                        "label": "Drug Kinetics",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274450",
+                        "label": "Quantitative structure-property relationships for physiologically based pharmacokinetic modeling of volatile organic chemicals in rats.\nM. Béliveau, R. Tardif, K. Krishnan\nToxicol. Appl. Pharmacol. 2003 Jun;189(3):221-32.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12791307"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "274450_1,2,4-trimethylbenzene_Drug Kinetics_Results.json",
+                        "label": "In this context, 1,2,4-trimethylbenzene is evaluated within a quantitative structure-activity relationship (QSPR) and physiologically based pharmacokinetic (PBPK) modeling framework to predict its inhalation pharmacokinetics. The model utilizes molecular fragment information and exposure parameters to simulate the drug kinetics of various volatile organic compounds (VOCs), including 1,2,4-trimethylbenzene, indicating a direct relationship between the compound's structure and its pharmacokinetic behavior in biological systems.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Drug Kinetics",
+                        "target": "274450",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "274450",
+                        "target": "274450_1,2,4-trimethylbenzene_Drug Kinetics_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

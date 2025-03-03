@@ -1,0 +1,10 @@
+{
+    "context": "[7] More detailed information can be found in Table 1. [1] In the case of the HBEpC, four independent measurements were done for medium controls (n = 4) and three for 50 million HBEpC cells (n = 3). [2] The concentrations of 10 compounds were increased and of 8 compounds decreased in the headspace of HBEpC cells compared with medium control (Table 2). [3] As already observed in A549 cells, acetone, ethyl tert-butyl ether, 2-pentanone, and 2,4-dimethyl-1-heptene were released by HBEpC cells in significant amounts (Fig. 2). [4] The remaining six VOCs with increased concentrations in the headspace of HBEpC included the three branched hydrocarbons 2,3,3-trimethylpentane, 4-methylheptane, and 3-methylheptane. [5] The concentration of 2,3,3-trimethylpentane was below the LOD in the headspace of medium controls and the other two were not detected in the controls at all. [6] In addition, the alcohol 2-methyl-2-propanol and the esters methyl acetate and n-propyl acetate (not detected in the medium control headspace) had increased concentrations in HFB cells. ",
+    "term_A": "2-ethoxy-2-methylpropane",
+    "term_B": "ethyl tert-butyl ether",
+    "llm_generation": {
+        "summary": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether are both mentioned as volatile organic compounds (VOCs) released by HBEpC cells. However, the context does not provide specific details about their interactions or comparative significance. They are part of a broader analysis of VOCs emitted from cells, indicating a shared category but lacking a direct relationship.",
+        "reason": "The score of 2 reflects an indirect connection, as both compounds are identified as VOCs released by HBEpC cells, but there is no detailed discussion of their specific interactions or functional relationships within the context.",
+        "score": 2
+    }
+}

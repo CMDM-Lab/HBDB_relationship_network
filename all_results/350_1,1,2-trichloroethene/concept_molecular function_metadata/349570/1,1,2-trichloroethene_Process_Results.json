@@ -1,0 +1,10 @@
+{
+    "context": "This is due to the lower water content present for Series 1, wherein air\u2013water interfacial area has been shown to correlate inversely with water content (e.g., Brusseau et al., 2006, 2007; Costanza-Robinson and Brusseau, 2002; Kim et al., 1999; Peng and Brusseau, 2005b).Trichloroethene Representative breakthrough curves for TCE are shown in Figs.\u00a03 and 4. The TCE curves are shifted significantly to the right with respect to all of the tracers. Measured retardation factors ranged between 1.9 and 2.4 for Series 1 and 2.8 and 3.5 for Series 2 (Table\u00a05 ). The magnitude of retardation is larger for Series 2 due to the higher water content and the appreciable partitioning of TCE into water. The retardation factors for TCE are larger than those for the partitioning tracers because TCE transport is influenced by all three retention processes (in contrast to the tracers) and because TCE has the smallest Henry's coefficient (i.e., largest proportional partitioning to water). Eqs. (2)\u2013(4) can be used to calculate the contributions of individual retention processes to total retention (RT \u22121). For all experiments, TCE vapor dissolution into bulk water comprised the largest fraction of total retention, averaging 66%. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is discussed in relation to its transport and retention processes in water. The study highlights how TCE's behavior, including its partitioning into water and the influence of water content on its transport, is part of a broader process of understanding chemical retention in environmental studies. However, the term 'Process' is not explicitly defined or detailed, making the relationship somewhat vague.",
+        "reason": "The score of 2 reflects an indirect connection between TCE and the broader concept of 'Process.' While TCE is involved in a specific retention process, the lack of detailed discussion about how TCE specifically relates to the term 'Process' limits the relevance.",
+        "score": 2
+    }
+}

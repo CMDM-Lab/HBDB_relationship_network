@@ -1,0 +1,10 @@
+{
+    "context": "The first one (2.50\u20134.00min) contained the three most abundant ions of chloroform and bromodichloromethane (83, 85, 47) and the three of benzene (78, 77, 51); the second (4.00\u20134.30min) was formed by the characteristic ions of toluene (91, 92, 65) and dibromochloromethane (127, 129, and 131), and the third group (4.30\u20136.10min) contained the m/z variables characteristic of ethylbenzene and xylene (91, 106, 77) and those characteristic of bromoform (171, 173, 175). The ions were acquired with a dwell time of 10ms. Table 1 shows the optimized experimental conditions for each of the modules comprising the instrumental configuration.Data analysis Data collection was performed with Enhanced ChemStation, G1701CA Ver. C 00.00 software from Agilent Technologies. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "bromoform",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and bromoform are mentioned as part of a mass spectrometry analysis, where both compounds are identified by their characteristic ions. They are grouped together in the analysis of volatile organic compounds, indicating they are part of the same experimental setup, but no direct interaction or functional relationship between them is discussed.",
+        "reason": "The score of 2 reflects a low relevance, as ethylbenzene and bromoform are simply listed together in the context of mass spectrometry analysis without any detailed discussion of their interactions or significance beyond their identification as compounds.",
+        "score": 2
+    }
+}

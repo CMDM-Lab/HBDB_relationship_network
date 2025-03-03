@@ -1,0 +1,10 @@
+{
+    "context": "Knowing these ratios enables a rapid identification of the source points responsible for the emissions. Samplings of the surrounding area of the MSW treatment plant would be quicker, because the analyst would search just the characteristic compounds in the chromatogram. Emissions from landfill leaks are associated with high p-cymene/limonene, pinene/limonene and H2S/NH3 ratios. As regards both composting sources, the contribution of ammonia is greater that of hydrogen sulphide, but in the early stages of the composting process the difference between NH3 and H2S is slightly less marked. Limonene and p-cymene were two important compounds with high concentration in some emission source points, and some interesting conclusions can be obtained comparing the values of their emissions. It is notable that the contributions of p-cymene and limonene to the emissions are similar in the case of the fresh composting mixture. Whereas for the mature compost (rejected compost fraction), limonene makes a greater contribution to emissions than p-cymene. ",
+    "term_A": "ammonia",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, ammonia (NH3) is discussed in relation to its emissions during the composting process at a municipal solid waste (MSW) treatment plant. The analysis highlights the significance of ammonia compared to hydrogen sulfide (H2S) in emissions, particularly in the early stages of composting. The ratios of ammonia to other compounds are used to identify emission sources, indicating its relevance in monitoring and understanding the composting process.",
+        "reason": "The score of 3 reflects a moderate relevance, as ammonia is directly linked to the composting process through its emissions and comparative analysis with hydrogen sulfide. However, the relationship is primarily observational without detailed mechanistic insights.",
+        "score": 3
+    }
+}

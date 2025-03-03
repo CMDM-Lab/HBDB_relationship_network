@@ -1,0 +1,10 @@
+{
+    "context": "Additionally, ammonium in a concentration ranging from 45 to 240 \u03bcmol/L (average 110 \u03bcmol/L) has been detected in the hepatic bile in healthy humans undergoing a cholecystectomy for gallstones. The fate of the ammonium present in the bile is unclear, but it may be released into the intestinal lumen being subsequently transported by the portal vein to the liver. Human hepatocytes use ammonia and bicarbonate to form carbamoylphosphate in the mitochondria, initiating the urea cycle reactions. In individuals with normal liver function, hepatocytes seem to have a remarkable functional reserve, and urea synthesis per gram of liver tissue increases rapidly following major hepatectomy, so that liver resections of up to 70%\u201380% are generally well tolerated and arterial ammonium concentration remains unchanged. In contrast, much smaller liver resections precipitate liver failure in patients with underlying liver disease. Normal human liver also shows glutamine synthetase and glutaminase activity, being therefore capable of glutamine synthesis and hydrolysis.Kidney Human kidney also plays a fundamental role in ammonium homeostasis. Normal kidney cells produce free ammonium ions that are either excreted into the urine or released into the renal vein. ",
+    "term_A": "urea",
+    "term_B": "Liver function",
+    "llm_generation": {
+        "summary": "In this context, urea is closely related to liver function through the urea cycle, where ammonia is converted into urea in hepatocytes. The liver's ability to synthesize urea is indicative of its functional capacity, as evidenced by the increased urea synthesis following liver resections. This highlights the liver's critical role in detoxifying ammonia and maintaining metabolic homeostasis.",
+        "reason": "The score of 4 reflects a significant connection between urea and liver function, supported by evidence of the urea cycle's role in ammonia detoxification and the liver's functional reserve during surgical interventions. The relationship is well-established in the context of liver health and metabolic processes.",
+        "score": 4
+    }
+}

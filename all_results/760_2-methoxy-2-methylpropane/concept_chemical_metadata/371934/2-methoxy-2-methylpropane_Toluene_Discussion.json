@@ -1,0 +1,10 @@
+{
+    "context": "This result is consistent with the results of Chan et al. (1991a) and Jo and Park (1999). The study by Chan et al. (1991a) was conducted during the urban and interstate rush hours around Raleigh, NC. The study by Jo and Park (1999) was performed on two hypothetical urban and one hypothetical commute routes in the same study city as the current study. The in-vehicle MTBE, benzene and toluene levels measured in the present study were much higher than the ambient air levels reported in another unpublished study conducted in the same study city by the current authors. For example, the in-vehicle MTBE concentrations were 29.1 and 22.7 \u03bcg/m3 in the passenger cars and public buses, respectively. In the other study, the mean residential outdoor MTBE concentrations measured in close proximity to a service station and some distance away were 10.0 and 7.1 \u03bcg/m3, respectively. Accordingly, under commute conditions, the vehicle interior would appear to be an important microenvironment for MTBE, benzene and toluene exposure. ",
+    "term_A": "2-methoxy-2-methylpropane",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) that may be present in urban environments, particularly in vehicle interiors during commutes. However, the context does not provide any specific interaction or comparative analysis between the two compounds, focusing instead on their individual presence in air quality studies. Thus, their relationship is not explicitly defined beyond being part of the same environmental study.",
+        "reason": "The score of 2 reflects a low relevance, as both 2-methoxy-2-methylpropane and toluene are identified as VOCs in the same environmental context, but there is no detailed discussion of their interaction or significance relative to each other.",
+        "score": 2
+    }
+}

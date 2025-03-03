@@ -1,0 +1,10 @@
+{
+    "context": "[3] The occurrence of these exposure incidents was borderline significantly (p\u00e2\u20ac\u0160=\u00e2\u20ac\u01600.06) associated with cough symptoms but not with any other respiratory symptom. [4] The association with cough disappeared after adjusting for smoking and age. [1] There was no clear association between FEV1 (% predicted) and exposure to diacetyl (fig 1). [2] Multiple linear regression analysis of pulmonary function variables on exposure in process operators (table 4) showed a significant increase in actual FEV1 of 28 ml per year for those working in the diacetyl plant before 1995 (95% CI 3 to 53) and a significant increase in FEV1 of 2 ml per cumulative weighted number of years worked in the diacetyl plant (95% CI 0 to 4). [1] During production of diacetyl, process operators were potentially exposed to acetoin, diacetyl, acetaldehyde and acetic acid. [2] Diacetyl levels ranged from 1.8 to 351 mg/m3 and acetaldehyde levels from 0.4 to 29 mg/m3. [3] Diacetyl exposure levels could not be evaluated in relation to an occupational standard as no Dutch occupational exposure limit (\u00e2\u20ac\u0153MAC value\u00e2\u20ac\u009d) or international equivalent is available. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione, also known as diacetyl, is discussed in relation to its production process and the exposure of process operators to this compound. The study examines the health effects of diacetyl exposure during its production, particularly focusing on respiratory symptoms and pulmonary function. However, the term 'process' is used broadly to refer to the production environment without detailing specific interactions or mechanisms involving diacetyl, limiting the depth of their relationship.",
+        "reason": "The score of 3 reflects a moderate relevance, as Butane-2,3-dione is directly linked to the production process being studied, with some discussion of health effects related to exposure. However, the relationship lacks detailed exploration of specific interactions within the process.",
+        "score": 3
+    }
+}

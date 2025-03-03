@@ -1,0 +1,10 @@
+{
+    "context": "NO is synthesized by the vascular endothelium from the aminoacid l-arginine by constitutive and inducible NO-synthase and plays an important role in the maintenance of vascular homeostasis. The endogenous l-arginine metabolite, ADMA, inhibits cellular l-arginine uptake and NO-synthase activity. Circulating ADMA is elevated in patients with overt DN, even when the GFR is still within normal range (Hanai et al., 2009). It has been stated that in both normo- and microalbuminuric diabetic patients, plasma ADMA levels have prognostic implications for the transition to a more advanced stage of albuminuria (Krzyzanowska et al., 2007). In our study, ADMA levels were increased in a small number of the normoalbuminuric patients and did not correlate with UACR. Plasma ADMA correlated with inflammation, plasma AGE, serum cystatin C, eGFR, and DM duration. These results revealed in our normoalbuminuric patients are close to the data found in microalbuminuric patients with type 2 DM (Shibata et al., 2009), thus giving rise to the speculation that an inflammatory state at the glomerular level may be found in normoalbuminuric patients with type 2 DM. ",
+    "term_A": "N,N-dimethylarginine",
+    "term_B": "Microalbuminuria",
+    "llm_generation": {
+        "summary": "In this context, N,N-dimethylarginine (ADMA) is discussed as an endogenous inhibitor of nitric oxide synthase, with elevated levels observed in patients with diabetic nephropathy (DN). The study indicates that plasma ADMA levels have prognostic implications for the progression from normoalbuminuria to microalbuminuria in diabetic patients, suggesting a potential link between ADMA and the inflammatory processes at the glomerular level that may contribute to microalbuminuria development.",
+        "reason": "The score of 4 reflects a significant connection between ADMA and microalbuminuria, supported by evidence that elevated ADMA levels correlate with the transition to more advanced stages of albuminuria in diabetic patients, indicating a clear relationship within the context of vascular health and kidney function.",
+        "score": 4
+    }
+}

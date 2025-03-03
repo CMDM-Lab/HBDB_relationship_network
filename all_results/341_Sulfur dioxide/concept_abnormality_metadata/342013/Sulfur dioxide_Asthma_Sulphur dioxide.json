@@ -1,0 +1,10 @@
+{
+    "context": " [8] Histamine release from mast cells in the respiratory tissue is stimulated by SO2.  [9] Smooth muscle contraction and increased resistance to expiratory airflow are produced and reflected in measures of FVC and FEV1. [10] Cromolyn sodium blocks histamine release thereby minimising bronchoconstriction, whereas a \u00ce\u00b2-agonist produces relaxation of airway smooth muscle. [1] Although SO2 is clearly an important irritant for exercising asthmatics and may cause problems for the asthmatic athlete, it is unlikely to be of concern to the athlete with normal lungs at current ambient levels. [2] Air temperature and humidity influence the degree of symptoms experienced, with cold dry air producing a faster and more intense response to SO2 than warm moist air. [3] It is possible that SO2 may be one of the triggers for exercise induced bronchospasm. [4] The overall incidence of exercise induced bronchospasm across all sports and sexes in a recent survey of Olympic winter sport athletes was reported as 23%. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is identified as a significant irritant that can trigger asthma symptoms, particularly in exercising individuals. The release of histamine from mast cells in response to SO2 leads to bronchoconstriction and increased airway resistance, which are critical factors in asthma exacerbation. The text suggests that SO2 may contribute to exercise-induced bronchospasm, highlighting its relevance to asthma management and the potential risks for asthmatic athletes.",
+        "reason": "The score of 4 reflects a strong connection between sulfur dioxide and asthma, as the context discusses SO2's role in histamine release and bronchoconstriction, both of which are crucial in asthma pathophysiology. The evidence presented indicates a significant impact of SO2 on asthma symptoms, particularly during exercise.",
+        "score": 4
+    }
+}

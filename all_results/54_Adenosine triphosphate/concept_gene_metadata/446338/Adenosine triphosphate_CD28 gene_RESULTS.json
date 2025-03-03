@@ -1,0 +1,10 @@
+{
+    "context": "[3] B, ATP release and location of mitochondria was assessed in Jurkat cells stained with 2\u00e2\u20ac\u201c2Zn(II) (for ATP detection; green) and MitoTracker Red CM-H2XRos (for mitochondrial staining; red) during formation of an immune synapse (IS; left) or after establishing of the bead/cell contact (100\u00c3\u2014 oil objective, NA 1.4; z-stack projections, 0.1 \u00ce\u00bcm slice increment; see also supplemental Movie S3). [4] MT, MitoTracker; scale bars, 5 \u00ce\u00bcm. [5] C and D, Jurkat cells were treated or not (control) with CBX (20 \u00ce\u00bcm) or latrunculin B (10 \u00ce\u00bcg/ml) for 20 min. [6] ATP concentrations in the supernatant (C) or inside the cells (D) were determined after stimulation for 1 min with anti-CD3/CD28 antibody-coated beads. [7] Data shown are means \u00c2\u00b1 S.D. (n = 3\u00e2\u20ac\u201c8); *, p < 0.05. [1] IS formation and mitochondrial translocation are actin cytoskeleton-dependent processes . [2] Latrunculin B, an inhibitor of actin polymerization, markedly reduced the release of ATP from cells stimulated with beads. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "CD28 gene",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is assessed in Jurkat cells during immune synapse formation, particularly in relation to stimulation with anti-CD3/CD28 antibody-coated beads. The CD28 gene product is crucial for T cell activation, and its engagement leads to ATP release, indicating a functional relationship where CD28 signaling influences ATP dynamics in immune responses. However, the specific role of the CD28 gene in ATP release is not deeply explored in the provided context.",
+        "reason": "The score of 4 reflects a significant connection between ATP and the CD28 gene, as ATP release is linked to CD28-mediated T cell activation. The context provides evidence of this relationship through experimental data, although the exact mechanisms are not fully detailed.",
+        "score": 4
+    }
+}

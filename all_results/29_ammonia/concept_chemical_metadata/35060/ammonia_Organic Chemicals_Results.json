@@ -1,0 +1,10 @@
+{
+    "context": "The amount of hydrogen cyanide formed during the fires is established to be up to 40 times lower than the formed amount of NO x . Levels vary between 0.1 and 3.5gkg\u22121 polyamide. Ammonia was found in lower amounts than HCN (max 0.3gkg\u22121 polyamide). During the first two experiments, the amount of ammonia did not exceed the detection limit (<0.1gkg\u22121).VOC, aldehydes and ketones The major organic compounds that are emitted are the classic BTEX compounds (benzene, toluene, ethyl benzene and xylenes) and formaldehyde. Many other aromates and partly oxidized organic substances are formed in lower quantities. In one experiment (experiment 2) benzonitrile was detected (1.5gkg\u22121).Dust and particle bound compounds During the fires dust and soot was formed. The total amounts of emitted dust fluctuated between 2.5 and 5.5gkg\u22121 combustible material. ",
+    "term_A": "ammonia",
+    "term_B": "Organic Chemicals",
+    "llm_generation": {
+        "summary": "In this context, ammonia is mentioned as a byproduct of fires involving polyamide materials, with its levels being significantly lower than those of hydrogen cyanide (HCN). While ammonia is classified as an organic chemical, the context primarily focuses on the emissions of various organic compounds, including BTEX and formaldehyde, without detailing a specific interaction or functional relationship between ammonia and organic chemicals. Thus, the relationship is more about classification rather than direct relevance.",
+        "reason": "The score of 2 reflects an indirect connection, as ammonia is categorized under organic chemicals but lacks a detailed discussion of its interactions or significance in the context of the other organic compounds mentioned.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The patient exhales smoothly through the straw until the internal surface of the tube is covered with condensed vapour. The patient continues to exhale whilst the straw is removed and the tube is immediately closed with its corresponding cap. The urea solution is prepared by dissolving a 100mg tablet of this substance in 50cc of water, which is then immediately drunk by the patient. Thirty minutes after administration of the urea solution, new samples of exhaled breath are collected. The approximate duration of the procedure is, therefore, 40min. A mass spectrometer (ABCA, PDZ; Crew, Manchester, England) is used to analyse the results of the test. The results of each breath test are issued in \u03b4 units, which include a corrective factor (a gas of known composition and concentration, which is analysed in the same manner and at the same time as the samples under study). ",
+    "term_A": "urea",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, urea is administered to the patient in a solution, and the subsequent exhalation of breath is analyzed to assess the presence of urea in the exhaled samples. The procedure involves collecting breath samples after urea ingestion, indicating a direct relationship where exhalation serves as a method to evaluate the metabolic processing of urea in the body. This highlights the role of exhalation in monitoring urea levels and potentially assessing metabolic function.",
+        "reason": "The score of 4 reflects a significant connection between urea and exhalation, as the procedure directly involves measuring exhaled breath after urea administration, indicating a clear physiological relationship in the context of metabolic assessment.",
+        "score": 4
+    }
+}

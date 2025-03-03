@@ -1,0 +1,10 @@
+{
+    "context": "HSP expression was quantified in cells exposed for 4 days to pollutant concentrations ranging from no-observed effect (NOEC) on cellular proliferation up to sublethal doses. Experiments were carried out on two human tumor-derived cells in culture: A549 pneumocytes, as lung alveolar epithelial cells are the first target of volatile pollutants, and HepG2 hepatocytes, as liver plays a key role in metabolism and detoxification of chemicals. Besides, primary cultures of human gingival fibroblasts were used as nontumoral reference cells. Chemicals and reagents Benzene, toluene, xylene, ethylbenzene and chlorobenzenes were obtained from Aldrich Chemical Company. 1,2,3-ClB, 1,3,5-ClB and 1,2,3,4-ClB were dissolved in dimethyl-cetone to make 100 mM stock solutions. Monoclonal mouse antibodies raised against HSP72 (SPA810), HSP72/73 (SPA822), HSP90 (SPA830) or GRP78 (SPA827) were from StressGen Biotechnologies. Peroxydase goat anti-mouse IgG antibody (A2554) was purchased from Sigma (France). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Chemicals",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is mentioned as one of several chemicals, including benzene, toluene, and xylene, that were obtained for experiments involving human tumor-derived cells. The focus is on the effects of these chemicals on cellular responses, particularly regarding heat shock protein (HSP) expression. Ethylbenzene is categorized alongside other volatile organic compounds (VOCs) but lacks a specific discussion of its unique interactions or effects compared to the other chemicals listed.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene is grouped with other chemicals in the context of a study, indicating they share a general category as pollutants. However, there is no detailed exploration of ethylbenzene's specific role or relationship with the other chemicals.",
+        "score": 2
+    }
+}

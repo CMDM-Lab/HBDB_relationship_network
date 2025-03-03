@@ -1,0 +1,10 @@
+{
+    "context": "[6] Levels of TNF\u00ce\u00b1 and IL-1\u00ce\u00b2 in the brain were measured using a sandwich enzyme-linked immunosorbent assay (R&D Systems, Minneapolis, MN), and results are reported as picograms of cytokine per milligram of protein present in the brain homogenate. [7] The limit of detection for both TNF\u00ce\u00b1 and IL-1\u00ce\u00b2 cytokine enzyme-linked immunosorbent assays was 5 pg ml-1. [1] Nitrite Measurement. [2] The total amount of NO in plasma was indirectly determined by measuring total nitrites and nitrates (end products of NO oxidation) using a NO assay kit (Cayman Chemical, Ann Arbor, MI) according to the manufacturer's instructions. [3] The kit involved converting nitrates into nitrites and then measuring the converted products using Griess reagent. [4] Nitrite accumulation was determined in a 96-well plate format with the absorbances read at 540 nm. [5] The limit of detection for this assay was 2.5 \u00ce\u00bcM. ",
+    "term_A": "nitrate",
+    "term_B": "Oxidation",
+    "llm_generation": {
+        "summary": "In this context, nitrate is discussed as a product of nitric oxide (NO) oxidation, where total nitrites and nitrates are measured as end products. The methodology involves converting nitrates into nitrites for quantification, indicating a direct relationship between nitrate levels and the oxidation process of NO. This highlights the role of nitrates in the biochemical pathway of NO metabolism and its implications in physiological processes.",
+        "reason": "The score of 4 reflects a significant connection between nitrate and oxidation, as the context describes the measurement of nitrates as end products of NO oxidation, supported by specific assay methods. This indicates a clear biochemical relationship within the context of metabolism.",
+        "score": 4
+    }
+}

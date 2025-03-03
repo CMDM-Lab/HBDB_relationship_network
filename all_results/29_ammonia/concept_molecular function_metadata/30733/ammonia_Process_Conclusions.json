@@ -1,0 +1,10 @@
+{
+    "context": "This further confirms that the crystals are likely marketable as an analytical grade chemical and chemical fertilizer (Tao and Ukwuani, 2015). From both economic and product quality perspectives, direct crystallization in a well-controlled acid solution is the best method to produce ammonium sulfate crystals. Drying acid solution and ethanol-induced crystallization increase operational costs and may produce low-purity crystals. Vacuum thermal stripping coupled with acid absorption is an innovative process to efficiently recover ammonia from digestate and ammonia-rich wastewater. Compared with thermal stripping, it allows ammonia recovery at a greater flow rate in a recirculation line of an anaerobic digester because of the lower boiling point temperature. Moreover, it creates opportunities for stripping digester effluent and other ammonia-rich wastewater, followed by\u00a0downstream temperature-dependent treatment without recirculation. Vacuum thermal stripping of ammonia could be well simulated by the Lewis-Whitman model. ",
+    "term_A": "ammonia",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, ammonia is linked to the process of vacuum thermal stripping, which is described as an innovative method for efficiently recovering ammonia from digestate and ammonia-rich wastewater. This process is highlighted for its advantages over traditional thermal stripping, including higher flow rates and lower operational costs, indicating a significant relationship between ammonia and the recovery process.",
+        "reason": "The score of 4 reflects a strong connection between ammonia and the vacuum thermal stripping process, as the context provides detailed information on how this process enhances ammonia recovery, supported by operational advantages and potential applications.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Sample preparation; 2\u00a0ml of t-butanol was placed in a penicillin vial and butane from the lighter refill found by the dead body was added. The vial was close and placed into the headspace sampler and thermostatted at 60\u00a0\u00b0C for 16\u00a0min. Blood, urine, and brain and lung tissue samples obtained from the deceased were prepared in the same way. After thermostatting the sample gas phase was dosed into a PE gas chromatograph, and the obtained chromatograms were compared with the chromatogram of the unquestionable butane sample found by the body.Pathohistological analysis Tissue samples were fixed in 15% formalin, embedded in paraffine, sliced to 5\u00a0\u03bcm and stained by the H/E method.Immunohistochemical analysis Heart samples were stained by a panel of immunohistochemical agents: Desmin (Dako, 1:50), Myoglobin (Dako, 1:25), Fibrinogen (Dako, 1:40), Fibronectin (Dako, 1:200), CC9 (Novocastra, 1:25). The intensity and distribution of the staining reactions were scored semiquantitatively (Table 1 ). Autopsy findings 5.1.1 External examination Dead bodies of male persons of appropriate physical development and nourishment, and sexual features, presenting no signs of violent action by third persons. ",
+    "term_A": "Butane",
+    "term_B": "Butane",
+    "llm_generation": {
+        "summary": "In this context, butane is mentioned twice as part of a sample preparation process involving t-butanol and butane from a lighter refill found at a crime scene. The analysis focuses on comparing chromatograms of the butane sample from the scene with a known butane sample. The relationship is purely procedural, as both instances refer to the same chemical compound used in forensic analysis without any additional context or interaction described.",
+        "reason": "The score of 1 reflects a very low relationship since butane is simply mentioned in the context of sample preparation and analysis, with no functional or chemical interaction discussed beyond its identification as a compound.",
+        "score": 1
+    }
+}

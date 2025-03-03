@@ -1,0 +1,10 @@
+{
+    "context": "The IUR is based on a 70kg adult breathing 20m3 of air per day. Cancer risks from inhalation of benzene were calculated by multiplying the mean and maximum concentrations of benzene (Figs. 2\u20134). For the non-carcinogenic assessment of health risk, Hazard Quotients (HQs) and Hazard Indices (HI) were calculated from mean and maximum measured concentrations of benzene, toluene, ethylbenzene, m,p-xylene, and o-xylene. HQs are calculated by dividing the measured contaminant concentrations by a reference concentration (RfC) derived from the USEPA Integrated Risk Information System (IRIS). The HI approach presumes that simultaneous sub-threshold exposures to several chemicals could result in an adverse health effect; HIs are calculated as sums of a non-cancer hazard quotient. For the purposes of screening, there may be a concern for potential non-carcinogenic effects if the HI is greater than 1 (USEPA, 1989). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "4-xylene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and 4-xylene are both mentioned as part of a health risk assessment involving inhalation exposure to volatile organic compounds (VOCs). They are included in the calculation of Hazard Quotients (HQs) and Hazard Indices (HIs) to evaluate potential non-carcinogenic effects from simultaneous exposure to multiple chemicals. However, the relationship between ethylbenzene and 4-xylene is not explicitly detailed beyond their inclusion in the same risk assessment framework.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and 4-xylene are both part of the same health risk assessment but lack a direct interaction or specific relationship discussed in the context.",
+        "score": 2
+    }
+}

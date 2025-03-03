@@ -1,0 +1,10 @@
+{
+    "context": "[5] We found that feeding DOX stimulated the rate of isoprene emission only when leaves became starved for carbon. [6] We also found that a large and variable proportion of the total DMAPP in leaves is located outside the chloroplast and is, thus, not available for isoprene emission. [1] DOX-d2 was used to investigate properties of isoprene synthase, especially the affinity of isoprene synthase for its substrate DMAPP. [2] In addition, we studied the regulation of the MEP pathway and its ability to supply a regulated amount of DMAPP for isoprene synthesis during and after heatflecks. [1] Feeding DOX-d2 (2.94 mm) caused the emitted isoprene to become labeled with deuterium (Fig. 1). [2] The first deuterium-labeled isoprene was emitted approximately 10 to 15 min after the onset of feeding, and the degree of labeling increased continuously over the next 2 h until a rather constant level was reached (Fig. 1). [3] When the DOX-d2 solution was replaced with water, the degree of deuterium labeling of isoprene decreased after about 20 min and was further reduced to low levels in about 2 h (Fig. 1). ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "isoprene",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene is directly related to isoprene as it is a structural isomer of isoprene. The study discusses the emission of isoprene from leaves and the biochemical pathways involved, particularly focusing on isoprene synthase and its substrate DMAPP. While the context emphasizes isoprene emission, the mention of 2-methylbuta-1,3-diene suggests a close chemical relationship, as both compounds are part of the same metabolic pathway in plants, specifically in the synthesis of isoprene.",
+        "reason": "The score of 4 reflects a significant connection between 2-methylbuta-1,3-diene and isoprene, as they are structurally related and involved in the same biosynthetic pathway. The context provides evidence of their relationship through the discussion of isoprene synthase and the metabolic processes that lead to isoprene emission.",
+        "score": 4
+    }
+}

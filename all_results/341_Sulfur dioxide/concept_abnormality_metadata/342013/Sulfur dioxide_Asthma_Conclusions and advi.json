@@ -1,0 +1,10 @@
+{
+    "context": "[14] On hot bright days in the United Kingdom, elevated levels of O3 may occur, which can be avoided by running/cycling in the early morning or late evening. [15] Check the pollution bulletins and forecasts for occasional high levels in photochemical smogs during summer inversions. [16] Be especially careful in rural areas where elevated O3 levels may occur. [17] SO2 is unlikely to be of concern to the athlete with normal lungs at current ambient levels, but it clearly is an important irritant for exercising asthmatics, and may cause problems for the asthmatic athlete. [18] Asthmatics are advised to take their (inhaler) medication before exercise, and to carry an inhaler with them when exercising. [19] There is little risk of damage from exposure to NO2 while street training in the London urban atmosphere, although there may be a greater risk in rural areas. [20] The advice above all is to keep away from busy roads. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is identified as an irritant that poses a risk to individuals with asthma, particularly during exercise. While it may not significantly affect athletes with normal lung function, it can exacerbate symptoms in asthmatic athletes, highlighting the need for them to manage their condition proactively, such as using inhalers before exercise. This indicates a direct relationship between SO2 exposure and asthma exacerbation.",
+        "reason": "The score of 4 reflects a significant connection between sulfur dioxide and asthma, as the context discusses SO2 as an irritant specifically affecting asthmatic individuals during exercise, supported by practical advice for managing asthma in polluted environments.",
+        "score": 4
+    }
+}

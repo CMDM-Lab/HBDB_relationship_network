@@ -1,0 +1,10 @@
+{
+    "context": "This study characterized VOCs in four current and commercially available fuels. Conventional gasoline showed liquid and vapor compositions that were comparable to earlier reports. The dominant VOCs in gasoline and E85 included aromatic compounds (e.g., toluene, 1,2,4-trimethylbenzene, p-m-xylene) and alkanes (n-heptane, cyclohexane and methylcyclohexane). Headspace vapors were \u201cenriched\u201d in the fuel\u2019s more volatile components (e.g., benzene, cyclohexane, methylcyclohexane and n-heptane). In ULSD and B20, for which little VOC information is available, the dominant VOCs included alkanes and several aromatics (e.g., 1,2,3-trimethyl benzene and naphthalene). Vapors of these fuels contained toluene, p-,m-xylene and benzene at concentrations much lower than gasoline\u2019s. Depending on temperature, E85 vapor had higher concentrations of several or many VOCs than gasoline, and vapor pressures of the 17 measured VOCs in E85 increased considerably faster with temperature than those in gasoline. ",
+    "term_A": "Heptane",
+    "term_B": "n-heptane",
+    "llm_generation": {
+        "summary": "In this context, Heptane and n-heptane refer to the same chemical compound, with n-heptane being the systematic name for the straight-chain isomer of heptane. Both terms are used interchangeably to describe a volatile organic compound (VOC) found in gasoline and other fuels. The study highlights n-heptane as a dominant alkane in the vapor compositions of various fuels, indicating its significance in the analysis of VOCs in fuel emissions.",
+        "reason": "The score of 5 reflects a direct and critical relationship between Heptane and n-heptane, as they are two names for the same compound. The context emphasizes n-heptane's role as a significant VOC in fuel compositions, reinforcing their strong relevance.",
+        "score": 5
+    }
+}

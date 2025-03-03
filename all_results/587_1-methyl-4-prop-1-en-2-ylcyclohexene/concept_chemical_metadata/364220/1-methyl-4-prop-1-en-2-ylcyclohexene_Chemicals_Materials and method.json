@@ -1,0 +1,10 @@
+{
+    "context": "The cages were sanitized twice weekly. Food (Altromin no. 1324, Altromin, Lage, Germany) and tap water were available ad libitum. Treatment of the animals followed procedures approved by The Animal Experiment Inspectorate, Denmark with Permission number (2006/561-1123).Chemicals R-(+)-limonene, 98% purum, no. 62120, was obtained from Fluka-Kemi AG. This material contained minor quantities of 6 other monoterpenes (total ca. 2.5% in limonene GC-FID equivalents). ",
+    "term_A": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "term_B": "Chemicals",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is mentioned as a specific chemical compound, while 'Chemicals' refers to a broader category that includes various substances. The context does not provide any detailed interaction or relationship between 1-methyl-4-prop-1-en-2-ylcyclohexene and the general category of chemicals, as it primarily lists the compound among others without elaborating on its significance or function.",
+        "reason": "The score of 1 reflects a very low relationship, as 1-methyl-4-prop-1-en-2-ylcyclohexene is simply listed as a chemical without any specific interaction or relevance to the broader category of 'Chemicals' in the context provided.",
+        "score": 1
+    }
+}

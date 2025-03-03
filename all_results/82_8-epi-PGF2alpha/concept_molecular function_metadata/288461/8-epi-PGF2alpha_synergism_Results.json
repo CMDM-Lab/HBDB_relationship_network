@@ -1,0 +1,10 @@
+{
+    "context": "The presence of obesity, but not asthma, was associated with increased exhaled 8-isoprostane levels. On the other hand, plasma levels of 8-isoprostanes were higher in asthmatics, but no effect of obesity was observed. In addition, there was no correlation between exhaled and plasma 8-isoprostane levels. Based on these data, the authors inferred that while asthma increases systemic oxidative stress and obesity increases airway oxidative stress there was no synergism between plasma and exhaled 8-isoprostane levels. It is difficult to make a conclusion regarding the role of oxidative stress in obese asthmatics given the conflicting currently available data, but it is plausible that oxidative stress may not be a causative factor but rather may modulate asthma severity and alter response to medications. Adipokines in obesity related to asthma Adipose tissue produces a number of mediators, termed adipokines, which have significant metabolic effects. One of these adipokines, named leptin, is secreted by adipose tissue in direct proportion to the level of adiposity, 78 and acts, under healthy conditions, through the hypothalamus as an appetite suppressant and metabolic stimulant. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "synergism",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha, a marker of oxidative stress, is discussed in relation to obesity and asthma. The study indicates that while obesity increases airway oxidative stress, there is no synergism observed between plasma and exhaled levels of 8-isoprostanes. This suggests that the relationship between oxidative stress and asthma severity may not be straightforward, indicating a lack of direct interaction or enhancement between these factors.",
+        "reason": "The score of 2 reflects an indirect connection, as 8-epi-PGF2alpha is mentioned in the context of oxidative stress related to obesity and asthma, but there is no detailed discussion of synergism or a direct relationship between them.",
+        "score": 2
+    }
+}

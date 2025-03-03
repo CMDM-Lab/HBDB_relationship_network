@@ -1,0 +1,1282 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Leukotriene E4",
+                    "label": "Leukotriene E4",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Leukotriene E4",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Leukotriene E4",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Leukotriene E4",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Leukotriene E4",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Leukotriene E4",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Leukotriene E4",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Leukotriene E4",
+                        "label": "Leukotriene E4",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Virus Diseases",
+                        "label": "Virus Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Airway Obstruction",
+                        "label": "Airway Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma aspirin-sensitive",
+                        "label": "Asthma aspirin-sensitive",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Virus Diseases",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Airway Obstruction",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Asthma",
+                        "score": 13
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Asthma aspirin-sensitive",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Leukotriene E4",
+                        "label": "Leukotriene E4",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ammonium hydroxide",
+                        "label": "ammonium hydroxide",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Metabolites",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Chemicals",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "ammonium hydroxide",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Leukotriene E4",
+                        "label": "Leukotriene E4",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammatory Response",
+                        "label": "Inflammatory Response",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Excretory function",
+                        "label": "Excretory function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "attenuation",
+                        "label": "attenuation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Inflammatory Response",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Drug Interactions",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Adjudication",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Excretory function",
+                        "score": 11
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Synthesis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "attenuation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "inhibitors",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Inflammation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Leukotriene E4",
+                        "target": "Respiratory physiology",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Leukotriene E4",
+                        "label": "Leukotriene E4",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Leukotriene E4",
+                        "label": "Leukotriene E4",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Leukotriene E4",
+                        "label": "Leukotriene E4",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Virus Diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Virus Diseases",
+                        "label": "Virus Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226769",
+                        "label": "Urinary leukotriene E4/exhaled nitric oxide ratio and montelukast response in childhood asthma.\nN. Rabinovitch, NJ. Graber, VM. Chinchilli, CA. Sorkness, RS. Zeiger, RC. Strunk, LB. Bacharier, FD. Martinez, SJ. Szefler, . \nJ. Allergy Clin. Immunol. 2010 Sep;126(3):545-51.e1-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20816189"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226769_Leukotriene E4_Virus Diseases_Discussion.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is discussed as a potential marker for systemic inflammation that may be induced by viral infections, particularly rhinovirus. The text suggests that urinary LTE4 levels could reflect a virus-induced systemic component, which may influence the responsiveness to montelukast, a medication used for asthma. However, the lack of direct viral specimen collection limits the ability to definitively assess the relationship between viral exposure and LTE4 levels.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Virus Diseases",
+                        "target": "226769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226769",
+                        "target": "226769_Leukotriene E4_Virus Diseases_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Airway Obstruction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Airway Obstruction",
+                        "label": "Airway Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747",
+                        "label": "Asthma outcomes: biomarkers.\nSJ. Szefler, S. Wenzel, R. Brown, SC. Erzurum, JV. Fahy, RG. Hamilton, JF. Hunt, H. Kita, AH. Liu, RA. Panettieri, RP. Schleimer, M. Minnicozzi\nJ. Allergy Clin. Immunol. 2012 Mar;129(3 Suppl):S9-23.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22386512"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747_Leukotriene E4_Airway Obstruction_Review of specific c.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is linked to airway obstruction, particularly in asthma exacerbations. Elevated urinary LTE4 levels correlate with decreased lung function and increased airway obstruction, as indicated by a fall in FEV1 during challenges. While LTE4 levels rise during asthma exacerbations, their predictive value for airway obstruction varies among patients, suggesting a complex relationship influenced by factors like aspirin sensitivity and eosinophil levels.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Airway Obstruction",
+                        "target": "226747",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226747",
+                        "target": "226747_Leukotriene E4_Airway Obstruction_Review of specific c.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226769",
+                        "label": "Urinary leukotriene E4/exhaled nitric oxide ratio and montelukast response in childhood asthma.\nN. Rabinovitch, NJ. Graber, VM. Chinchilli, CA. Sorkness, RS. Zeiger, RC. Strunk, LB. Bacharier, FD. Martinez, SJ. Szefler, . \nJ. Allergy Clin. Immunol. 2010 Sep;126(3):545-51.e1-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20816189"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226769_Leukotriene E4_Asthma_Methods.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is measured as a biomarker in children with mild-to-moderate asthma during a clinical trial assessing the efficacy of treatments like fluticasone propionate (FP) and montelukast. The study collects asthma outcome data alongside LTE4 levels to evaluate the relationship between leukotriene levels and asthma control, indicating that LTE4 may play a role in asthma pathophysiology and treatment response.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747",
+                        "label": "Asthma outcomes: biomarkers.\nSJ. Szefler, S. Wenzel, R. Brown, SC. Erzurum, JV. Fahy, RG. Hamilton, JF. Hunt, H. Kita, AH. Liu, RA. Panettieri, RP. Schleimer, M. Minnicozzi\nJ. Allergy Clin. Immunol. 2012 Mar;129(3 Suppl):S9-23.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22386512"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747_Leukotriene E4_Asthma_Review of specific c.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is highlighted as a potential biomarker for characterizing different asthma phenotypes, such as aspirin-sensitive and eosinophilic asthma. The measurement of urinary LTE4 is suggested to be important for understanding the relationship between eicosanoid biology and asthma, indicating its relevance in asthma research and treatment strategies. However, the specific interactions between LTE4 and asthma phenotypes require further investigation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226709",
+                        "label": "Aspirin provocation increases 8-iso-PGE2 in exhaled breath condensate of aspirin-hypersensitive asthmatics.\nL. Mastalerz, R. Januszek, M. Kaszuba, K. Wójcik, N. Celejewska-Wójcik, A. Gielicz, H. Plutecka, K. Oleś, P. Stręk, M. Sanak\nProstaglandins Other Lipid Mediat. 2015 Sep;121(Pt B):163-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26209241"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226709_Leukotriene E4_Asthma_Introduction.json",
+                        "label": "In this context, Leukotriene E4 (uLTE4) is identified as a significant biomarker for aspirin-exacerbated respiratory disease (AERD), which affects a subset of asthmatics. The release of cysteinyl leukotrienes, including uLTE4, is linked to bronchoconstriction triggered by aspirin ingestion. Elevated levels of uLTE4 are also observed in clinically stable asthmatics, indicating its relevance in asthma pathology and management.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "226769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226769",
+                        "target": "226769_Leukotriene E4_Asthma_Methods.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "226747",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226747",
+                        "target": "226747_Leukotriene E4_Asthma_Review of specific c.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "226709",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226709",
+                        "target": "226709_Leukotriene E4_Asthma_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Asthma aspirin-sensitive": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma aspirin-sensitive",
+                        "label": "Asthma aspirin-sensitive",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747",
+                        "label": "Asthma outcomes: biomarkers.\nSJ. Szefler, S. Wenzel, R. Brown, SC. Erzurum, JV. Fahy, RG. Hamilton, JF. Hunt, H. Kita, AH. Liu, RA. Panettieri, RP. Schleimer, M. Minnicozzi\nJ. Allergy Clin. Immunol. 2012 Mar;129(3 Suppl):S9-23.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22386512"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747_Leukotriene E4_Asthma aspirin-sensitive_Review of specific c.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is associated with asthma, particularly in patients with aspirin-sensitive asthma and adult-onset severe asthma. Higher urinary levels of LTE4 are noted in these populations, suggesting its potential role as a biomarker for characterizing asthma phenotypes. The measurement of LTE4 is recommended for studies focusing on the eicosanoid pathway and asthma characterization.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma aspirin-sensitive",
+                        "target": "226747",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226747",
+                        "target": "226747_Leukotriene E4_Asthma aspirin-sensitive_Review of specific c.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Metabolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226738",
+                        "label": "Immunomagnetic molecular probe with UHPLC-MS/MS: a promising way for reliable bronchial asthma diagnostics based on quantification of cysteinyl leukotrienes.\nK. Syslová, A. Böhmová, E. Demirbağ, K. Šimková, M. Kuzma, D. Pelclová, V. Sedlák, P. Čáp, P. Martásek, P. Kačer\nJ Pharm Biomed Anal 2013 Jul-Aug;81-82:108-17.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23644905"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226738_Leukotriene E4_Metabolites_Introduction.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is identified as a member of the cysteinyl leukotrienes, which are metabolites derived from arachidonic acid. The text discusses LTE4 and its metabolites, such as leukotriene F4 (LTF4) and N-acetyl leukotriene E4, highlighting their roles in inflammatory respiratory diseases like asthma and cystic fibrosis. This indicates a direct relationship where LTE4 is a specific metabolite involved in inflammatory processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226738_Leukotriene E4_Metabolites_Results and discussi.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is discussed in relation to its metabolites, specifically N-acetyl-LTE4. The study evaluates the specificity of antibodies against various leukotrienes, including LTE4 and its metabolite, highlighting that the immunobeads show comparable specificity for both. This suggests a direct relationship between LTE4 and its metabolites in the context of immunological assays and their relevance in studying conditions like bronchial asthma.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolites",
+                        "target": "226738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226738",
+                        "target": "226738_Leukotriene E4_Metabolites_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226738",
+                        "target": "226738_Leukotriene E4_Metabolites_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226738",
+                        "label": "Immunomagnetic molecular probe with UHPLC-MS/MS: a promising way for reliable bronchial asthma diagnostics based on quantification of cysteinyl leukotrienes.\nK. Syslová, A. Böhmová, E. Demirbağ, K. Šimková, M. Kuzma, D. Pelclová, V. Sedlák, P. Čáp, P. Martásek, P. Kačer\nJ Pharm Biomed Anal 2013 Jul-Aug;81-82:108-17.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23644905"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226738_Leukotriene E4_Chemicals_Experimental.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is mentioned as part of a mixture of cysteinyl leukotrienes (cys LTs) used in a highly selective and sensitive analytical method for quantifying biomarkers in biological samples from asthma patients. The term 'chemicals' broadly encompasses the various reagents and substances, including LTE4, utilized in the study, indicating that LTE4 is one of the specific chemicals analyzed. However, the relationship is primarily about LTE4 being a component of a larger group of chemicals used for analysis rather than a detailed interaction or functional relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "226738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226738",
+                        "target": "226738_Leukotriene E4_Chemicals_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "ammonium hydroxide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ammonium hydroxide",
+                        "label": "ammonium hydroxide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226738",
+                        "label": "Immunomagnetic molecular probe with UHPLC-MS/MS: a promising way for reliable bronchial asthma diagnostics based on quantification of cysteinyl leukotrienes.\nK. Syslová, A. Böhmová, E. Demirbağ, K. Šimková, M. Kuzma, D. Pelclová, V. Sedlák, P. Čáp, P. Martásek, P. Kačer\nJ Pharm Biomed Anal 2013 Jul-Aug;81-82:108-17.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23644905"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226738_Leukotriene E4_ammonium hydroxide_Experimental.json",
+                        "label": "In this context, Leukotriene E4 and ammonium hydroxide are both mentioned as part of the analytical procedure for quantifying biomarkers in biological samples. However, there is no direct interaction or functional relationship discussed between them. Ammonium hydroxide is listed as a reagent used in the analytical method, while Leukotriene E4 is a biomarker being measured, indicating they are part of the same study but do not interact chemically or biologically.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ammonium hydroxide",
+                        "target": "226738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226738",
+                        "target": "226738_Leukotriene E4_ammonium hydroxide_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Inflammatory Response": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammatory Response",
+                        "label": "Inflammatory Response",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226769",
+                        "label": "Urinary leukotriene E4/exhaled nitric oxide ratio and montelukast response in childhood asthma.\nN. Rabinovitch, NJ. Graber, VM. Chinchilli, CA. Sorkness, RS. Zeiger, RC. Strunk, LB. Bacharier, FD. Martinez, SJ. Szefler, . \nJ. Allergy Clin. Immunol. 2010 Sep;126(3):545-51.e1-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20816189"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226769_Leukotriene E4_Inflammatory Response_Discussion.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is presented as a biomarker associated with the inflammatory response, particularly in relation to asthma and its treatment. Higher LTE4 levels may indicate a broader inflammatory response to various triggers, while its ratio with FENO suggests differing responses to therapies like montelukast and FP. The study implies that LTE4 serves as a general indicator of inflammation, potentially influenced by nonallergic triggers such as tobacco smoke, which can elevate LTE4 levels and alter treatment responsiveness.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammatory Response",
+                        "target": "226769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226769",
+                        "target": "226769_Leukotriene E4_Inflammatory Response_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Drug Interactions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226814",
+                        "label": "Exposure to tobacco smoke increases leukotriene E4-related albuterol usage and response to montelukast.\nN. Rabinovitch, M. Strand, K. Stuhlman, EW. Gelfand\nJ. Allergy Clin. Immunol. 2008 Jun;121(6):1365-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18439662"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226814_Leukotriene E4_Drug Interactions_Results.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is discussed in relation to the effects of montelukast treatment on albuterol usage among children with varying cotinine levels. The study highlights a significant interaction between LTE4 levels and drug usage, suggesting that montelukast may influence the effectiveness of albuterol in patients with different LTE4 levels. However, the specific nature of drug interactions involving LTE4 is not deeply explored, limiting the understanding of its role in pharmacological contexts.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226814_Leukotriene E4_Drug Interactions_Discussion.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is discussed in relation to its interaction with the drug montelukast, which is used to manage asthma symptoms. The study highlights how LTE4 levels influence the effectiveness of montelukast, indicating that higher LTE4 levels may lead to poorer responses to the drug. This suggests a significant relationship between LTE4 and drug interactions, particularly in the context of asthma treatment in children.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Drug Interactions",
+                        "target": "226814",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226814",
+                        "target": "226814_Leukotriene E4_Drug Interactions_Results.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226814",
+                        "target": "226814_Leukotriene E4_Drug Interactions_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226814",
+                        "label": "Exposure to tobacco smoke increases leukotriene E4-related albuterol usage and response to montelukast.\nN. Rabinovitch, M. Strand, K. Stuhlman, EW. Gelfand\nJ. Allergy Clin. Immunol. 2008 Jun;121(6):1365-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18439662"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226814_Leukotriene E4_Adjudication_Discussion.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is discussed in relation to asthma treatment and the effectiveness of different therapies, including inhaled corticosteroids (ICS) and leukotriene receptor antagonists (LTRAs) like montelukast. The mention of adjudication refers to the study's design, which allows for precise measurement of treatment responses in susceptible patient subgroups. While LTE4 levels may inform treatment choices, the term 'adjudication' is more about the study's methodology rather than a direct relationship with LTE4 itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "226814",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226814",
+                        "target": "226814_Leukotriene E4_Adjudication_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Excretory function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Excretory function",
+                        "label": "Excretory function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226814",
+                        "label": "Exposure to tobacco smoke increases leukotriene E4-related albuterol usage and response to montelukast.\nN. Rabinovitch, M. Strand, K. Stuhlman, EW. Gelfand\nJ. Allergy Clin. Immunol. 2008 Jun;121(6):1365-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18439662"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226814_Leukotriene E4_Excretory function_Discussion.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is discussed in relation to its excretion levels, particularly in the context of asthma and exposure to environmental tobacco smoke (ETS). Increased urinary LTE4 excretion is noted as a response to tobacco smoking, indicating a potential link between LTE4 levels and excretory function. The study suggests that monitoring LTE4 could provide insights into inflammatory responses and asthma management, particularly in children exposed to ETS.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226832",
+                        "label": "Bronchial responsiveness to leukotriene D4 is resistant to inhaled fluticasone propionate.\nP. Gyllfors, SE. Dahlén, M. Kumlin, K. Larsson, B. Dahlén\nJ. Allergy Clin. Immunol. 2006 Jul;118(1):78-83.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16815141"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226832_Leukotriene E4_Excretory function_Discussion.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is discussed in relation to its role as a mediator in allergic responses, particularly in the early and late asthmatic reactions (EAR and LAR). The study highlights that urinary excretion of LTE4 is not reduced despite the inhibition of airway obstruction by glucocorticosteroids and leukotriene antagonists. This suggests that while LTE4 is involved in the inflammatory response, its excretion may not directly correlate with the excretory function in the context of airway inflammation and treatment efficacy.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226709",
+                        "label": "Aspirin provocation increases 8-iso-PGE2 in exhaled breath condensate of aspirin-hypersensitive asthmatics.\nL. Mastalerz, R. Januszek, M. Kaszuba, K. Wójcik, N. Celejewska-Wójcik, A. Gielicz, H. Plutecka, K. Oleś, P. Stręk, M. Sanak\nProstaglandins Other Lipid Mediat. 2015 Sep;121(Pt B):163-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26209241"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226709_Leukotriene E4_Excretory function_Results.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is measured in urine samples to assess its excretory function in patients with Aspirin-Exacerbated Respiratory Disease (AERD). The study found that urinary excretion of LTE4 was higher in AERD subjects compared to controls, and its levels correlated with bronchial symptoms. This indicates that LTE4 plays a role in the excretory function related to inflammatory responses in AERD.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Excretory function",
+                        "target": "226814",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226814",
+                        "target": "226814_Leukotriene E4_Excretory function_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Excretory function",
+                        "target": "226832",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226832",
+                        "target": "226832_Leukotriene E4_Excretory function_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Excretory function",
+                        "target": "226709",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226709",
+                        "target": "226709_Leukotriene E4_Excretory function_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Synthesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747",
+                        "label": "Asthma outcomes: biomarkers.\nSJ. Szefler, S. Wenzel, R. Brown, SC. Erzurum, JV. Fahy, RG. Hamilton, JF. Hunt, H. Kita, AH. Liu, RA. Panettieri, RP. Schleimer, M. Minnicozzi\nJ. Allergy Clin. Immunol. 2012 Mar;129(3 Suppl):S9-23.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22386512"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747_Leukotriene E4_Synthesis_Review of specific c.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is discussed as a marker of lung cysteinyl leukotriene activity, with its synthesis being influenced by various factors such as asthma exacerbations and drug interventions. The synthesis of LTE4 is notably reduced by drugs that block cysteinyl leukotriene synthesis, indicating a direct relationship between LTE4 levels and its synthesis pathways. This suggests that understanding LTE4 synthesis is crucial for evaluating its role in asthma and related conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Synthesis",
+                        "target": "226747",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226747",
+                        "target": "226747_Leukotriene E4_Synthesis_Review of specific c.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "attenuation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "attenuation",
+                        "label": "attenuation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226814",
+                        "label": "Exposure to tobacco smoke increases leukotriene E4-related albuterol usage and response to montelukast.\nN. Rabinovitch, M. Strand, K. Stuhlman, EW. Gelfand\nJ. Allergy Clin. Immunol. 2008 Jun;121(6):1365-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18439662"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226814_Leukotriene E4_attenuation_Discussion.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is associated with the attenuation of asthma symptoms, particularly in children undergoing montelukast treatment. The study indicates that higher LTE4 levels correlate with increased albuterol usage, but this association diminishes during montelukast treatment, suggesting that montelukast may effectively reduce LTE4's impact on asthma severity. This highlights the role of LTE4 in modulating asthma responses and the potential for montelukast to attenuate these effects.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "attenuation",
+                        "target": "226814",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226814",
+                        "target": "226814_Leukotriene E4_attenuation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "inhibitors": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747",
+                        "label": "Asthma outcomes: biomarkers.\nSJ. Szefler, S. Wenzel, R. Brown, SC. Erzurum, JV. Fahy, RG. Hamilton, JF. Hunt, H. Kita, AH. Liu, RA. Panettieri, RP. Schleimer, M. Minnicozzi\nJ. Allergy Clin. Immunol. 2012 Mar;129(3 Suppl):S9-23.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22386512"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747_Leukotriene E4_inhibitors_Review of specific c.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is linked to the use of 5-LO inhibitors, which are shown to significantly reduce urinary LTE4 levels by 40% to 75%. The effectiveness of these inhibitors in decreasing LTE4 levels is influenced by the initial urinary LTE4 concentration, indicating a direct relationship between LTE4 and its inhibitors in managing asthma exacerbations and responses to allergens and nonsteroidal anti-inflammatory drugs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "226747",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226747",
+                        "target": "226747_Leukotriene E4_inhibitors_Review of specific c.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226769",
+                        "label": "Urinary leukotriene E4/exhaled nitric oxide ratio and montelukast response in childhood asthma.\nN. Rabinovitch, NJ. Graber, VM. Chinchilli, CA. Sorkness, RS. Zeiger, RC. Strunk, LB. Bacharier, FD. Martinez, SJ. Szefler, . \nJ. Allergy Clin. Immunol. 2010 Sep;126(3):545-51.e1-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20816189"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226769_Leukotriene E4_Inflammation_Discussion.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is implicated in inflammation, particularly in relation to nonallergic asthma triggers such as tobacco smoke. Increased urinary LTE4 levels may indicate systemic inflammation, which can be associated with respiratory conditions. The study suggests a potential link between LTE4 and inflammatory responses, particularly in smokers, highlighting its role as a biomarker for inflammation in asthma management.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "226769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226769",
+                        "target": "226769_Leukotriene E4_Inflammation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Respiratory physiology": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747",
+                        "label": "Asthma outcomes: biomarkers.\nSJ. Szefler, S. Wenzel, R. Brown, SC. Erzurum, JV. Fahy, RG. Hamilton, JF. Hunt, H. Kita, AH. Liu, RA. Panettieri, RP. Schleimer, M. Minnicozzi\nJ. Allergy Clin. Immunol. 2012 Mar;129(3 Suppl):S9-23.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22386512"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "226747_Leukotriene E4_Respiratory physiology_Review of specific c.json",
+                        "label": "In this context, Leukotriene E4 (LTE4) is discussed in relation to respiratory physiology, particularly in the context of asthma. Elevated urinary LTE4 levels are associated with lung function metrics, airway obstruction during asthma exacerbations, and specific asthma phenotypes. However, the associations are not robust enough to establish LTE4 as a reliable surrogate marker for lung function or asthma severity, indicating a complex relationship with respiratory physiology that requires further investigation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory physiology",
+                        "target": "226747",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "226747",
+                        "target": "226747_Leukotriene E4_Respiratory physiology_Review of specific c.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

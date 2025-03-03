@@ -1,0 +1,10 @@
+{
+    "context": "For instance, to test on Bcc strains a final concentration of 10mM gaseous methylamine in a 2L sealed box, 1.35g (corresponding to 20mM) of methylamine hydrochloride salt were dissolved in a 1mL of distilled water; then 200\u03bcL of sodium hydroxide 10M were added, developing 20mM of gaseous methylamine. The boxes containing the target strains were incubated at 20\u00b0C for 4 days. Then the plates were recovered and placed at 37\u00b0C for further 2 days, to allow cells to grow on solid medium. Measurement of pH The pH of TYP liquid medium (1mL volume) exposed to methylamine in the hermetically sealed incubation (Fig. 2(a)) was determined using Instruments XS, pHmeter Orto lab S.n.c. Results P. haloplanktis TAC125 is able to produce VOCs active against Burkholderia cepacia complex strains when grown in liquid culture In previous paper we reported the inhibitory activity against Bcc strains of P. haloplanktis TAC125 grown in solid media. To test if when grown in liquid culture P. haloplanktis TAC125 produces VOC molecules a suited methodology was set up. P. haloplanktis TAC125 was grown into a multi-vessel automatic fermenter at 20\u00b0C (see methods section) containing a complex rich medium (1/3 TYP). ",
+    "term_A": "Methanamine",
+    "term_B": "methylamine",
+    "llm_generation": {
+        "summary": "In this context, methanamine and methylamine are closely related as methylamine is a derivative of methanamine. The experiment involves the use of methylamine hydrochloride to generate gaseous methylamine, which is then tested on Burkholderia cepacia complex strains. This indicates a direct chemical relationship where methylamine is utilized in the study, highlighting its relevance in the experimental setup.",
+        "reason": "The score of 4 reflects a significant connection between methanamine and methylamine, as methylamine is derived from methanamine and is actively used in the experimental procedures described. The context provides a clear relationship through the application of methylamine in testing.",
+        "score": 4
+    }
+}

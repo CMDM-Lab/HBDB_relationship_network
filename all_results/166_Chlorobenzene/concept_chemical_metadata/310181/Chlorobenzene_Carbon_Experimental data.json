@@ -1,0 +1,10 @@
+{
+    "context": "Hydrogen chloride was difficult to calibrate due to absorption to the optical cell walls. Errors in the hydrogen chloride calibrations are assumed to be less than \u00b150% (Higgins, 1995). Although absolute concentrations exhibit large errors, the concentration of any one species has much less relative error. A carbon balance for benzene \u2013 or chlorobenzene \u2013 cannot be given. The amount of CO2 in the combustion products was approximately 8% of the total flow, and benzene \u2013 injected at 563 ppm \u2013 only accounts for 4% of the total carbon in the system. Since an FTIR is not able to measure CO2 with an accuracy of 4%, a carbon balance is not included. The walls of the combustor were constructed with stainless steel. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "Carbon",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is mentioned in relation to a carbon balance analysis, indicating its contribution to the total carbon in a combustion system. The text notes that chlorobenzene accounts for only 4% of the total carbon, while CO2 represents approximately 8% of the combustion products. However, there is no detailed discussion of the chemical interactions or specific relevance of chlorobenzene to carbon beyond this quantitative observation.",
+        "reason": "The score of 2 reflects an indirect connection between chlorobenzene and carbon, as they are both involved in a carbon balance analysis. However, the relationship lacks detailed exploration or significant interaction, making it a general association rather than a strong connection.",
+        "score": 2
+    }
+}

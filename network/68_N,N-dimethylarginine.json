@@ -1,0 +1,611 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "N,N-dimethylarginine",
+                    "label": "N,N-dimethylarginine",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "N,N-dimethylarginine",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "N,N-dimethylarginine",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "N,N-dimethylarginine",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "N,N-dimethylarginine",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "N,N-dimethylarginine",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "N,N-dimethylarginine",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "N,N-dimethylarginine",
+                        "label": "N,N-dimethylarginine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Microalbuminuria",
+                        "label": "Microalbuminuria",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Disease of capillaries",
+                        "label": "Disease of capillaries",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "End stage renal failure",
+                        "label": "End stage renal failure",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "N,N-dimethylarginine",
+                        "target": "Microalbuminuria",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "N,N-dimethylarginine",
+                        "target": "Disease of capillaries",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "N,N-dimethylarginine",
+                        "target": "End stage renal failure",
+                        "score": 8
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "N,N-dimethylarginine",
+                        "label": "N,N-dimethylarginine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "N,N-dimethylarginine",
+                        "label": "N,N-dimethylarginine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Stimulus",
+                        "label": "Stimulus",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hypotension of hemodialysis",
+                        "label": "Hypotension of hemodialysis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Vasodilation disorder",
+                        "label": "Vasodilation disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "N,N-dimethylarginine",
+                        "target": "Stimulus",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "N,N-dimethylarginine",
+                        "target": "Hypotension of hemodialysis",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "N,N-dimethylarginine",
+                        "target": "Vasodilation disorder",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "N,N-dimethylarginine",
+                        "target": "Inflammation",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "N,N-dimethylarginine",
+                        "label": "N,N-dimethylarginine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "N,N-dimethylarginine",
+                        "label": "N,N-dimethylarginine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "N,N-dimethylarginine",
+                        "label": "N,N-dimethylarginine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Microalbuminuria": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Microalbuminuria",
+                        "label": "Microalbuminuria",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782",
+                        "label": "Glycated peptides are associated with the variability of endothelial dysfunction in the cerebral vessels and the kidney in type 2 diabetes mellitus patients: a cross-sectional study.\nL. Petrica, A. Vlad, G. Gluhovschi, F. Gadalean, V. Dumitrascu, D. Vlad, R. Popescu, S. Velciov, C. Gluhovschi, F. Bob, S. Ursoniu, M. Petrica, DC. Jianu\nJ. Diabetes Complicat. 2015 Mar;29(2):230-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25511877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782_N,N-dimethylarginine_Microalbuminuria_Discussion.json",
+                        "label": "In this context, N,N-dimethylarginine (ADMA) is discussed as an endogenous inhibitor of nitric oxide synthase, with elevated levels observed in patients with diabetic nephropathy (DN). The study indicates that plasma ADMA levels have prognostic implications for the progression from normoalbuminuria to microalbuminuria in diabetic patients, suggesting a potential link between ADMA and the inflammatory processes at the glomerular level that may contribute to microalbuminuria development.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Microalbuminuria",
+                        "target": "277782",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "277782",
+                        "target": "277782_N,N-dimethylarginine_Microalbuminuria_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Disease of capillaries": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Disease of capillaries",
+                        "label": "Disease of capillaries",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782",
+                        "label": "Glycated peptides are associated with the variability of endothelial dysfunction in the cerebral vessels and the kidney in type 2 diabetes mellitus patients: a cross-sectional study.\nL. Petrica, A. Vlad, G. Gluhovschi, F. Gadalean, V. Dumitrascu, D. Vlad, R. Popescu, S. Velciov, C. Gluhovschi, F. Bob, S. Ursoniu, M. Petrica, DC. Jianu\nJ. Diabetes Complicat. 2015 Mar;29(2):230-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25511877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782_N,N-dimethylarginine_Disease of capillaries_Discussion.json",
+                        "label": "In this context, N,N-dimethylarginine (ADMA) is implicated in diabetic cerebral microangiopathy, a disease affecting capillaries. Elevated plasma ADMA levels are associated with increased vascular stiffness and decreased cerebral perfusion in diabetic patients, contributing to microangiopathy-related cerebral damage. The study highlights a direct correlation between plasma ADMA and vascular resistance metrics, indicating its role in capillary disease pathology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Disease of capillaries",
+                        "target": "277782",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "277782",
+                        "target": "277782_N,N-dimethylarginine_Disease of capillaries_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "End stage renal failure": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "End stage renal failure",
+                        "label": "End stage renal failure",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "278902",
+                        "label": "Hemodynamic changes during hemodialysis: role of nitric oxide and endothelin.\nDS. Raj, B. Vincent, K. Simpson, E. Sato, KL. Jones, TC. Welbourne, M. Levi, V. Shah, P. Blandon, P. Zager, RA. Robbins\nKidney Int. 2002 Feb;61(2):697-704.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11849413"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "278902_N,N-dimethylarginine_End stage renal failure_RESULTS.json",
+                        "label": "In this context, N,N-dimethylarginine (ADMA) is discussed in relation to end-stage renal failure (ESRD) patients, where its levels are significantly elevated compared to controls. The study indicates that dialysis reduces ADMA levels, but they remain higher than those in healthy individuals. This suggests a potential link between elevated ADMA and the pathophysiology of ESRD, highlighting its role as a biomarker for renal dysfunction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "278902_N,N-dimethylarginine_End stage renal failure_DISCUSSION.json",
+                        "label": "In this context, N,N-dimethylarginine (ADMA) is discussed in relation to end-stage renal failure (ESRD) patients, where elevated levels of ADMA were observed compared to controls. ADMA is known to inhibit nitric oxide (NO) synthesis, which is crucial for vascular function. The study highlights that increased ADMA levels in ESRD patients may contribute to impaired NO production, potentially exacerbating vascular complications associated with the disease.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "End stage renal failure",
+                        "target": "278902",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "278902",
+                        "target": "278902_N,N-dimethylarginine_End stage renal failure_RESULTS.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "278902",
+                        "target": "278902_N,N-dimethylarginine_End stage renal failure_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Stimulus": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Stimulus",
+                        "label": "Stimulus",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782",
+                        "label": "Glycated peptides are associated with the variability of endothelial dysfunction in the cerebral vessels and the kidney in type 2 diabetes mellitus patients: a cross-sectional study.\nL. Petrica, A. Vlad, G. Gluhovschi, F. Gadalean, V. Dumitrascu, D. Vlad, R. Popescu, S. Velciov, C. Gluhovschi, F. Bob, S. Ursoniu, M. Petrica, DC. Jianu\nJ. Diabetes Complicat. 2015 Mar;29(2):230-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25511877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782_N,N-dimethylarginine_Stimulus_Discussion.json",
+                        "label": "In this context, N,N-dimethylarginine (ADMA) is discussed as an endogenous modulator of cerebral vascular tone, particularly in response to vasoreactive stimuli such as hypercapnia. The study indicates that ADMA levels correlate with impaired endothelial-dependent vasodilation during these stimuli, suggesting its role in regulating cerebral blood flow under conditions of increased carbon dioxide. Thus, ADMA's relationship with stimuli is significant in understanding its impact on cerebral perfusion, especially in patients with type 2 diabetes mellitus.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Stimulus",
+                        "target": "277782",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "277782",
+                        "target": "277782_N,N-dimethylarginine_Stimulus_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hypotension of hemodialysis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hypotension of hemodialysis",
+                        "label": "Hypotension of hemodialysis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "278902",
+                        "label": "Hemodynamic changes during hemodialysis: role of nitric oxide and endothelin.\nDS. Raj, B. Vincent, K. Simpson, E. Sato, KL. Jones, TC. Welbourne, M. Levi, V. Shah, P. Blandon, P. Zager, RA. Robbins\nKidney Int. 2002 Feb;61(2):697-704.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11849413"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "278902_N,N-dimethylarginine_Hypotension of hemodialysis_DISCUSSION.json",
+                        "label": "In this context, N,N-dimethylarginine (ADMA) is discussed in relation to its role in nitric oxide (NO) synthesis, which is crucial for regulating vascular resistance and blood pressure. The study indicates that while ADMA levels did not significantly differ between patients with and without intra-dialytic hypotension, the overall dynamics of NO and other related factors like endothelin-1 (ET-1) are implicated in the development of hypotension during hemodialysis. This suggests a complex interplay where ADMA may influence hypotension indirectly through its effects on NO synthesis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hypotension of hemodialysis",
+                        "target": "278902",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "278902",
+                        "target": "278902_N,N-dimethylarginine_Hypotension of hemodialysis_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Vasodilation disorder": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Vasodilation disorder",
+                        "label": "Vasodilation disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782",
+                        "label": "Glycated peptides are associated with the variability of endothelial dysfunction in the cerebral vessels and the kidney in type 2 diabetes mellitus patients: a cross-sectional study.\nL. Petrica, A. Vlad, G. Gluhovschi, F. Gadalean, V. Dumitrascu, D. Vlad, R. Popescu, S. Velciov, C. Gluhovschi, F. Bob, S. Ursoniu, M. Petrica, DC. Jianu\nJ. Diabetes Complicat. 2015 Mar;29(2):230-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25511877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782_N,N-dimethylarginine_Vasodilation disorder_Discussion.json",
+                        "label": "In this context, N,N-dimethylarginine (ADMA) is highlighted as a significant endogenous modulator of cerebral vasculature tone, particularly in patients with endothelial dysfunction. The study indicates that elevated levels of ADMA correlate with impaired endothelial-dependent vasodilation in cerebral vessels during hypercapnia, suggesting a direct relationship between ADMA and vasodilation disorders, especially in the context of type 2 diabetes mellitus (DM).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Vasodilation disorder",
+                        "target": "277782",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "277782",
+                        "target": "277782_N,N-dimethylarginine_Vasodilation disorder_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782",
+                        "label": "Glycated peptides are associated with the variability of endothelial dysfunction in the cerebral vessels and the kidney in type 2 diabetes mellitus patients: a cross-sectional study.\nL. Petrica, A. Vlad, G. Gluhovschi, F. Gadalean, V. Dumitrascu, D. Vlad, R. Popescu, S. Velciov, C. Gluhovschi, F. Bob, S. Ursoniu, M. Petrica, DC. Jianu\nJ. Diabetes Complicat. 2015 Mar;29(2):230-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25511877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "277782_N,N-dimethylarginine_Inflammation_Discussion.json",
+                        "label": "In this context, N,N-dimethylarginine (ADMA) is associated with inflammation in patients with diabetic nephropathy (DN). Elevated plasma ADMA levels correlate with inflammatory markers and suggest an inflammatory state at the glomerular level, potentially indicating early endothelial impairment in normoalbuminuric type 2 diabetes patients. This relationship highlights ADMA's role as a prognostic marker for renal function decline linked to inflammation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "277782",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "277782",
+                        "target": "277782_N,N-dimethylarginine_Inflammation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

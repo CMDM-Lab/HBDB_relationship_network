@@ -1,0 +1,2587 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Decane",
+                    "label": "Decane",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Decane",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Decane",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Decane",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Decane",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Decane",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Decane",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Decane",
+                        "label": "Decane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chronic Obstructive Airway Disease",
+                        "label": "Chronic Obstructive Airway Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Extrinsic asthma NOS",
+                        "label": "Extrinsic asthma NOS",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Asthma",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Chronic Obstructive Airway Disease",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Extrinsic asthma NOS",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Decane",
+                        "label": "Decane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Alkanes",
+                        "label": "Alkanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Methylcyclopentane",
+                        "label": "Methylcyclopentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "decanaldehyde",
+                        "label": "decanaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Heptanes",
+                        "label": "Heptanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-dodecane",
+                        "label": "n-dodecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "undecane",
+                        "label": "undecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aromatic Compounds",
+                        "label": "Aromatic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-tetradecane",
+                        "label": "n-tetradecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Propane",
+                        "label": "Propane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Methane",
+                        "label": "Methane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "nonanal",
+                        "label": "nonanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "chlorobenzene",
+                        "label": "chlorobenzene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "3-xylene",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Alkanes",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Methylcyclopentane",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "decanaldehyde",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Toluene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Aldehydes",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Heptanes",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "n-dodecane",
+                        "score": 13
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "undecane",
+                        "score": 16
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "pentane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Aromatic Compounds",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Chemicals",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Butane",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "decane",
+                        "score": 24
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "n-tetradecane",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Propane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Methane",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "nonanal",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Hydrocarbons",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "chlorobenzene",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Decane",
+                        "label": "Decane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Evolution",
+                        "label": "Evolution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemical Surfactants",
+                        "label": "Chemical Surfactants",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Exhalation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Evolution",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "Chemical Surfactants",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Decane",
+                        "label": "Decane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "HOXA10 gene",
+                        "label": "HOXA10 gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Decane",
+                        "target": "HOXA10 gene",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Decane",
+                        "label": "Decane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Decane",
+                        "label": "Decane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_Asthma_Conclusions.json",
+                        "label": "In this context, decane is identified as one of the alkanes that characterize the breath profile of allergic asthmatic children. The study highlights the potential of using breath analysis to distinguish between asthmatic and control populations, suggesting that decane, along with other compounds, may be linked to metabolic pathways associated with allergic asthma. This indicates a significant relationship between decane and asthma, as it contributes to the identification of asthmatic conditions through breath analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_Asthma_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Chronic Obstructive Airway Disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chronic Obstructive Airway Disease",
+                        "label": "Chronic Obstructive Airway Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_Chronic Obstructive Airway Disease_Results and discussi.json",
+                        "label": "In this context, decane is mentioned as a methylated alkane identified in exhaled breath studies of patients with chronic obstructive pulmonary disease (COPD). The study indicates that decane concentrations are higher in COPD patients compared to controls, suggesting a potential role of decane as a biomarker for oxidative stress and inflammation associated with chronic airway diseases. This relationship highlights the significance of alkanes in characterizing lung pathologies, including COPD.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic Obstructive Airway Disease",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_Chronic Obstructive Airway Disease_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Extrinsic asthma NOS": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Extrinsic asthma NOS",
+                        "label": "Extrinsic asthma NOS",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_Extrinsic asthma NOS_Results and discussi.json",
+                        "label": "In this context, decane is identified as one of the alkanes associated with the allergic asthma group, suggesting a potential link between exposure to decane and the manifestation of extrinsic asthma. The study indicates that the allergic asthma group is characterized by a higher prevalence of certain alkanes, including decane, compared to the control group, which is characterized by aldehydes. This suggests that decane may play a role in the pathophysiology of extrinsic asthma, although the exact mechanisms remain unclear.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Extrinsic asthma NOS",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_Extrinsic asthma NOS_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "3-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888",
+                        "label": "Release of MCP-1 and IL-8 from lung epithelial cells exposed to volatile organic compounds.\nG. Fischäder, C. Röder-Stolinski, G. Wichmann, K. Nieber, I. Lehmann\nToxicol In Vitro 2008 Mar;22(2):359-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17993253"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_3-xylene_Materials and method.json",
+                        "label": "In this context, decane and 3-xylene are both mentioned as volatile organic compounds (VOCs) being investigated for their pro-inflammatory potential. The study aims to assess the effects of various aliphatic and aromatic compounds, including decane and 3-xylene, on human lung epithelial cells. However, the specific interactions or comparative effects between decane and 3-xylene are not detailed, indicating a general association rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_3-xylene_Introduction.json",
+                        "label": "In this context, decane and 3-xylene are both mentioned as volatile organic compounds (VOCs) being investigated for their pro-inflammatory potential in a study examining various aliphatic and aromatic compounds. However, there is no direct discussion of their specific interactions or comparative effects on inflammation, indicating they are part of a broader analysis rather than having a defined relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "239888",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_3-xylene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_3-xylene_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Alkanes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Alkanes",
+                        "label": "Alkanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_Alkanes_Results and discussi.json",
+                        "label": "In this context, decane is identified as one of the specific alkanes selected for a breath analysis model aimed at distinguishing between allergic asthmatic children and control subjects. The study highlights the role of alkanes, including decane, in forming a pattern that aids in non-invasive diagnostics for asthma, indicating a direct relationship between decane and the broader category of alkanes in metabolic profiling.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_Alkanes_Conclusions.json",
+                        "label": "In this context, decane is identified as one of the specific compounds belonging to the broader category of alkanes. The study highlights the use of various alkanes, including decane, in distinguishing between allergic asthmatic and control populations through breath analysis. This indicates that decane, as an alkane, plays a role in the metabolic pathways associated with allergic asthma, contributing to the identification of specific breath patterns linked to the condition.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Alkanes",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_Alkanes_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_Alkanes_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Methylcyclopentane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methylcyclopentane",
+                        "label": "Methylcyclopentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888",
+                        "label": "Release of MCP-1 and IL-8 from lung epithelial cells exposed to volatile organic compounds.\nG. Fischäder, C. Röder-Stolinski, G. Wichmann, K. Nieber, I. Lehmann\nToxicol In Vitro 2008 Mar;22(2):359-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17993253"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_Methylcyclopentane_Results.json",
+                        "label": "In this context, decane and methylcyclopentane are both mentioned as volatile organic compounds (VOCs) tested for their effects on cytokine and chemokine release in A549 cells. However, neither compound exhibited any cytotoxic effects or significant influence on cytokine/chemokine production when compared to control cultures. Their relationship is limited to their inclusion in the same study without any direct interaction or comparative analysis between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_Methylcyclopentane_Introduction.json",
+                        "label": "In this context, decane and methylcyclopentane are both mentioned as volatile organic compounds (VOCs) being investigated for their pro-inflammatory potential in a study. They are part of a broader analysis of various aliphatic and aromatic compounds, but the specific relationship or interaction between decane and methylcyclopentane is not detailed. Their inclusion in the same study suggests they may share similar properties or effects, but no direct connection is established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_Methylcyclopentane_Materials and method.json",
+                        "label": "In this context, decane and methylcyclopentane are both aliphatic compounds included in a study investigating their pro-inflammatory potential. They are part of a broader examination of various volatile organic compounds (VOCs) and their effects on human lung epithelial cells. However, the specific interactions or comparative effects between decane and methylcyclopentane are not detailed, indicating a general association rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Methylcyclopentane",
+                        "target": "239888",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_Methylcyclopentane_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_Methylcyclopentane_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_Methylcyclopentane_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "decanaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "decanaldehyde",
+                        "label": "decanaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_decanaldehyde_Results and discussi.json",
+                        "label": "In this context, decane and decanaldehyde are part of a selected set of compounds used to distinguish between allergic asthmatic children and control subjects through breath analysis. Both compounds belong to the same chemical family, with decanaldehyde being an aldehyde derived from the oxidation of decane. Their inclusion in the breath-print analysis suggests a potential relationship in metabolic pathways relevant to asthma diagnosis, although the specific interaction between them is not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decanaldehyde",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_decanaldehyde_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240194",
+                        "label": "Development of a headspace solid-phase microextraction-gas chromatography-mass spectrometry method for the identification of odour-causing volatile compounds in packaging materials.\nO. Ezquerro, B. Pons, MT. Tena\nJ Chromatogr A 2002 Jul;963(1-2):381-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12187994"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240194_Decane_Toluene_Experimental.json",
+                        "label": "In this context, decane and toluene are both mentioned as pure compounds sourced from different suppliers for use in a study involving volatile compounds. They are listed among other chemicals used for analysis via gas chromatography, but there is no discussion of their interactions, properties, or any specific relevance to each other beyond their inclusion in the same experimental setup.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240208",
+                        "label": "Monitoring of indoor volatile organic compounds and polycyclic aromatic hydrocarbons arising from kerosene cooking fuel.\nGG. Pandit, PK. Srivastava, AM. Rao\nSci. Total Environ. 2001 Nov;279(1-3):159-65.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11712593"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240208_Decane_Toluene_Experimental.json",
+                        "label": "In this context, decane and toluene are both mentioned as components of a mixture of hydrocarbons analyzed for their resolution in a chromatographic method. However, there is no discussion of their specific interactions, properties, or relevance to each other beyond their inclusion in the same analytical procedure. They are simply part of a list of hydrocarbons being studied.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "240194",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240194",
+                        "target": "240194_Decane_Toluene_Experimental.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "240208",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240208",
+                        "target": "240208_Decane_Toluene_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Aldehydes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_Aldehydes_Results and discussi.json",
+                        "label": "In this context, decane and aldehydes are part of a selected set of compounds used to distinguish between allergic asthmatic children and control subjects through breath analysis. The study highlights that a pattern of alkanes, including decane, and aldehydes, such as nonanal and decanal, can effectively differentiate the two populations, suggesting a potential metabolic pathway association with asthma. However, the specific interactions or roles of decane and aldehydes in this diagnostic process are not elaborated upon in detail.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aldehydes",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_Aldehydes_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Heptanes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heptanes",
+                        "label": "Heptanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240208",
+                        "label": "Monitoring of indoor volatile organic compounds and polycyclic aromatic hydrocarbons arising from kerosene cooking fuel.\nGG. Pandit, PK. Srivastava, AM. Rao\nSci. Total Environ. 2001 Nov;279(1-3):159-65.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11712593"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240208_Decane_Heptanes_Experimental.json",
+                        "label": "In this context, decane and heptanes are both mentioned as part of a group of hydrocarbons analyzed using gas chromatography. They are included in a synthetic mixture of C6–C10 hydrocarbons for calibration purposes. However, there is no specific discussion of their interactions or relationships beyond their classification as hydrocarbons in the analytical procedure.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240208_Decane_Heptanes_Results and discussi.json",
+                        "label": "In this context, decane and heptanes are both mentioned as components of indoor air quality assessments, specifically regarding their concentrations in indoor versus outdoor environments. The indoor to outdoor concentration ratios for heptane and n-decane are noted to be significantly high, indicating that these compounds may be more prevalent indoors. However, the context does not elaborate on any specific chemical interactions or biological implications between decane and heptanes, focusing instead on their environmental concentrations.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Heptanes",
+                        "target": "240208",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240208",
+                        "target": "240208_Decane_Heptanes_Experimental.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240208",
+                        "target": "240208_Decane_Heptanes_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "n-dodecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-dodecane",
+                        "label": "n-dodecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240194",
+                        "label": "Development of a headspace solid-phase microextraction-gas chromatography-mass spectrometry method for the identification of odour-causing volatile compounds in packaging materials.\nO. Ezquerro, B. Pons, MT. Tena\nJ Chromatogr A 2002 Jul;963(1-2):381-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12187994"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240194_Decane_n-dodecane_Experimental.json",
+                        "label": "In this context, decane and n-dodecane are mentioned as part of a list of pure compounds sourced from Aldrich for use in a study involving gas chromatography analysis. Both are aliphatic hydrocarbons, but their relationship is limited to their inclusion in the same inventory of chemicals without any specific interaction or functional relevance discussed in the context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888",
+                        "label": "Release of MCP-1 and IL-8 from lung epithelial cells exposed to volatile organic compounds.\nG. Fischäder, C. Röder-Stolinski, G. Wichmann, K. Nieber, I. Lehmann\nToxicol In Vitro 2008 Mar;22(2):359-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17993253"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_n-dodecane_Materials and method.json",
+                        "label": "In this context, decane and n-dodecane are both aliphatic compounds included in a study investigating the pro-inflammatory potential of various volatile organic compounds (VOCs). They are part of a broader group of aliphatic compounds tested for their effects on human lung epithelial cells. However, the specific interactions or comparative effects between decane and n-dodecane are not detailed, indicating a general association rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_n-dodecane_Results.json",
+                        "label": "In this context, decane and n-dodecane are both mentioned as aliphatic volatile organic compounds (VOCs) tested for their effects on cytokine and chemokine release in A549 cells. However, neither decane nor n-dodecane, nor any of the other aliphatic compounds tested, showed any significant effects on cytokine/chemokine production, indicating that they do not have a notable biological interaction or impact in this experimental setup.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_n-dodecane_Introduction.json",
+                        "label": "In this context, decane and n-dodecane are both mentioned as aliphatic compounds being investigated for their pro-inflammatory potential in a study on volatile organic compounds (VOCs). They are part of a broader analysis of various aliphatic and aromatic compounds, but no specific interactions or comparative effects between decane and n-dodecane are detailed. Their inclusion in the same study suggests a shared relevance in the context of VOCs, but their relationship is not explicitly defined.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_n-dodecane_Conclusions.json",
+                        "label": "In this context, decane and n-dodecane are identified as part of a group of alkanes that characterize the breath profile of asthmatic children. Both compounds are included in the analysis of breath samples to distinguish between allergic asthmatic and control populations. Their presence in the breath-print suggests a potential link to metabolic pathways associated with allergic asthma, although the specific interactions between decane and n-dodecane are not elaborated upon.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_n-dodecane_Results and discussi.json",
+                        "label": "In this context, decane and n-dodecane are mentioned as part of a selected set of compounds used to distinguish between allergic asthmatic children and control subjects through breath analysis. Both compounds are alkanes included in a pattern that aids in the non-invasive diagnosis of asthma, indicating their relevance in metabolic pathways associated with the condition. However, the specific relationship between decane and n-dodecane is not elaborated upon beyond their inclusion in the same diagnostic model.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-dodecane",
+                        "target": "240194",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240194",
+                        "target": "240194_Decane_n-dodecane_Experimental.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-dodecane",
+                        "target": "239888",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_n-dodecane_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_n-dodecane_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_n-dodecane_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-dodecane",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_n-dodecane_Conclusions.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_n-dodecane_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "undecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "undecane",
+                        "label": "undecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240194",
+                        "label": "Development of a headspace solid-phase microextraction-gas chromatography-mass spectrometry method for the identification of odour-causing volatile compounds in packaging materials.\nO. Ezquerro, B. Pons, MT. Tena\nJ Chromatogr A 2002 Jul;963(1-2):381-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12187994"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240194_Decane_undecane_Experimental.json",
+                        "label": "In this context, decane and undecane are both mentioned as high-purity chemicals sourced from Aldrich, listed among other volatile compounds. They are part of a broader analysis involving various aldehydes and acids, but there is no specific discussion of their relationship or interactions. Their mention is purely coincidental within the context of chemical sourcing and analysis methods.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223",
+                        "label": "Field demonstration of pervaporation for the separation of volatile organic compounds from a surfactant-based soil remediation fluid.\nLM. Vane, L. Hitchens, FR. Alvarez, EL. Giroux\nJ. Hazard. Mater. 2001 Jan;81(1-2):141-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11118689"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223_Decane_undecane_General overview and.json",
+                        "label": "In this context, decane and undecane are identified as marker compounds of Varsol™, a hydrocarbon-based dry cleaning solvent. Both compounds are part of the measurement objectives for assessing the removal efficiency of Varsol™ during a pervaporation treatment project. Their presence indicates a shared role in evaluating the solvent's environmental impact, but no direct interaction or functional relationship between them is discussed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223_Decane_undecane_Pervaporation system.json",
+                        "label": "In this context, decane and undecane are both mentioned as compounds whose removal efficiencies were evaluated during a surfactant plateau region. Decane removal averaged 56%, while undecane removal averaged 33%. This indicates a comparative analysis of their removal rates, suggesting that both compounds are relevant in the study of surfactant interactions and removal processes, although their specific interactions are not detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223_Decane_undecane_Conclusions and reco.json",
+                        "label": "In this context, decane and undecane are both hydrocarbon compounds whose removal efficiencies were evaluated in the presence of surfactants. The study reports that undecane had an average removal rate of 33%, while decane had a higher removal rate of 56%. This indicates a comparative analysis of their effectiveness in a specific environmental remediation scenario, highlighting their functional relationship as secondary contaminants.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888",
+                        "label": "Release of MCP-1 and IL-8 from lung epithelial cells exposed to volatile organic compounds.\nG. Fischäder, C. Röder-Stolinski, G. Wichmann, K. Nieber, I. Lehmann\nToxicol In Vitro 2008 Mar;22(2):359-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17993253"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_undecane_Results.json",
+                        "label": "In this context, decane and undecane are mentioned as part of a study investigating the effects of various volatile organic compounds (VOCs) on cytokine and chemokine release in A549 cells. However, neither decane nor undecane, along with other aliphatic compounds, showed any significant effects on cytokine/chemokine production, indicating that their relationship is limited to being part of a broader analysis of VOCs without any specific interaction or impact highlighted between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_undecane_Materials and method.json",
+                        "label": "In this context, decane and undecane are both aliphatic compounds included in a study investigating the pro-inflammatory potential of various volatile organic compounds (VOCs). They are part of a broader category of n-alkanes being tested for their effects on human lung epithelial cells. However, the specific interactions or comparative effects between decane and undecane are not detailed, indicating a general association rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_undecane_Introduction.json",
+                        "label": "In this context, decane and undecane are both mentioned as aliphatic compounds being investigated for their pro-inflammatory potential in a study on volatile organic compounds (VOCs). They are part of a broader analysis of various aliphatic and aromatic compounds, but no specific interactions or comparative effects between decane and undecane are detailed. Their relationship is primarily based on their inclusion in the same experimental model for assessing inflammatory effects.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "undecane",
+                        "target": "240194",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240194",
+                        "target": "240194_Decane_undecane_Experimental.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "undecane",
+                        "target": "240223",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240223",
+                        "target": "240223_Decane_undecane_General overview and.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240223",
+                        "target": "240223_Decane_undecane_Pervaporation system.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240223",
+                        "target": "240223_Decane_undecane_Conclusions and reco.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "undecane",
+                        "target": "239888",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_undecane_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_undecane_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_undecane_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "pentane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195",
+                        "label": "Minimization of water vapor interference in the analysis of non-methane volatile organic compounds by solid adsorbent sampling.\nCM. Karbiwnyk, CS. Mills, D. Helmig, JW. Birks\nJ Chromatogr A 2002 Jun;958(1-2):219-29.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12134819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195_Decane_pentane_Results and discussi.json",
+                        "label": "In this context, decane and pentane are both mentioned as non-methane hydrocarbons that were analyzed for recovery rates in air sampling experiments. The data indicates that while lighter compounds experienced significant losses, pentane through decane did not show such losses, suggesting that both compounds are stable under the sampling conditions described. However, there is no detailed discussion of their specific interactions or functional relationships beyond their recovery rates.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentane",
+                        "target": "240195",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240195",
+                        "target": "240195_Decane_pentane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aromatic Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aromatic Compounds",
+                        "label": "Aromatic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888",
+                        "label": "Release of MCP-1 and IL-8 from lung epithelial cells exposed to volatile organic compounds.\nG. Fischäder, C. Röder-Stolinski, G. Wichmann, K. Nieber, I. Lehmann\nToxicol In Vitro 2008 Mar;22(2):359-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17993253"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_Aromatic Compounds_Materials and method.json",
+                        "label": "In this context, decane is categorized as an aliphatic compound, while aromatic compounds include styrene, m-xylene, and chlorobenzene. The study aims to investigate the pro-inflammatory potential of both aliphatic and aromatic compounds, indicating a comparative analysis of their effects. However, the specific interactions or relationships between decane and the aromatic compounds are not detailed, suggesting they are part of a broader investigation into VOCs rather than having a direct connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_Aromatic Compounds_Introduction.json",
+                        "label": "In this context, decane is mentioned as one of the aliphatic compounds being investigated alongside various aromatic compounds, including styrene and m-xylene, for their pro-inflammatory potential. The study aims to analyze the inflammatory effects of both aliphatic and aromatic VOCs over a wide concentration range, indicating a comparative approach to understanding their biological impacts. However, there is no direct interaction or specific relationship detailed between decane and the aromatic compounds beyond their inclusion in the same experimental framework.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aromatic Compounds",
+                        "target": "239888",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_Aromatic Compounds_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_Aromatic Compounds_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999",
+                        "label": "Changes in air saturation and air-water interfacial area during surfactant-enhanced air sparging in saturated sand.\nH. Kim, KM. Choi, JW. Moon, MD. Annable\nJ. Contam. Hydrol. 2006 Nov;88(1-2):23-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16872716"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999_Decane_Chemicals_Theoretical backgrou.json",
+                        "label": "In this context, decane is mentioned as a specific chemical involved in the study of gaseous displacement experiments and its interactions with soil. The text discusses the behavior of decane in relation to its low water solubility and its partitioning into different phases, indicating its relevance as a chemical in environmental studies. However, the relationship is primarily focused on decane's properties rather than a broader discussion of chemicals in general.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999_Decane_Chemicals_Materials and method.json",
+                        "label": "In this context, decane is mentioned as a saturated hydrocarbon with >99% purity, supplied for use in an experimental setup involving tracer injection in a porous medium. The term 'chemicals' broadly encompasses substances like decane, but there is no specific discussion of its interactions or relevance to other chemicals beyond its classification as a hydrocarbon.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888",
+                        "label": "Release of MCP-1 and IL-8 from lung epithelial cells exposed to volatile organic compounds.\nG. Fischäder, C. Röder-Stolinski, G. Wichmann, K. Nieber, I. Lehmann\nToxicol In Vitro 2008 Mar;22(2):359-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17993253"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_Chemicals_Materials and method.json",
+                        "label": "In this context, decane is one of several aliphatic compounds being investigated for their pro-inflammatory potential alongside other chemicals. The study focuses on a range of aliphatic and aromatic compounds, including decane, to assess their effects on human lung epithelial cells. Decane is categorized as a chemical of interest within the broader investigation of various volatile organic compounds (VOCs).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "239999",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239999",
+                        "target": "239999_Decane_Chemicals_Theoretical backgrou.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239999",
+                        "target": "239999_Decane_Chemicals_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "239888",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_Chemicals_Materials and method.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Butane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195",
+                        "label": "Minimization of water vapor interference in the analysis of non-methane volatile organic compounds by solid adsorbent sampling.\nCM. Karbiwnyk, CS. Mills, D. Helmig, JW. Birks\nJ Chromatogr A 2002 Jun;958(1-2):219-29.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12134819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195_Decane_Butane_Results and discussi.json",
+                        "label": "In this context, decane and butane are both mentioned as non-methane hydrocarbons analyzed in the Boulder air standard. However, the discussion focuses on the recovery rates of various compounds during the experiments, with no specific interaction or relationship between decane and butane highlighted. They are simply part of a broader analysis of hydrocarbon recovery without direct relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Butane",
+                        "target": "240195",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240195",
+                        "target": "240195_Decane_Butane_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "decane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195",
+                        "label": "Minimization of water vapor interference in the analysis of non-methane volatile organic compounds by solid adsorbent sampling.\nCM. Karbiwnyk, CS. Mills, D. Helmig, JW. Birks\nJ Chromatogr A 2002 Jun;958(1-2):219-29.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12134819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195_Decane_decane_Results and discussi.json",
+                        "label": "In this context, decane is mentioned as a non-methane hydrocarbon that did not suffer significant losses during the recovery process in air sampling experiments. The reference to decane indicates its stability and reliability as a compound in the study, but there is no additional information provided that elaborates on its specific interactions or significance beyond its recovery data.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240194",
+                        "label": "Development of a headspace solid-phase microextraction-gas chromatography-mass spectrometry method for the identification of odour-causing volatile compounds in packaging materials.\nO. Ezquerro, B. Pons, MT. Tena\nJ Chromatogr A 2002 Jul;963(1-2):381-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12187994"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240194_Decane_decane_Experimental.json",
+                        "label": "In this context, decane is mentioned as a chemical compound among a list of other aldehydes and acids, with a specified purity of +99%. However, there is no discussion of its properties, functions, or interactions with other compounds. The mention of decane appears to be purely coincidental, as it is listed alongside other chemicals without any further elaboration on its significance or relationship to them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999",
+                        "label": "Changes in air saturation and air-water interfacial area during surfactant-enhanced air sparging in saturated sand.\nH. Kim, KM. Choi, JW. Moon, MD. Annable\nJ. Contam. Hydrol. 2006 Nov;88(1-2):23-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16872716"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999_Decane_decane_Results and discussi.json",
+                        "label": "In this context, decane is mentioned as a gaseous interfacial tracer used to study the relationship between air saturation and water saturation in unsaturated soils. The study highlights the linear relationship between the calculated air interfacial value and water saturation, indicating decane's role in enhancing air-water contact area during surfactant-enhanced air sparging experiments. However, the mention of decane does not provide additional insights into its specific properties or interactions beyond its use as a tracer.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999_Decane_decane_Materials and method.json",
+                        "label": "In this context, decane is mentioned as a tracer used in a gas chromatographic analysis to study the behavior of gaseous effluents from a sand column. The analysis involves calculating specific values related to n-decane, indicating its role in the experimental setup. However, there is no discussion of different forms or functions of decane, as both terms refer to the same compound without any additional context or interaction described.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999_Decane_decane_Theoretical backgrou.json",
+                        "label": "In this context, the term 'decane' is mentioned as 'n-decane,' referring to a specific alkane with ten carbon atoms. The discussion focuses on the behavior of n-decane in gaseous displacement experiments and its interactions with soil, particularly regarding its adsorption and partitioning. However, there is no distinct relationship or interaction described between different forms of decane, as the term is used consistently to refer to the same compound.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223",
+                        "label": "Field demonstration of pervaporation for the separation of volatile organic compounds from a surfactant-based soil remediation fluid.\nLM. Vane, L. Hitchens, FR. Alvarez, EL. Giroux\nJ. Hazard. Mater. 2001 Jan;81(1-2):141-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11118689"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223_Decane_decane_General overview and.json",
+                        "label": "In this context, decane is mentioned as one of the marker compounds for the hydrocarbon-based dry cleaning solvent Varsol™. The study focuses on the removal of various compounds, including decane, during a pervaporation treatment project aimed at reducing concentrations of volatile organic compounds (VOCs). The relationship is primarily based on decane's role as a measurable component in the removal objectives for Varsol™.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223_Decane_decane_Conclusions and reco.json",
+                        "label": "In this context, decane is mentioned as a hydrocarbon secondary contaminant whose removal was evaluated in the presence of surfactants. The study reports an average removal rate of 56% for decane, indicating its significance in the context of contaminant removal processes. However, the mention of decane is solely focused on its removal efficiency and does not explore any deeper chemical or biological interactions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223_Decane_decane_Pervaporation system.json",
+                        "label": "In this context, decane is mentioned in relation to its removal efficiency during a surfactant plateau region, where it averaged 56% removal. The discussion focuses on the performance of decane in comparison to undecane and other compounds, indicating its significance in the study of surfactant interactions and removal processes. However, there is no additional detail on the specific chemical properties or interactions of decane itself.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888",
+                        "label": "Release of MCP-1 and IL-8 from lung epithelial cells exposed to volatile organic compounds.\nG. Fischäder, C. Röder-Stolinski, G. Wichmann, K. Nieber, I. Lehmann\nToxicol In Vitro 2008 Mar;22(2):359-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17993253"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_decane_Results.json",
+                        "label": "In this context, decane is mentioned as a specific aliphatic compound tested for its effects on cytokine and chemokine release in A549 cells. The study indicates that decane, along with other aliphatic compounds, did not cause any cytotoxic effects or significant changes in cytokine/chemokine production when compared to control cultures. This suggests that decane does not have a notable biological impact in the tested conditions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_decane_Materials and method.json",
+                        "label": "In this context, decane is mentioned as one of the aliphatic compounds being investigated for its pro-inflammatory potential alongside other similar compounds. The study aims to assess the effects of various volatile organic compounds (VOCs), including n-decane, on human lung epithelial cells. However, there is no distinct differentiation or specific interaction described between the two mentions of decane, as they refer to the same compound.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_decane_Introduction.json",
+                        "label": "In this context, 'Decane' and 'decane' refer to the same aliphatic compound, specifically n-decane, which is included in a study investigating the pro-inflammatory potential of various volatile organic compounds (VOCs). The study aims to analyze the inflammatory effects of n-decane along with other aliphatic and aromatic compounds over a wide concentration range. However, there is no additional discussion or differentiation between the two terms, as they are simply different representations of the same chemical.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_decane_Results and discussi.json",
+                        "label": "In this context, decane is mentioned as one of the compounds selected for a new PLS-DA model aimed at distinguishing between allergic asthmatic children and control subjects based on their exhaled breath profiles. The inclusion of decane, along with other alkanes and aldehydes, suggests its relevance in metabolic pathways associated with asthma, although no specific interactions or unique properties of decane are detailed beyond its role in the breath analysis model.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_decane_Conclusions.json",
+                        "label": "In this context, decane is identified as one of the alkanes that characterize the breath profile of asthmatic children. The study highlights the role of decane, along with other compounds, in distinguishing between allergic asthmatic and control populations. This suggests that decane may be relevant in understanding metabolic pathways associated with allergic asthma, although it is mentioned alongside other compounds without detailed interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240208",
+                        "label": "Monitoring of indoor volatile organic compounds and polycyclic aromatic hydrocarbons arising from kerosene cooking fuel.\nGG. Pandit, PK. Srivastava, AM. Rao\nSci. Total Environ. 2001 Nov;279(1-3):159-65.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11712593"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240208_Decane_decane_Results and discussi.json",
+                        "label": "In this context, both 'Decane' and 'decane' refer to the same chemical compound, a straight-chain alkane with ten carbon atoms. The mention of decane occurs in the discussion of indoor and outdoor air quality, specifically regarding its concentration levels. However, there is no detailed exploration of its properties, effects, or interactions with other substances, indicating a lack of significant relationship beyond its identification as a compound.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240208_Decane_decane_Experimental.json",
+                        "label": "In this context, decane is mentioned as one of the seven hydrocarbons analyzed using optimized analytical conditions for peak resolution. The focus is on the calibration and analysis of various hydrocarbons, including decane, but there is no specific discussion about its properties, interactions, or significance beyond its inclusion in the list of compounds being studied. The mention of decane is purely as a component of a mixture for analytical purposes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "240195",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240195",
+                        "target": "240195_Decane_decane_Results and discussi.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "240194",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240194",
+                        "target": "240194_Decane_decane_Experimental.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "239999",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239999",
+                        "target": "239999_Decane_decane_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239999",
+                        "target": "239999_Decane_decane_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239999",
+                        "target": "239999_Decane_decane_Theoretical backgrou.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "240223",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240223",
+                        "target": "240223_Decane_decane_General overview and.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240223",
+                        "target": "240223_Decane_decane_Conclusions and reco.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240223",
+                        "target": "240223_Decane_decane_Pervaporation system.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "239888",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_decane_Results.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_decane_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_decane_Introduction.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_decane_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_decane_Conclusions.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "240208",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240208",
+                        "target": "240208_Decane_decane_Results and discussi.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240208",
+                        "target": "240208_Decane_decane_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "n-tetradecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-tetradecane",
+                        "label": "n-tetradecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_n-tetradecane_Conclusions.json",
+                        "label": "In this context, decane and n-tetradecane are both identified as alkanes that contribute to the 'breath-print' of asthmatic children. They are part of a larger group of compounds analyzed to distinguish between allergic asthmatic and control populations. Their presence in the breath samples suggests a potential link to metabolic pathways associated with allergic asthma, although the specific relationship between decane and n-tetradecane is not elaborated upon.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_n-tetradecane_Results and discussi.json",
+                        "label": "In this context, decane and n-tetradecane are part of a selected set of compounds identified in breath analysis to distinguish between allergic asthmatic children and control subjects. Both compounds are alkanes included in a pattern that aids in the non-invasive diagnosis of asthma, highlighting their relevance in metabolic pathways associated with the condition. However, the specific relationship between decane and n-tetradecane is not elaborated upon beyond their inclusion in the same diagnostic model.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-tetradecane",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_n-tetradecane_Conclusions.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_n-tetradecane_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Propane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propane",
+                        "label": "Propane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195",
+                        "label": "Minimization of water vapor interference in the analysis of non-methane volatile organic compounds by solid adsorbent sampling.\nCM. Karbiwnyk, CS. Mills, D. Helmig, JW. Birks\nJ Chromatogr A 2002 Jun;958(1-2):219-29.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12134819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195_Decane_Propane_Results and discussi.json",
+                        "label": "In this context, decane and propane are both mentioned as non-methane hydrocarbons analyzed in the Boulder air standard. However, the discussion focuses on the recovery rates of various compounds, indicating that while propane experienced significant losses during sampling, decane did not. This suggests a difference in behavior under the same conditions, but no direct interaction or functional relationship between the two compounds is established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Propane",
+                        "target": "240195",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240195",
+                        "target": "240195_Decane_Propane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Methane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methane",
+                        "label": "Methane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195",
+                        "label": "Minimization of water vapor interference in the analysis of non-methane volatile organic compounds by solid adsorbent sampling.\nCM. Karbiwnyk, CS. Mills, D. Helmig, JW. Birks\nJ Chromatogr A 2002 Jun;958(1-2):219-29.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12134819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195_Decane_Methane_Results and discussi.json",
+                        "label": "In this context, decane and methane are both mentioned as components of a study analyzing the recovery of various hydrocarbons in air samples. However, the focus is primarily on the recovery rates of lighter hydrocarbons, with no specific discussion of the relationship or interaction between decane and methane. They are simply categorized as non-methane hydrocarbons, indicating they are part of a broader analysis without direct relevance to each other.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999",
+                        "label": "Changes in air saturation and air-water interfacial area during surfactant-enhanced air sparging in saturated sand.\nH. Kim, KM. Choi, JW. Moon, MD. Annable\nJ. Contam. Hydrol. 2006 Nov;88(1-2):23-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16872716"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999_Decane_Methane_Results and discussi.json",
+                        "label": "In this context, decane and methane are both mentioned as gaseous tracers in a study examining the transport of organic compounds through a sand column. The study highlights that n-decane is transported at a slower linear velocity compared to methane due to interfacial sorption at the air-water interface. This suggests a significant difference in their behavior in the environment, particularly in relation to mass transfer and sorption dynamics in contaminated aquifers.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999_Decane_Methane_Materials and method.json",
+                        "label": "In this context, decane and methane are both mentioned as saturated hydrocarbons supplied for an experimental setup involving tracer injection in a porous medium. However, there is no discussion of their specific interactions, properties, or roles in the experiment beyond their classification as chemicals used in the study. They are simply listed as materials without any direct relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Methane",
+                        "target": "240195",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240195",
+                        "target": "240195_Decane_Methane_Results and discussi.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Methane",
+                        "target": "239999",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239999",
+                        "target": "239999_Decane_Methane_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239999",
+                        "target": "239999_Decane_Methane_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "nonanal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "nonanal",
+                        "label": "nonanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_nonanal_Results and discussi.json",
+                        "label": "In this context, decane and nonanal are identified as part of a selected set of compounds used to distinguish between allergic asthmatic children and control subjects through breath analysis. Both compounds are categorized as alkanes and aldehydes, contributing to a pattern that aids in the non-invasive diagnosis of asthma. Their inclusion in the PLS-DA model indicates a potential relationship in metabolic pathways relevant to asthma pathology, although the specific interactions between decane and nonanal are not detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "nonanal",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_nonanal_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195",
+                        "label": "Minimization of water vapor interference in the analysis of non-methane volatile organic compounds by solid adsorbent sampling.\nCM. Karbiwnyk, CS. Mills, D. Helmig, JW. Birks\nJ Chromatogr A 2002 Jun;958(1-2):219-29.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12134819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240195_Decane_Hydrocarbons_Results and discussi.json",
+                        "label": "In this context, decane is mentioned as a non-methane hydrocarbon that was analyzed in the Boulder air standard study. The results indicate that decane, along with other hydrocarbons from pentane to decane, did not suffer significant losses during the sampling process, suggesting its stability in the analyzed conditions. This positions decane within the broader category of hydrocarbons, highlighting its role in air quality studies, but does not elaborate on specific interactions or unique properties of decane compared to other hydrocarbons.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999",
+                        "label": "Changes in air saturation and air-water interfacial area during surfactant-enhanced air sparging in saturated sand.\nH. Kim, KM. Choi, JW. Moon, MD. Annable\nJ. Contam. Hydrol. 2006 Nov;88(1-2):23-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16872716"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239999_Decane_Hydrocarbons_Materials and method.json",
+                        "label": "In this context, decane is mentioned as a specific type of saturated hydrocarbon supplied for experimental purposes. Hydrocarbons are a broad category of organic compounds consisting entirely of hydrogen and carbon, which includes decane as one of its members. The relationship is primarily categorical, with decane being a specific example of hydrocarbons used in the study, but no detailed interactions or implications are discussed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons",
+                        "target": "240195",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240195",
+                        "target": "240195_Decane_Hydrocarbons_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons",
+                        "target": "239999",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239999",
+                        "target": "239999_Decane_Hydrocarbons_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "chlorobenzene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chlorobenzene",
+                        "label": "chlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888",
+                        "label": "Release of MCP-1 and IL-8 from lung epithelial cells exposed to volatile organic compounds.\nG. Fischäder, C. Röder-Stolinski, G. Wichmann, K. Nieber, I. Lehmann\nToxicol In Vitro 2008 Mar;22(2):359-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17993253"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_chlorobenzene_Materials and method.json",
+                        "label": "In this context, decane and chlorobenzene are both mentioned as volatile organic compounds (VOCs) being investigated for their pro-inflammatory potential. They are part of a broader study examining various aliphatic and aromatic compounds, but there is no specific discussion of their interactions or comparative effects on inflammation. Their relationship is limited to their inclusion in the same experimental framework without detailed analysis of their individual or combined effects.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239888_Decane_chlorobenzene_Introduction.json",
+                        "label": "In this context, decane and chlorobenzene are both mentioned as volatile organic compounds (VOCs) being investigated for their pro-inflammatory potential in a study. The research aims to analyze the inflammatory effects of various aliphatic and aromatic compounds, including decane (an aliphatic compound) and chlorobenzene (an aromatic compound), across a wide concentration range. However, there is no detailed discussion of their specific interactions or comparative effects within the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chlorobenzene",
+                        "target": "239888",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_chlorobenzene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239888",
+                        "target": "239888_Decane_chlorobenzene_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_Exhalation_Results and discussi.json",
+                        "label": "In this context, decane is identified as a methylated alkane found in exhaled breath, particularly in patients with non-small lung cancer (NSLC), chronic obstructive pulmonary disease (COPD), and smokers. The study highlights that the concentration of decane in exhaled breath is significantly higher in these pathological states compared to controls, suggesting its potential role as a biomarker for lung diseases. This indicates a direct relationship between decane and exhalation, as the presence of decane in breath samples is linked to oxidative stress and inflammation processes in the lungs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_Exhalation_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Evolution": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Evolution",
+                        "label": "Evolution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_Evolution_Results and discussi.json",
+                        "label": "In this context, decane is mentioned as one of the alkanes whose area reduction correlates with the improvement in asthma symptoms in a child undergoing treatment. The evolution of the child's condition is tracked through changes in the levels of these compounds, suggesting that the decrease in decane levels may reflect a reduction in inflammation and oxidative stress associated with asthma. This indicates a potential relationship between the metabolic changes of decane and the evolution of the child's health status over the treatment period.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Evolution",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_Evolution_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Chemical Surfactants": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemical Surfactants",
+                        "label": "Chemical Surfactants",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223",
+                        "label": "Field demonstration of pervaporation for the separation of volatile organic compounds from a surfactant-based soil remediation fluid.\nLM. Vane, L. Hitchens, FR. Alvarez, EL. Giroux\nJ. Hazard. Mater. 2001 Jan;81(1-2):141-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11118689"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "240223_Decane_Chemical Surfactants_Pervaporation system.json",
+                        "label": "In this context, decane is identified as one of the marker compounds in the removal process of Varsol™ using chemical surfactants. The study discusses the partitioning behavior of decane in relation to surfactant concentrations, indicating that its removal is expected to be less efficient compared to other compounds like 1,3,5-trimethylbenzene. The relationship highlights the role of chemical surfactants in the removal of decane from a surfactant solution, suggesting a significant interaction in the context of environmental remediation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemical Surfactants",
+                        "target": "240223",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "240223",
+                        "target": "240223_Decane_Chemical Surfactants_Pervaporation system.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "HOXA10 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "HOXA10 gene",
+                        "label": "HOXA10 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463",
+                        "label": "Allergic asthma exhaled breath metabolome: a challenge for comprehensive two-dimensional gas chromatography.\nM. Caldeira, R. Perestrelo, AS. Barros, MJ. Bilelo, A. Morête, JS. Câmara, SM. Rocha\nJ Chromatogr A 2012 Sep;1254:87-97.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22835687"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239463_Decane_HOXA10 gene_Results and discussi.json",
+                        "label": "In this context, decane is mentioned as part of a set of compounds used to distinguish between allergic asthmatic children and control subjects through breath analysis. However, there is no direct mention or discussion of the HOXA10 gene, which is known to be involved in developmental processes and may have implications in asthma. The relationship between decane and the HOXA10 gene is not established in the provided context, indicating a lack of direct relevance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "HOXA10 gene",
+                        "target": "239463",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239463",
+                        "target": "239463_Decane_HOXA10 gene_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "To test this hypothesis, we used isokinetic dynamometry to assess the contractile function of the knee extensor muscles in healthy volunteers following ingestion of beetroot juice (BRJ), a rich natural source of NO3 \u2212. A number of recent studies have assessed the effects of dietary NO3 \u2212 intake on performance during dynamic exercise lasting several minutes or longer (cf. Ref. for review), and Haider and Folland recently determined its influence on the contractile function of the human quadriceps muscle during electrically-stimulated and voluntary isometric contractions. The present investigation, however, is the first to determine the effects of dietary NO3 \u2212 intake on the force\u2013 (or torque\u2013) velocity and hence power\u2013velocity relationship of human muscle. Subjects The subjects in this investigation were 7 men and 5 women with mean (\u00b1SD) age and body mass index of 36\u2009\u00b1\u200910\u2009y and 26.1\u2009\u00b1\u20094.1\u2009kg/m2, respectively. All were healthy, as determined by history, physical examination, and standard blood chemistries, and were without significant orthopedic limitations or other contraindications to strenuous exercise. Although all were normally active, only one of the subjects exercised (by jogging 5\u2009d/wk) on a regular basis. ",
+    "term_A": "nitrate",
+    "term_B": "Torque",
+    "llm_generation": {
+        "summary": "In this context, nitrate, derived from beetroot juice, is investigated for its effects on muscle contractile function, specifically focusing on torque during isokinetic dynamometry assessments. The study aims to explore how dietary nitrate intake influences the torque-velocity relationship of human muscle, indicating a direct connection between nitrate consumption and muscle performance metrics.",
+        "reason": "The score of 4 reflects a significant connection between nitrate and torque, as the study directly examines how dietary nitrate affects torque during muscle contractions, supported by experimental design and specific performance metrics.",
+        "score": 4
+    }
+}

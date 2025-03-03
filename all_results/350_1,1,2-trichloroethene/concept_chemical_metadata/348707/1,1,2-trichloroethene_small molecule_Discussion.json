@@ -1,0 +1,10 @@
+{
+    "context": "[10] The latter researchers incorporated a deep liver compartment into their PBPK model to account for slower than anticipated systemic TCE clearance in male S-D rats.  [1] It seems unlikely that the GI tract would contribute significantly to first-pass extraction of TCE, although the VOC is exhaled to some extent during each pass through the pulmonary circulation.  [2] The bioavailability of some drugs is limited by the presence of transporters and CYP450s in both enterocytes and hepatocytes .  [3] However, TCE and other VOCs are small, uncharged, lipophilic molecules that do not depend on transporters but readily diffuse across membranes.  [4] CYP2E1, the isoform primarily responsible for oxidation of low doses of TCE in rats and humans, has not been found in the small intestines of either species (; ).  [5] Pulmonary first-pass effect, determined primarily by a VOC's blood/air partition coefficient, is considered to be blood level-independent .  [6] reported that lung first-pass elimination accounted for \u00e2\u02c6\u00bc5 to 8% of oral doses of 0.7 to 16.0 mg TCE/kg in rats. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "small molecule",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is described as a small, uncharged, lipophilic molecule that readily diffuses across membranes. The text discusses TCE's bioavailability and its interaction with biological systems, particularly its metabolism by CYP2E1. This highlights TCE's classification as a small molecule, emphasizing its properties and behavior in biological contexts.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2-trichloroethene and the concept of small molecules, as TCE is explicitly characterized as such and its behavior in biological systems is discussed. The relationship is supported by the context's focus on TCE's diffusion and metabolism.",
+        "score": 4
+    }
+}

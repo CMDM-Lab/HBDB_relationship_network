@@ -1,0 +1,10 @@
+{
+    "context": "[3] No difference was found between samples supplied with only LTB4 and samples supplied with LTB4 and saliva (1%). [4] Thus, the storage of EBC samples for some months until analysis does not appear to alter the outcome of the LTB4 assay. [5] Kostikas et al.  claimed that the immunoreactivity of leukotrienes in EBC decreases after 3\u00e2\u20ac\u2026weeks of storage. [6] However, in that particular study, LTB4 levels dropped to 92% of the original immunoreactivity after the third week, which was within the range of the reported interassay variability of 15%. [1] There is data supporting the hypothesis that turbulent flow enhances recovery of some compounds in EBC . [2] The differences in LTB4 levels in EBC between different patient groups might also reflect events in the upper airways and oral cavity. [3] LTB4 is the major leukotriene produced in the nasal mucosa , and there is a significant comorbidity between asthma and rhinitis. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Immunoreactivity",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is assessed for its immunoreactivity in exhaled breath condensate (EBC) samples. The study indicates that LTB4 levels can decrease over time, with a noted drop in immunoreactivity after three weeks of storage. This suggests a direct relationship between LTB4 and its immunoreactivity, highlighting the importance of timely analysis for accurate measurement of LTB4 in clinical settings, particularly in relation to respiratory conditions like asthma and rhinitis.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and immunoreactivity, supported by evidence of LTB4's stability and measurement variability over time. The context emphasizes the relevance of LTB4's immunoreactivity in clinical assessments, particularly in respiratory diseases.",
+        "score": 4
+    }
+}

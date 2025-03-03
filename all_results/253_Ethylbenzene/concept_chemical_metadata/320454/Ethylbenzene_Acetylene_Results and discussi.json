@@ -1,0 +1,10 @@
+{
+    "context": "The sampling and analytical methods employed for the chamber test were also utilized for this in-vehicle test. Frequency of occurrence The AFs emitted 84 compounds, and all 26 household products emitted at least one compound. Nevertheless, Table 1 presents the frequency of occurrence for the 50 analytes that satisfied the cut-off point for the reporting compounds, as described above. Eleven analytes occurred at a frequency of more than 50%: toluene (100%), bis(trimethylsilyl)acetylene (96%), benzene (92%), hexamethylcyclotrisiloxane (81%), pentadecane (81%), ethanol (65%), ethyl benzene (62%), limonene (58%), m,p-xylene (57%), and tetramethylsilane (50%). Among these 11 compounds, five compounds (toluene, benzene, ethyl benzene, and m,p-xylene) are listed as either a toxic air contaminant, a hazardous air pollutant, or as being on California\u2032s Proposition 65 List (OEHHA, 2003). The United States Occupational Safety and Health Administration (OSHA) suggested the guidelines of 200, 1, 100, and 100 parts per million (ppm) for toluene, benzene, ethyl benzene, and xylene, respectively (OSHA, 1998). These toxic or hazardous compounds are prevalent in households or public buildings and can be caused by a variety of sources (Tucker, 2000; Edwards et al., 2005; Zuraimi et al., 2006). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Acetylene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and acetylene are both mentioned as compounds emitted from various sources, but there is no direct relationship or interaction discussed between them. Ethylbenzene is highlighted as a toxic air contaminant, while acetylene is not specifically addressed in terms of its toxicity or relevance to the other compounds listed. Their mention appears coincidental within the broader discussion of hazardous air pollutants.",
+        "reason": "The score of 1 reflects a lack of any meaningful relationship between ethylbenzene and acetylene, as they are simply listed among other compounds without any direct interaction or relevance to each other in the context provided.",
+        "score": 1
+    }
+}

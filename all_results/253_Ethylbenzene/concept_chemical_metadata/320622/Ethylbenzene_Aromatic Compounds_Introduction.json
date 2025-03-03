@@ -1,0 +1,10 @@
+{
+    "context": "DAI presumes analysis of volatile organic compounds in water samples by direct injection of water sample into a chromatographic column. The sample pre-treatment and pre-concentration steps elimination helps to minimize the losses of volatile analytes as well as possibility of sample contamination. The major disadvantage is that water is not compatible with stationary film of capillary columns and with flame ionization detector (FID), as well [5\u20137]. The volatile aromatic compounds such as benzene, toluene, ethylbenzene, ortho-, meta-, para-xylene (BTEX) are fuel components commonly found in ground water contamination. The normalized quality limit for drinking water according EPA is for benzene 5, toluene 1000, ethylbenzene 700 and for xylenes 10000\u03bcgl\u22121, respectively. The analysis of BTEX in aqueous samples is usually achieved by purge-and-trap (PTI) gas chromatography (GC). In order to determine water samples with concentration of BTEX on trace levels without any pre-treatment, it is necessary to inject large volumes of 0.1\u20131ml of water sample, needed to be prevented from entering capillary column of gas chromatograph. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Aromatic Compounds",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is identified as one of the volatile aromatic compounds (BTEX) commonly found in groundwater contamination. The discussion highlights the significance of analyzing aromatic compounds, including ethylbenzene, in water samples to assess contamination levels. Ethylbenzene is thus categorized under aromatic compounds, indicating a direct relationship as part of a broader group of similar chemical entities.",
+        "reason": "The score of 4 reflects a significant connection between ethylbenzene and aromatic compounds, as ethylbenzene is explicitly mentioned as part of the BTEX group, which is a subset of aromatic compounds. The context provides a clear classification and relevance in the analysis of water contamination.",
+        "score": 4
+    }
+}

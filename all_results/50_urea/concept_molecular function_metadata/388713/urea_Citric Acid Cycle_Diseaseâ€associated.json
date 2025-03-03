@@ -1,0 +1,10 @@
+{
+    "context": "[3] A series of SNPs in the different subunits of SDH have been found to have similar phenotypic consequences. [1] Map of mitochondrial metabolism with SNP\u00e2\u20ac\u0090associated co\u00e2\u20ac\u0090sets. [2] The co\u00e2\u20ac\u0090sets are color\u00e2\u20ac\u0090coded according to the legend at the bottom of the figure. [3] An example of each type of co\u00e2\u20ac\u0090set (Type A: TCA cycle; Type B: Heme biosynthesis; Type C: Urea cycle) has a summary chart that includes the following information: gene abbreviation, gene IDs, MIMs, and SNP\u00e2\u20ac\u0090associated signs or symptoms, respectively column\u00e2\u20ac\u0090wise. [1] The genes that encode the enzymes leading to heme biosynthesis constitute a Type B co\u00e2\u20ac\u0090set (Figure 2). [2] Many SNPs in this set of genes result in various manifestations of porphyria. [3] There is a range of severity and symptoms for a given enzyme and across the different enzymes in this gene set. ",
+    "term_A": "urea",
+    "term_B": "Citric Acid Cycle",
+    "llm_generation": {
+        "summary": "In this context, urea and the Citric Acid Cycle (TCA cycle) are mentioned as part of different metabolic pathways. Urea is associated with the urea cycle, which is distinct from the TCA cycle. While both cycles are crucial for metabolism, the context does not provide a direct relationship or interaction between urea and the TCA cycle, indicating they are part of separate metabolic processes.",
+        "reason": "The score of 2 reflects an indirect connection, as both urea and the TCA cycle are components of metabolic pathways, but there is no detailed discussion of their interaction or significance together in the context provided.",
+        "score": 2
+    }
+}

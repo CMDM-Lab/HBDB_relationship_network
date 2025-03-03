@@ -1,0 +1,10 @@
+{
+    "context": "Ideally, for measuring the orocecal transit time the tracers should be neither absorbed nor metabolised by the small bowel nor influence the intestinal motility. Once in the cecum, however, it should be acted on by specific enzymes of bacterial origin that lead to the formation of labeled metabolites which could be measured in the exhaled breath. Recently, 13C-labeled glycosyl ureides were proposed as a new non-invasive marker of intestinal transit time. A positive breath signal (13CO2) was detected 5\u20136 h after oral ingestion of glycosyl ureide (13C-labeled in the urea moiety). This delay corresponds to the orocecal transit time. No 13CO2 appeared in the breath after bacterial eradication of the gut by oral antibiotics and after mechanical cleaning of the bowel by several liters of fluids. These observations led to the following hypothesis: the sugar\u2013ureid bond was split by enzymes of bacteria of the colonic flora [11\u201313]and not by brush border hydrolases. ",
+    "term_A": "urea",
+    "term_B": "Ingestion",
+    "llm_generation": {
+        "summary": "In this context, urea is indirectly related to ingestion through the study of 13C-labeled glycosyl ureides as markers for measuring orocecal transit time. The ingestion of these labeled compounds leads to the formation of labeled metabolites, which are then detected in exhaled breath. This process highlights the role of bacterial enzymes in metabolizing the ingested glycosyl ureide, which contains a urea moiety, but does not establish a direct functional relationship between urea itself and the act of ingestion.",
+        "reason": "The score of 3 reflects a moderate relevance, as urea is part of the metabolic process following ingestion of glycosyl ureides, but the relationship is not deeply explored beyond its role in the formation of metabolites detected in breath analysis.",
+        "score": 3
+    }
+}

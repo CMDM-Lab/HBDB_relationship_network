@@ -1,0 +1,10 @@
+{
+    "context": "[2] This finding prompted us to exclude the presence of a GSH/NBDHEX \u00cf\u0192-complex in this crystal (\n\nFig. 1B). [3] Therefore, in our structure, we observe a bound but not conjugated NBDHEX. [4] This was quite surprising because the formation of a GSH/NBDHEX \u00cf\u0192-complex in the GSTP1-1 active site can be easily monitored in solution by absorption spectra . [5] However, it was previously suggested by kinetic studies that, in the reaction between GSH and either CDNB  or 7-chloro-4-nitrobenzo-2-oxa-1,3-diazole (NBD-Cl; ref. \n\n), a physical event, i.e., a conformational change in GSTP1-1 structure, follows the binding of the substrates and is crucial for the \u00cf\u0192-complex formation. [6] This conformational transition is strongly dependent on diffusion-controlled motion of active site regions. [7] Because NBDHEX retains the same benzoxadiazole ring as NBD-Cl, a similar conformational change might also be necessary in this case to enable the \u00cf\u0192-complex formation, and this might be prevented by a lack of structural flexibility in the crystalline environment. [1] Nonetheless, the position of NBDHEX with respect to GSH is very interesting. ",
+    "term_A": "glutathione",
+    "term_B": "Macromolecular alteration",
+    "llm_generation": {
+        "summary": "In this context, glutathione (GSH) is discussed in relation to its interaction with NBDHEX and the formation of a \u00cf\u0192-complex within the GSTP1-1 enzyme. The study highlights that a conformational change in the enzyme's structure, which is a macromolecular alteration, is essential for the binding and complex formation with GSH. This suggests that the flexibility and structural dynamics of macromolecules are crucial for the biochemical interactions involving glutathione.",
+        "reason": "The score of 4 reflects a significant connection between glutathione and macromolecular alteration, as the context discusses how conformational changes in the GSTP1-1 enzyme are necessary for GSH's interaction, indicating a clear relationship supported by biochemical evidence.",
+        "score": 4
+    }
+}

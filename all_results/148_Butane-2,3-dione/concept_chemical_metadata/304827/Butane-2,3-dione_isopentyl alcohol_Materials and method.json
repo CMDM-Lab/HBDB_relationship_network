@@ -1,0 +1,10 @@
+{
+    "context": "J&W Scientific, Folsom, CA, USA) using helium that was not split as carrier gas. The following GC running program was applied: 40\u00b0C for 1min, heating 4\u00b0C/min to 175\u00b0C, heating 20\u00b0C/min to 240\u00b0C which was held for 7min. VOCs were identified and quantified by HP 5973 mass selective detector used in scanning (m/z 30\u2013350) mode. The following reference compounds were used in identification: diacetyl (>97%, Aldrich), 3-methylbutanaldehyd (>97%, Aldrich), 2-pentanone (>98%, Fluka), 3-methyl-1-butanol (>99%, Fluka), acetoin (>99.9%, Supelco), 1-octen-3-ol (>98%, Aldrich), hexanal (>98%, Aldrich), 1-hexanol (>99%, Fluka), 2-methyl-1-butanol (>99%, Aldrich), 1-pentanol (>99%, Aldrich). For quantification purposes, 4-methyl-1-pentanol (>97%, Aldrich) was added to each 10-g powdered meat sample as internal standard. Peak areas of compounds detected in meat were normalized against the peak area of the internal standard to calculate the relative concentrations expressed as arbitrary units (AU)/g.HPLC analysis of acetic acid Acetic acid was analyzed by HPLC from the bulk samples of pork in the beginning of the experiment and at the time of sensory spoilage or after 19days of storage for sterilized samples as described before (Dalgaard and J\u00f8rgensen, 2000). ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "isopentyl alcohol",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione and isopentyl alcohol are both mentioned as reference compounds used in the identification and quantification of volatile organic compounds (VOCs) in meat samples. However, there is no direct discussion of their chemical interactions or functional relationships. They are simply part of a broader analysis involving various VOCs without specific relevance to each other.",
+        "reason": "The score of 1 reflects a very low relationship, as Butane-2,3-dione and isopentyl alcohol are listed among other compounds in a method for analyzing VOCs, with no direct interaction or relevance discussed in the context.",
+        "score": 1
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Particle density and saturated hydraulic conductivity at packed bulk density were measured by the air pycnometer method and constant head method, respectively. The results are also included in Table\u00a01. Trichloroethene (TCE) was used as the DNAPL in this study. The basic physiochemical properties of TCE and water are included in Table\u00a01 as well.Experimental procedure The sandbox was packed with different combinations of the quartz sands to construct three heterogeneous sand distributions as shown in Fig.\u00a02 . Three experiments (designated herein as Expts 1, 2, and 3) corresponding to the three sand distributions were conducted using the same steam/air ratio and injection rate. In Expts 1 and 2, the total volumes of FS were the same, while the FS was divided evenly into two layers in Expt 2. Expts 1 and 3 had the same sand layer structure, while the sand texture in the contaminated layer in Expt 3 was finer. A certain amount of water was added to the sands and mixed thoroughly to obtain target initial volumetric water contents before packing (2% in CS, and 4% in FS and SS, Table\u00a01). ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Quartz",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as a dense non-aqueous phase liquid (DNAPL) used in experiments involving quartz sands. The study focuses on the physical properties of TCE and its interaction with different sand distributions, specifically quartz, to assess hydraulic conductivity and particle density. However, there is no direct chemical or biological interaction discussed between TCE and quartz beyond their roles in the experimental setup.",
+        "reason": "The score of 2 reflects an indirect connection, as both TCE and quartz are involved in the same experimental context, but their relationship lacks detailed discussion or significant interaction beyond their physical properties in the study.",
+        "score": 2
+    }
+}

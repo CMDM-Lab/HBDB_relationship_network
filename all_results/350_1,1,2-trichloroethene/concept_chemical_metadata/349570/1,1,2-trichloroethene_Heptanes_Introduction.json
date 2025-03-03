@@ -1,0 +1,10 @@
+{
+    "context": "Tracers that partition to bulk water and accumulate at the air\u2013water interface have been used to predict the impact of those domains on VOC retention and transport for laboratory systems (Brusseau et al., 1997; Kim et al., 2001), but apparently have not been employed for larger-scale systems. There were two objectives for the research reported herein. The first was to examine retention processes for vapor-phase VOC transport in a water-unsaturated system, and the second was to evaluate the utility of gas-phase tracer tests for predicting VOC retardation. Trichloroethene (TCE) is used as a model VOC, while trichlorofluoromethane (CFM) and heptane are used as partitioning tracers to independently characterize retention by water and the air\u2013water interface, respectively. Gas-phase transport experiments were conducted using a large weighing lysimeter containing a sandy soil. The lysimeter facility is notable in terms of the experimental control achievable for a system of its size, and provides an opportunity to investigate mass-transfer and retention processes at a scale for which residence times are more representative of field systems. The first objective was addressed by determining the relative contribution of each retention process to overall retardation. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Heptanes",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is used as a model volatile organic compound (VOC) to study vapor-phase transport, while heptane serves as a partitioning tracer to characterize retention processes at the air-water interface. Both compounds are involved in evaluating VOC retention and transport mechanisms, but their specific interactions or comparative significance are not detailed beyond their roles in the experimental setup.",
+        "reason": "The score of 2 reflects an indirect connection, as both TCE and heptane are utilized in the same study to assess VOC transport and retention, but there is no direct discussion of their relationship or interaction beyond their roles as tracers.",
+        "score": 2
+    }
+}

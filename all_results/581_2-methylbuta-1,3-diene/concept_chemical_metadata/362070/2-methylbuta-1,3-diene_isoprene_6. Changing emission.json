@@ -1,0 +1,10 @@
+{
+    "context": "[9] Global emission totals of anthropogenic pollutants were taken from the IS92a scenario and distributed over the globe according to the IPCC SRES A2 scenario. [1] With the vegetation distribution fixed at that for the 1990s, isoprene emissions were projected to increase from 550 to approximately 740\u00e2\u20ac\u0160Tg\u00e2\u20ac\u0160yr\u00e2\u02c6\u20191 by 2100. [2] However, a smaller increase to 700\u00e2\u20ac\u0160Tg\u00e2\u20ac\u0160yr\u00e2\u02c6\u20191 was simulated when the 2090s vegetation distribution was used. [3] Isoprene emissions were therefore approximately 40\u00e2\u20ac\u0160Tg\u00e2\u20ac\u0160yr\u00e2\u02c6\u20191 lesser if vegetation change was included in the simulations. [1] Effects of climate change and associated vegetation responses on summertime (June, July and August) mean surface ozone levels (ppbv): changes between the 1990s and the 2090s. [2] (a) Vegetation distribution fixed at 1990s state, (b) vegetation fixed at state simulated for 2090s due to climate change in HadCM3LC. [3] A positive value indicates that ozone levels are greater in the 2090s than the 1990s. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "isoprene",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene and isoprene are related as they are both volatile organic compounds (VOCs) emitted from vegetation. The discussion focuses on isoprene emissions projected to increase significantly by 2100, with 2-methylbuta-1,3-diene being a structural isomer of isoprene. However, the context does not provide specific interactions or comparative analysis between the two compounds, limiting the depth of their relationship.",
+        "reason": "The score of 2 reflects an indirect connection between 2-methylbuta-1,3-diene and isoprene, as they are both VOCs related to vegetation emissions. However, the context lacks detailed discussion of their specific interactions or functional relationships.",
+        "score": 2
+    }
+}

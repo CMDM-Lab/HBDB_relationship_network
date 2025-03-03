@@ -1,0 +1,10 @@
+{
+    "context": "[3] Due to their stability, specificity for lipid peroxidation, in vivo production, and relative abundance in biological fluids, the isoprostanes are among the most reliable biomarkers of lipid peroxidation and oxidative stress. [4] 8-Isoprostane, a member of the F2 isoprostane class, has been detected in plasma and urine in humans and its levels are increased in pathophysiological conditions in which oxidative stress is increased, such as cigarette smoking and scleroderma. [5] We have found increased concentrations of 8-isoprostane in the BAL fluid of patients with interstitial lung diseases. [6] 8-Isoprostane concentrations are also increased in the urine of patients with chronic obstructive pulmonary disease (COPD) and in exhaled breath condensate in patients with adult respiratory distress syndrome (ARDS) and asthma.Recently, increased 8-isoprostane concentrations were reported in the plasma of patients with cystic fibrosis. [1] In this study we have compared 8-isoprostane concentrations in the breath condensate of patients with stable cystic fibrosis with those in normal subjects. [2] Breath condensate is a non-invasive method of collecting airway secretions. [3] The aim of this study was to provide a non-invasive approach to direct measurement of oxidant stress in the lungs of patients with cystic fibrosis. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is highlighted as a biomarker for oxidative stress, with increased concentrations found in the exhaled breath condensate of asthma patients. This suggests a significant relationship between elevated levels of 8-epi-PGF2alpha and the pathophysiology of asthma, indicating that oxidative stress may play a role in the disease's progression and severity.",
+        "reason": "The score of 4 reflects a strong connection between 8-epi-PGF2alpha and asthma, as the context provides evidence of increased levels of this biomarker in asthma patients, indicating its relevance in understanding oxidative stress in the disease.",
+        "score": 4
+    }
+}

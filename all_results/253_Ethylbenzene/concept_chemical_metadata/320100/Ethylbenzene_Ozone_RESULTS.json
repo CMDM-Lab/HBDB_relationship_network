@@ -1,0 +1,10 @@
+{
+    "context": "[3] Children spent >22 h in indoor environments each day, despite the time of the year. [4] The only difference was that in summer, children spent a little more time in the courtyard of the school and outside their homes (on average <30 min more). [5] Considering the child's exposure, air pollutants were correlated with each other at each visit (see online supplement). [6] Statistically significant positive correlations existed among various air pollutants, namely for VOCs such as toluene-ethylbenzene, toluene-xylene, xylene-ethylbenzene and benzene-ethylbenzene. NO2 and ozone also presented a trend to be positively correlated. [7] Conversely, PM10 and NO2, and PM10 and O3 were inversely correlated. [1] The results of spirometry, inflammation assessment and clinical outcomes across the studied seasons are presented in table 4. Most children did not present abnormal changes during the study period but, in each evaluation, \u00e2\u02c6\u00bc25% presented a \u00ce\u201dFEV1 >12%. [2] There were differences in spirometric changes (FEV1: p=0.010; ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Ozone",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and ozone are mentioned as part of a study examining air pollutants and their correlations in children's exposure. The text indicates that various volatile organic compounds (VOCs), including ethylbenzene, show positive correlations with each other, while ozone is noted to have a trend of positive correlation with NO2. However, the specific relationship between ethylbenzene and ozone is not elaborated upon, indicating a general association rather than a direct interaction.",
+        "reason": "The score of 2 reflects an indirect connection between ethylbenzene and ozone, as both are mentioned in the context of air pollution and exposure correlations, but their specific relationship is not detailed.",
+        "score": 2
+    }
+}

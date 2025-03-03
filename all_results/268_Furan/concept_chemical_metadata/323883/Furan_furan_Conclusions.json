@@ -1,0 +1,10 @@
+{
+    "context": "Benzene was present in moderate concentrations in both cases, although benzene emissions were considerably higher with the Br addition. Dichlorobenzenes did not significantly change with the addition of Br. \u2022 For these test conditions, using this combination of feed materials, the addition of Br resulted in a reduction of emissions of PCDDs/Fs. This reduction appears to be the result of the formation of partially brominated PXDDs/Fs. \u2022 The PXDFs that were measured appeared to be emitted at a fixed fraction of their fully chlorinated furan analogs. The ratio between the PXDF and the chlorinated analog appears to be a function solely of the Br/Cl molar ratio. \u2022 This research illustrates the need for careful trial burn planning if Br will be present in the facility's feedstock during normal operation. Several studies have demonstrated that particulate air pollution can be associated with respiratory symptoms (Pope et al., 1995) and that indoor dust particles may be associated with mucous membrane irritation and odour annoyance (Skov et al., 1990; Salvaggio, 1994; M\u00f8lhave et al., 2000a; Pan et al., 2000). ",
+    "term_A": "Furan",
+    "term_B": "furan",
+    "llm_generation": {
+        "summary": "In this context, furan is mentioned in relation to its chlorinated analogs and the impact of bromine (Br) addition on emissions of various compounds, including PCDDs/Fs. The text discusses the relationship between furan and its chlorinated derivatives, indicating that the emissions of certain compounds are influenced by the presence of bromine, but does not provide a direct functional relationship between furan and furan itself, as they are essentially the same compound.",
+        "reason": "The score of 2 reflects an indirect connection, as furan is discussed in the context of its emissions and interactions with bromine and chlorine, but there is no detailed exploration of its specific properties or functions beyond this general mention.",
+        "score": 2
+    }
+}

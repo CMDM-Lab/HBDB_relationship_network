@@ -1,0 +1,2294 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "1,4-dichlorobenzene",
+                    "label": "1,4-dichlorobenzene",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,4-dichlorobenzene",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,4-dichlorobenzene",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,4-dichlorobenzene",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,4-dichlorobenzene",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,4-dichlorobenzene",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,4-dichlorobenzene",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,4-dichlorobenzene",
+                        "label": "1,4-dichlorobenzene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tangier Disease",
+                        "label": "Tangier Disease",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Tangier Disease",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,4-dichlorobenzene",
+                        "label": "1,4-dichlorobenzene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "styrene-butadiene rubber",
+                        "label": "styrene-butadiene rubber",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Aromatic",
+                        "label": "Hydrocarbons, Aromatic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Dichloropropane",
+                        "label": "Dichloropropane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Butadiene",
+                        "label": "Butadiene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cyclohexane",
+                        "label": "Cyclohexane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "tenax",
+                        "label": "tenax",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "trichlorobenzene",
+                        "label": "trichlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Water Specimen",
+                        "label": "Water Specimen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "tert-butylbenzene",
+                        "label": "tert-butylbenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "chlorobenzene",
+                        "label": "chlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-chlorotoluene",
+                        "label": "2-chlorotoluene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "styrene-butadiene rubber",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "3-xylene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Hydrocarbons, Aromatic",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Dichloropropane",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Toluene",
+                        "score": 18
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Butadiene",
+                        "score": 11
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Cyclohexane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "tenax",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Naphthalene",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Chemicals",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Acetaldehyde",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "trichlorobenzene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Organic Chemicals",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Water Specimen",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "tert-butylbenzene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "chlorobenzene",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "4-xylene",
+                        "score": 13
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "2-chlorotoluene",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,4-dichlorobenzene",
+                        "label": "1,4-dichlorobenzene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "dose-response relationship",
+                        "label": "dose-response relationship",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "dose-response relationship",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Inspiration function",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Analyte",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,4-dichlorobenzene",
+                        "target": "Process",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,4-dichlorobenzene",
+                        "label": "1,4-dichlorobenzene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,4-dichlorobenzene",
+                        "label": "1,4-dichlorobenzene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,4-dichlorobenzene",
+                        "label": "1,4-dichlorobenzene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Tangier Disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Tangier Disease",
+                        "label": "Tangier Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020",
+                        "label": "Risk assessment of population inhalation exposure to volatile organic compounds and carbonyls in urban China.\nZ. Du, J. Mo, Y. Zhang\nEnviron Int 2014 Dec;73:33-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25090575"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Tangier Disease_Results.json",
+                        "label": "In this context, 1,4-dichlorobenzene is mentioned as a chlorinated hydrocarbon with potential cancer risks due to long-term exposure, particularly in indoor environments. However, there is no direct mention or discussion of Tangier Disease, which is a genetic disorder affecting lipid metabolism. The two terms appear in the same context but lack a clear relationship or interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Tangier Disease",
+                        "target": "258020",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Tangier Disease_Results.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "styrene-butadiene rubber": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "styrene-butadiene rubber",
+                        "label": "styrene-butadiene rubber",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020",
+                        "label": "Risk assessment of population inhalation exposure to volatile organic compounds and carbonyls in urban China.\nZ. Du, J. Mo, Y. Zhang\nEnviron Int 2014 Dec;73:33-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25090575"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_styrene-butadiene rubber_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene and styrene-butadiene rubber are mentioned as pollutants linked to specific consumer products. 1,4-dichlorobenzene is associated with mothballs and room deodorizers, while styrene-butadiene rubber is linked to rubber products. Their relationship is primarily based on their commonality as pollutants from distinct sources rather than any direct chemical or functional interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "styrene-butadiene rubber",
+                        "target": "258020",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_styrene-butadiene rubber_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "3-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257934",
+                        "label": "Use of new generation poly(styrene-divinylbenzene) resins for gas-phase trapping-thermal desorption. Application to the retention of seven volatile organic compounds.\nP. López, R. Batlle, C. Nerín, J. Cacho, V. Ferreira\nJ Chromatogr A 2007 Jan;1139(1):36-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17126844"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257934_1,4-dichlorobenzene_3-xylene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 3-xylene are both mentioned as volatile organic compounds (VOCs) being evaluated for their trapping and desorption behavior using new solid-phase extraction (SPE) polymeric resins. However, there is no direct discussion of their specific interactions or comparative significance beyond their inclusion in the same study of VOCs.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820",
+                        "label": "Recycled water: potential health risks from volatile organic compounds and use of 1,4-dichlorobenzene as treatment performance indicator.\nC. Rodriguez, K. Linge, P. Blair, F. Busetti, B. Devine, P. Van Buynder, P. Weinstein, A. Cook\nWater Res. 2012 Jan;46(1):93-106.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22078226"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_3-xylene_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 3-xylene are both mentioned as volatile organic compounds (VOCs) analyzed in post-membrane filtration (MF) water samples. However, there is no direct discussion of their relationship or interaction. They are part of a broader analysis of VOC concentrations in treated wastewater, indicating their presence but lacking specific relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "257934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257934",
+                        "target": "257934_1,4-dichlorobenzene_3-xylene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "257820",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_3-xylene_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons, Aromatic": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Aromatic",
+                        "label": "Hydrocarbons, Aromatic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257881",
+                        "label": "Examination of the relationships between environmental exposures to volatile organic compounds and biochemical liver tests: application of canonical correlation analysis.\nJ. Liu, W. Drane, X. Liu, T. Wu\nEnviron. Res. 2009 Feb;109(2):193-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19117555"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257881_1,4-dichlorobenzene_Hydrocarbons, Aromatic_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene is identified as a specific volatile organic compound (VOC) that falls under the broader category of aromatic hydrocarbons. The study discusses the relationship between personal exposure to various aromatic hydrocarbons, including 1,4-dichlorobenzene, and their effects on biochemical liver tests. While 1,4-dichlorobenzene is mentioned alongside other aromatic hydrocarbons, the focus is on its association with serum concentrations of LDH and total bilirubin, indicating a potential health impact related to its exposure as part of the aromatic hydrocarbon group.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257881_1,4-dichlorobenzene_Hydrocarbons, Aromatic_Results.json",
+                        "label": "In this context, 1,4-dichlorobenzene is identified as a specific volatile organic compound (VOC) that falls under the broader category of aromatic hydrocarbons. The study highlights a correlation between exposure to 1,4-dichlorobenzene and certain biochemical liver tests, suggesting that this compound, along with other aromatic hydrocarbons, may impact liver function. The relationship is established through statistical analysis, indicating that both 1,4-dichlorobenzene and aromatic hydrocarbons collectively influence liver biochemical markers.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons, Aromatic",
+                        "target": "257881",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257881",
+                        "target": "257881_1,4-dichlorobenzene_Hydrocarbons, Aromatic_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257881",
+                        "target": "257881_1,4-dichlorobenzene_Hydrocarbons, Aromatic_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Dichloropropane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Dichloropropane",
+                        "label": "Dichloropropane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970",
+                        "label": "Spatial and temporal variability of priority volatile organic compounds in the Scheldt estuary.\nT. Huybrechts, J. Dewulf, H. Van Langenhove\nWater Res. 2004 Aug-Sep;38(14-15):3241-50.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15276740"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970_1,4-dichlorobenzene_Dichloropropane_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and dichloropropane are both listed as volatile organic compounds (VOCs) monitored in the Scheldt estuary. However, the text does not provide any specific information about their interactions, chemical properties, or any comparative analysis. They are part of a broader study on the occurrence of priority hazardous substances in the environment, but no direct relationship is established between the two compounds.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dichloropropane",
+                        "target": "257970",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257970",
+                        "target": "257970_1,4-dichlorobenzene_Dichloropropane_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257897",
+                        "label": "Distributions of personal VOC exposures: a population-based analysis.\nC. Jia, J. D'Souza, S. Batterman\nEnviron Int 2008 Oct;34(7):922-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18378311"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257897_1,4-dichlorobenzene_Toluene_Methods.json",
+                        "label": "In this context, 1,4-dichlorobenzene and toluene are both mentioned as volatile organic compounds (VOCs) analyzed in a study involving participants' exposure to various VOCs. They are part of a broader list of compounds assessed for their presence in the environment and potential health impacts. However, there is no direct discussion of their interactions or specific relevance to each other beyond their classification as VOCs.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020",
+                        "label": "Risk assessment of population inhalation exposure to volatile organic compounds and carbonyls in urban China.\nZ. Du, J. Mo, Y. Zhang\nEnviron Int 2014 Dec;73:33-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25090575"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Toluene_Methods.json",
+                        "label": "In this context, 1,4-dichlorobenzene and toluene are both listed as hazardous air pollutants (HAPs) considered in a study of various microenvironments. They are mentioned alongside other pollutants, indicating their presence in environmental assessments. However, there is no direct discussion of their interactions, effects, or specific relevance to each other within the context provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Toluene_Results.json",
+                        "label": "In this context, 1,4-dichlorobenzene and toluene are both identified as hazardous air pollutants (HAPs) contributing to personal exposure levels in urban environments. They are mentioned alongside other compounds, indicating their significance in indoor air quality and exposure assessments. However, the context does not elaborate on any specific interactions or comparative effects between the two compounds, focusing instead on their individual contributions to overall HAP exposure.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848",
+                        "label": "An assessment of indoor air concentrations and health risks of volatile organic compounds in three primary schools.\nSC. Sofuoglu, G. Aslan, F. Inal, A. Sofuoglu\nInt J Hyg Environ Health 2011 Jan;214(1):36-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20833585"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848_1,4-dichlorobenzene_Toluene_Results and discussi.json",
+                        "label": "In this context, 1,4-dichlorobenzene and toluene are both mentioned as volatile organic compounds (VOCs) with reported indoor air quality measurements. However, their specific relationship is not discussed in detail. The focus is on the indoor sources and mean indoor/outdoor (I/O) ratios of various VOCs, including toluene, which has a significant I/O value, while 1,4-dichlorobenzene is not highlighted in the same manner. Thus, they are related as components of indoor air quality assessments but lack a direct interaction or functional relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848_1,4-dichlorobenzene_Toluene_Introduction.json",
+                        "label": "In this context, 1,4-dichlorobenzene and toluene are both mentioned as volatile organic compounds (VOCs) identified in various school environments. However, their relationship is not explicitly discussed beyond their classification as VOCs present in indoor air quality studies. The context primarily focuses on the concentrations of these compounds without detailing any interactions or comparative significance between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970",
+                        "label": "Spatial and temporal variability of priority volatile organic compounds in the Scheldt estuary.\nT. Huybrechts, J. Dewulf, H. Van Langenhove\nWater Res. 2004 Aug-Sep;38(14-15):3241-50.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15276740"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970_1,4-dichlorobenzene_Toluene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and toluene are both listed as volatile organic compounds (VOCs) monitored in the Scheldt estuary over a three-year period. They are part of a broader study on the occurrence and variability of priority hazardous substances in the environment. However, there is no specific discussion of their interactions, effects, or comparative significance within the study, indicating a lack of direct relationship between the two compounds.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257881",
+                        "label": "Examination of the relationships between environmental exposures to volatile organic compounds and biochemical liver tests: application of canonical correlation analysis.\nJ. Liu, W. Drane, X. Liu, T. Wu\nEnviron. Res. 2009 Feb;109(2):193-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19117555"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257881_1,4-dichlorobenzene_Toluene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and toluene are both mentioned as volatile organic compounds (VOCs) assessed for personal exposure in a study involving NHANES participants. They are part of a broader analysis of various VOCs and their potential impact on liver function markers. However, there is no direct discussion of their specific interactions or comparative significance within the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820",
+                        "label": "Recycled water: potential health risks from volatile organic compounds and use of 1,4-dichlorobenzene as treatment performance indicator.\nC. Rodriguez, K. Linge, P. Blair, F. Busetti, B. Devine, P. Van Buynder, P. Weinstein, A. Cook\nWater Res. 2012 Jan;46(1):93-106.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22078226"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_Toluene_Results.json",
+                        "label": "In this context, 1,4-dichlorobenzene and toluene are both mentioned as volatile organic compounds (VOCs) detected in groundwater samples. However, their relationship is limited to their co-occurrence in the same environmental study, with no further discussion on their interactions, effects, or significance in relation to each other. The detection percentages for both compounds are low, indicating minimal relevance in terms of their environmental impact or chemical interactions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_Toluene_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene and toluene are both mentioned as volatile organic compounds (VOCs) detected in water samples from a treatment plant associated with an oil refinery. While both compounds are noted in the context of contamination and treatment performance, there is no direct discussion of their specific interactions or relationships beyond their presence as contaminants in the same environment.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "257897",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257897",
+                        "target": "257897_1,4-dichlorobenzene_Toluene_Methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "258020",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Toluene_Methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Toluene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "257848",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257848",
+                        "target": "257848_1,4-dichlorobenzene_Toluene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257848",
+                        "target": "257848_1,4-dichlorobenzene_Toluene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "257970",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257970",
+                        "target": "257970_1,4-dichlorobenzene_Toluene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "257881",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257881",
+                        "target": "257881_1,4-dichlorobenzene_Toluene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "257820",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_Toluene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_Toluene_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Butadiene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butadiene",
+                        "label": "Butadiene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020",
+                        "label": "Risk assessment of population inhalation exposure to volatile organic compounds and carbonyls in urban China.\nZ. Du, J. Mo, Y. Zhang\nEnviron Int 2014 Dec;73:33-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25090575"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Butadiene_Methods.json",
+                        "label": "In this context, 1,4-dichlorobenzene and butadiene are both listed as hazardous air pollutants (HAPs) among a group of volatile organic compounds. They are mentioned together in the context of their prevalence in various microenvironments, but there is no specific discussion of their interactions, effects, or any direct relationship beyond their classification as pollutants. Thus, their connection is limited to being part of a broader list of harmful substances without further elaboration on their individual or comparative significance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Butadiene_Results.json",
+                        "label": "In this context, 1,4-dichlorobenzene and butadiene are both identified as significant contributors to cumulative cancer risk among urban working populations in China. They are categorized as hazardous air pollutants (HAPs) that collectively account for a substantial portion of the total cancer risk, indicating their relevance in discussions about occupational exposure and public health risks. However, the context does not elaborate on any specific interactions or mechanisms between these two compounds.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Butadiene_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene and butadiene are both mentioned as hazardous air pollutants (HAPs) that contribute to cancer risk estimates. The analysis highlights their cancer potency factors as significant contributors to the total variance in risk estimates for males and females. However, the relationship between these two compounds is not explicitly detailed beyond their inclusion in the same risk assessment framework.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Butadiene_Implications for pol.json",
+                        "label": "In this context, 1,4-dichlorobenzene and butadiene are both identified as hazardous air pollutants (HAPs) that contribute significantly to health risks associated with indoor air quality. The text emphasizes the importance of reducing emissions of these compounds to improve overall health outcomes, indicating a shared relevance in environmental health and risk assessment. However, there is no detailed discussion of their specific interactions or comparative risks.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970",
+                        "label": "Spatial and temporal variability of priority volatile organic compounds in the Scheldt estuary.\nT. Huybrechts, J. Dewulf, H. Van Langenhove\nWater Res. 2004 Aug-Sep;38(14-15):3241-50.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15276740"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970_1,4-dichlorobenzene_Butadiene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and butadiene are both mentioned as volatile organic compounds (VOCs) included in a study of priority hazardous substances in the southern North Sea. However, there is no direct discussion of their relationship, interactions, or specific relevance to each other beyond their classification as VOCs. They are part of a broader analysis of environmental monitoring without any detailed connection or comparative analysis provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Butadiene",
+                        "target": "258020",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Butadiene_Methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Butadiene_Results.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Butadiene_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Butadiene_Implications for pol.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Butadiene",
+                        "target": "257970",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257970",
+                        "target": "257970_1,4-dichlorobenzene_Butadiene_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Cyclohexane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cyclohexane",
+                        "label": "Cyclohexane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970",
+                        "label": "Spatial and temporal variability of priority volatile organic compounds in the Scheldt estuary.\nT. Huybrechts, J. Dewulf, H. Van Langenhove\nWater Res. 2004 Aug-Sep;38(14-15):3241-50.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15276740"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970_1,4-dichlorobenzene_Cyclohexane_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and cyclohexane are both listed as volatile organic compounds (VOCs) monitored in the Scheldt estuary over a three-year period. However, the text does not provide any specific information about their interactions, chemical properties, or any comparative analysis between the two compounds. They are simply part of a broader study on VOC levels without a direct relationship established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cyclohexane",
+                        "target": "257970",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257970",
+                        "target": "257970_1,4-dichlorobenzene_Cyclohexane_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "tenax": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "tenax",
+                        "label": "tenax",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257934",
+                        "label": "Use of new generation poly(styrene-divinylbenzene) resins for gas-phase trapping-thermal desorption. Application to the retention of seven volatile organic compounds.\nP. López, R. Batlle, C. Nerín, J. Cacho, V. Ferreira\nJ Chromatogr A 2007 Jan;1139(1):36-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17126844"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257934_1,4-dichlorobenzene_tenax_Introduction.json",
+                        "label": "In this context, 1,4-dichlorobenzene is evaluated as one of the volatile organic compounds (VOCs) trapped and desorbed using Tenax TA, a widely used sorbent in gas sampling. The study compares the performance of Tenax TA with newer polymeric resins in terms of their ability to capture and release various VOCs, including 1,4-dichlorobenzene. This indicates a direct functional relationship where Tenax serves as a medium for analyzing the behavior of 1,4-dichlorobenzene in chromatographic processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "tenax",
+                        "target": "257934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257934",
+                        "target": "257934_1,4-dichlorobenzene_tenax_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Naphthalene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848",
+                        "label": "An assessment of indoor air concentrations and health risks of volatile organic compounds in three primary schools.\nSC. Sofuoglu, G. Aslan, F. Inal, A. Sofuoglu\nInt J Hyg Environ Health 2011 Jan;214(1):36-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20833585"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848_1,4-dichlorobenzene_Naphthalene_Conclusions.json",
+                        "label": "In this context, 1,4-dichlorobenzene and naphthalene are both identified as notable volatile organic compounds (VOCs) associated with indoor air pollution, particularly from sources like mothballs and cleaning products. While they are mentioned together in the context of pollutant profiles in kindergartens and classrooms, there is no detailed discussion of their specific interactions or comparative significance beyond their common sources and classification as VOCs of concern.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848_1,4-dichlorobenzene_Naphthalene_Results and discussi.json",
+                        "label": "In this context, 1,4-dichlorobenzene and naphthalene are both mentioned as volatile organic compounds (VOCs) analyzed for their indoor/outdoor (I/O) ratios in classrooms and kindergartens. However, the text primarily focuses on the I/O values of various VOCs without detailing any specific interactions or comparative significance between 1,4-dichlorobenzene and naphthalene. Their mention is more about their presence in the same study rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820",
+                        "label": "Recycled water: potential health risks from volatile organic compounds and use of 1,4-dichlorobenzene as treatment performance indicator.\nC. Rodriguez, K. Linge, P. Blair, F. Busetti, B. Devine, P. Van Buynder, P. Weinstein, A. Cook\nWater Res. 2012 Jan;46(1):93-106.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22078226"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_Naphthalene_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene and naphthalene are both mentioned as volatile organic compounds (VOCs) detected in post-microfiltration (MF) water samples during a study on wastewater treatment processes. However, there is no direct discussion of their specific interactions, chemical properties, or comparative significance in the treatment process, indicating a general association as part of a broader analysis of VOCs in treated water.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Naphthalene",
+                        "target": "257848",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257848",
+                        "target": "257848_1,4-dichlorobenzene_Naphthalene_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257848",
+                        "target": "257848_1,4-dichlorobenzene_Naphthalene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Naphthalene",
+                        "target": "257820",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_Naphthalene_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973",
+                        "label": "On line biomonitors used as a tool for toxicity reduction evaluation of in situ groundwater remediation techniques.\nE. Küster, F. Dorusch, C. Vogt, H. Weiss, R. Altenburger\nBiosens Bioelectron 2004 Jul;19(12):1711-22.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15142606"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973_1,4-dichlorobenzene_Chemicals_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene is mentioned as one of the volatile chemicals included in the preparation of standards for calibration in a headspace gas chromatography analysis. It is categorized as a chemical alongside other compounds like benzene and ethylbenzene, indicating its role in the broader context of chemical analysis but lacking specific interactions or implications regarding its properties or effects.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820",
+                        "label": "Recycled water: potential health risks from volatile organic compounds and use of 1,4-dichlorobenzene as treatment performance indicator.\nC. Rodriguez, K. Linge, P. Blair, F. Busetti, B. Devine, P. Van Buynder, P. Weinstein, A. Cook\nWater Res. 2012 Jan;46(1):93-106.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22078226"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_Chemicals_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene is identified as a specific chemical frequently detected in sewage treatment effluent (STE) due to its historical use in various domestic products. It is characterized as a less biodegradable volatile organic compound (VOC) and serves as a chemical indicator for VOCs in water treatment processes. The discussion emphasizes its relevance in monitoring and assessing the health risks associated with recycled water, linking it to broader chemical concerns in environmental contexts.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "257973",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257973",
+                        "target": "257973_1,4-dichlorobenzene_Chemicals_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "257820",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_Chemicals_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Acetaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020",
+                        "label": "Risk assessment of population inhalation exposure to volatile organic compounds and carbonyls in urban China.\nZ. Du, J. Mo, Y. Zhang\nEnviron Int 2014 Dec;73:33-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25090575"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Acetaldehyde_Results.json",
+                        "label": "In this context, 1,4-dichlorobenzene and acetaldehyde are both identified as hazardous air pollutants (HAPs) contributing to personal exposure levels in urban environments. They are mentioned together in the context of indoor air quality, where their concentrations are significantly higher than outdoor levels. However, the relationship between them is not explicitly detailed, indicating they are part of a broader discussion on HAPs rather than having a direct interaction or comparison.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Acetaldehyde_Methods.json",
+                        "label": "In this context, 1,4-dichlorobenzene and acetaldehyde are both listed as hazardous air pollutants (HAPs) considered in a study of various microenvironments. They are mentioned alongside other pollutants, indicating their relevance in environmental health assessments. However, there is no direct discussion of their interactions or specific relationships, limiting the depth of their connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acetaldehyde",
+                        "target": "258020",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Acetaldehyde_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Acetaldehyde_Methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "trichlorobenzene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "trichlorobenzene",
+                        "label": "trichlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970",
+                        "label": "Spatial and temporal variability of priority volatile organic compounds in the Scheldt estuary.\nT. Huybrechts, J. Dewulf, H. Van Langenhove\nWater Res. 2004 Aug-Sep;38(14-15):3241-50.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15276740"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970_1,4-dichlorobenzene_trichlorobenzene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and trichlorobenzene are both mentioned as volatile organic compounds (VOCs) included in a study of priority hazardous substances in the southern North Sea. They are part of a broader list of chlorinated hydrocarbons (CHCs) and monoaromatic hydrocarbons (MAHs) monitored over a three-year period. However, there is no specific discussion of their interactions, properties, or significance relative to each other within the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "trichlorobenzene",
+                        "target": "257970",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257970",
+                        "target": "257970_1,4-dichlorobenzene_trichlorobenzene_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Organic Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257934",
+                        "label": "Use of new generation poly(styrene-divinylbenzene) resins for gas-phase trapping-thermal desorption. Application to the retention of seven volatile organic compounds.\nP. López, R. Batlle, C. Nerín, J. Cacho, V. Ferreira\nJ Chromatogr A 2007 Jan;1139(1):36-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17126844"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257934_1,4-dichlorobenzene_Organic Chemicals_Introduction.json",
+                        "label": "In this context, 1,4-dichlorobenzene is mentioned as one of the volatile organic compounds (VOCs) being analyzed in relation to the performance of new polymeric resins for gas sampling and thermal desorption. It is categorized under organic chemicals, indicating its chemical nature, but there is no detailed discussion of its specific interactions or implications within the broader category of organic chemicals.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "257934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257934",
+                        "target": "257934_1,4-dichlorobenzene_Organic Chemicals_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Water Specimen": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Water Specimen",
+                        "label": "Water Specimen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820",
+                        "label": "Recycled water: potential health risks from volatile organic compounds and use of 1,4-dichlorobenzene as treatment performance indicator.\nC. Rodriguez, K. Linge, P. Blair, F. Busetti, B. Devine, P. Van Buynder, P. Weinstein, A. Cook\nWater Res. 2012 Jan;46(1):93-106.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22078226"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_Water Specimen_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene is identified as a significant treatment performance indicator for assessing volatile organic compounds (VOCs) in recycled water, specifically in the context of reverse osmosis (RO) treatment. It was detected in a high percentage of samples, indicating its prevalence in recycled water and its relevance in evaluating treatment efficiency. The study highlights the challenges of detecting all VOCs in recycled water, with 1,4-dichlorobenzene serving as a key marker for treatment performance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Water Specimen",
+                        "target": "257820",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_Water Specimen_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "tert-butylbenzene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "tert-butylbenzene",
+                        "label": "tert-butylbenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820",
+                        "label": "Recycled water: potential health risks from volatile organic compounds and use of 1,4-dichlorobenzene as treatment performance indicator.\nC. Rodriguez, K. Linge, P. Blair, F. Busetti, B. Devine, P. Van Buynder, P. Weinstein, A. Cook\nWater Res. 2012 Jan;46(1):93-106.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22078226"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_tert-butylbenzene_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene and tert-butylbenzene are both mentioned as volatile organic compounds (VOCs) analyzed in post-microfiltration (MF) water samples during a study on wastewater treatment processes. However, there is no direct discussion of their relationship, interactions, or comparative significance in the treatment process, indicating they are simply part of a broader analysis of VOCs present in the samples.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "tert-butylbenzene",
+                        "target": "257820",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_tert-butylbenzene_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "chlorobenzene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chlorobenzene",
+                        "label": "chlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973",
+                        "label": "On line biomonitors used as a tool for toxicity reduction evaluation of in situ groundwater remediation techniques.\nE. Küster, F. Dorusch, C. Vogt, H. Weiss, R. Altenburger\nBiosens Bioelectron 2004 Jul;19(12):1711-22.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15142606"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973_1,4-dichlorobenzene_chlorobenzene_Results.json",
+                        "label": "In this context, 1,4-dichlorobenzene and chlorobenzene are both mentioned as contaminants analyzed for their bacterial toxicity in groundwater. The study focuses on the dose-response relationships of various chlorinated compounds, including 1,4-dichlorobenzene and monochlorobenzene, to assess their combined toxic effects. However, there is no direct discussion of their specific interactions or comparative toxicity within the context provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973_1,4-dichlorobenzene_chlorobenzene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and chlorobenzene are both mentioned as volatile organic compounds (VOCs) tested for their toxicity effects on luminescent bacteria in a remediation study. They are part of a broader analysis of various VOCs in groundwater, indicating they share a common category as pollutants but lack a direct interaction or comparative analysis within the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848",
+                        "label": "An assessment of indoor air concentrations and health risks of volatile organic compounds in three primary schools.\nSC. Sofuoglu, G. Aslan, F. Inal, A. Sofuoglu\nInt J Hyg Environ Health 2011 Jan;214(1):36-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20833585"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848_1,4-dichlorobenzene_chlorobenzene_Introduction.json",
+                        "label": "In this context, 1,4-dichlorobenzene and chlorobenzene are both identified as volatile organic compounds (VOCs) detected in various school environments. They are mentioned alongside other VOCs in studies assessing indoor air quality, but there is no specific discussion of their chemical interactions or comparative significance. Their relationship is limited to their classification as VOCs found in similar settings.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970",
+                        "label": "Spatial and temporal variability of priority volatile organic compounds in the Scheldt estuary.\nT. Huybrechts, J. Dewulf, H. Van Langenhove\nWater Res. 2004 Aug-Sep;38(14-15):3241-50.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15276740"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970_1,4-dichlorobenzene_chlorobenzene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and chlorobenzene are both listed as volatile organic compounds (VOCs) monitored in the Scheldt estuary. They are part of a broader study on the occurrence and variability of priority hazardous substances in the environment. However, there is no specific discussion of their chemical interactions or relationships beyond their classification as VOCs and inclusion in the same monitoring survey.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chlorobenzene",
+                        "target": "257973",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257973",
+                        "target": "257973_1,4-dichlorobenzene_chlorobenzene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257973",
+                        "target": "257973_1,4-dichlorobenzene_chlorobenzene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chlorobenzene",
+                        "target": "257848",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257848",
+                        "target": "257848_1,4-dichlorobenzene_chlorobenzene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chlorobenzene",
+                        "target": "257970",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257970",
+                        "target": "257970_1,4-dichlorobenzene_chlorobenzene_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "4-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257897",
+                        "label": "Distributions of personal VOC exposures: a population-based analysis.\nC. Jia, J. D'Souza, S. Batterman\nEnviron Int 2008 Oct;34(7):922-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18378311"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257897_1,4-dichlorobenzene_4-xylene_Methods.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 4-xylene are both mentioned as volatile organic compounds (VOCs) analyzed in a study involving exposure assessment through badges worn by participants. However, there is no direct discussion of their relationship, interactions, or comparative significance in the context of the study. They are simply listed among other VOCs without further elaboration on their specific roles or connections.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020",
+                        "label": "Risk assessment of population inhalation exposure to volatile organic compounds and carbonyls in urban China.\nZ. Du, J. Mo, Y. Zhang\nEnviron Int 2014 Dec;73:33-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25090575"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_4-xylene_Methods.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 4-xylene are both listed among a group of hazardous air pollutants (HAPs) that were considered for analysis in various microenvironments. However, there is no direct discussion of their relationship, interactions, or specific relevance to each other beyond their classification as pollutants. They are mentioned in the same context but without any detailed connection or comparative analysis.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848",
+                        "label": "An assessment of indoor air concentrations and health risks of volatile organic compounds in three primary schools.\nSC. Sofuoglu, G. Aslan, F. Inal, A. Sofuoglu\nInt J Hyg Environ Health 2011 Jan;214(1):36-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20833585"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848_1,4-dichlorobenzene_4-xylene_Introduction.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 4-xylene are both mentioned as volatile organic compounds (VOCs) identified in various studies of indoor air quality in schools. However, there is no direct discussion of their relationship, interactions, or comparative significance. They are simply part of a broader list of VOCs measured in different environments, indicating their presence but not their functional or chemical connections.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257848_1,4-dichlorobenzene_4-xylene_Results and discussi.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 4-xylene are both mentioned as volatile organic compounds (VOCs) detected in air samples, but there is no direct discussion of their relationship or interaction. They are part of a broader analysis comparing indoor and outdoor air quality, with 4-xylene being one of the frequently detected compounds alongside others like toluene and benzene. However, their specific roles or interactions are not elaborated upon.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257934",
+                        "label": "Use of new generation poly(styrene-divinylbenzene) resins for gas-phase trapping-thermal desorption. Application to the retention of seven volatile organic compounds.\nP. López, R. Batlle, C. Nerín, J. Cacho, V. Ferreira\nJ Chromatogr A 2007 Jan;1139(1):36-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17126844"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257934_1,4-dichlorobenzene_4-xylene_Introduction.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 4-xylene are both mentioned as volatile organic compounds (VOCs) being analyzed in relation to their retention behavior in chromatographic processes. However, there is no direct discussion of their interaction or specific relationship beyond their inclusion in a list of chemicals used for comparison in gas sampling and thermal desorption studies.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257934_1,4-dichlorobenzene_4-xylene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 4-xylene are both mentioned as volatile organic compounds (VOCs) being evaluated for their trapping and desorption behavior using new polymeric resins in gas sampling. However, there is no direct interaction or specific relationship discussed between the two compounds beyond their inclusion in the same study of VOCs.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970",
+                        "label": "Spatial and temporal variability of priority volatile organic compounds in the Scheldt estuary.\nT. Huybrechts, J. Dewulf, H. Van Langenhove\nWater Res. 2004 Aug-Sep;38(14-15):3241-50.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15276740"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970_1,4-dichlorobenzene_4-xylene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 4-xylene are both listed as volatile organic compounds (VOCs) monitored in the Scheldt estuary over a three-year period. They are part of a broader study on the occurrence and variability of priority hazardous substances in the environment. However, there is no specific discussion of their interactions or relationships beyond their classification as VOCs and inclusion in the same monitoring survey.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257881",
+                        "label": "Examination of the relationships between environmental exposures to volatile organic compounds and biochemical liver tests: application of canonical correlation analysis.\nJ. Liu, W. Drane, X. Liu, T. Wu\nEnviron. Res. 2009 Feb;109(2):193-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19117555"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257881_1,4-dichlorobenzene_4-xylene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 4-xylene are both mentioned as volatile organic compounds (VOCs) assessed for personal exposure in a study involving serum markers of liver function. However, there is no direct discussion of their relationship or interaction; they are simply part of a broader analysis of VOC exposure without specific connections to each other or to liver function outcomes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820",
+                        "label": "Recycled water: potential health risks from volatile organic compounds and use of 1,4-dichlorobenzene as treatment performance indicator.\nC. Rodriguez, K. Linge, P. Blair, F. Busetti, B. Devine, P. Van Buynder, P. Weinstein, A. Cook\nWater Res. 2012 Jan;46(1):93-106.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22078226"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_4-xylene_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 4-xylene are both mentioned as volatile organic compounds (VOCs) analyzed in post-MF (microfiltration) water samples during a study on wastewater treatment processes. However, there is no direct discussion of their relationship, interactions, or comparative significance in the context of the treatment process or environmental impact, indicating they are simply part of a broader list of analytes monitored.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "257897",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257897",
+                        "target": "257897_1,4-dichlorobenzene_4-xylene_Methods.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "258020",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_4-xylene_Methods.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "257848",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257848",
+                        "target": "257848_1,4-dichlorobenzene_4-xylene_Introduction.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257848",
+                        "target": "257848_1,4-dichlorobenzene_4-xylene_Results and discussi.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "257934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257934",
+                        "target": "257934_1,4-dichlorobenzene_4-xylene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257934",
+                        "target": "257934_1,4-dichlorobenzene_4-xylene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "257970",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257970",
+                        "target": "257970_1,4-dichlorobenzene_4-xylene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "257881",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257881",
+                        "target": "257881_1,4-dichlorobenzene_4-xylene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "257820",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_4-xylene_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "2-chlorotoluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-chlorotoluene",
+                        "label": "2-chlorotoluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973",
+                        "label": "On line biomonitors used as a tool for toxicity reduction evaluation of in situ groundwater remediation techniques.\nE. Küster, F. Dorusch, C. Vogt, H. Weiss, R. Altenburger\nBiosens Bioelectron 2004 Jul;19(12):1711-22.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15142606"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973_1,4-dichlorobenzene_2-chlorotoluene_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 2-chlorotoluene are both mentioned as volatile organic compounds (VOCs) tested for their toxicity in a static luminescent bacteria test. They are part of a mixture toxicity experiment aimed at evaluating the effects of various VOCs on bacterial luminescence, indicating their relevance in assessing environmental toxicity. However, there is no detailed discussion of their specific interactions or comparative toxicity within the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973_1,4-dichlorobenzene_2-chlorotoluene_Results.json",
+                        "label": "In this context, 1,4-dichlorobenzene and 2-chlorotoluene are both analyzed as part of a study investigating the bacterial toxicity of various contaminants in groundwater. The study involves generating dose-response curves for each compound, including 1,4-dichlorobenzene and 2-chlorotoluene, to assess their individual and combined toxic effects on bacteria. While both compounds are part of the same analysis, the specific interactions or comparative toxicity between them are not detailed beyond their inclusion in the mixture assessment.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-chlorotoluene",
+                        "target": "257973",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257973",
+                        "target": "257973_1,4-dichlorobenzene_2-chlorotoluene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257973",
+                        "target": "257973_1,4-dichlorobenzene_2-chlorotoluene_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "dose-response relationship": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "dose-response relationship",
+                        "label": "dose-response relationship",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973",
+                        "label": "On line biomonitors used as a tool for toxicity reduction evaluation of in situ groundwater remediation techniques.\nE. Küster, F. Dorusch, C. Vogt, H. Weiss, R. Altenburger\nBiosens Bioelectron 2004 Jul;19(12):1711-22.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15142606"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257973_1,4-dichlorobenzene_dose-response relationship_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene is part of a study assessing the dose-response relationships of various volatile organic compounds (VOCs) on luminescent bacteria. The experiments aim to determine how different concentrations of 1,4-dichlorobenzene affect bacterial toxicity, indicating a direct relationship between the compound's concentration and its toxic effects on the bacteria. This relationship is crucial for understanding the environmental impact of 1,4-dichlorobenzene in groundwater remediation efforts.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "dose-response relationship",
+                        "target": "257973",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257973",
+                        "target": "257973_1,4-dichlorobenzene_dose-response relationship_Materials and method.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020",
+                        "label": "Risk assessment of population inhalation exposure to volatile organic compounds and carbonyls in urban China.\nZ. Du, J. Mo, Y. Zhang\nEnviron Int 2014 Dec;73:33-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25090575"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "258020_1,4-dichlorobenzene_Inspiration function_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene is mentioned as a chemical contributing to cancer risk estimates based on inhalation rates, particularly in males who may have higher exposure due to occupational settings. The relationship to 'inspiration function' is indirect, as inhalation rates are a factor in assessing exposure risk, but there is no direct discussion of how 1,4-dichlorobenzene specifically affects respiratory function or inspiration mechanics.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "258020",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "258020",
+                        "target": "258020_1,4-dichlorobenzene_Inspiration function_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Analyte": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970",
+                        "label": "Spatial and temporal variability of priority volatile organic compounds in the Scheldt estuary.\nT. Huybrechts, J. Dewulf, H. Van Langenhove\nWater Res. 2004 Aug-Sep;38(14-15):3241-50.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15276740"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257970_1,4-dichlorobenzene_Analyte_Materials and method.json",
+                        "label": "In this context, 1,4-dichlorobenzene is listed among various volatile organic compounds (VOCs) that were selected as analytes for monitoring in the Scheldt estuary. The term 'analyte' refers to the substances being measured or analyzed in the study, indicating that 1,4-dichlorobenzene is one of the target compounds for assessment in the environmental monitoring of VOC levels. However, there is no detailed discussion of its specific properties or interactions within the context provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820",
+                        "label": "Recycled water: potential health risks from volatile organic compounds and use of 1,4-dichlorobenzene as treatment performance indicator.\nC. Rodriguez, K. Linge, P. Blair, F. Busetti, B. Devine, P. Van Buynder, P. Weinstein, A. Cook\nWater Res. 2012 Jan;46(1):93-106.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22078226"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_Analyte_Discussion.json",
+                        "label": "In this context, 1,4-dichlorobenzene is identified as an analyte whose rejection efficiency in reverse osmosis (RO) membranes is evaluated. The study reports that 1,4-dichlorobenzene has a rejection efficiency of 87%, indicating its significance as a target analyte in assessing the performance of RO membranes for volatile organic compounds (VOCs). The relationship is established through quantitative data on rejection rates, highlighting the importance of 1,4-dichlorobenzene in the context of VOC removal processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Analyte",
+                        "target": "257970",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257970",
+                        "target": "257970_1,4-dichlorobenzene_Analyte_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Analyte",
+                        "target": "257820",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_Analyte_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820",
+                        "label": "Recycled water: potential health risks from volatile organic compounds and use of 1,4-dichlorobenzene as treatment performance indicator.\nC. Rodriguez, K. Linge, P. Blair, F. Busetti, B. Devine, P. Van Buynder, P. Weinstein, A. Cook\nWater Res. 2012 Jan;46(1):93-106.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22078226"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257820_1,4-dichlorobenzene_Process_Conclusions.json",
+                        "label": "In this context, 1,4-dichlorobenzene is highlighted as a treatment performance indicator during the microfiltration/reverse osmosis (MF/RO) process for removing volatile organic compounds (VOCs) from water. The monitoring of 1,4-dichlorobenzene levels is crucial for assessing the effectiveness of the MF/RO treatment process, indicating its direct relevance to the operational procedures and risk management in water treatment technologies.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "257820",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257820",
+                        "target": "257820_1,4-dichlorobenzene_Process_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

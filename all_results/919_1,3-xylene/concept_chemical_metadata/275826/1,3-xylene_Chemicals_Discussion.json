@@ -1,0 +1,10 @@
+{
+    "context": "The effect of m-xylene evaporation on cell viability was compared between unsealed 24- and 48-well culture plates and sealed vials. At 4 h, the viability of fibroblasts exposed in unsealed culture plates was 4\u20136-fold higher than the viability of fibroblasts exposed in sealed vials. The increased viability in the unsealed plates reflects the resultant m-xylene evaporation from the exposure medium during the exposure period. Such a loss of m-xylene can lead to a non-uniform chemical dose throughout the exposure period, which makes it difficult to determine the actual toxic chemical concentration. Although many skin exposures to volatile chemicals may include evaporation of the chemical from the skin surface, evaporation from the skin surface would have a much different rate than an unsealed culture plate. Eliminating evaporation from the toxicology assessments, as we suggest, allows evaporation from the surface to be modeled separately with appropriate surface area and environmental temperature. In our sealed exposure system, which lacks a headspace, the culture medium, collagen, and fibroblasts represent the individual compartments into which m-xylene can be distributed during exposure of dermal equivalents. ",
+    "term_A": "1,3-xylene",
+    "term_B": "Chemicals",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene is discussed as a volatile chemical whose evaporation affects cell viability in fibroblast cultures. The study highlights the challenges in determining accurate toxic concentrations due to the evaporation of 1,3-xylene, which is categorized as a chemical. However, the relationship is primarily focused on the specific behavior of 1,3-xylene rather than a broader discussion of its chemical properties or interactions with other chemicals.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as 1,3-xylene is identified as a chemical impacting cell viability, but the context does not elaborate on its broader chemical relationships or interactions beyond its evaporation effects.",
+        "score": 2
+    }
+}

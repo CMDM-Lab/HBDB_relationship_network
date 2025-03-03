@@ -1,0 +1,10 @@
+{
+    "context": "[8] Positive immunoreactivity for AC5/6 was also observed in T84 cells (fig 3). [1] Distribution of adenylate cyclase isoforms 1\u00e2\u20ac\u201c9 (AC1\u00e2\u20ac\u201c9) in intestinal epithelium was identified by reverse transcription-polymerase chain reaction. [2] cDNA from total RNA was amplified for 40 cycles by polymerase chain reaction. [3] (A) Adenylate cyclase isoform mRNA expression in human biopsy samples (n\u00e2\u20ac\u0160=\u00e2\u20ac\u01602). [4] (B) Adenylate cyclase isoforms in cultured intestinal T84 epithelial cells (n\u00e2\u20ac\u0160=\u00e2\u20ac\u01604). [5] (C) Mouse specific primers were designed only for AC4, 5, and 6. [6] AC4 and 5 were found in mucosal scrapings from colons taken from sham treated and irradiated mice (n\u00e2\u20ac\u0160=\u00e2\u20ac\u01604). ",
+    "term_A": "adenosine 5'-monophosphate",
+    "term_B": "mRNA Expression",
+    "llm_generation": {
+        "summary": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to mRNA expression through the study of adenylate cyclase isoforms in intestinal epithelial cells. The expression of these isoforms is assessed via reverse transcription-polymerase chain reaction (RT-PCR), which involves mRNA derived from total RNA. While AMP is a product of adenylate cyclase activity, the specific relationship between AMP and mRNA expression is not explicitly detailed in the context provided.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are involved in the broader context of cellular signaling and gene expression, but there is no direct discussion of how AMP influences mRNA expression.",
+        "score": 2
+    }
+}

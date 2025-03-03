@@ -1,0 +1,10 @@
+{
+    "context": "[5] \u00ce\u201dCp is an approximate measure of the surface area buried in an association reaction and can be used to predict conformational rearrangements in associating protein molecules. [6] An example of high medicinal interest where such information is essential is thymidine kinase from herpes simplex virus type 1 (HSV1 TK).1 The structure of this enzyme is known at high resolution in complex with a series of ligands, including various substrates (natural and non-natural) and inhibitors . [1] Thymidine kinases (EC 2.7.1.21) [2] catalyze the phosphorylation of thymidine (dT) to dTMP in the presence of magnesium ions by transferring the \u00ce\u00b3-phosphate group of ATP to the 5\u00e2\u20ac\u00b2-OH group of dT. [3] Herpesviruses encode their own thymidine kinases, which differ considerably from the enzyme of the human cellular host (human cellular thymidine kinase). [4] While the human enzyme is highly specific, HSV1 TK is a multifunctional enzyme of broad substrate specificity. [5] It shows deoxycytidine kinase and thymidylate kinase activity  and phosphorylates a broad spectrum of pyrimidine as well as purine analogs . ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Hydroxide Ion",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is involved in the phosphorylation reaction catalyzed by thymidine kinase, where it donates a phosphate group. Hydroxide ions (OH-) are not directly mentioned in relation to ATP or the enzymatic activity described. While hydroxide ions can influence pH and enzyme activity, their specific role in the phosphorylation process involving ATP and thymidine kinase is not detailed, indicating a lack of direct interaction.",
+        "reason": "The score of 2 reflects an indirect connection, as ATP is crucial for the phosphorylation reaction, but hydroxide ions are not explicitly linked to this process in the context provided. Their relationship is more about general biochemical principles rather than a specific interaction.",
+        "score": 2
+    }
+}

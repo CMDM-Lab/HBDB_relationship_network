@@ -1,0 +1,10 @@
+{
+    "context": "[2] One common mechanism through which cancer cells may achieve multidrug resistance is the overexpression of glutathione S-transferases (GST; refs. [3] , \n\n). [1] GSTs constitute a superfamily of enzymes with diversified functions . [2] These enzymes are known to decrease the pharmacologic activity of a wide range of structurally unrelated drugs through their conjugation with glutathione (GSH). [3] Furthermore, the GS-conjugated compounds may be actively extruded from the cell through specialized pumps; principally, the multidrug resistance proteins MRP-1 and MRP-2 (ABCC1, ABCC2; ref. \n\n). [1] In humans, several GST isoforms are differentially expressed and are subdivided into different classes . [2] The Pi class GSTP1-1 is overexpressed in a variety of different human malignancies including lung , colon , stomach , kidney , ovary , mouth , and testis  cancers. ",
+    "term_A": "glutathione",
+    "term_B": "conjugation",
+    "llm_generation": {
+        "summary": "In this context, glutathione (GSH) is directly involved in the conjugation process facilitated by glutathione S-transferases (GSTs), which are enzymes that help detoxify drugs by conjugating them with GSH. This conjugation reduces the pharmacologic activity of various drugs, contributing to multidrug resistance in cancer cells. The relationship is critical as it highlights how GSH and GSTs work together to modify and extrude potentially harmful compounds from cells, particularly in the context of cancer treatment resistance.",
+        "reason": "The score of 5 reflects a direct and critical relationship between glutathione and conjugation, as glutathione is essential for the conjugation process mediated by GSTs, which is significant in the context of drug resistance in cancer cells.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "a marker of hepatocellular integrity, and serum creatinine, a marker of renal function, before surgery and the peak reached during the 10-day period after surgery. These levels, unless otherwise stated, returned to baseline levels before the patient was discharged. Data analysis The levels of ethane were compared between sampling points with analysis of variance. The comparisons of the levels of ethane in exhaled breath at the various time points to levels obtained before cross-clamping showed that the levels of ethane at 5 to 15 minutes and 16 to 25 minutes after reperfusion were statistically significant from levels of ethane at baseline with p values <0.05 with the post hoc method proposed by Bonferroni. 6 RESULTS Table I lists relevant clinical variables for each patient. All the patients initially tolerated the surgical procedure well. ",
+    "term_A": "Ethane",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, ethane is measured in exhaled breath as a marker of oxidative stress following surgical procedures. The study reports statistically significant increases in ethane levels in exhalation at specific time points after reperfusion compared to baseline levels. This suggests that ethane exhalation may serve as a noninvasive indicator of metabolic changes related to surgical stress and tissue integrity.",
+        "reason": "The score of 4 reflects a significant connection between ethane and exhalation, as ethane levels in exhaled breath are quantitatively analyzed and shown to correlate with surgical stress, indicating its potential role as a biomarker.",
+        "score": 4
+    }
+}

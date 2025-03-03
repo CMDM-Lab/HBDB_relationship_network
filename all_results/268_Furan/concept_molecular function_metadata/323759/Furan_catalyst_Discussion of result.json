@@ -1,0 +1,10 @@
+{
+    "context": "Fig. 10 shows primarily a reduction in tetra\u2013hepta dioxins and hepta\u2013octa furans. Changes in chemistry may account for these differences. At the stack, a further redistribution of the congener occurs so that the major congeners are the hepta and octa dioxins and 1234678-HpCDF. It appears that a slight variation in temperature across the catalyst and across the heat exchanger contributes to a dramatic change in the dioxin and furan chemistry. There is virtually no production of four of the congeners (2 dioxins and 2 furans) across the platinum supported catalyst, but a large production of the rest of the congeners. The highest production is in the tetra through hexa furans, and in the 1234789-hepta furan (HpCDF). These data indicate that small variations in temperature apparently cause large changes in the congener distribution of the dioxin and furan isomers.Effect of non-chlorinated organics Van den Brink et al. (2000) found a reduction or elimination in by-products by removal of Cl from surface by the addition of alkanes. ",
+    "term_A": "Furan",
+    "term_B": "catalyst",
+    "llm_generation": {
+        "summary": "In this context, furan is discussed in relation to its production and transformation over a platinum-supported catalyst during chemical reactions involving dioxins and furans. The catalyst plays a crucial role in influencing the distribution of furan congeners, with temperature variations across the catalyst significantly affecting the production rates of different furan isomers. This indicates a direct relationship where the catalyst's properties and conditions impact furan chemistry.",
+        "reason": "The score of 4 reflects a significant connection between furan and the catalyst, as the context provides evidence of how the catalyst affects furan production and distribution. The relationship is supported by data on temperature variations and their impact on furan chemistry, indicating a clear interaction.",
+        "score": 4
+    }
+}

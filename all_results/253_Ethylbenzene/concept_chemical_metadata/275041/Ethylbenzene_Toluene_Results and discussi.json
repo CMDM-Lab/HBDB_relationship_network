@@ -1,0 +1,10 @@
+{
+    "context": "Kinetics Furthermore, one batch experiment performed in the SBR process during phase 1 (day 39) was selected to verify whether the model adequately described the observed trends during one cycle of running. Experimental and simulated results of VOC liquid concentrations and Oxygen Uptake Rate are plotted in Fig.\u00a04 . Only B, T, E, X were injected in this batch test. Benzene, toluene, ethylbenzene and p-xylene were quickly removed from liquid phase, and their removal fractions were 99.93%, 99.91%, 99.93% and 99.75% respectively within 2\u00a0h (Fig.\u00a04(a)). BTEX removal fractions within 2\u00a0h calculated from model outputs were respectively: 99.89%, 99.95%, 99.95% and 99.93%. The resulting model outputs (BTEX elimination kinetics and OUR) were in accordance with the experimental data. The experimental OUR curve (after subtracting endogenous activity) indicates a relatively small oxygen consumption of about 3.99\u00a0mgO2\u00a0L\u22121, showing that BTEX (total concentration of 207.2\u00a0mgCOD\u00a0L\u22121) were poorly biodegraded here (Fig.\u00a04(b)). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both volatile organic compounds (VOCs) included in a batch experiment assessing their removal from liquid phases in a sequencing batch reactor (SBR) process. The study reports high removal efficiencies for both compounds, indicating they are treated similarly in the experimental setup. However, the specific interactions or differences in their biodegradation kinetics are not discussed, suggesting a general relationship based on their shared classification as VOCs rather than a detailed functional connection.",
+        "reason": "The score of 2 reflects an indirect connection between ethylbenzene and toluene, as they are both part of the BTEX group and are evaluated together in the same experimental context. However, there is no detailed discussion of their specific interactions or differences in the study.",
+        "score": 2
+    }
+}

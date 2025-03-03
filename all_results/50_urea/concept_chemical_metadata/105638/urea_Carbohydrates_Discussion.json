@@ -1,0 +1,10 @@
+{
+    "context": "The addition of antibiotics did not change the measured enzyme activity in the colonic homogenates excluding the hydrolysis of the disaccharides by bacterial enzymes. A slight maltase activity (6\u201311 U/g protein) was detectable while no lactase activity could be measured in colonic biopsies (colon ascendens, transversum and proximal descendens). Only the disaccharide bond of maltose was hydrolysed with no splitting of maltose ureide. The molecular bond between the carbohydrate moieties and urea proofed to be resistant to human intestinal enzymes. In contrast the disaccharide conjugation of glycosyl ureides was split: kinetic analyses of the brush border enzymes maltase and lactase in duodenal specimen revealed nearly the same results as published elsewhere [19\u201321]. Lactase activity was similar with lactose or lactose ureide as substrate. However, maltose showed a significantly higher affinity to maltase compared to maltose ureide. ",
+    "term_A": "urea",
+    "term_B": "Carbohydrates",
+    "llm_generation": {
+        "summary": "In this context, urea and carbohydrates are discussed in relation to their interactions with intestinal enzymes. The study indicates that the molecular bond between carbohydrate moieties and urea is resistant to human intestinal enzymes, suggesting that urea does not readily interact or break down with carbohydrates in the digestive process. This highlights a lack of significant enzymatic activity involving urea and carbohydrates in the human intestine.",
+        "reason": "The score of 2 reflects an indirect connection, as both urea and carbohydrates are mentioned in the context of enzyme activity, but their relationship is not detailed or significant. They share a general category of digestion but lack direct interaction.",
+        "score": 2
+    }
+}

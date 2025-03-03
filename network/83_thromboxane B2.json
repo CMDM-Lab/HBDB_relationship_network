@@ -1,0 +1,241 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "thromboxane B2",
+                    "label": "thromboxane B2",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "thromboxane B2",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "thromboxane B2",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "thromboxane B2",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "thromboxane B2",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "thromboxane B2",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "thromboxane B2",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "thromboxane B2",
+                        "label": "thromboxane B2",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "thromboxane B2",
+                        "target": "Asthma",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "thromboxane B2",
+                        "label": "thromboxane B2",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "thromboxane B2",
+                        "label": "thromboxane B2",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "thromboxane B2",
+                        "label": "thromboxane B2",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "thromboxane B2",
+                        "label": "thromboxane B2",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "thromboxane B2",
+                        "label": "thromboxane B2",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289785",
+                        "label": "Effect of aspirin on airway inflammation and pulmonary function in patients with persistent asthma.\nD. Menzies, A. Nair, KT. Meldrum, P. Hopkinson, BJ. Lipworth\nJ. Allergy Clin. Immunol. 2008 May;121(5):1184-1189.e4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18313127"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289785_thromboxane B2_Asthma_Discussion.json",
+                        "label": "In this context, thromboxane B2 is evaluated in relation to asthma through a study examining the effects of aspirin treatment on airway inflammation. The administration of aspirin resulted in a significant reduction of thromboxane B2 levels in asthmatic patients, indicating a pharmacologic effect that may influence inflammatory processes associated with asthma. The study suggests that while thromboxane B2 production is attenuated, the overall impact on lipoxin synthesis remains unchanged, highlighting a complex interaction between aspirin treatment and asthma pathology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "289785",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289785",
+                        "target": "289785_thromboxane B2_Asthma_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

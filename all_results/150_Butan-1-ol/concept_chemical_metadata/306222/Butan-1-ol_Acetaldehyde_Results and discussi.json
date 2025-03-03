@@ -1,0 +1,10 @@
+{
+    "context": "This result can be explained by an electrons transfer from Mn to Ce, since in parallel, Mn4+ concentration increases. In Mn\u2013Ce\u2013O composites, Chen et al. suggested an electron transfer but from Ce to Mn since addition of manganese to cerium increased the abundance of surface Ce4+ species. The single carbon-containing product of butanol oxidation is CO2 at high conversion levels. Butanal is the major intermediate product in the course of butanol oxidation towards CO2, other aldehydes such as propanal and ethanal are detected but in negligible concentrations. Fig. 5A presents the conversion of butanol to butanal over Zr0.4Ce0.6\u2212x Mn x O2 catalysts. Mn addition to Zr\u2013Ce system causes the formation of butanal at lower temperatures. ",
+    "term_A": "Butan-1-ol",
+    "term_B": "Acetaldehyde",
+    "llm_generation": {
+        "summary": "In this context, butan-1-ol is discussed in relation to its oxidation process, where butanal is identified as a major intermediate product. While acetaldehyde is mentioned as another aldehyde produced during oxidation, it is noted to be in negligible concentrations compared to butanal. Thus, the relationship between butan-1-ol and acetaldehyde is indirect, as both are products of oxidation but with butanal being the primary focus in the conversion process.",
+        "reason": "The score of 2 reflects an indirect connection between butan-1-ol and acetaldehyde, as they are both products of oxidation reactions. However, the context does not provide detailed interactions or significant relevance between the two compounds beyond their mention in the oxidation process.",
+        "score": 2
+    }
+}

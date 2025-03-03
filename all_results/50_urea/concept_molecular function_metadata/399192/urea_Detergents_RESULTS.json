@@ -1,0 +1,10 @@
+{
+    "context": "[1] The pH dependence of urease activity in intactHelicobacter species. [2] Urease activity was measured radiometrically under strong buffering conditions in the presence of 5 mM urea as described in Materials and Methods. [3] Urease activity of intact H. mustelae (\u00e2\u2013\u00a0), H. nemestrinae (\u00e2\u2014\u008f), and H. muridarum (\u00e2\u2014\u2039) (micromoles of CO2liberated per minute per milligram of protein;  n = 3, \u00c2\u00b1SEM). [1] Effect of detergent permeabilization on urease activity.Since the intact ureI mutant was deficient in activating its cytoplasmic urease under acidic conditions, we reasoned that UreI was either directly linked to urease activity or was needed for urea entry into the cytoplasm. [2] The urease activities of the whole-cell lysate of the ureI mutant and wild-type H. pylori strains were nearly identical. [3] This finding would make it unlikely that UreI played a role in inhibiting urease activity at neutral and alkaline pH levels or activated urease at acidic pH. [4] To test the hypothesis that UreI was required for urea to access the cytoplasm, we permeabilized both H. pylori and the H. pylori ureI mutant with the nonionic detergent C12E8. ",
+    "term_A": "urea",
+    "term_B": "Detergents",
+    "llm_generation": {
+        "summary": "In this context, urea and detergents are related through the investigation of urease activity in Helicobacter species. The study examines how the nonionic detergent C12E8 permeabilizes cells to allow urea access to the cytoplasm, which is essential for urease activity. This suggests that detergents can influence the availability of urea for enzymatic reactions, highlighting a functional relationship between the two.",
+        "reason": "The score of 4 reflects a significant connection, as the use of detergents is shown to affect the accessibility of urea for urease activity, indicating a clear functional relationship supported by experimental evidence.",
+        "score": 4
+    }
+}

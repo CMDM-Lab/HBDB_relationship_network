@@ -1,0 +1,10 @@
+{
+    "context": "Since the density of TCE is greater than that of water, TCE seeps down below the water table and causes widespread contamination of soils and underground aquifers. High-density polyethylene (HDPE) geomembrane is widely used as a landfill liner or vertical wall for the purpose of containment of hazardous waste and contaminated groundwater. HDPE geomembrane mitigates the mass transfer of aqueous and inorganic contaminants effectively. However, volatile organic compounds such as CVOCs (e.g., TCE) can readily permeate through HDPE geomembrane by the partition\u2013diffusion process [6\u20139]. Several researches have been conducted to mitigate the mass transfer of CVOCs through geomembrane. The research of Sangam and Rowe demonstrated that surface fluorination of HDPE geomembrane reduced permeation coefficients 1.5\u20134.5 times less than those of non-treated geomembrane. However, a guideline concerning the thickness required to prevent the mass transfer of certain CVOC was not provided. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Organic Chemicals",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is identified as a volatile organic compound (VOC) that contributes to environmental contamination, particularly in soils and groundwater. The discussion focuses on the challenges of containing TCE and other organic chemicals using high-density polyethylene (HDPE) geomembranes, which are designed to mitigate the permeation of such hazardous organic chemicals. The relationship is primarily centered on TCE being a specific example of organic chemicals that pose environmental risks.",
+        "reason": "The score of 3 reflects a moderate relevance, as TCE is explicitly mentioned as a type of organic chemical that presents challenges in environmental containment. The context discusses its properties and implications, indicating a significant connection between TCE and the broader category of organic chemicals.",
+        "score": 3
+    }
+}

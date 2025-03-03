@@ -1,0 +1,10 @@
+{
+    "context": "[4] Here we demonstrate that LTB4 activates BK channels by direct interaction with the cholane steroid-sensing site located in the BK \u00ce\u00b21 TM2. [5] This finding is critical for the future development of \u00ce\u00b21-specific BK channel activators. [6] Moreover, we demonstrate that LTB4 activates BK channels with an unusually high potency (EC50 = 1 nm). [7] The fact that the EC50 value matches physiologically relevant levels of LTB4 in the vascular system raises speculation that cross-talk between endogenous leukotrienes and cholane steroids may converge to regulate smooth muscle contractility via BK \u00ce\u00b21 targeting. [1] Cloning, expression, and functional characterization of cbv1 (AY330293) are described elsewhere . [2] \u00ce\u00b21 cDNA from rat cerebral artery smooth muscle cells (FJ154955) was subcloned into pOX vector and expressed as described . [3] Targeted mutations were introduced into r\u00ce\u00b21 cDNA by using overlap-extension polymerase chain reaction (PCR) and QuikChange (Stratagene) with Pfu polymerase following the manufacturer's instructions. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "targeting",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is shown to activate BK channels through direct interaction with the BK \u03b21 subunit, indicating a specific targeting mechanism. The high potency of LTB4 in activating these channels at physiologically relevant levels suggests that it plays a significant role in regulating smooth muscle contractility via targeted interactions with BK channels, highlighting its importance in vascular physiology.",
+        "reason": "The score of 5 reflects a strong relevance, as LTB4 is directly linked to the targeting of BK channels, with evidence of its high potency and physiological significance in the context of smooth muscle regulation.",
+        "score": 5
+    }
+}

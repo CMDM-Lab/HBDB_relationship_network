@@ -1,0 +1,10 @@
+{
+    "context": "The amount of ammonia per puff from NTV was one fifth of that from a cigarette. NTV generated no sidestream. The concentrations of ETS markers (RSP, UVPM, FPM, solanesol, nicotine, 3-ethenylpyridine), volatile organic compound (VOC: toluene), total volatile organic compounds (TVOC), and carbon monoxide CO were below the limits of detection (LOD) or limits of quantification (LOQ) in both the non-smoking and the smoking areas when using the NTV product in the simulation chamber. The concentrations of ammonia and carbonyls (formaldehyde, acetaldehyde, and acetone) were at the same level as when people only were present in the chamber, i.e. not using any tobacco products. Consequently, under the simulations tested, the NTV product had no effect on the IAQ in both the non-smoking area as well as the smoking area. There was no significant increase in the levels of formaldehyde, acetone or ammonia in exhaled breath following NTV use and was LOQ level's nicotine although those constituents were included in mainstream of NTV. This fact must be a significant contributing factor to the finding that the use of the NTV had no effect on IAQ. ",
+    "term_A": "ammonia",
+    "term_B": "Acetaldehyde",
+    "llm_generation": {
+        "summary": "In this context, ammonia and acetaldehyde are both mentioned as components of the emissions from a non-tobacco vapor (NTV) product. However, their relationship is not directly discussed, as the focus is on the overall emissions and their impact on indoor air quality (IAQ). Both substances are present in the simulation chamber, but there is no indication of interaction or specific relevance between them beyond their co-presence in the study.",
+        "reason": "The score of 2 reflects a low relevance, as ammonia and acetaldehyde are mentioned together in the context of emissions from the NTV product, but there is no detailed discussion of their interaction or significance in relation to each other.",
+        "score": 2
+    }
+}

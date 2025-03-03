@@ -1,0 +1,10 @@
+{
+    "context": "[5] After 1 h of incubation, the concentration of cyanate is 0.02 mM. [6] We also determined that the equilibrium concentration of cyanate in a 300 mM urea solution is 0.2 mM by testing a solution of urea that had been stored for 6 months at room temperature. [7] In the absence of urea, those concentrations of cyanate do not cause protein carbonylation in mIMCD3 cells (Fig. 2 A ). [8] We conclude that high urea carbonylates proteins in mIMCD3 cells, and that this effect is not an indirect effect of protein carbamylation produced by cyanate in the urea solutions.  [1] We next tested how rapidly urea carbonylates proteins in mIMCD3 cells and how much urea is required.  [2] Carbonylation is very rapid.  [3] Extensive protein carbonylation is already evident within 5 min after 300 mM urea is added (Fig. 2B ). ",
+    "term_A": "urea",
+    "term_B": "Cyanates",
+    "llm_generation": {
+        "summary": "In this context, urea and cyanates are related through their interaction in a biochemical environment. The study indicates that urea can influence the concentration of cyanate, with a specific equilibrium concentration of cyanate observed in a urea solution. Furthermore, high levels of urea are shown to cause protein carbonylation in mIMCD3 cells, suggesting a direct effect of urea rather than an indirect effect from cyanate. This highlights a significant biochemical relationship where urea plays a crucial role in the behavior of cyanate and its effects on cellular proteins.",
+        "reason": "The score of 4 reflects a significant connection between urea and cyanates, supported by experimental data showing how urea affects cyanate concentrations and its direct impact on protein carbonylation. This indicates a clear biochemical interaction within the context.",
+        "score": 4
+    }
+}

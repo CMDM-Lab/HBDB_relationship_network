@@ -1,0 +1,10 @@
+{
+    "context": "Argininosuccinate lyase Argininosuccinate lyase (ASL) is a cytosolic enzyme that catalyzes the breakdown of argininosuccinate to arginine and fumarate. The human gene that encodes argininosuccinate lyase is positioned on chromosome 7. ASL deficiency results in argininosuccinic aciduria, an autosomal recessive disease characterized by tissue accumulation of argininosuccinate and excessive excretion of this compound in urine. Similarly to other urea cycle disorders except arginase-1 deficiency, ASL deficiency leads to reduced arginine synthesis. Patients with ASL deficiency share the acute clinical phenotype of hyperammonemia, encephalopathy, and respiratory alkalosis common to other urea cycle defects, but they also display chronic neurological symptoms that seem to be inevitable in spite of careful treatment of hyperammonemia, believed to be caused by a combination of tissue specific deficiency of arginine and/or elevation of argininosuccinate. 3.3.6 Arginase-1 Arginase is the enzyme that catalyzes the hydrolysis of arginine to ornithine and urea. In humans, two isoenzymes of arginase have been demonstrated. ",
+    "term_A": "urea",
+    "term_B": "Alkalosis, Respiratory",
+    "llm_generation": {
+        "summary": "In this context, urea is indirectly related to respiratory alkalosis through the discussion of argininosuccinate lyase (ASL) deficiency, a urea cycle disorder. Patients with ASL deficiency experience hyperammonemia and respiratory alkalosis, which are common clinical features of urea cycle defects. The accumulation of argininosuccinate and reduced arginine synthesis may contribute to these symptoms, linking urea metabolism to respiratory alkalosis in affected individuals.",
+        "reason": "The score of 3 reflects a moderate relevance, as urea is part of the metabolic pathway discussed in relation to respiratory alkalosis. The connection is established through the clinical symptoms of ASL deficiency, indicating a significant but not deeply explored relationship.",
+        "score": 3
+    }
+}

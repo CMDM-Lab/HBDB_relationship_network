@@ -1,0 +1,10 @@
+{
+    "context": "Besides linear profiles of CFC-113 and MTBE, and n-dodecane concentrations below detection limit at all sampling ports, all other VOC profiles were curved. Most of these profiles were reasonably well explained by the reactive transport model with first-order biodegradation (Eqs. (6a)\u2013(6d)). Vapors of six compounds (toluene, n-octane, n-decane, n-dodecane, m-xylene, and 1,2,4-trimethylbenzene) did not extend to the column outlet on days 23 (Fig. 5) and 44 (data not shown). Hence, fluxes of these compounds across the sand\u2013air interface at the outlet were zero. For all the other VOCs, fluxes at the column outlet could be determined (Table 2) . The total flux of all VOCs at the column inlet on day 21 was 3.9\u00b10.8 ",
+    "term_A": "1,2,4-trimethylbenzene",
+    "term_B": "octane",
+    "llm_generation": {
+        "summary": "In this context, 1,2,4-trimethylbenzene and octane are both mentioned as volatile organic compounds (VOCs) whose vapor profiles were analyzed in a study involving reactive transport modeling and biodegradation. However, there is no direct interaction or specific relationship discussed between the two compounds beyond their classification as VOCs and their presence in the same experimental setup. Their fluxes were measured, but no comparative analysis or functional relationship is provided.",
+        "reason": "The score of 2 reflects a low relevance, as both compounds are categorized as VOCs in the same study, but there is no detailed discussion of their interaction or significance beyond their inclusion in the analysis.",
+        "score": 2
+    }
+}

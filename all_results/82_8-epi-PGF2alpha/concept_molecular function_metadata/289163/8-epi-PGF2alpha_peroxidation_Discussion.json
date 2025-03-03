@@ -1,0 +1,10 @@
+{
+    "context": "However, controlled studies are required to establish the effects of ICS therapy on 8-isoprostane levels in the EBC of children with asthma. EBC analysis cannot provide any information on the cellular origin of mediators. For this reason, we were unable to ascertain the cellular source of 8-isoprostane and PGE2 in EBC for which invasive studies, such as bronchial biopsies, are required. In view of the fact that 8-isoprostane is produced by free radical-induced peroxidation of arachidonic acid on plasma membrane phospholipids, 14 all cells in the airways may release this eicosanoid. PGE2 is largely produced by epithelial and airway smooth muscle cells. 33 In conclusion, we have shown that oxidative stress is increased in children who are in stable condition with mild-to-moderate persistent asthma who were steroid-nai\u00a8ve or had been treated with ICSs, as reflected by increased 8-isoprostane concentrations in EBC. These findings may justify clinical trials with antioxidants in childhood asthma for which the measurement of 8-isoprostane in EBC may provide a useful noninvasive biological marker. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "peroxidation",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha (8-isoprostane) is directly linked to peroxidation as it is produced through free radical-induced peroxidation of arachidonic acid on plasma membrane phospholipids. The study highlights that oxidative stress, indicated by increased levels of 8-isoprostane, is present in children with asthma, suggesting a significant relationship between oxidative processes and the production of this eicosanoid.",
+        "reason": "The score of 5 reflects a strong relevance, as 8-epi-PGF2alpha is explicitly described as a product of peroxidation, establishing a direct and critical relationship between the two terms in the context of oxidative stress in asthma.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The concurrence of the parcels will lead to a flux of the component from the gas phase to the liquid phase. This process may continue until equilibration is reached, or until either of the parcels is displaced by a parcel with yet a different composition. Each water and vapor parcel may have a different concentration of each chemical component, leading to the simultaneous counter-flow of those components, much as has been shown here (Diagram 1). Chlorinated solvents, particularly chlorinated ethylenes such as trichloroethylene (TCE) and tetrachloroethylene (PCE), occur widely in contaminated groundwater aquifers in the United States and may pose a long term risk [1\u20137]. Because of their low water solubilities and relatively high densities (relative to water), chlorinated solvents are often trapped in the subsurface soils and aquifer materials and form dense non-aqueous phase liquids (DNAPLs). Traditional pump-and-treat remediation is inefficient at cleaning up these poorly water-soluble contaminants. Over the past two decades, surfactant enhanced aquifer remediation (SEAR) has emerged as a cost effective technology for cleaning up subsurface sites contaminated with NAPLs [8\u201310]. ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "Ethylenes",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a chlorinated ethylene solvent that, along with other chlorinated ethylenes like trichloroethylene and tetrachloroethylene, poses risks in contaminated groundwater. However, the relationship between 1,1,2,2-tetrachloroethene and ethylenes is not explicitly detailed, as the focus is on the environmental impact and remediation of chlorinated solvents rather than a direct chemical or functional relationship with ethylenes.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms relate to chlorinated compounds, but there is no detailed discussion of their interaction or specific relevance in the context provided.",
+        "score": 2
+    }
+}

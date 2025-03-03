@@ -1,0 +1,10 @@
+{
+    "context": " [3] VOCs were detected in the headspace of cell cultures or medium controls following adsorption on solid sorbents, thermodesorption, and analysis by gas chromatography mass spectrometry.  [4] Using this approach, we identified VOCs that behaved similarly in normal and transformed cells.  [5] Thus, concentrations of 2-pentanone and 2,4-dimethyl-1-heptene were found to increase in the headspace of A549, HBEpC, and hFB cell cultures.  [6] In addition, the ethers methyl tert-butyl ether and ethyl tert-butyl ether could be detected at elevated levels in the case of A549 cells and one of the untransformed cell lines.  [7] However, especially branched hydrocarbons and alcohols were seen increased more frequently in untransformed than A549 cells.  [8] A big variety of predominantly aldehydes and the ester n-butyl acetate were found at decreased concentrations in the headspace of all cell lines tested compared with medium controls.  [9] Again, more different aldehydes were found to be decreased in hFB and HBEpC cells compared with A549 cells and 2-butenal was metabolized exclusively by both control cell lines. ",
+    "term_A": "2-ethoxy-2-methylpropane",
+    "term_B": "ethyl tert-butyl ether",
+    "llm_generation": {
+        "summary": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether are both mentioned as volatile organic compounds (VOCs) detected in the headspace of cell cultures. However, the context does not provide any specific information about their interactions, metabolic pathways, or comparative significance in the studied cell lines. They are simply listed among other compounds without a detailed relationship established.",
+        "reason": "The score of 2 reflects an indirect connection, as both compounds are categorized as VOCs detected in similar experimental conditions, but there is no detailed discussion of their relationship or interactions.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "77 measured serum and exhaled 8-isoprostane levels in a cohort of moderate to severe adult asthmatics. The presence of obesity, but not asthma, was associated with increased exhaled 8-isoprostane levels. On the other hand, plasma levels of 8-isoprostanes were higher in asthmatics, but no effect of obesity was observed. In addition, there was no correlation between exhaled and plasma 8-isoprostane levels. Based on these data, the authors inferred that while asthma increases systemic oxidative stress and obesity increases airway oxidative stress there was no synergism between plasma and exhaled 8-isoprostane levels. It is difficult to make a conclusion regarding the role of oxidative stress in obese asthmatics given the conflicting currently available data, but it is plausible that oxidative stress may not be a causative factor but rather may modulate asthma severity and alter response to medications. Adipokines in obesity related to asthma Adipose tissue produces a number of mediators, termed adipokines, which have significant metabolic effects. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is measured in exhaled breath samples of asthmatic patients to assess oxidative stress levels. The study indicates that while obesity is linked to increased exhaled 8-isoprostane levels, asthma itself raises plasma levels without a correlation to exhaled levels. This suggests that exhalation of 8-epi-PGF2alpha may serve as a noninvasive marker for oxidative stress in asthma, but the relationship is complex and influenced by obesity.",
+        "reason": "The score of 4 reflects a significant connection between 8-epi-PGF2alpha and exhalation, as the study investigates exhaled levels of this compound in relation to asthma and obesity. The findings indicate a clear relevance in assessing oxidative stress, supported by data on the differences in levels between asthmatics and non-asthmatics.",
+        "score": 4
+    }
+}

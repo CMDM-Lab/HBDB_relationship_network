@@ -1,0 +1,10 @@
+{
+    "context": "Long term exposure to toluene and xylenes can cause brain damage. Inhalation of ethylbenzene has shown to induce neurotoxicity and ototoxicity in rats. Although the toxicological effects of inhalation of individual and mixture of BTEX have been well studied in different mammalian models in the past decades, there are very few studies on their effects on aquatic microorganisms. A study using fresh water alga Selenastrum capricornutum showed toxicity of BTEX with EC50 of 41.0mg/L for benzene, 9.4mg/L for toluene, 4.8mg/L for ethylbenzene and between 3.9 and 4.4mg/L for xylenes with additive effects for these compounds. Euglena gracilis (E. gracilis) is a free-living, unicellular, flagellated protist, and able to be tolerant to the change of environmental conditions including temperature and pH. These unique fresh water-living, cell-wall lacking organisms can live as both autotrophs with light by photosynthesis through their chloroplasts like plants and heterotrophs without light by phagocytosis through oral groove and food vacuole like animals. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both mentioned as components of the BTEX group, which are known for their neurotoxic effects upon inhalation. The text highlights the neurotoxicity of ethylbenzene and the brain damage associated with toluene exposure, indicating that both compounds share similar toxicological profiles and are studied for their effects on both mammals and aquatic microorganisms. However, the relationship is primarily based on their classification as toxic substances rather than a direct interaction or comparison between the two.",
+        "reason": "The score of 3 reflects a moderate relevance, as both ethylbenzene and toluene are discussed in the context of their neurotoxic effects and classification as BTEX compounds. However, the relationship lacks detailed interaction or comparative analysis between the two substances.",
+        "score": 3
+    }
+}

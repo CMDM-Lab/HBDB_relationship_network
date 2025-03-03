@@ -1,0 +1,10 @@
+{
+    "context": "[5] In addition, labeled ureides are degraded to ammonium without detectable urea . [6] , ) presented evidence for the ammonium pathway in soybean cell suspension cultures. [7] Thus, it seems to be evidence for ureide degradation by allantoate amidohydrolase and ureidoglycolate amidohydrolase, rather than by urea-releasing enzymes, although both pathways could work in parallel. [8] In fact, it has been reported that soybean degrades ureides mainly by the amidohydrolase pathway producing ammonium, although with a small portion of ureide degradation through urea . [1] Allantoate- or ureidoglycolate-degrading activities have been determined in just a few cases in plants (; ; ; ) and green algae . [2] Allantoicase from the alga Chlamydomonas reinhardtii is the only allantoate-degrading activity purified from a photosynthetic organism . [3] Only one ureidoglycolate-degrading enzyme has been partially purified, from common bean developing pods , and this enzyme has been reported to be a ureidoglycolate amidohydrolase. ",
+    "term_A": "urea",
+    "term_B": "Ammonium",
+    "llm_generation": {
+        "summary": "In this context, urea and ammonium are connected through the degradation of ureides in soybean cell cultures. The evidence suggests that ureides are primarily degraded to ammonium via the amidohydrolase pathway, with minimal involvement of urea-releasing enzymes. This indicates a direct biochemical relationship where urea is a less significant byproduct in the conversion of ureides to ammonium.",
+        "reason": "The score of 4 reflects a significant connection between urea and ammonium, as the context provides evidence of their relationship through biochemical pathways in plant metabolism, specifically highlighting the conversion of ureides to ammonium.",
+        "score": 4
+    }
+}

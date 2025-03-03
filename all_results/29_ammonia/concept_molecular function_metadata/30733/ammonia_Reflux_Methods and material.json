@@ -1,0 +1,10 @@
+{
+    "context": "The food waste digestate and sludge digestate were collected from Disco Road Transfer Station in Toronto, Ontario, Canada and Syracuse Metro Wastewater Treatment Plant in Syracuse, New York, USA, respectively. The digestates were stored at 4\u00a0\u00b0C for 4\u20139 days and sampled for determination of total solids concentration. The digestate and water were adjusted to pH 9 prior to the screening experiments. A 30.5-cm long indented distilling column was installed on the flask for water vapor reflux while gaseous ammonia was drawn by vacuum to a flask with 0.2\u00a0L of a sulfuric acid solution (0.5\u20132.0\u00a0N). Plastic mesh was packed (12\u00a0cm long) in the distilling column to retain mists. The vacuum pump was connected with the acid absorption flask to maintain boiling point vacuum in the entire assembly. Stripped ammonia is absorbed to the acid solution through a diffuser immersed in the acid solution.Sample analysis and estimation of stripping kinetic constants Total solids concentration of the digestate was determined for each batch experiment, following Standard Methods (APHA et\u00a0al., 2012). ",
+    "term_A": "ammonia",
+    "term_B": "Reflux",
+    "llm_generation": {
+        "summary": "In this context, ammonia is generated from the digestion of food waste and is subsequently removed through a reflux process involving a distilling column. The setup allows for the absorption of gaseous ammonia into a sulfuric acid solution, indicating a direct relationship where reflux is utilized to manage ammonia levels in the digestate treatment process. This highlights the importance of reflux in the effective removal of ammonia during wastewater treatment.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and reflux, as the context describes a specific experimental setup where reflux is employed to absorb ammonia from the gaseous phase into a liquid solution, demonstrating a clear functional relationship in the treatment process.",
+        "score": 4
+    }
+}

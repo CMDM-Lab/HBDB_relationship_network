@@ -1,0 +1,10 @@
+{
+    "context": "[4] Uptake of 50 \u00ce\u00bcM 14C-urea was 15.28 \u00c2\u00b1 0.27 and 13.61 \u00c2\u00b1 0.97 pmol per oocyte in the absence or presence of 100 mM unlabeled urea, respectively. [5] Thus, saturation was not seen, even though a 2000-fold excess of urea was added (Fig. 4C). [6] The addition of urea to voltage-clamped UreI-expressing oocytes resulted in no change in current. [7] An inward current of 117 nA is predicted, if UreI were a proton- or cation-driven urea transporter with a stoichiometry of 1:1 . [8] UreI-mediated urea uptake is therefore nonelectrogenic. [1] Transport at pH 5.0 was temperature independent between 15\u00c2\u00b0 and 30\u00c2\u00b0C (Fig. 4D). [2] This temperature insensivity and the lack of saturation of uptake suggest that, after H+ activation, urea fluxes through UreI with little interaction with the protein. ",
+    "term_A": "urea",
+    "term_B": "Protons",
+    "llm_generation": {
+        "summary": "In this context, urea and protons are related through the function of the UreI transporter, which is hypothesized to be activated by protons. The study suggests that while urea uptake occurs, it is not electrogenic, indicating that protons may play a role in activating the transporter without directly influencing the urea transport process. The lack of saturation and temperature independence further imply a specific interaction between protons and the UreI transporter in facilitating urea flux.",
+        "reason": "The score of 4 reflects a significant connection between urea and protons, as the context discusses the potential role of protons in activating the UreI transporter for urea uptake, supported by experimental observations. However, the exact nature of their interaction is not fully elucidated.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[7] Concentration-response regression curves of lung measurements in exercising subjects show progressively increased decrements in measurements of lung function with increasing exercise intensity. [8] Other forced and inspired flow rates, inspiratory capacity and total lung capacity (TLC), are also affected, and there is increased RAW and residual volume.  [1] It has been suggested that O3 inhalation stimulates receptors located in the smooth muscle layers of the upper airways.  [2] Contraction of the inspiratory muscles is limited by the non-myelinated C fibre afferent nerves of vagal origin, which may act through axonal reflex connections or through spinal reflexes.  [3] The net effect on the human lung is involuntary inhibition of full inspiration, reduction of transpulmonary pressure and inspiratory capacity, and increased flow resistance.  [4] There is an associated decrease in maximal expiratory flow rates, TLC, and vital capacity accompanied by substernal pain and coughing.  [5] Research has shown an influx of inflammatory cells into the pulmonary tissue. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Inspiration function",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is indirectly related to inspiration function through its impact on lung measurements and respiratory mechanics. The text discusses how various factors, including inhaled irritants like SO2, can lead to decreased inspiratory capacity, increased flow resistance, and overall impaired lung function. While SO2 is not explicitly mentioned, the implications of inhaled pollutants on respiratory function are evident, suggesting a potential negative effect on inspiration.",
+        "reason": "The score of 3 reflects a moderate relevance, as sulfur dioxide is implied to affect lung function and inspiratory capacity, but the relationship is not explicitly detailed or quantitatively supported in the context provided.",
+        "score": 3
+    }
+}

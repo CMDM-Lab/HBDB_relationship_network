@@ -1,0 +1,10 @@
+{
+    "context": "[5] A low incidence of kidney tumors has been reported in three of seven strains of rats tested. [6] Leydig cell tumors have only been seen in male Sprague-Dawley (S-D) rats. [7] There is still controversy about the relevance of these high-dose rodent tumors to humans and about human risks posed by very low exposures (; ; ; ). [8] Some researchers and administrators have taken the position that scientific evidence is insufficient to rule out that certain TCE metabolites may be mutagenic and therefore have no dosage threshold. [9] TCE, in sufficient amounts, can produce noncancer effects in organs including the brain, liver, kidneys, testes, and immune system. [1] Biotransformation plays a key role in modulating the toxicokinetics (TK) and the ensuing toxicity and carcinogenicity of TCE. [2] The VOC is metabolized primarily via a CYP450-catalyzed oxidative pathway involving sequential formation of a series of products . ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Metabolites",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is discussed in relation to its metabolites, which are formed through biotransformation primarily via a CYP450-catalyzed oxidative pathway. The text highlights the significance of these metabolites in modulating the toxicokinetics and potential carcinogenicity of TCE, indicating a direct relationship between TCE and its metabolic products in terms of toxicity and health risks.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2-trichloroethene and its metabolites, as the context discusses the role of biotransformation in determining the toxicity and carcinogenic potential of TCE, supported by evidence of metabolic pathways.",
+        "score": 4
+    }
+}

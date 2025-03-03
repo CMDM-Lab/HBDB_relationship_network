@@ -1,0 +1,10 @@
+{
+    "context": "This study also demonstrates a significant negative correlation between 8-OHdG level and DNA methylation in the leukocytes of healthy subjects. In addition to the methylation changes at the global and repeated DNA level, some studies have identified the changes in response to nanoparticle exposure at specific loci.. However, this is a limitation of this study without measurement of methylation level at specific gene, which leads to a challenge for determining the pathways driving these epigenetic alterations, the possible functional consequences, and the potential effects on health. Global DNA methylation levels, and levels of oxidative stress markers 8-OHdG and 8-isoprostane were assessed in metal oxide nanomaterial handling workers. Lipid peroxidation and DNA oxidation damage were increased in workers exposed to metal oxide nanomaterials. Global methylation was decreased in ITO exposed workers. The results show that exposure to metal oxide nanomaterials may lead to global hypomethylation, DNA oxidative damages, and lipid peroxidation. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "DNA Methylation",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha is indirectly related to DNA methylation through the assessment of oxidative stress markers and their impact on global DNA methylation levels. The study highlights a significant negative correlation between oxidative stress (indicated by 8-OHdG) and DNA methylation in leukocytes, suggesting that increased oxidative damage may lead to alterations in DNA methylation patterns. However, 8-epi-PGF2alpha is not explicitly mentioned as a direct factor influencing DNA methylation, limiting the strength of their relationship.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses the relationship between oxidative stress markers and DNA methylation, with 8-epi-PGF2alpha being part of the oxidative stress discussion. However, it lacks direct evidence linking 8-epi-PGF2alpha specifically to changes in DNA methylation.",
+        "score": 3
+    }
+}

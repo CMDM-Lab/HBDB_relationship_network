@@ -1,0 +1,10 @@
+{
+    "context": "Motor vehicle fuels contain hundreds of VOCs and can differ widely in composition. This study characterized VOCs in four current and commercially available fuels. Conventional gasoline showed liquid and vapor compositions that were comparable to earlier reports. The dominant VOCs in gasoline and E85 included aromatic compounds (e.g., toluene, 1,2,4-trimethylbenzene, p-m-xylene) and alkanes (n-heptane, cyclohexane and methylcyclohexane). Headspace vapors were \u201cenriched\u201d in the fuel\u2019s more volatile components (e.g., benzene, cyclohexane, methylcyclohexane and n-heptane). In ULSD and B20, for which little VOC information is available, the dominant VOCs included alkanes and several aromatics (e.g., 1,2,3-trimethyl benzene and naphthalene). Vapors of these fuels contained toluene, p-,m-xylene and benzene at concentrations much lower than gasoline\u2019s. ",
+    "term_A": "Heptane",
+    "term_B": "Aromatic Compounds",
+    "llm_generation": {
+        "summary": "In this context, heptane and aromatic compounds are both identified as significant components of motor vehicle fuels. Heptane, an alkane, is mentioned alongside various aromatic compounds such as toluene and xylene, which are dominant VOCs in gasoline. While they are part of the same fuel composition, the context does not elaborate on any direct interaction or functional relationship between heptane and aromatic compounds beyond their co-occurrence in fuel mixtures.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as heptane and aromatic compounds are both components of motor vehicle fuels, indicating a shared category. However, there is no detailed discussion of their interaction or specific relationship in the context provided.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Guidelines are needed for design and control of TPPBs. [1] Biofilm cultures of Burkholderia cepacia complex (BCC) infection have been found to generate the nonvolatile cyanide ion. [2] We investigated if gaseous hydrogen cyanide (HCN) was a marker of BCC infection. [3] Selected ion flow tube mass spectrometry analysis showed HCN was not elevated in the headspace of planktonic or biofilm cultures or in the exhaled breath of adult cystic fibrosis patients with chronic BCC infection. [4] HCN is therefore not an in vitro or in vivo marker of BCC. [1] The volatile compound hydrogen cyanide (HCN) has been shown to be an in vitro marker of Pseudomonas aeruginosa, and the factors that affect its production have been established . [2] HCN is also an in vivo marker of P. aeruginosa infection when measured in exhaled breath . ",
+    "term_A": "Formonitrile",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, Formonitrile is not directly mentioned, but hydrogen cyanide (HCN), a volatile compound, is discussed in relation to exhalation as a potential marker for infections caused by Burkholderia cepacia complex (BCC) and Pseudomonas aeruginosa. The study indicates that HCN was not elevated in the exhaled breath of cystic fibrosis patients with chronic BCC infection, suggesting that exhalation analysis may not be effective for detecting this infection. The relationship between Formonitrile and exhalation remains unclear, as Formonitrile is not explicitly linked to the findings presented.",
+        "reason": "The score of 1 reflects a lack of direct relationship between Formonitrile and exhalation, as Formonitrile is not mentioned in the context, and the focus is primarily on hydrogen cyanide as a marker in exhaled breath.",
+        "score": 1
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "During the first 8 min, subjects were asked to take vital capacity breaths to completely flush out the lungs with the inspirate. This 8-min sample was then discarded to remove all room air from the lungs. The exhalate from the last 2 min of this 10-min breathing period was collected in a second five-layer bag that was analyzed for ethane content. Ethane content of the hydrocarbon-free air was also measured to determine background ethane content. The exhalate collected in the bag was drawn through duplicate cold traps of activated charcoal at \u2212 70\u00b0C and 400 mL/min for 15 min. We had determined previously that this flow rate was able to trap ethane as efficiently as a flow rate of 200 mL/min. Each cold trap adsorbed the ethane from 6 L of exhalate. ",
+    "term_A": "Ethane",
+    "term_B": "Hydrocarbons",
+    "llm_generation": {
+        "summary": "In this context, ethane is analyzed as a specific component of exhaled breath, while hydrocarbons refer to a broader class of organic compounds that include ethane. The study focuses on measuring ethane content in exhaled air, indicating that ethane is a type of hydrocarbon. However, the relationship is primarily categorical, as ethane is one of many hydrocarbons without further exploration of its specific interactions or implications within the broader category.",
+        "reason": "The score of 2 reflects an indirect connection, as ethane is identified as a hydrocarbon, but the context does not delve into any specific interactions or functional relationships beyond this classification.",
+        "score": 2
+    }
+}

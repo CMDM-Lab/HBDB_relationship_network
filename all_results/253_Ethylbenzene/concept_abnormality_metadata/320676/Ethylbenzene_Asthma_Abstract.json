@@ -1,0 +1,10 @@
+{
+    "context": "[3] Information regarding the health status of the study children and characteristics of the home was collected using a standardised questionnaire. [4] Exposure to VOCs, average temperature and relative humidity were measured in winter and summer in the living room of each participating household. [1] Results: Cases were exposed to significantly higher VOC levels (\u00ce\u00bcg/m3) than controls (p<0.01). [2] Most of the individual VOCs appeared to be significant risk factors for asthma with the highest odds ratios for benzene followed by ethylbenzene and toluene. [3] For every 10 unit increase in the concentration of toluene and benzene (\u00ce\u00bcg/m3) the risk of having asthma increased by almost two and three times, respectively. [1] Conclusions: Domestic exposure to VOCs at levels below currently accepted recommendations may increase the risk of childhood asthma. [2] Measurement of total VOCs may underestimate the risks associated with individual compounds. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is identified as a significant risk factor for asthma among children, with exposure levels being notably higher in cases compared to controls. The study indicates that for every 10 unit increase in ethylbenzene concentration, the risk of developing asthma increases, highlighting a direct correlation between ethylbenzene exposure and asthma incidence. This suggests that ethylbenzene, along with other VOCs, may contribute to the development of asthma in children.",
+        "reason": "The score of 5 reflects a strong relevance, as ethylbenzene is directly linked to increased asthma risk with statistical significance. The context provides clear evidence of this relationship, indicating that ethylbenzene exposure is a critical factor in asthma development.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[1] Inhibition of ICa by the three VOCs was concentration-dependent (Fig. 3, A\u00e2\u20ac\u201cC). [2] Statistical analysis of normalized peak and end current amplitudes for all three VOCs indicated statistically significant effects of peak versus end current, VOC type, and VOC concentration as well as an interaction between VOC type and VOC concentration. [3] Nonlinear mixed model procedures (SAS Proc NLMIXED) were used to fit separate concentration-response relationships and 95% confidence limits for effects of each of the three solvents on peak (Fig. 3D) and end current amplitude. [4] Based on these determinations, the IC50 values for inhibition of peak ICa were 270, 720, and 1525 \u00ce\u00bcM for PERC, TOL, and TCE, respectively. [5] End current amplitude was slightly but significantly (three-factor ANOVA) more sensitive to VOC effects, with IC50 values of 173, 306, and 1170 \u00ce\u00bcM for PERC, TOL, and TCE, respectively. [6] For each VOC, the 95% confidence limits for peak and end currents overlapped. [7] The slightly increased sensitivity of the end current is likely to reflect the ability of VOCs to increase the inactivation rate of ICa (see Discussion). ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "Adjudication",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene (TCE) is mentioned as one of the volatile organic compounds (VOCs) studied for its effects on ion currents (ICa) in a statistical analysis. However, there is no direct mention or discussion of 'adjudication' in relation to TCE or its effects. The term 'adjudication' appears unrelated to the chemical analysis presented, indicating a lack of connection between the two terms.",
+        "reason": "The score of 1 reflects that 1,1,2,2-tetrachloroethene and adjudication are mentioned in the same context but without any relevant discussion or relationship between them. They appear coincidentally without any direct relevance.",
+        "score": 1
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": " [1] Extraction of Ricin-binding Glycoproteins, SDS-PAGE, and Western Blotting\u00e2\u20ac\u201dBloodstream form T. brucei (strain 427, variant 117), were isolated from infected rats and purified over DEAE-cellulose .  [2] Parasites were subjected to hypotonic lysis to release cytosolic components as well as the majority of the VSG coat as soluble form VSG .  [3] The cell ghost pellets (1011 cell equivalents) were solubilized in 50 ml of 8 m urea, 3% SDS, 50 mm Tris-HCl, pH 6.8.  [4] The SDS/urea extract was diluted 50 times in buffer A (50 mm Tris-HCl, pH 6.8, 400 mm NaCl, and 0.8% Triton X-100, 0.1 mm 1-chloro-3-tosylamido-7-amino-2-heptanone, 1 \u00ce\u00bcg/ml leupeptin, and 0.1% sodium azide) to allow affinity chromatography on ricin-agarose (Vector Laboratories).  [5] Ricin-coupled agarose (4-ml packed volume) was added to the suspension and rotated gently overnight at 4 \u00c2\u00b0C.  [6] Ricin-agarose was recovered by gentle centrifugation and packed into a 15 \u00c3\u2014 1-cm column.  [7] The column was washed with 5 volumes of buffer A, and bound material was eluted with 30 mg/ml lactose and 30 mg/ml Gal in 4-fold diluted buffer A. Aliquots of the eluted fractions were separated on NuPAGE bis-Tris 4\u00e2\u20ac\u201c12% gradient gels (Invitrogen). ",
+    "term_A": "urea",
+    "term_B": "Heptanone",
+    "llm_generation": {
+        "summary": "In this context, urea and heptanone are mentioned in a biochemical procedure involving the extraction and purification of glycoproteins from T. brucei. Urea is used in the solubilization process of cell components, while heptanone is included as a reagent in the buffer for affinity chromatography. However, there is no direct interaction or significant relationship between urea and heptanone beyond their roles in the experimental setup.",
+        "reason": "The score of 2 reflects a low relevance, as urea and heptanone are both part of the same experimental procedure but do not interact or influence each other directly. Their connection is limited to their roles in the methodology without further discussion of their relationship.",
+        "score": 2
+    }
+}

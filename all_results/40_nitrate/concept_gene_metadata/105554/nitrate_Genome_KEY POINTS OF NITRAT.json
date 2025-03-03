@@ -1,0 +1,10 @@
+{
+    "context": "[6] The regulatory gene NIT2 is in linkage group III. [7] Genes and some of their encoded products are indicated in panel A . [8] Other details are given in the text. [1] In fact, three different protein families, NRT1 (one member), NRT2 (six members), and NAR1 (six members), related to nitrate and nitrite transport are deduced from the Chlamydomonas genome . [2] The NRT2 genes that encode high-affinity nitrate/nitrite transporters (HANNiT) have also been cloned from mosses, fungi, algae, yeast, and bacteria, and in almost all plant species, they appear as a multigene family . [3] Some NRT2 proteins require a second component named NAR2. [4] The requirement for the NAR2 protein for the functionality of high-affinity nitrate transporters (HANT) has been corroborated not only with Chlamydomonas  but also with other systems such as the moss Physcomitrella patens  and plants . ",
+    "term_A": "nitrate",
+    "term_B": "Genome",
+    "llm_generation": {
+        "summary": "In this context, nitrate is linked to the genome through the discussion of genes involved in nitrate and nitrite transport, specifically the NRT1, NRT2, and NAR1 gene families. These genes, which are part of the Chlamydomonas genome and other organisms, encode proteins that facilitate the transport of nitrate, indicating a significant genetic basis for nitrate uptake mechanisms across various species, including plants and fungi.",
+        "reason": "The score of 4 reflects a strong connection between nitrate and the genome, as the context discusses specific genes related to nitrate transport, supported by evidence of their presence in multiple organisms. This indicates a clear genetic relationship with functional implications in nitrate transport.",
+        "score": 4
+    }
+}

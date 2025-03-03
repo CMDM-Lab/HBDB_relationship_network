@@ -1,0 +1,10 @@
+{
+    "context": " [8] Following Mig pretreatment at 10, 50, and 200 nM, eosinophil transmigration toward LTB4 (1 nM) was reduced 57%, 75%, and 84%, respectively (Figure 1B).  [9] In contrast, Mig (50 nM) pretreatment had no effect on PAF- or LTB4-induced neutrophil responses (17 908 \u00c2\u00b1 4467 vs 17 981 \u00c2\u00b1 3775 transmigrated neutrophils for PAF and 7413 \u00c2\u00b1 681 vs 6919 \u00c2\u00b1 591 for LTB4; n = 2 experiments). [10] These data demonstrate that Mig has strong and specific eosinophil inhibitory activity toward both CCR3 and non-CCR3 chemoattractants, and suggest a more complex mechanism than receptor blockade alone. [1] Mig inhibits eosinophil transmigration toward the non-CCR3 ligands PAF and LTB4 in vitro. [2] Eosinophil transmigration following pretreatment with buffer or Mig is shown. [3] Data represent mean \u00c2\u00b1 SD of eosinophils that migrated toward PAF 10 nM (A) or LTB4 1 nM (B). [4] *P < .05. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Ligands",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is identified as a ligand that plays a role in eosinophil transmigration. The study demonstrates that pretreatment with Mig reduces eosinophil migration towards LTB4, indicating that LTB4 acts as a chemoattractant ligand for eosinophils. The data suggest that LTB4's function as a ligand is significant in mediating immune responses, particularly in the context of eosinophil activity.",
+        "reason": "The score of 4 reflects a strong connection between LTB4 and ligands, as LTB4 is explicitly described as a ligand involved in eosinophil transmigration, supported by experimental data showing the effects of Mig pretreatment on this process.",
+        "score": 4
+    }
+}

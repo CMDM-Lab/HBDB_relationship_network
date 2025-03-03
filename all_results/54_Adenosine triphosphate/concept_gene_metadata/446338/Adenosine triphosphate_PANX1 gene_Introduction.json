@@ -1,0 +1,10 @@
+{
+    "context": "[7] These findings demonstrate that rapid activation of mitochondrial ATP production fuels the purinergic signaling mechanisms that regulate T cells and define their role in host defense. [1] Critically ill patients often develop profound immunosuppression and nosocomial infections due to impaired T cell function . [2] However, the underlying mechanisms leading to T cell dysfunction have remained unclear . [1] The release of cellular ATP via pannexin-1 channels (panx1)2 and autocrine feedback through purinergic receptors are being recognized as essential steps required for proper T cell activation . [2] We found that the release of ATP stimulates several purinergic receptors, including P2X1, P2X4, and P2X7 and that these ATP receptors collectively contribute to the influx of extracellular Ca2+ that is required for IL-2 production and effector functions in response to T cell stimulation . [1] Despite the growing recognition of the importance of ATP release and purinergic signaling in T cell activation, the intracellular sources of the ATP that is released from stimulated T cells are not known. [2] ATP is the main energy carrier that drives virtually all cellular processes. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "PANX1 gene",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is highlighted as a crucial energy carrier that fuels purinergic signaling mechanisms essential for T cell activation. The PANX1 gene encodes pannexin-1 channels, which facilitate the release of ATP from T cells. This ATP release is vital for activating purinergic receptors that regulate T cell functions, indicating a direct relationship between ATP and the PANX1 gene in immune responses.",
+        "reason": "The score of 5 reflects a strong relevance, as ATP release via PANX1 channels is critical for T cell activation and function, demonstrating a direct and essential relationship in the context of immune signaling.",
+        "score": 5
+    }
+}

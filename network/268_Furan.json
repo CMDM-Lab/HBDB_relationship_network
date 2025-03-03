@@ -1,0 +1,1137 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Furan",
+                    "label": "Furan",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan",
+                        "label": "Furan",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Campylobacter infection",
+                        "label": "Campylobacter infection",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Roger's disease",
+                        "label": "Roger's disease",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Campylobacter infection",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Roger's disease",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan",
+                        "label": "Furan",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Indoles",
+                        "label": "Indoles",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Alkanes",
+                        "label": "Alkanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Furans",
+                        "label": "Furans",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "furan",
+                        "label": "furan",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Platinum",
+                        "label": "Platinum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Palladium",
+                        "label": "Palladium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Indoles",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Alkanes",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Furans",
+                        "score": 11
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "furan",
+                        "score": 27
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Platinum",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Palladium",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Hydrocarbons",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan",
+                        "label": "Furan",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "catalyst",
+                        "label": "catalyst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "catalyst",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Oxidation",
+                        "score": 6
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan",
+                        "label": "Furan",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Homologous Gene",
+                        "label": "Homologous Gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan",
+                        "target": "Homologous Gene",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan",
+                        "label": "Furan",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan",
+                        "label": "Furan",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Campylobacter infection": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Campylobacter infection",
+                        "label": "Campylobacter infection",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323755",
+                        "label": "A novel method for rapidly diagnosing the causes of diarrhoea.\nCS. Probert, PR. Jones, NM. Ratcliffe\nGut 2004 Jan;53(1):58-61.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14684577"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323755_Furan_Campylobacter infection_Abstract.json",
+                        "label": "In this context, furan is identified as a volatile compound whose absence is associated with Campylobacter infection in patients with infectious diarrhea. The study highlights that specific gaseous patterns can indicate different causes of diarrhea, with the lack of hydrocarbons and terpenes serving as a marker for Campylobacter infection. This suggests a potential diagnostic role for furan in differentiating between types of infectious diarrhea.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Campylobacter infection",
+                        "target": "323755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323755",
+                        "target": "323755_Furan_Campylobacter infection_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Roger's disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Roger's disease",
+                        "label": "Roger's disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "322631",
+                        "label": "Odours and volatile organic compounds emitted from municipal solid waste at different stage of decomposition and relationship with biological stability.\nB. Scaglia, V. Orzi, A. Artola, X. Font, E. Davoli, A. Sanchez, F. Adani\nBioresour. Technol. 2011 Apr;102(7):4638-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21315582"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "322631_Furan_Roger's disease_Results and discussi.json",
+                        "label": "In this context, furan is mentioned as a toxic compound that may be carcinogenic and is derived from the thermal degradation of organic materials. While Roger's disease is referenced in relation to the natural occurrence of 2-penthyl furan in fruits, there is no direct discussion linking furan's toxicity or carcinogenic potential specifically to Roger's disease. The relationship appears to be more about the general presence of furan in the environment rather than a specific connection to the disease.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Roger's disease",
+                        "target": "322631",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "322631",
+                        "target": "322631_Furan_Roger's disease_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Indoles": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Indoles",
+                        "label": "Indoles",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323755",
+                        "label": "A novel method for rapidly diagnosing the causes of diarrhoea.\nCS. Probert, PR. Jones, NM. Ratcliffe\nGut 2004 Jan;53(1):58-61.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14684577"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323755_Furan_Indoles_Abstract.json",
+                        "label": "In this context, furan and indoles are both mentioned as volatile compounds associated with different infectious diarrheal pathogens. Specifically, the presence of furan species is linked to Clostridium difficile infections, while indoles are not indicated in the results. This suggests that while both compounds are relevant to the study of gaseous emissions in infectious diseases, their relationship is not directly established, as furan is specifically noted without indoles in the context of Clostridium difficile.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Indoles",
+                        "target": "323755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323755",
+                        "target": "323755_Furan_Indoles_Abstract.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Alkanes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Alkanes",
+                        "label": "Alkanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759",
+                        "label": "Emissions of polychlorinated dibenzo-p-dioxins and dibenzofurans from catalytic and thermal oxidizers burning dilute chlorinated vapors.\nJR. Hart\nChemosphere 2004 Mar;54(10):1539-47.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14659956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_Alkanes_Discussion of result.json",
+                        "label": "In this context, furan and alkanes are related through their roles in catalytic processes affecting the production of dioxins and furans. The study indicates that the addition of non-chlorinated organics, specifically alkanes, can reduce or eliminate by-products in the presence of catalysts. This suggests that alkanes may influence the chemistry of furan production, particularly in terms of emissions and congener distribution.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Alkanes",
+                        "target": "323759",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_Alkanes_Discussion of result.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Furans": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furans",
+                        "label": "Furans",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "322631",
+                        "label": "Odours and volatile organic compounds emitted from municipal solid waste at different stage of decomposition and relationship with biological stability.\nB. Scaglia, V. Orzi, A. Artola, X. Font, E. Davoli, A. Sanchez, F. Adani\nBioresour. Technol. 2011 Apr;102(7):4638-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21315582"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "322631_Furan_Furans_Results and discussi.json",
+                        "label": "In this context, furan and furans are discussed as toxic compounds, with specific mention of 2-penthyl furan as a natural compound found in food and a product of thermal degradation. The text highlights the potential carcinogenic properties of furans, indicating a concern for their presence in organic matter degradation and their implications in environmental and health contexts. The relationship is clear as furan is a specific type of compound within the broader category of furans, both of which are noted for their toxicity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759",
+                        "label": "Emissions of polychlorinated dibenzo-p-dioxins and dibenzofurans from catalytic and thermal oxidizers burning dilute chlorinated vapors.\nJR. Hart\nChemosphere 2004 Mar;54(10):1539-47.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14659956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_Furans_Results.json",
+                        "label": "In this context, 'Furan' and 'Furans' are mentioned in relation to their presence in the congener distributions of dioxins and furans during oxidation processes over different catalysts at varying temperatures. The text discusses specific isomers of furans that dominate at certain temperatures, indicating a direct relationship between the two terms as they refer to the same class of compounds, with 'Furan' being the singular form and 'Furans' the plural. Their relationship is significant as they are part of the same chemical family involved in the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_Furans_Discussion of result.json",
+                        "label": "In this context, 'Furan' and 'Furans' are related as they both refer to chemical compounds involved in the production and distribution of dioxins and furans during catalytic processes. The text discusses how variations in temperature affect the chemistry of these compounds, indicating that they are part of the same chemical family and are influenced by similar environmental conditions. However, the relationship is primarily descriptive rather than indicating a direct interaction or functional significance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Furans",
+                        "target": "322631",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "322631",
+                        "target": "322631_Furan_Furans_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Furans",
+                        "target": "323759",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_Furans_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_Furans_Discussion of result.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "furan": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "furan",
+                        "label": "furan",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "322631",
+                        "label": "Odours and volatile organic compounds emitted from municipal solid waste at different stage of decomposition and relationship with biological stability.\nB. Scaglia, V. Orzi, A. Artola, X. Font, E. Davoli, A. Sanchez, F. Adani\nBioresour. Technol. 2011 Apr;102(7):4638-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21315582"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "322631_Furan_furan_Results and discussi.json",
+                        "label": "In this context, 'Furan' and 'furan' refer to the same class of compounds, specifically highlighting 2-penthyl furan as a representative of furans. The text discusses the toxic and potentially carcinogenic nature of furans, which are derived from both natural sources, such as fruits, and from the thermal degradation of other organic molecules. The mention of furan emphasizes its relevance in the context of organic matter degradation and its implications for health.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323883",
+                        "label": "Pilot-scale studies on the effect of bromine addition on the emissions of chlorinated organic combustion by-products.\nPM. Lemieux, ES. Stewart, JV. Ryan\nWaste Manag 2002 ;22(4):381-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12099495"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323883_Furan_furan_Results.json",
+                        "label": "In this context, 'Furan' and 'furan' refer to the same chemical compound, which is a heterocyclic organic compound. The text discusses the detection of various brominated and chlorinated derivatives of furan in environmental samples, specifically in relation to their presence in mixed bromo-chloro furan homologues. The relationship is primarily about the chemical's presence and its derivatives in the analysis of environmental contaminants.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323883_Furan_furan_Conclusions.json",
+                        "label": "In this context, furan is mentioned in relation to its chlorinated analogs and the impact of bromine (Br) addition on emissions of various compounds, including PCDDs/Fs. The text discusses the relationship between furan and its chlorinated derivatives, indicating that the emissions of certain compounds are influenced by the presence of bromine, but does not provide a direct functional relationship between furan and furan itself, as they are essentially the same compound.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759",
+                        "label": "Emissions of polychlorinated dibenzo-p-dioxins and dibenzofurans from catalytic and thermal oxidizers burning dilute chlorinated vapors.\nJR. Hart\nChemosphere 2004 Mar;54(10):1539-47.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14659956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_furan_Discussion of result.json",
+                        "label": "In this context, 'Furan' and 'furan' refer to the same chemical compound, highlighting its role in the production of dioxins and furans during catalytic processes. The text discusses how temperature variations affect the chemistry of dioxins and furans, indicating that furan is a significant component in the congener distribution of these compounds. The relationship is direct, as both terms denote the same substance involved in the chemical reactions described.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_furan_Results.json",
+                        "label": "In this context, 'Furan' and 'furan' refer to the same chemical compound, which is a heterocyclic organic compound. However, the context does not provide any specific information about their properties, interactions, or relevance to the thermal oxidizers or dioxin congeners discussed. The mention of 'furan' appears incidental, with no detailed exploration of its significance in the thermal oxidation process or its relationship to the other compounds mentioned.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_furan_Description of field.json",
+                        "label": "In this context, 'Furan' and 'furan' refer to the same chemical compound, which is mentioned in relation to the testing of catalytic and thermal oxidizers. The context discusses the testing of various catalysts and the conditions under which furan and its congeners are analyzed, indicating its relevance in the study of dioxin and furan emissions. However, there is no detailed exploration of its specific role or significance in the oxidation processes described.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_furan_Conclusions.json",
+                        "label": "In this context, 'Furan' and 'furan' refer to the same chemical compound, highlighting its role in the production of dioxins during combustion processes. The text discusses how variations in temperature affect the distribution of dioxin and furan isomers, indicating that both terms are used interchangeably to describe the same substance involved in environmental concerns related to combustion emissions and toxicity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323755",
+                        "label": "A novel method for rapidly diagnosing the causes of diarrhoea.\nCS. Probert, PR. Jones, NM. Ratcliffe\nGut 2004 Jan;53(1):58-61.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14684577"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323755_Furan_furan_Abstract.json",
+                        "label": "In this context, 'Furan' refers to a specific volatile compound identified in the analysis of gaseous emissions from stool samples of patients with infectious diarrhoea. The presence of furan species is linked to Clostridium difficile infections, indicating its potential role as a biomarker for this specific pathogen. The term 'furan' is used interchangeably, emphasizing its significance in the context of diagnosing infectious diarrhoea.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "furan",
+                        "target": "322631",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "322631",
+                        "target": "322631_Furan_furan_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "furan",
+                        "target": "323883",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323883",
+                        "target": "323883_Furan_furan_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323883",
+                        "target": "323883_Furan_furan_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "furan",
+                        "target": "323759",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_furan_Discussion of result.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_furan_Results.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_furan_Description of field.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_furan_Conclusions.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "furan",
+                        "target": "323755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323755",
+                        "target": "323755_Furan_furan_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Platinum": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Platinum",
+                        "label": "Platinum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759",
+                        "label": "Emissions of polychlorinated dibenzo-p-dioxins and dibenzofurans from catalytic and thermal oxidizers burning dilute chlorinated vapors.\nJR. Hart\nChemosphere 2004 Mar;54(10):1539-47.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14659956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_Platinum_Results.json",
+                        "label": "In this context, furan and platinum are related through their roles in catalytic processes involving dioxin congeners. The platinum/palladium catalyst is used to facilitate reactions at various temperatures, influencing the distribution of dioxin and furan congeners. The presence of platinum is critical for the catalytic activity that affects the formation and concentration of these compounds during the chemical reactions described.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Platinum",
+                        "target": "323759",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_Platinum_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Palladium": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Palladium",
+                        "label": "Palladium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759",
+                        "label": "Emissions of polychlorinated dibenzo-p-dioxins and dibenzofurans from catalytic and thermal oxidizers burning dilute chlorinated vapors.\nJR. Hart\nChemosphere 2004 Mar;54(10):1539-47.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14659956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_Palladium_Results.json",
+                        "label": "In this context, furan and palladium are related through their roles in catalytic processes involving dioxin congeners. The text discusses the performance of a platinum/palladium catalyst at various temperatures, highlighting how it influences the distribution of dioxin and furan congeners. The presence of palladium as part of the catalyst is crucial for the transformation and concentration of these compounds during the reaction process, indicating a significant interaction between furan and palladium in catalytic applications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Palladium",
+                        "target": "323759",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_Palladium_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323755",
+                        "label": "A novel method for rapidly diagnosing the causes of diarrhoea.\nCS. Probert, PR. Jones, NM. Ratcliffe\nGut 2004 Jan;53(1):58-61.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14684577"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323755_Furan_Hydrocarbons_Abstract.json",
+                        "label": "In this context, furan is identified as a specific volatile compound associated with Clostridium difficile infections, while hydrocarbons are mentioned in relation to their absence indicating a different type of infection (Campylobacter). The relationship is indirect, as furan is a specific compound within the broader category of hydrocarbons, but their connection is primarily through their presence or absence in the context of infectious diarrhoea diagnostics.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons",
+                        "target": "323755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323755",
+                        "target": "323755_Furan_Hydrocarbons_Abstract.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "catalyst": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "catalyst",
+                        "label": "catalyst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759",
+                        "label": "Emissions of polychlorinated dibenzo-p-dioxins and dibenzofurans from catalytic and thermal oxidizers burning dilute chlorinated vapors.\nJR. Hart\nChemosphere 2004 Mar;54(10):1539-47.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14659956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_catalyst_Discussion of result.json",
+                        "label": "In this context, furan is discussed in relation to its production and transformation over a platinum-supported catalyst during chemical reactions involving dioxins and furans. The catalyst plays a crucial role in influencing the distribution of furan congeners, with temperature variations across the catalyst significantly affecting the production rates of different furan isomers. This indicates a direct relationship where the catalyst's properties and conditions impact furan chemistry.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_catalyst_Conclusions.json",
+                        "label": "In this context, furan is mentioned in relation to the production of dioxins and furans occurring at the combustion catalyst. The catalyst plays a crucial role in the catalytic and thermal oxidation processes that may help in destroying dioxins emitted from ambient air. The relationship indicates that the catalyst is integral to the chemical transformations involving furan and dioxins during combustion processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_catalyst_Results.json",
+                        "label": "In this context, furan is mentioned in relation to various catalytic processes involving platinum/palladium and chromium(IV) oxide catalysts. The text discusses how different catalysts influence the distribution and concentration of dioxin congeners and furans at varying temperatures. The presence of furans is noted in conjunction with the performance of these catalysts, indicating a direct relationship where the catalyst type affects the production and dominance of furan compounds during chemical reactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "catalyst",
+                        "target": "323759",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_catalyst_Discussion of result.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_catalyst_Conclusions.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_catalyst_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Oxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759",
+                        "label": "Emissions of polychlorinated dibenzo-p-dioxins and dibenzofurans from catalytic and thermal oxidizers burning dilute chlorinated vapors.\nJR. Hart\nChemosphere 2004 Mar;54(10):1539-47.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14659956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_Oxidation_Results.json",
+                        "label": "In this context, furan is mentioned as a significant congener in the distribution of toxic compounds resulting from oxidation processes over different catalysts at varying temperatures. The oxidation reactions lead to the formation of various furan isomers, indicating a direct relationship where furan is a product of oxidation, particularly in the presence of platinum catalysts. The study highlights how temperature influences the congener distribution, emphasizing the role of oxidation in generating these toxic compounds.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323759_Furan_Oxidation_Description of field.json",
+                        "label": "In this context, furan is mentioned in relation to its presence among the 17 dioxin and furan congeners analyzed during catalytic and thermal oxidation tests. The investigation focuses on the effectiveness of various catalysts and thermal oxidizers at high temperatures for oxidizing these compounds. While furan is part of the study, the specific relationship between furan and the oxidation process is not detailed, indicating a general association rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "323759",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_Oxidation_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323759",
+                        "target": "323759_Furan_Oxidation_Description of field.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Homologous Gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Homologous Gene",
+                        "label": "Homologous Gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323883",
+                        "label": "Pilot-scale studies on the effect of bromine addition on the emissions of chlorinated organic combustion by-products.\nPM. Lemieux, ES. Stewart, JV. Ryan\nWaste Manag 2002 ;22(4):381-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12099495"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "323883_Furan_Homologous Gene_Results.json",
+                        "label": "In this context, furan is mentioned in relation to the detection of mixed bromo-chloro furan homologues in environmental samples. The term 'homologous gene' is not explicitly discussed, but it implies a genetic relationship or similarity among compounds. The analysis focuses on the identification of various furan homologues based on their ion fragmentation patterns, suggesting a biochemical or genetic connection in the context of environmental chemistry. However, the relationship between furan and homologous genes is not directly established or explored.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Homologous Gene",
+                        "target": "323883",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "323883",
+                        "target": "323883_Furan_Homologous Gene_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        }
+    }
+}

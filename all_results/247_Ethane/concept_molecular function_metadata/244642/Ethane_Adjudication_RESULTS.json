@@ -1,0 +1,10 @@
+{
+    "context": "Three patients had significant complications: self-limited pancreatitis (case 3), kidney failure after surgery requiring chronic hemodialysis (case 7, who had only one functioning kidney before surgery); and a fatal myocardial infarction on postoperative day 10 (case 5). Fig. 1 shows an example of the ethane levels found in exhaled breath of one of the patients studied (case 4) as a function of the surgical procedure. Fig. 1 Exhaled ethane at multiple time points during surgical procedure, case 4. The amount of ethane detected in the fifth sample, collected 20 to 25 minutes after reperfusion, was almost twice the level found in the samples of breath collected before cross-clamping (baseline) or during cross-clamping. Fig. 2 summarizes the means and standard errors for ethane determinations as a function of the surgical procedure for six of the seven patients (cases 1, 2, and 4 through 7) studied. Fig. 2 Exhaled ethane normalized to baseline for six of seven cases. Values are expressed as mean \u00b1 SE. Abscissa is breath collection points during surgical procedure. ",
+    "term_A": "Ethane",
+    "term_B": "Adjudication",
+    "llm_generation": {
+        "summary": "In this context, ethane is measured in the exhaled breath of patients undergoing surgical procedures, with specific attention to its levels at various time points. However, there is no mention of adjudication or any direct relationship between ethane levels and adjudication processes. The focus is solely on ethane as a biomarker for surgical outcomes, without any discussion of adjudication as a concept or process related to the findings.",
+        "reason": "The score of 1 reflects a lack of relationship between ethane and adjudication, as they are mentioned in the same context but without any direct or indirect connection or relevance to each other.",
+        "score": 1
+    }
+}

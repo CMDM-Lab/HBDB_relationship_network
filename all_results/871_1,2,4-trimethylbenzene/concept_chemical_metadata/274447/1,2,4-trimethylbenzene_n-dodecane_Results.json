@@ -1,0 +1,10 @@
+{
+    "context": "In abiotic controls, concentrations of all VOCs decreased between 0.5 and 5.5 h after VOC injection following first-order rate law (Fig. 6) with rate constants ranging between 0.13\u00b10.13 day\u22121 for methylcyclohexane and 0.91\u00b10.52 day\u22121 for toluene (Table 2). The gaseous concentrations of n-dodecane and to a lesser extent also of n-decane and 1,2,4-trimethylbenzene (data not shown) decreased in an erratic manner, suggesting condensation and sorption. No CO2 production or O2 consumption (data not shown) was found. Total losses in sterile sand within 14 days ranged between 5% for CFC-11 (Fig. 6) and 90% for m-xylene. In live sand, all compounds except n-octane and MTBE decreased with first-order kinetics between 0.5 and 5.5 h after injection. ",
+    "term_A": "1,2,4-trimethylbenzene",
+    "term_B": "n-dodecane",
+    "llm_generation": {
+        "summary": "In this context, 1,2,4-trimethylbenzene and n-dodecane are both mentioned as volatile organic compounds (VOCs) whose concentrations decreased after injection into sterile sand. The decrease in their concentrations was noted to occur in an erratic manner, suggesting processes like condensation and sorption. However, there is no detailed discussion of their specific interactions or comparative significance in the study.",
+        "reason": "The score of 2 reflects a low relevance, as both compounds are part of the same study on VOC concentration changes but lack a direct functional or chemical relationship. Their mention is more about their shared behavior in the experimental setup rather than a significant interaction.",
+        "score": 2
+    }
+}

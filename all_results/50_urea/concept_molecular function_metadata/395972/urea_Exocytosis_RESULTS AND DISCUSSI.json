@@ -1,0 +1,10 @@
+{
+    "context": "[3] We examined the expression of lineage and functional hepatocyte markers in replated HLCs differentiated from hESCs and hiPSCs and found that replated cells were positive for these markers as determined by immunofluorescence (Fig.\u00c2\u00a04A) and qPCR (Fig.\u00c2\u00a0S4A). [4] This result was replicated with several hPSC lines. [5] Finally, we assessed representative hepatocyte cellular functions in replated HLCs in comparison to unsorted HLCs and PHHs. [6] ALB secretion, urea secretion and CYP3A4 activity (representing secretory and detoxification functions of the liver) were significantly increased in replated HLCs versus standard unsorted HLCs (Fig.\u00c2\u00a04B). [7] As anticipated based on prior characterization of hPSC-derived HLCs, these activities were substantially higher in PHHs. [8] As with the dedifferentiation of primary hepatocytes in cell culture (; ), replated ASGR1-positive HLCs dedifferentiate after 96\u00e2\u20ac\u2026h and at this point no longer express the marker genes AFP, FGA, AAT, ALB, TF or APOA1 (Fig.\u00c2\u00a0S4A) and secrete diminished quantities of ALB (Fig.\u00c2\u00a0S4B).  [1] HLCs can be replated following ASGR1 MACS enrichment and retain hepatocyte characteristics. ",
+    "term_A": "urea",
+    "term_B": "Exocytosis",
+    "llm_generation": {
+        "summary": "In this context, urea is mentioned as a product of hepatocyte function, specifically in relation to its secretion by replated human liver cells (HLCs). While exocytosis is a cellular process involved in the secretion of substances, including urea, the context does not explicitly detail the mechanism of exocytosis in relation to urea secretion. Thus, the relationship is implied but not directly discussed.",
+        "reason": "The score of 3 reflects a moderate relevance, as urea secretion is a function of hepatocytes that likely involves exocytosis, but the context does not provide detailed insights into how exocytosis specifically relates to urea secretion.",
+        "score": 3
+    }
+}

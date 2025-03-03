@@ -1,0 +1,10 @@
+{
+    "context": "for m-xylene (Gargas et al., 1989). The fibroblast:air partition coefficient for m-xylene of 52.2\u00b13.74 is similar to the previously reported value of 50.4\u00b11.7 for whole skin (Mattie et al., 1994). Since the collagen:air and fibroblast:air partition coefficients are higher (\u223c7.5\u201318-fold, respectively) than the media:air partition coefficient, m-xylene can be expected to be in higher concentration in the collagen and fibroblasts compared to culture medium. Using the fibroblast:medium partition coefficient, we calculate that the m-xylene concentration (\u03bcg m-xylene/g cells) in the fibroblasts would be 17.9 times higher than the media concentration. Similar to using a tissue:blood partition coefficient, the fibroblast:medium partition coefficient can be an important factor for developing a biologically-based mathematical model that will relate observed biological responses to target cellular dose in vitro. The in vitro exposure method for volatile chemicals described in this study solves two problems. The exposure concentration does not change during the observed exposure period and the chemical dose is expressed as target cellular dose. ",
+    "term_A": "1,3-xylene",
+    "term_B": "3-xylene",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene and 3-xylene are both isomers of xylene, but the text primarily discusses m-xylene (meta-xylene) and its partition coefficients in biological systems. While 1,3-xylene and 3-xylene are mentioned as related compounds, the focus is on m-xylene's behavior in fibroblasts and collagen, without a direct comparison or interaction between the two isomers. Thus, their relationship is implied through their classification as xylenes but lacks specific details.",
+        "reason": "The score of 2 reflects an indirect connection between 1,3-xylene and 3-xylene, as they are both xylenes, but the context does not provide detailed interactions or comparisons between them, focusing instead on m-xylene.",
+        "score": 2
+    }
+}

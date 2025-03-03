@@ -1,0 +1,10 @@
+{
+    "context": "Concentrations above 0.13 mM (1 mM) PERC or 0.9 mM (3 mM) TOL (theoretical values in parentheses) were not used because higher concentrations could not be solubilized adequately. It was originally believed that lipophilic compounds, such as TOL and PERC, produced their adverse behavioral effects in humans and animals by perturbing the cellular membrane. Recent studies have demonstrated that the CNS depressive effects of these compounds, in vivo, may be due to interactions with specific ion channels and membrane receptors (Franks and Lieb, 1984, 2004). In our study, neither TOL (0.03\u20130.9 mM) nor PERC (0.0015\u20130.065 mM) altered resting membrane potentials. This finding is in agreement with previous studies (Bale et al., 2002; Cruz et al., 1998, 2000) that demonstrated lack of membrane activity during perfusion of VOC alone. These results suggest that both TOL and PERC are not perturbing the oocyte membrane to produce changes in nAChR activity. In the present study, there was a 13% recovery of PERC (0.005\u20130.05 mM, theoretical) and a 30% recovery of TOL (0.05\u20133 mM, theoretical) from prepared stock solutions. ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "Membrane Potentials",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene (PERC) and membrane potentials are discussed in relation to the effects of lipophilic compounds on cellular membranes. The study indicates that neither PERC nor toluene (TOL) altered resting membrane potentials in oocytes, suggesting that these compounds do not significantly perturb membrane activity or influence ion channel function, which is critical for maintaining membrane potentials.",
+        "reason": "The score of 3 reflects a moderate relevance, as the study discusses the lack of effect of PERC on membrane potentials, indicating some interaction but not a significant or direct relationship. The findings suggest a specific context of membrane activity rather than a broader physiological impact.",
+        "score": 3
+    }
+}

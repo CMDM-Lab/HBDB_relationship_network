@@ -1,0 +1,10 @@
+{
+    "context": "In the metropolitan area, LP gas consumption in the same year was 52.6 MBD, which is 20.6% of the total consumption. Based on these figures, the consumption of gasoline was 209.8% higher than LP gas in the MCMA, but the gasoline light compounds accounted only for the 10% of the total evaporative emissions and emissions from the exhaust. However, the ambient air of the samples analyzed registers a higher quantity of propane than butane, at an average ratio of 1.65, and the only possible source of the propane was LP gas from leaks and incomplete combustion. Exhaust and evaporative emissions associated with the burning of fossil fuels in vehicles introduce a higher concentration of butane than propane. The C3/C4 concentration ratio is always less than 0.5. On the contrary, the concentration of propane present in LP gas is higher than that of butane. In this case, the C3/C4 ratio is greater than 0.5. ",
+    "term_A": "Butane",
+    "term_B": "Accident caused by unspecified fire",
+    "llm_generation": {
+        "summary": "In this context, butane is discussed in relation to its presence in ambient air and emissions from fossil fuel combustion, particularly LP gas. However, there is no direct mention of an accident caused by an unspecified fire related to butane. The focus is on the comparative concentrations of butane and propane in the environment, without any explicit connection to fire incidents or accidents.",
+        "reason": "The score of 1 reflects a lack of any direct relationship between butane and accidents caused by fire. While butane is mentioned in the context of emissions, there is no discussion of its role in causing accidents or fires.",
+        "score": 1
+    }
+}

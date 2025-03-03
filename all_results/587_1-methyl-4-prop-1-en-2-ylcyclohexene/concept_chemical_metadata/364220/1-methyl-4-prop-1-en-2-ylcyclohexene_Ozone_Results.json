@@ -1,0 +1,10 @@
+{
+    "context": "The VT decreased significantly at 3.9ppm ozone admixing level. TI increased at ozone (\u22652.5ppm) admixing in both the early and late exposure periods (Tables 1 and 2), and thus no rapid shallow breathing response was observed. Elongation of TP, an indicator of pulmonary irritation, was not observed in the early and late exposure periods (Tables 1 and 2). However, an exposure dependent decrease occurred at \u22650.5ppm ozone admixing.Bronchoalveolar lavage The distribution (%) of white blood cells in BAL was similar irrespective of whether the exposures were to clean air, ozone, limonene or LOP (data not shown). The alveolar macrophages dominated the BAL fluid; the cell content was at the same level in the different groups and without statistical differences, see Fig. 3 . The neutrophil counts were low in all groups; this indicates absence of neutrophilic inflammation. Nor was exposure-dependent epithelial cell sloughing apparent as the epithelial cell number in the BAL fluids was similar in all groups (Fig. 3). ",
+    "term_A": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "term_B": "Ozone",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone are both involved in a study examining the effects of ozone exposure on respiratory parameters. The results indicate that ozone levels influence various respiratory metrics, such as tidal volume (VT) and total inspiratory (TI) response, but there is no direct interaction or specific relationship established between the two compounds. The study primarily focuses on ozone's effects rather than the chemical interactions with 1-methyl-4-prop-1-en-2-ylcyclohexene.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are part of the same study on ozone exposure effects, but there is no detailed discussion of their specific relationship or interaction.",
+        "score": 2
+    }
+}

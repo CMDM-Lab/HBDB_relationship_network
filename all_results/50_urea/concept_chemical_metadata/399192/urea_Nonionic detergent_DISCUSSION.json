@@ -1,0 +1,10 @@
+{
+    "context": "[2] This low permeability is modified in animals when high urea permeability is required by the expression of a urea transporter . [3] The rate of entry of urea at neutral pH in intact H. pylori is unable to saturate urease activity with urea concentrations as high as 200 mM . [4] Since the urea concentration of the gastric juice is 1 to 3 mM, a urea transporter would be essential for acid survival. [5] The increase in cytoplasmic urease activity with medium acidification appears to be the result of increased urea permeability across the inner membrane of the bacterium, since the addition of low concentrations of a nonionic detergent was able to duplicate acid activation of cytoplasmic urease. [6] The low levels of urease activity observed in the intact H. pylori ureI mutant and at neutral pH and above in intact wild-type H. pylori are likely due to the limited diffusion of urea across the membrane. [7] A contribution of surface urease cannot be excluded at neutral pH, although this component is inactive at pH 4.0 and below. [8] It is possible that the hydrolysis of urea produced internally through the urea cycle may contribute to the acid survival of H. pylori. ",
+    "term_A": "urea",
+    "term_B": "Nonionic detergent",
+    "llm_generation": {
+        "summary": "In this context, urea and nonionic detergent are related through their roles in modifying membrane permeability in H. pylori. The addition of low concentrations of nonionic detergent enhances urea permeability, which in turn activates cytoplasmic urease activity under acidic conditions. This suggests that nonionic detergents can facilitate urea's role in acid survival by increasing its availability for urease activity, crucial for the bacterium's adaptation to gastric environments.",
+        "reason": "The score of 4 reflects a significant connection between urea and nonionic detergent, as the context provides evidence that nonionic detergent enhances urea permeability and urease activity, indicating a clear functional relationship in the survival mechanism of H. pylori.",
+        "score": 4
+    }
+}

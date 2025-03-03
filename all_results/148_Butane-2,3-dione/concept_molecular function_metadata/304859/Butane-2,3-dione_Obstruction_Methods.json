@@ -1,0 +1,10 @@
+{
+    "context": "[3] The questionnaire addressed respiratory symptoms and diagnoses, smoking history, work history and practices, and demographic information. [4] The respiratory questions were adapted from validated survey instruments. [1] We conducted and interpreted spirometry testing according to published guidelines using a dry rolling-seal spirometer. [2] We defined obstruction as FEV1 and ratio of FEV1 to forced vital capacity (FVC) below their respective lower limits of normal (5th centiles) with a normal FVC. [3] We defined restrictive pattern as a normal FEV1/FVC ratio with FVC below the lower limit of normal. [4] We classified participants with both FEV1/FVC ratio and FVC below the lower limit of normal as having mixed obstructive and restrictive abnormalities. [5] We considered participants to have any spirometric abnormality if they met the definition of obstruction, restrictive pattern or mixed pattern. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "Obstruction",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione is not directly mentioned in relation to obstruction. The focus is on defining and classifying respiratory conditions based on spirometry results, specifically obstruction as indicated by FEV1 and FEV1/FVC ratios. There is no discussion of Butane-2,3-dione's role or impact on respiratory obstruction, making their relationship unclear.",
+        "reason": "The score of 1 reflects a lack of any direct or indirect relationship between Butane-2,3-dione and obstruction, as the context does not provide any information linking the two terms.",
+        "score": 1
+    }
+}

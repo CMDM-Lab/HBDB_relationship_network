@@ -1,0 +1,10 @@
+{
+    "context": "FID chromatograms of the Boulder air standard, given in Fig. 6 , show only minor differences between the two experiments. Percent recovery data of all the compounds studied are given in Fig. 7 . From this figure it can be seen that some lighter compounds (retention index less than 500) are not fully recovered. The non-methane hydrocarbons propane, methyl propane, butane and methylbutane had significant losses, while pentane through decane did not. CFC-12 and CFC-11 also suffered losses under humid sampling conditions. The biogenic compounds isoprene, MACR, MVK, \u03b1-pinene, \u03b2-pinene and limonene were fully recovered. There was rearrangement between \u03b1- and \u03b2-pinene (i.e. ",
+    "term_A": "Decane",
+    "term_B": "Hydrocarbons",
+    "llm_generation": {
+        "summary": "In this context, decane is mentioned as a non-methane hydrocarbon that was analyzed in the Boulder air standard study. The results indicate that decane, along with other hydrocarbons from pentane to decane, did not suffer significant losses during the sampling process, suggesting its stability in the analyzed conditions. This positions decane within the broader category of hydrocarbons, highlighting its role in air quality studies, but does not elaborate on specific interactions or unique properties of decane compared to other hydrocarbons.",
+        "reason": "The score of 3 reflects a moderate relevance, as decane is categorized as a hydrocarbon and is part of the study on non-methane hydrocarbons. However, the context does not provide detailed interactions or specific significance beyond its classification.",
+        "score": 3
+    }
+}

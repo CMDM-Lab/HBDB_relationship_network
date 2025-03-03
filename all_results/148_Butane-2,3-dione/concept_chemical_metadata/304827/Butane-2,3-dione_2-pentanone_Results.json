@@ -1,0 +1,10 @@
+{
+    "context": "Thus, heat treatment of sterilized pork did not cause major change to VOCs in comparison to non-sterilized pork. We detected altogether 48 VOCs in meat. Of these, 10 compounds increased in concentration during storage of the bulk samples of pork (Table 2 ). Concentrations of 1-pentanol, 1-hexanol, 1-octen-3-ol, hexanal, styrene and 2-pentanone increased in the sterilized and in the bulk samples of pork, indicating that these VOCs originated at least partly from reactions that were not dependent on bacterial growth. Accumulation of 1-hexanol, hexanal and methylbutanal during storage was particularly associated with collar rather than loin samples. Concentrations of 3-methyl-1-butanol, acetoin and diacetyl increased in the four monitored bulk pork samples until the end of the storage period but not in the sterilized pork (Table 2). These VOCs were associated specifically with bacterial growth. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "2-pentanone",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione (also known as diacetyl) and 2-pentanone are both volatile organic compounds (VOCs) detected in pork samples. While the study notes that concentrations of various VOCs, including 2-pentanone, increased during storage, it specifically associates the increase of Butane-2,3-dione with bacterial growth. However, there is no direct interaction or comparative analysis between the two compounds, indicating they are part of a broader analysis of VOCs in meat rather than having a specific relationship.",
+        "reason": "The score of 2 reflects an indirect connection, as both Butane-2,3-dione and 2-pentanone are mentioned as VOCs in the same study, but their relationship is not elaborated upon, and they are not shown to interact or influence each other directly.",
+        "score": 2
+    }
+}

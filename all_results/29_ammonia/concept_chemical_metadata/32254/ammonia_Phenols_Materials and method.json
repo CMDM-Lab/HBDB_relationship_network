@@ -1,0 +1,10 @@
+{
+    "context": "The samplers, small cylinders 10mm high and of 20mm internal diameter are closed at one end by a polyethylene cap, which has a fibreglass filter fitted inside it. At the other end, there is a cast iron mesh and a Teflon membrane. The fibreglass filters were impregnated with a citric acid solution. The method of analysis is based on the reaction between the ammonia ion with phenol and sodium hypochlorite, which is intensified by sodium nitroprusside, and the colour produced can be detected by a spectrophotometer (Roadman et al., 2003). To the sampling of NH3 in the tanks containing fresh and rejected composting fractions, a MX6 iBrid portable multi-gas detector was used and periodic readings were taken. Ogawa passive samplers were not suited for composting fractions, because NH3 emissions were in the range of ppm. \u2013 Hydrogen sulphide: To analyse for hydrogen sulphide in the leachate tank, three Ogawa passive samplers were used. ",
+    "term_A": "ammonia",
+    "term_B": "Phenols",
+    "llm_generation": {
+        "summary": "In this context, ammonia and phenols are connected through a chemical analysis method that involves the reaction of ammonia ions with phenol and sodium hypochlorite, enhanced by sodium nitroprusside. This reaction produces a color change that can be quantified using a spectrophotometer, indicating a direct analytical relationship between the two compounds in the context of measuring ammonia emissions from composting fractions.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and phenols, as the context describes a specific chemical reaction that utilizes both substances for analytical purposes. The method is clearly defined, showing their interaction in a measurable way.",
+        "score": 4
+    }
+}

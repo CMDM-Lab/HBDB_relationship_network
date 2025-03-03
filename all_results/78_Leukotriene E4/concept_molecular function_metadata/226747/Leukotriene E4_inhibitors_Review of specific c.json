@@ -1,0 +1,10 @@
+{
+    "context": "140 Levels increase following exposure to allergen, aspirin, and other nonsteroidal anti-inflammatory drugs in sensitive individuals, and in exacerbations. The levels decrease in the presence of 5-LO inhibitors. Responsiveness Responsiveness to treatment depends on the urinary LTE4 starting level, with low levels less likely to show measureable responses to 5-LO inhibitors. However, in general, 5-LO inhibitors decrease urinary LTE4 levels by 40% to 75%. 134,135 Levels increase in asthma exacerbations, as well as with aspirin and allergen challenge. 130,133 Corticosteroids have minimal effects on the levels. 131,136 Validity Urinary LTE4 is modestly associated with lung function measurements over time, as well as with a fall in FEV1 during aspirin challenge and the degree of airway obstruction during an asthma exacerbation. ",
+    "term_A": "Leukotriene E4",
+    "term_B": "inhibitors",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene E4 (LTE4) is linked to the use of 5-LO inhibitors, which are shown to significantly reduce urinary LTE4 levels by 40% to 75%. The effectiveness of these inhibitors in decreasing LTE4 levels is influenced by the initial urinary LTE4 concentration, indicating a direct relationship between LTE4 and its inhibitors in managing asthma exacerbations and responses to allergens and nonsteroidal anti-inflammatory drugs.",
+        "reason": "The score of 5 reflects a strong relevance, as the context provides clear evidence of the direct impact of 5-LO inhibitors on reducing LTE4 levels, highlighting their critical role in asthma management and the physiological response to allergens.",
+        "score": 5
+    }
+}

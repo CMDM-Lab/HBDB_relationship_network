@@ -1,0 +1,10 @@
+{
+    "context": "[1] Phosphorylation of peptide substrates by full-length PDK1. [2] Kinase reactions were performed in duplicate in 1\u00c3\u2014 kinase assay buffer with 5 \u00ce\u00bcm ATP, 5 mm MgCl2, 2 mm DTT, 1 nm PDK1, and 100 nm of the corresponding peptide. [3] Comparative activity of PDK1 using different peptide substrates was normalized to the level of phosphorylation of the AKT-tide, taken as 100%. [1] The determination of Km values for ATP and fusion peptide substrates was performed in a 384-well format by using a simultaneous cross-titration of both substrates under nonsaturating concentrations. [2] The initial rates of kinase reaction were determined by kinetic measurements in the presence of various concentration combinations of both substrates. [3] A Km value of 5.6 \u00c2\u00b1 0.9 \u00ce\u00bcm was obtained for ATP, and a Km value of 40 \u00c2\u00b1 2 nm was obtained for the fusion PDK1-tide1 peptide (Fig. 2). [1] Determination of Km values for full-length PDK1 by cross-titration. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Adjudication",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is discussed in relation to its role as a substrate in kinase reactions involving PDK1, where its Km value is determined. However, the term 'adjudication' is not mentioned in a relevant context, nor is there any discussion linking ATP to adjudication. Thus, there is no meaningful relationship between the two terms in this context.",
+        "reason": "The score of 1 reflects the lack of any relevant connection between adenosine triphosphate and adjudication, as they are mentioned in the same context without any direct or indirect relationship.",
+        "score": 1
+    }
+}

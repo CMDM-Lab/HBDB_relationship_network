@@ -1,0 +1,10 @@
+{
+    "context": "[3] However, it should be noted that in our study, airway acidity was related to different pollutants, namely PM10, NO2, benzene and ethylbenzene, suggesting a link between airways inflammation. [1] The spirometric findings for PM10 and NO2 are not in agreement with the negative associations found for wheezing in the previous months. [2] This could to be in accordance with a previous study [] where increasing exposure to PM10 was associated with reduction in peak expiratory flow, but not with wheezing or dyspnoea. [1] Benzene, toluene and ethylbenzene were the VOCs associated with lung function deterioration and airway inflammation. [2] Toluene is a known cause of occupational asthma [], where exposure to higher levels is common. [3] Low levels of VOCs seem to increase the risk of childhood [] and adult [] asthma symptoms but associations with lung function have been more difficult to find []. [4] Ethylbenzene has also been suggested as a significant risk factor for asthma [], a fact that is in accordance with the airways changes found in our study. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Inflammation",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is linked to airway inflammation and lung function deterioration, as it is mentioned alongside other volatile organic compounds (VOCs) like benzene and toluene. The study suggests that exposure to ethylbenzene is associated with increased risk of asthma and airway changes, indicating its role in inflammatory processes within the respiratory system.",
+        "reason": "The score of 4 reflects a significant connection between ethylbenzene and inflammation, supported by evidence of its association with airway inflammation and asthma risk. The context provides a clear link between ethylbenzene exposure and adverse respiratory effects, although further details on the mechanisms are not fully explored.",
+        "score": 4
+    }
+}

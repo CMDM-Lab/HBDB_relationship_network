@@ -1,0 +1,10 @@
+{
+    "context": "Volume of the acid solution was observed in-line every 30\u00a0min. Ammonia stripped or (NH4)2SO4 to form overtime was calculated with the decreases of total ammonia concentration and feed volume. The weight of (NH4)2SO4 recovered was calculated with the total ammonia concentration and acid solution volume at the end of each batch experiment. Volatile organic compounds (VOCs) in digestate could be stripped along with ammonia and absorbed in the acid solutions. To identify VOCs present in the acid solutions, duplicate batch stripping experiments without intermediate sampling were conducted for each boiling condition. Sampling feed only at the beginning and end of each batch avoided loss of VOCs during frequent sampling. 25\u00a0mL of the final acid solution were blended with 25\u00a0mL of dichloromethane (99.5%) in a 50-mL separatory funnel and shaken for 1\u00a0min to extract VOCs in the acid solution. ",
+    "term_A": "ammonia",
+    "term_B": "Organic Chemicals",
+    "llm_generation": {
+        "summary": "In this context, ammonia is discussed in relation to its recovery and stripping from an acid solution, which also involves volatile organic compounds (VOCs). While ammonia is a specific compound, organic chemicals refer to a broader category that includes VOCs. The relationship is indirect, as ammonia is part of the process involving organic chemicals but does not have a direct interaction or specific significance with them in the described experiments.",
+        "reason": "The score of 2 reflects an indirect connection, as ammonia is involved in a process that also includes organic chemicals, specifically VOCs. However, there is no detailed discussion of their interaction or specific relevance beyond their coexistence in the experimental context.",
+        "score": 2
+    }
+}

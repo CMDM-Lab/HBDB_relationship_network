@@ -1,0 +1,10 @@
+{
+    "context": "[4] UreI may be an acid-activated urea transporter crucial for acid resistance of H. pylori. [5] Its function was determined in deletion mutants and by expression in Xenopusoocytes. [1] In contrast to the large acid-induced increase in urease activity of wild-type organisms, no increase of activity in acidic medium was observed in the intact ureI mutant , DW504UreI\u00e2\u02c6\u2019 (Fig. 2). [2] However, urease activity of detergent-treated ureI\n\u00e2\u02c6\u2019 cells (3.0 \u00c2\u00b1 0.25 \u00ce\u00bcmol of urea per minute per milligram of protein) or cell lysate resulted in urease activity equal to that of wild-type organisms. [3] The normal level of urease shows that deletion of ureI did not affect the expression of the downstream urease accessory genes essential for its biosynthesis. [4] The mutation is therefore nonpolar. [5] Abolition of acid activation of urease in intact organisms byureI deletion and full activation of intrabacterial urease by C12E8 suggest that UreI-mediated transport of urea determines the pH dependence of cytoplasmic urease. ",
+    "term_A": "urea",
+    "term_B": "Detergents",
+    "llm_generation": {
+        "summary": "In this context, urea and detergents are related through the study of urease activity in Helicobacter pylori. The detergent C12E8 was shown to fully activate urease in ureI mutant cells, indicating that detergents can influence the pH dependence of urease activity by facilitating urea transport. This suggests a significant interaction where detergents enhance the functional capacity of urease in the absence of the UreI transporter.",
+        "reason": "The score of 4 reflects a significant connection between urea and detergents, as the context provides evidence that detergents can activate urease activity in mutant cells, demonstrating a clear functional relationship.",
+        "score": 4
+    }
+}

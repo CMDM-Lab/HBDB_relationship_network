@@ -1,0 +1,10 @@
+{
+    "context": "The environmental impacts of the SSF process must be taken into account when considering SSF benefits. However, to our knowledge, this point has not been studied in the scientific literature. Gaseous emissions play an important role in the environmental impact of processes used to manage solid organic substrates (Col\u00f3n et al., 2012). Greenhouse gases (GHG), ammonia and volatile organic compounds (VOC) are the main gases emitted during SSF processes. Regarding GHG, biogenic CO2 is the main compound emitted although it is not normally accounted as GHG (Col\u00f3n et al., 2012). Also CH4 and N2O are often released, and present a global warming potential of 34 and 298kg CO2 eq., respectively (IPCC et al., 2013). On the other hand, the emission of VOC and ammonia has been associated to the generation of unpleasant odors and other environmental impacts such as acidification, eutrophication or the formation of photochemical oxidants. ",
+    "term_A": "ammonia",
+    "term_B": "Organic Chemicals",
+    "llm_generation": {
+        "summary": "In this context, ammonia is identified as a gaseous emission resulting from the solid-state fermentation (SSF) process, which also involves organic chemicals. The relationship highlights that ammonia, along with volatile organic compounds (VOCs), contributes to environmental impacts such as unpleasant odors and ecological issues like acidification and eutrophication. While ammonia is a specific emission, organic chemicals represent a broader category of compounds involved in the SSF process, indicating a connection through their shared environmental consequences.",
+        "reason": "The score of 3 reflects a moderate relevance, as ammonia is discussed in relation to its emissions during the SSF process, which involves organic chemicals. Their connection is evident through the environmental impacts they share, but the specifics of their interaction are not deeply explored.",
+        "score": 3
+    }
+}

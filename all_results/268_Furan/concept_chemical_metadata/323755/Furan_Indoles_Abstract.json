@@ -1,0 +1,10 @@
+{
+    "context": "[1] Methods: Stool samples were collected from 35 patients with infectious diarrhoea and from six healthy controls. [2] Gaseous compounds were extracted from a headspace using solid phase microextraction and analysed using gas chromatography and mass spectroscopy. [1] Results: Characteristic patterns of volatile gases were found for the main causes of infectious diarrhoea in hospitals. [2] Furan species without indoles indicated Clostridium difficile, ethyl dodecanoate indicated rotavirus, ammonia without ethyl dodecanoate suggested other enteric viruses, and the absence of hydrocarbons and terpenes indicated Campylobacter infection. [1] Diarrhoea due to infection is a major cause of morbidity and mortality. [2] In England and Wales, there are approximately 15 000 cases of Clostridium difficile infection per annum (www.PHLS.co.uk). [3] It is estimated that in an average sized district general hospital, 100 cases of C difficile infection can be expected each year with an extra annual cost of \u00c2\u00a3400 000 and 2100 lost bed days. ",
+    "term_A": "Furan",
+    "term_B": "Indoles",
+    "llm_generation": {
+        "summary": "In this context, furan and indoles are both mentioned as volatile compounds associated with different infectious diarrheal pathogens. Specifically, the presence of furan species is linked to Clostridium difficile infections, while indoles are not indicated in the results. This suggests that while both compounds are relevant to the study of gaseous emissions in infectious diseases, their relationship is not directly established, as furan is specifically noted without indoles in the context of Clostridium difficile.",
+        "reason": "The score of 2 reflects an indirect connection between furan and indoles, as they are both volatile compounds analyzed in the context of infectious diarrhoea, but their specific relationship is not detailed, with furan being highlighted without any mention of indoles in the same context.",
+        "score": 2
+    }
+}

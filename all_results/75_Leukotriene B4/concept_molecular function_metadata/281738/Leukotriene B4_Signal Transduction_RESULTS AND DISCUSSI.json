@@ -1,0 +1,10 @@
+{
+    "context": "[5] When we activated eosinophils with ionomycin, there was \u00e2\u02c6\u00bc10-fold more LTB4 than LTE4 in the supernatant (Fig. 4 B). [6] Furthermore, mixing of eosinophils with C. elegans stimulated eosinophil LTB4 production, which was completely inhibited by MK886 (Fig. 4 C). [7] In contrast, there was no detectable production of LTE4 by eosinophils in response to worms. [8] Finally, Ltb4r1\u00e2\u02c6\u2019/\u00e2\u02c6\u2019 eosinophils exhibited a >90% reduction in accumulation around worms (Fig. 4 D), establishing that LTB4 signaling is required for Alox5-dependent migration and accumulation.  [1] Involvement of LTB4 in collective eosinophil migration.  [2] (A) Migration of eosinophils across Transwell membranes in response to CCL11 or leukotrienes.  [3] (B) LTB4 and LTE4 production in wild-type or Alox5\u00e2\u02c6\u2019/\u00e2\u02c6\u2019 eosinophils treated with 1 \u00c2\u00b5M ionomycin. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Signal Transduction",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is shown to play a critical role in signal transduction related to eosinophil migration and accumulation. The activation of eosinophils leads to significant LTB4 production, which is essential for their movement towards stimuli, as evidenced by the marked reduction in eosinophil accumulation in Ltb4r1\u00e2\u02c6\u2019/\u00e2\u02c6\u2019 eosinophils. This indicates that LTB4 signaling is a key component in the transduction pathways that govern eosinophil behavior in response to external stimuli.",
+        "reason": "The score of 5 reflects a strong relevance between LTB4 and signal transduction, as the context provides clear evidence of LTB4's role in mediating eosinophil migration through specific signaling pathways, highlighting its critical function in immune response.",
+        "score": 5
+    }
+}

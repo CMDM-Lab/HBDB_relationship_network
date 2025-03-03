@@ -1,0 +1,10 @@
+{
+    "context": "Traffic movement in the city is typically slow during the morning and evening rush hours. The experiment was performed during the rush hours of the two seasons with the most extreme temperatures, winter and summer.Survey protocol Two experimental designs were developed to measure the in-vehicle concentrations of carbon monoxide (CO), PM10 and VOCs during commuting on real commuter routes. Both designs were conducted for two seasonal temperature extremes: summer, June to August (2000) and winter, November to January (2000\u20132001). The current study focused on three VOCs (MTBE, benzene and toluene). The first experiment was designed to measure the in-car concentrations and the second to measure the in-bus concentrations. A total of 40 actual passenger car commuters were recruited for the first experiment. The same commuters participated in both the summer and winter studies. ",
+    "term_A": "2-methoxy-2-methylpropane",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) in a study measuring in-vehicle concentrations during commuter traffic. However, the context does not provide any specific interaction or relationship between the two compounds, as the focus is primarily on measuring VOC levels in different seasonal conditions without detailing their comparative significance or effects.",
+        "reason": "The score of 2 reflects a low relevance, as both compounds are categorized as VOCs in the same study, but there is no direct discussion of their interaction or specific relationship beyond their inclusion in the broader analysis of air quality.",
+        "score": 2
+    }
+}

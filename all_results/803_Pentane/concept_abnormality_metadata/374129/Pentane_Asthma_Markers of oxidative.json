@@ -1,0 +1,10 @@
+{
+    "context": "[3] Concentrations of 8-isoprostane are increased in expired condensates of patients with asthma and its level correlates with disease severity and exhaled CO level . [4] Levels of 8-isoprostane are also increased in cigarette smokers, in patients with COPD and in CF . [1] The volatile gases, ethane and pentane, can also be detected in the breath and have been used to measure lipid peroxidation to reflect oxidative stress. [2] Exhaled pentane is increased during asthma exacerbations and decreases during recovery . [3] Exhaled ethane level is increased in cigarette smokers  and is reduced by high doses of antioxidant vitamins C and E, but not by vitamin E alone , . [4] Exhaled ethane levels are increased in CF and COPD, where there is a correlation with disease severity and with other markers of oxidative stress, such as exhaled CO. [5] Exhaled ethane is also increased in asthma, and the levels are lower in patients treated with inhaled corticosteroids . ",
+    "term_A": "Pentane",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, pentane is mentioned as a volatile gas detected in the breath of asthma patients, with its levels increasing during asthma exacerbations and decreasing during recovery. This suggests a potential role of pentane as a biomarker for oxidative stress and inflammation associated with asthma, indicating its relevance to the disease's severity and management.",
+        "reason": "The score of 4 reflects a significant connection between pentane and asthma, as the context provides evidence of pentane levels correlating with asthma exacerbations and recovery, indicating its potential as a biomarker for the disease.",
+        "score": 4
+    }
+}

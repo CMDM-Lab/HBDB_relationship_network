@@ -1,0 +1,10 @@
+{
+    "context": "These results are in line with the redox properties changes. It is well known that alcohol catalytic oxidation provides reaction intermediates such as aldehydes, ketons and acetic acids. The major path appears to be the direct oxidation of butanal to CO2; its oxidation via the acid is expected to be a minor path, because (1) no butanoic acid is detected and (2) CO2 starts to be produced when the butanal concentration decreases. The same reaction scheme \u201cbutanol\u2192butanal\u2192CO2\u201d has already been observed during the homogeneous oxidation of 150ppm of butanol in air. The homogeneous conversion of butanol to butanal is maximized at around 260\u00b0C whereas the maximum is lowered to 125\u00b0C in the presence of Zr0.4Ce0.6\u2212x Mn x O2 solid solutions. Fig. 5B shows the butanol conversion over Zr0.4Ce0.6\u2212x ",
+    "term_A": "Butan-1-ol",
+    "term_B": "Oxidation",
+    "llm_generation": {
+        "summary": "In this context, butan-1-ol is directly involved in oxidation reactions, where it is converted to butanal and subsequently to CO2. The oxidation process is highlighted as a significant pathway for butan-1-ol, with specific temperature conditions affecting the conversion efficiency. The study emphasizes the catalytic oxidation of butan-1-ol, indicating a clear and direct relationship between butan-1-ol and oxidation processes.",
+        "reason": "The score of 5 reflects a strong relevance, as the context explicitly discusses the oxidation of butan-1-ol, detailing its conversion to butanal and CO2, and providing insights into the reaction conditions and mechanisms involved.",
+        "score": 5
+    }
+}

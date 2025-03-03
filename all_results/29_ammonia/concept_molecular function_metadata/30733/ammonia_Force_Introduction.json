@@ -1,0 +1,10 @@
+{
+    "context": "Ammonia exists in digestate as ammonium ion ( NH 4 + ) and free ammonia ( NH 3 ). Ammonia mass transfer in stripping follows the Fick's first law of diffusion through liquid/gas phases as expressed by Lewis-Whitman model (Equation (1)) (Tao and Ukwuani, 2015). The driving force is the difference between free ammonia concentration and its saturation concentration. The fraction of free ammonia in total ammonia increases with increasing temperature as shown in Equations (2)\u2013(4) and saturation concentration decreases with increasing temperature (Green and Perry, 2007; Tillner-Roth and Friend, 1998; Smolen et\u00a0al., 1991; Bower and Bidwell, 1978; Whitfield, 1974), thus creating a greater driving force at a higher temperature for efficient stripping. Meanwhile, a lower vacuum pressure increases free ammonia fraction as shown in Equations (2) and (4). Ammonia saturation concentration changes little with vacuum in the absolute pressure range of 20.0\u2013101.3 kPa (Whitfield, 1974; Salavera et\u00a0al., 2005). ",
+    "term_A": "ammonia",
+    "term_B": "Force",
+    "llm_generation": {
+        "summary": "In this context, ammonia is discussed in relation to its mass transfer during the stripping process, where the driving force is defined as the difference between free ammonia concentration and its saturation concentration. This relationship highlights how variations in temperature and vacuum pressure influence the concentration of free ammonia, thereby affecting the driving force for its transfer. The context emphasizes the physical principles governing ammonia behavior rather than a direct biological or chemical interaction.",
+        "reason": "The score of 3 reflects a moderate relevance, as ammonia's behavior in the stripping process is directly linked to the concept of driving force, which is essential for understanding its mass transfer. However, the relationship is more about physical principles than a significant biochemical interaction.",
+        "score": 3
+    }
+}

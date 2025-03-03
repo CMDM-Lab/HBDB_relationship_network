@@ -1,0 +1,10 @@
+{
+    "context": "[3] The conversion into \u00ce\u00b2-sheets is followed by aggregation into amyloid fibers . [4] The peptide PrP (109\u00e2\u20ac\u201c141) is of particular interest because structural data are available and its aggregation properties are well documented . [5] The slightly longer peptide, PrP (109\u00e2\u20ac\u201c149), was chosen because it contains a tryptophan residue at position 145 and it would be helpful for the fluorescence measurements. [6] In mixed water/organic solvents and detergents, the peptide PrP (109\u00e2\u20ac\u201c141) assumes a stable \u00ce\u00b1-helical structure , and the random-coil structure is stable in the presence of high urea concentrations. [1] The aggregation of prion peptides was monitored by different spectroscopic measurements. [2] The peptides were unfolded in buffer at pH 4.0\u00e2\u20ac\u201c5.0 [3] containing 6 m urea and were further diluted in the same buffer without the denaturant. ",
+    "term_A": "urea",
+    "term_B": "Organic solvent product",
+    "llm_generation": {
+        "summary": "In this context, urea is mentioned as a denaturant that stabilizes the random-coil structure of the peptide PrP (109\u2013141) in the presence of high concentrations. While organic solvents are referenced in relation to the peptide's structural properties, the specific relationship between urea and organic solvent products is not directly discussed. Urea's role is primarily as a stabilizing agent rather than interacting with organic solvents in a significant manner.",
+        "reason": "The score of 2 reflects an indirect connection, as urea is involved in the structural stability of peptides in mixed solvents, but there is no detailed discussion of its relationship with organic solvent products beyond this context.",
+        "score": 2
+    }
+}

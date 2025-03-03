@@ -1,0 +1,10 @@
+{
+    "context": "Background data was derived from United States Environmental Protection Agency Building Assessment and Survey Evaluation (BASE 1994\u20131998) and the New York State Department of Health (NYSDOH) Guidance for Evaluating Soil Vapor Intrusion in the State of New York (2006). The 95th percentile was substituted for maximum levels in background data to prevent outliers from overestimating background risk. Soil vapor concentrations were compared to indoor air background levels to evaluate intrusion into the indoor air of a building structure. Exposure assessment The most frequently detected chemicals among the sampled sites were benzene, ethylbenzene, toluene, m,p-xylene, and o-xylene. Soil vapor samples were not collected at seven of the locations due to groundwater in contact with the building slab. Of the 36 structures where benzene was detected in the indoor air twenty-two were residential properties and fourteen were commercial properties. The locations, maximum benzene concentrations, and property classification (residential or commercial) summarized in Table 1 . ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both mentioned as frequently detected chemicals in soil vapor samples during an exposure assessment. They are part of a group of volatile organic compounds (VOCs) evaluated for their presence in indoor air, indicating a shared relevance in environmental health studies. However, there is no detailed discussion of their specific interactions or comparative significance beyond their co-occurrence in the assessment.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and toluene are listed together among other VOCs in the context of environmental exposure assessment, but their relationship is not elaborated upon or quantitatively analyzed.",
+        "score": 2
+    }
+}

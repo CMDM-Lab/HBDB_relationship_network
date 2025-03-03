@@ -1,0 +1,10 @@
+{
+    "context": "The results of SHED tests for the evaporative emissions of NMHC for the same typical vehicle are also shown in Table 1 in ppb C. For this type of pollution, emissions show a propane/butane ratio of 0.29, which is similar to that obtained for exhaust emissions. For evaporative and exhaust emissions, the concentration of butane is always higher than propane. The average C3/C4 ratio was 0.245. Fig. 1 shows the effect of the initial concentration in percentage (%) of propane and butane in the NMHC on the maximum ozone formed in the 11 days of the experiment. This figure was based on information given in Table 2 . In Fig. 1, as the ratio of compounds is increased, the maximum ozone production diminishes. This effect is more remarkable for propane. ",
+    "term_A": "Butane",
+    "term_B": "Ozone",
+    "llm_generation": {
+        "summary": "In this context, butane is discussed in relation to its emissions and their impact on ozone formation. The study indicates that the concentration of butane, when compared to propane, affects the maximum ozone produced during the experiment. Specifically, as the ratio of butane to propane increases, the maximum ozone production diminishes, suggesting a significant interaction between butane emissions and ozone levels in the atmosphere.",
+        "reason": "The score of 4 reflects a significant connection between butane and ozone, as the study provides evidence of how butane emissions influence ozone production. The relationship is quantitatively supported by the observed effects on maximum ozone formation based on varying concentrations of butane and propane.",
+        "score": 4
+    }
+}

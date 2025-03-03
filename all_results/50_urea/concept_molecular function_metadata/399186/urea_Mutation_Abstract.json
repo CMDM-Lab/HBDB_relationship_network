@@ -1,0 +1,10 @@
+{
+    "context": "[10] Hence, the inner membrane protein, UreI, has six transmembrane\u00e2\u20ac\u201cinserted segments, with both NH2- and COOH-termini located in the periplasm (Fig. 5B). [1] The apparent pK of UreI activation implies protonation of one or more periplasmic histidines for activation of urea transport. [2] Histidine 123, located at the boundary of H4, was mutated to arginine or glycine . [3] Expression of UreI was unaffected by this mutation, but acid activation of urea uptake disappeared (1.83 \u00c2\u00b1 0.20 pmol per oocyte at pH 5.0 versus 1.75 \u00c2\u00b1 0.34 pmol per oocyte at pH 7.5). [4] The protonated state of this histidine is important for acid activation of transport. [1] Acid survival of prokaryotes depends on the maintenance of suitable levels of cytoplasmic and periplasmic pH to maintain their PMF.Helicobacter pylori survives between pH 4.0 and 8.5 in the absence of urea and grows between pH 6.0 and 8.0 . [2] A neutral pH\u00e2\u20ac\u201coptimum urease must be shielded from gastric acidity and prevented from being active at neutral pH to avoid lethal alkalinization . ",
+    "term_A": "urea",
+    "term_B": "Mutation",
+    "llm_generation": {
+        "summary": "In this context, urea is indirectly related to mutation through the study of the UreI protein, which is involved in urea transport in prokaryotes. A specific mutation of histidine 123 to arginine or glycine was investigated, revealing that while the expression of UreI remained unchanged, the mutation affected the acid activation of urea uptake. This indicates that the mutation has functional implications for urea transport, although urea itself is not directly discussed as being affected by the mutation.",
+        "reason": "The score of 3 reflects a moderate relevance, as the mutation of histidine 123 impacts the function of UreI in urea transport, linking urea and mutation through functional consequences rather than direct interaction.",
+        "score": 3
+    }
+}

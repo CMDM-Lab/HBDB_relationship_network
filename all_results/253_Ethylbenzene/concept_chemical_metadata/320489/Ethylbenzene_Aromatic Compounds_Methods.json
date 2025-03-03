@@ -1,0 +1,10 @@
+{
+    "context": "A semi-industrial bioscrubber unit was then produced, and the water/cutting oil system was used to test the process on a larger scale. VOCs mixtures Two mixtures were used. The first one (1) was prepared by mixing equal liquid masses of the following 11 compounds: \u2022 Oxygenated compounds: methanol, acetone, methyl ethyl ketone (MEK), methyl isobutyl ketone (MIBK), ethyl acetate (EA), butyl acetate (BA) [Carbo Erba Reagenti, 99%]. \u2022 Aromatic compounds: toluene, ethylbenzene (EB), p-xylene [Carbo Erba Reagenti, 99%]. \u2022 Halogenated compounds: 1,2 dichloroethane (DCE) and dichloromethane (DCM) [Carbo Erba Reagenti, 99%]. For the second mixture (2), p-xylene was replaced by xylene [Carbo Erba Reagenti, 99%].Laboratory unit In order to determine the apparent mass transfer coefficient and concentration at saturation of the VOCs, the following setup was used. An impinger, (500mL) which contained a 200mL water-cutting oil mixture, was fed by a gas flow (60Lh\u22121) containing VOCs (Fig. 1 ). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Aromatic Compounds",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is categorized as one of the aromatic compounds included in a mixture of volatile organic compounds (VOCs) used for testing in a semi-industrial bioscrubber unit. The mention of ethylbenzene alongside other aromatic compounds like toluene and p-xylene indicates its classification within this group, but there is no detailed discussion of its specific properties or interactions with the other compounds.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene is identified as part of the broader category of aromatic compounds. However, the context does not provide any specific interactions or functional relationships between ethylbenzene and the other aromatic compounds mentioned.",
+        "score": 2
+    }
+}

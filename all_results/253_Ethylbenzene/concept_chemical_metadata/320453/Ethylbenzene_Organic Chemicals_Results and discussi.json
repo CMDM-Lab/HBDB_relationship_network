@@ -1,0 +1,10 @@
+{
+    "context": "Not including BZ, the data showed that the target VOCs do not seem to compete with each other when sorbed onto tire powder for the range of concentrations tested. This indicates that partitioning is the dominant sorption mechanism. Our results are consistent with the observation that the individual isotherms for atrazine, prometon, and TCE in the rubbery polymers such as medium-density polyethylene (MDPE), cellulose, and chitin are linear, and there is no competition between atrazine and TCE. Joo et al. investigated the mass transfer of 10 organic compounds such as BZ, EB, TOL, TCE, PCE, and so on into high-density polyethylene (HDPE) geomembrane. They reported that organic compounds do not significantly compete with each other during the sorption into the HDPE geomembrane in dilute solutions with individual organic chemical concentrations below 0.64mM. For the diverged case of BZ, sorption experiments were carried out in triplicate at a constant initial concentration of BZ (40mg/L) varying the concentration of EB from 20 to 100mg/L. All vials contained the identical amount of tire powder (0.5g) and VOC solution (40mL), and the results are presented in Fig. 3 . ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Organic Chemicals",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene (EB) is mentioned as one of the organic compounds studied for its sorption behavior onto tire powder and high-density polyethylene (HDPE) geomembrane. The discussion focuses on the interactions and mass transfer of various organic chemicals, including EB, indicating its classification as an organic chemical. However, the relationship is primarily about its behavior in a mixture rather than a specific interaction with the broader category of organic chemicals.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene is categorized as an organic chemical and is part of a study involving multiple organic compounds. However, there is no detailed discussion of its specific interactions or significance beyond its classification.",
+        "score": 2
+    }
+}

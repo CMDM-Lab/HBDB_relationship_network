@@ -1,0 +1,10 @@
+{
+    "context": "[4] Furthermore, known monoterpenes are unlikely to contribute; we measured the most prominent monoterpenes (Table 1), which contributed less than 0.5 s\u00e2\u20ac\u201c1 to the OH reactivity. [5] Known but unmeasured sesquiterpenes could be responsible, as could monoterpene reaction products, but their total OH reactivity would need to be 10 times that of the monoterpenes, a large difference. [1] Some biogenic emissions, such as isoprene and some monoterpenes and alcohols, are sunlight- and temperature-dependent . [2] If the missing OH reactivity were due to isoprene or a light-dependent monoterpene or alcohol, or to a short-lived reaction product of these emissions, then it should also depend on light. [3] It does not. [4] First, when the isoprene emission still correlates with light, early before 8 a.m. and late in the day after 5 p.m., the missing OH reactivity is independent of light. [5] Second, between midnight and 4 a.m., when isoprene's contribution to the OH reactivity is much less than 1 s\u00e2\u20ac\u201c1, the missing OH reactivity still depends on temperature. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Monoterpenes",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene is mentioned alongside monoterpenes as part of a discussion on biogenic emissions and their contributions to hydroxyl (OH) reactivity. While both are types of volatile organic compounds (VOCs) that can influence atmospheric chemistry, the text does not provide a direct relationship or interaction between 2-methylbuta-1,3-diene and monoterpenes, indicating that they are considered separately in terms of their contributions to OH reactivity.",
+        "reason": "The score of 2 reflects an indirect connection, as both 2-methylbuta-1,3-diene and monoterpenes are discussed in the context of biogenic emissions and their effects on OH reactivity, but there is no detailed interaction or significant relationship established between them.",
+        "score": 2
+    }
+}

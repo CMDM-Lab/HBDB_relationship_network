@@ -1,0 +1,10 @@
+{
+    "context": "[1] Quantitative industrial hygiene samples were not available for all year/HEG combinations. [2] Therefore, methodology was developed to systematically complete the gaps in quantitative exposure assessment. [3] Imputation methods are available as an online supplement. [1] All unique collapsed department and job code combinations were given qualitative category assignments for chemical and physical forms of beryllium based upon process and job descriptions, chemicals/material inventories, information from plant personnel, and documentation obtained from the plant history database described earlier. [2] Each entry in the JEM received a dichotomous (yes/no) assignment for beryllium form, physical state, and other risk factors (ie, asbestos, acid mist, etc). [3] Since all qualitative exposure metrics were assigned by NIOSH researchers, no imputation methodology was needed. [1] Jobs with extensive quantitative monitoring data were selected for analysis of temporal changes. ",
+    "term_A": "Beryllium",
+    "term_B": "Chemicals",
+    "llm_generation": {
+        "summary": "In this context, beryllium is categorized as a chemical that is assessed for exposure risks in various industrial settings. The methodology developed for exposure assessment includes qualitative categorization of beryllium based on its physical forms and associated risk factors. Beryllium is thus treated as a specific chemical of interest within a broader analysis of chemical exposure in the workplace.",
+        "reason": "The score of 2 reflects an indirect connection, as beryllium is classified as a chemical and discussed in the context of exposure assessment. However, there is no detailed interaction or specific functional relationship elaborated between beryllium and other chemicals.",
+        "score": 2
+    }
+}

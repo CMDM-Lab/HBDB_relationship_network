@@ -1,0 +1,10 @@
+{
+    "context": "Analytical Procedures Silage samples were thoroughly mixed after withdrawal from farm and laboratory silos, and frozen at \u221220\u00b0C until chemical analysis. Silage extracts were prepared by blending 50g of silage with 200mL of distilled water. After addition of 1mL of toluene and storage at 4\u00b0C in the refrigerator overnight, the extracts were subsequently filtered through a folded paper filter and thereafter through a microfilter (0.45\u00b5m). Lactic acid was determined by HPLC and refraction index detection (Weiss and Kaiser, 1995), whereas acetic acid, ethanol, 1,2-propanediol, and n-propanol were detected by GC using a free fatty acid phase (Macherey-Nagel, D\u00fcren, Germany) column and flame ionization detector (FID; Weiss, 2001). The limit of detection for each parameter was 0.01% of fresh matter. In experiments 1 and 2, ethyl esters of lactate and acetate were analyzed according to Adam et al. (1995). After water steam distillation of the samples, individual components were measured by GC and the FID detector coupled with a capillary and packed glass column. ",
+    "term_A": "Propane-1,2-diol",
+    "term_B": "1-Propanol",
+    "llm_generation": {
+        "summary": "In this context, propane-1,2-diol (also known as propylene glycol) and 1-propanol are both mentioned as components detected in the chemical analysis of silage samples. They are analyzed using gas chromatography (GC) alongside other compounds like lactic acid and ethanol. However, there is no direct discussion of their relationship or interaction within the context provided, indicating they are simply part of the same analytical procedure without further relevance to each other.",
+        "reason": "The score of 1 reflects a very low relationship, as propane-1,2-diol and 1-propanol are merely listed as substances analyzed in the same study without any indication of interaction or functional relevance.",
+        "score": 1
+    }
+}

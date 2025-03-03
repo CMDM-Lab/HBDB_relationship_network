@@ -1,0 +1,10 @@
+{
+    "context": "DAI presumes analysis of volatile organic compounds in water samples by direct injection of water sample into a chromatographic column. The sample pre-treatment and pre-concentration steps elimination helps to minimize the losses of volatile analytes as well as possibility of sample contamination. The major disadvantage is that water is not compatible with stationary film of capillary columns and with flame ionization detector (FID), as well [5\u20137]. The volatile aromatic compounds such as benzene, toluene, ethylbenzene, ortho-, meta-, para-xylene (BTEX) are fuel components commonly found in ground water contamination. The normalized quality limit for drinking water according EPA is for benzene 5, toluene 1000, ethylbenzene 700 and for xylenes 10000\u03bcgl\u22121, respectively. The analysis of BTEX in aqueous samples is usually achieved by purge-and-trap (PTI) gas chromatography (GC). In order to determine water samples with concentration of BTEX on trace levels without any pre-treatment, it is necessary to inject large volumes of 0.1\u20131ml of water sample, needed to be prevented from entering capillary column of gas chromatograph. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "4-xylene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and 4-xylene are both identified as volatile aromatic compounds that are part of the BTEX group, commonly found in groundwater contamination. They are mentioned together in the context of analyzing water samples for these compounds, indicating their relevance as contaminants but without a detailed discussion of their specific interactions or relationships beyond their classification as BTEX components.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and 4-xylene are grouped together as part of the BTEX compounds in groundwater contamination. However, there is no direct interaction or specific functional relationship discussed between them in the context.",
+        "score": 2
+    }
+}

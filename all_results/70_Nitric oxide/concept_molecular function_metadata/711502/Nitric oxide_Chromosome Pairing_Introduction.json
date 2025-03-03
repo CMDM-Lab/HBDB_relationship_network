@@ -1,0 +1,10 @@
+{
+    "context": "[1] Synapse loss, rather than cell death, is the main factor underlying cognitive decline in Alzheimer's disease (AD) (; ), Parkinson's disease (PD) , Huntington's disease (HD) , multiple sclerosis (MS) , and HIV dementia  in patients and/or in animal models. [2] Synaptic stripping from the motoneuron surface also occurs in the progression of several motoneuron pathologies, such as amyotrophic lateral sclerosis (ALS), progressive muscular atrophy, and traumatically damaged adult motor axons (; ; ; ; ). [3] Understanding the molecular basis underlying this neurodegenerative event is of central interest for the development of new therapeutic tools. [4] Several findings point to the short half-life gas nitric oxide (NO) as a key molecule in detrimental synaptic changes. [5] Upregulation of neuronal NO synthase (nNOS) is a common hallmark, occurring in motoneurons and reactive astrocytes in ALS (; ; ), in neurons and/or glial cells in PD and AD (; ; ; ), and in the striatum of HD models at early stages (; ). [6] iNOS (inducible NOS) is also upregulated in glial cells in these diseases as well as in MS and HIV dementia . [7] Additionally, NO participates in projection refinement during development  and in synapse loss suffered by motoneurons after motor nerve injury (; ). ",
+    "term_A": "Nitric oxide",
+    "term_B": "Chromosome Pairing",
+    "llm_generation": {
+        "summary": "In this context, nitric oxide (NO) is highlighted as a key molecule involved in synaptic changes and neurodegenerative processes, particularly in diseases like Alzheimer's and ALS. However, there is no direct mention or discussion of chromosome pairing in relation to NO. The context focuses on the role of NO in synaptic loss rather than any genetic or chromosomal interactions.",
+        "reason": "The score of 1 reflects a lack of any relevant relationship between nitric oxide and chromosome pairing, as they are mentioned in the same context but without any direct connection or discussion of their interaction.",
+        "score": 1
+    }
+}

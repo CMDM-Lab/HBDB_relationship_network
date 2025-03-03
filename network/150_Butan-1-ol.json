@@ -1,0 +1,1188 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Butan-1-ol",
+                    "label": "Butan-1-ol",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butan-1-ol",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butan-1-ol",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butan-1-ol",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butan-1-ol",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butan-1-ol",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butan-1-ol",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butan-1-ol",
+                        "label": "Butan-1-ol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Dermo-",
+                        "label": "Dermo-",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Dermo-",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butan-1-ol",
+                        "label": "Butan-1-ol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metals",
+                        "label": "Metals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "solid solution",
+                        "label": "solid solution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "butyraldehyde",
+                        "label": "butyraldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "vanadium pentoxide",
+                        "label": "vanadium pentoxide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxides",
+                        "label": "Oxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "chlorobenzene",
+                        "label": "chlorobenzene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Metals",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Toluene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Carbon",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Aldehydes",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "solid solution",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "butyraldehyde",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Chemicals",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "vanadium pentoxide",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Acetaldehyde",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Oxides",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "chlorobenzene",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butan-1-ol",
+                        "label": "Butan-1-ol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "catalyst",
+                        "label": "catalyst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "enzyme activity",
+                        "label": "enzyme activity",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "catalyst",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Oxidation",
+                        "score": 13
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "Inspiration function",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butan-1-ol",
+                        "target": "enzyme activity",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butan-1-ol",
+                        "label": "Butan-1-ol",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butan-1-ol",
+                        "label": "Butan-1-ol",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butan-1-ol",
+                        "label": "Butan-1-ol",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Dermo-": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Dermo-",
+                        "label": "Dermo-",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Dermo-_Introduction.json",
+                        "label": "In this context, Butan-1-ol is discussed in relation to occupational exposure, particularly through dermal contact in workplaces where it is produced or used. The mention of 'dermo-' implies a focus on skin exposure and its potential effects, such as ocular symptoms and central nervous system depression, indicating a direct relevance to health risks associated with Butan-1-ol exposure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dermo-",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Dermo-_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Metals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metals",
+                        "label": "Metals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Metals_Introduction.json",
+                        "label": "In this context, butan-1-ol is studied as a representative model compound for alcohols in the oxidation of a volatile organic compound (VOC) mixture, where various group VIII metal catalysts, specifically platinum (Pt) and palladium (Pd), are evaluated for their effectiveness in oxidizing butan-1-ol. The research highlights the role of these metals in enhancing the oxidation process, indicating a significant relationship between butan-1-ol and the metal catalysts used in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metals",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Metals_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "307122",
+                        "label": "2D bitmapping approach for identification and quantitation of common base flavor adulterants using surface acoustic wave arrays and artificial neural network data analysis.\nRM. Sobel, DS. Ballantine\nAnal. Chim. Acta 2008 Feb;608(1):79-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18206997"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "307122_Butan-1-ol_Toluene_Experimental.json",
+                        "label": "In this context, butan-1-ol and toluene are both mentioned as solvents used for vapor generation in a study involving artificial flavor contamination and sensor technology. However, there is no detailed discussion of their specific interactions or comparative significance within the study. They are simply listed among other solvents without any indication of a direct relationship or functional connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "307122",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "307122",
+                        "target": "307122_Butan-1-ol_Toluene_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Carbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Carbon_Results and discussi.json",
+                        "label": "In this context, butan-1-ol is discussed in relation to its oxidation process, where it is converted to carbon dioxide (CO2) as the primary product. The oxidation of butan-1-ol involves the formation of butanal as a significant intermediate, indicating a direct chemical transformation that ultimately leads to the release of carbon in the form of CO2. This highlights the relationship between butan-1-ol and carbon, as the oxidation process results in carbon being released as a product.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Carbon_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Aldehydes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Aldehydes_Results and discussi.json",
+                        "label": "In this context, butan-1-ol is oxidized to produce butanal, which is identified as the major intermediate product in the oxidation process. Other aldehydes, such as propanal and ethanal, are also mentioned but are produced in negligible amounts. This indicates a direct relationship between butan-1-ol and aldehydes, particularly butanal, as a significant product of its oxidation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aldehydes",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Aldehydes_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "solid solution": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "solid solution",
+                        "label": "solid solution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_solid solution_Conclusion.json",
+                        "label": "In this context, butan-1-ol is evaluated in relation to the Zr0.4Ce0.6−x Mn x O2 solid solutions, which serve as catalysts for the total oxidation of butanol. The study highlights the catalytic performance of these solid solutions, particularly at a specific composition (x = 0.36), achieving a high conversion rate of 90% for butan-1-ol at 175°C. The relationship is significant as the solid solution's properties directly influence the catalytic activity for butanol oxidation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "solid solution",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_solid solution_Conclusion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "butyraldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "butyraldehyde",
+                        "label": "butyraldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_butyraldehyde_Results and discussi.json",
+                        "label": "In this context, butan-1-ol and butyraldehyde are related through the catalytic oxidation process where butan-1-ol is oxidized to form butyraldehyde (butanal) as an intermediate. The reaction scheme indicates that butan-1-ol undergoes conversion to butanal, which is then further oxidized to CO2. This highlights a direct chemical transformation between the two compounds during the oxidation process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "butyraldehyde",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_butyraldehyde_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Chemicals_Introduction.json",
+                        "label": "In this context, butan-1-ol is identified as a chemical that enters the environment through various industrial processes, including its use as a solvent in paints and coatings. The discussion highlights the potential occupational exposure risks associated with butan-1-ol, categorizing it as a chemical of concern due to its effects on human health, particularly in industrial settings. However, the relationship is primarily about its classification as a chemical and its environmental impact rather than a specific interaction with other chemicals.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Chemicals_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "vanadium pentoxide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "vanadium pentoxide",
+                        "label": "vanadium pentoxide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_vanadium pentoxide_Introduction.json",
+                        "label": "In this context, butan-1-ol is mentioned as a volatile organic compound (VOC) undergoing oxidation, while vanadium pentoxide (V2O5) is part of a catalyst system (V2O5–WO3/TiO2) used for the oxidation of various compounds, including butanol. The study highlights the catalytic activity of vanadium pentoxide in facilitating the oxidation of butan-1-ol, indicating a direct relationship where V2O5 enhances the reaction efficiency for butanol oxidation compared to other VOCs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "vanadium pentoxide",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_vanadium pentoxide_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Acetaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Acetaldehyde_Results and discussi.json",
+                        "label": "In this context, butan-1-ol is discussed in relation to its oxidation process, where butanal is identified as a major intermediate product. While acetaldehyde is mentioned as another aldehyde produced during oxidation, it is noted to be in negligible concentrations compared to butanal. Thus, the relationship between butan-1-ol and acetaldehyde is indirect, as both are products of oxidation but with butanal being the primary focus in the conversion process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acetaldehyde",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Acetaldehyde_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Oxides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxides",
+                        "label": "Oxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Oxides_Introduction.json",
+                        "label": "In this context, butan-1-ol is mentioned in relation to its oxidation experiments using various catalytic systems, specifically focusing on the performance of mixed metal oxides like Zr–Ce–Mn–O. The study aims to optimize these oxides for the complete oxidation of butan-1-ol, indicating a direct relationship where the oxides serve as catalysts for the oxidation process of butan-1-ol. This suggests a significant interaction between the compound and the oxides in the context of catalytic oxidation reactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxides",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Oxides_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "chlorobenzene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chlorobenzene",
+                        "label": "chlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "307122",
+                        "label": "2D bitmapping approach for identification and quantitation of common base flavor adulterants using surface acoustic wave arrays and artificial neural network data analysis.\nRM. Sobel, DS. Ballantine\nAnal. Chim. Acta 2008 Feb;608(1):79-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18206997"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "307122_Butan-1-ol_chlorobenzene_Results and discussi.json",
+                        "label": "In this context, butan-1-ol and chlorobenzene are both mentioned in relation to their classification reliability in a study comparing equilibrium response and bitmap data sets. The results indicate that both compounds show significant improvements in identification reliability when using bitmap data, suggesting that their properties can be effectively distinguished through advanced analytical methods. However, the context does not delve into any specific chemical interactions or biological implications between butan-1-ol and chlorobenzene.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "307122_Butan-1-ol_chlorobenzene_Experimental.json",
+                        "label": "In this context, butan-1-ol and chlorobenzene are both mentioned as solvents used for vapor generation in a study involving complex mixture characterization. However, there is no detailed discussion of their specific interactions or relationships beyond their inclusion in a list of solvents. They are part of a broader investigation into flavor contamination and sensor technology, but their individual roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chlorobenzene",
+                        "target": "307122",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "307122",
+                        "target": "307122_Butan-1-ol_chlorobenzene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "307122",
+                        "target": "307122_Butan-1-ol_chlorobenzene_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "catalyst": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "catalyst",
+                        "label": "catalyst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_catalyst_Results and discussi.json",
+                        "label": "In this context, butan-1-ol is discussed in relation to its conversion efficiency over various catalysts, particularly in the oxidation of volatile organic compounds (VOCs). The text highlights the performance of different catalytic systems, including commercial catalysts, in achieving high conversion rates of butan-1-ol at specific temperatures. This indicates a direct relationship where the catalytic properties significantly influence the oxidation process of butan-1-ol.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_catalyst_Introduction.json",
+                        "label": "In this context, butan-1-ol is mentioned as a volatile organic compound (VOC) undergoing oxidation in the presence of various catalysts, specifically focusing on the effectiveness of group VIII metal catalysts like Pt and Pd, as well as mixed metal oxides like Zr–Ce–Mn–O. The study aims to optimize catalyst performance for the complete oxidation of butan-1-ol, indicating a direct relationship where the catalyst is essential for the oxidation process of butan-1-ol.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "catalyst",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_catalyst_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_catalyst_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Oxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Oxidation_Results and discussi.json",
+                        "label": "In this context, butan-1-ol is directly involved in oxidation reactions, where it is converted to butanal and subsequently to CO2. The oxidation process is highlighted as a significant pathway for butan-1-ol, with specific temperature conditions affecting the conversion efficiency. The study emphasizes the catalytic oxidation of butan-1-ol, indicating a clear and direct relationship between butan-1-ol and oxidation processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Oxidation_Conclusion.json",
+                        "label": "In this context, butan-1-ol is discussed in relation to its total oxidation, which is catalyzed by Zr0.4Ce0.6−x Mn x O2 solid solutions. The study highlights the catalytic activity of these materials in facilitating the oxidation of butan-1-ol, indicating a direct relationship where the oxidation process is a key focus of the research. The presence of specific redox couples enhances the catalytic efficiency for the complete oxidation of butan-1-ol, demonstrating a significant interaction between the compound and the oxidation process.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Oxidation_Introduction.json",
+                        "label": "In this context, butan-1-ol is discussed in relation to its oxidation process using various catalytic systems, particularly the V2O5–WO3/TiO2 catalyst. The study focuses on the catalytic oxidation of butan-1-ol, comparing its activation energy with other volatile organic compounds (VOCs). This indicates a direct relationship where the oxidation of butan-1-ol is a key aspect of the research, highlighting its significance in catalytic studies.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Oxidation_Results and discussi.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Oxidation_Conclusion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Oxidation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_Inspiration function_Introduction.json",
+                        "label": "In this context, butan-1-ol is discussed primarily in relation to its environmental exposure and potential health effects, particularly through inhalation in occupational settings. While the text mentions symptoms such as central nervous system depression and ocular issues, it does not explicitly connect these effects to the inspiration function or respiratory health. Therefore, the relationship between butan-1-ol and inspiration function is implied but not directly addressed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_Inspiration function_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "enzyme activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "enzyme activity",
+                        "label": "enzyme activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222",
+                        "label": "Removal of oxygenated volatile organic compounds by catalytic oxidation over Zr-Ce-Mn catalysts.\nS. Azalim, M. Franco, R. Brahmi, JM. Giraudon, JF. Lamonier\nJ. Hazard. Mater. 2011 Apr;188(1-3):422-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21354699"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "306222_Butan-1-ol_enzyme activity_Conclusion.json",
+                        "label": "In this context, butan-1-ol is mentioned in relation to its catalytic oxidation, which implies a connection to enzyme activity involved in the oxidation process. However, the specific enzyme activity is not detailed or quantified, and the focus is primarily on the catalytic properties of the synthesized solid solutions rather than a direct relationship with enzyme activity. Thus, while there is an implied connection, it lacks explicit discussion.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "enzyme activity",
+                        "target": "306222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "306222",
+                        "target": "306222_Butan-1-ol_enzyme activity_Conclusion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        }
+    }
+}

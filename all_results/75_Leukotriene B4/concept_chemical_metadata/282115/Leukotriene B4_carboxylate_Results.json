@@ -1,0 +1,10 @@
+{
+    "context": "The intraclass correlation coefficient, expressing between-day variations in LTB4 measurements in EBC, was 0.89. Quantitative analysis of LTB4 in EBC was performed in MS2 mode in order to increase specificity. The mass spectra of LTB4 and internal standard LTB4-d4 showed a base peak at m/z 335 for endogenous LTB4 and m/z 339 for internal standard LTB4-d4, corresponding to molecular ions. The most abundant product ions obtained by collision-induced decomposition of the carboxylate anion [M\u2212H]\u2212 derived from LTB4 following ESI were m/z 195 and 317 (Fig. 5 ). To measure LTB4 in EBC, after fragmentation of the parent ions m/z 335 (endogenous LTB4) and m/z 339 (deuterated internal standard) with a collision energy of 17 and 19%, respectively, the transition 335\u2192195 m/z and 339\u2192197 m/z was monitored (Fig. 6 ). \u03b1-Amylase concentrations (<22mU/ml) were not detected in any study sample, excluding significant salivary contamination. LTB4 concentrations in EBC were detected in all study samples except for 7 steroid naive atopic children with asthma who were receiving the higher dose of inhaled fluticasone (200\u03bcg/day) (Fig. 7A). ",
+    "term_A": "Leukotriene B4",
+    "term_B": "carboxylate",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is analyzed through mass spectrometry, where the carboxylate anion [M\u2212H]\u2212 derived from LTB4 is a key component in the fragmentation process. The mass spectra indicate that the carboxylate form of LTB4 is crucial for its detection and quantification in exhaled breath condensate (EBC), highlighting a direct relationship between LTB4 and its carboxylate form in analytical chemistry methods.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and carboxylate, as the context discusses the role of the carboxylate anion in the mass spectrometric analysis of LTB4, indicating a clear functional relationship in the detection process.",
+        "score": 4
+    }
+}

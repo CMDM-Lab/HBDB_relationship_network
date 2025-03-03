@@ -1,0 +1,10 @@
+{
+    "context": "2.3.6 Metabolic and kinetic studies Metabolism of MTBE in rat liver microsomes, P450 showed that equimolar amounts of TBA and formaldehyde were formed by oxidative demethylation (Brady et al., 1990; Hong et al., 1997b) (Fig. 1). Formaldehyde is highly reactive and is most likely completely metabolized in the liver. TBA is further oxidized into 2-methyl-1,2,propanediol and \u03b1-hydroxyisobutyric acid (Hutcheon et al., 1996; Bernauer et al., 1998). In human liver, CYP2A6 is the major P450 isoform responsible for the metabolism of MTBE, ETBE and TAME (Hong et al., 1999). Mass balance studies in rats using radiolabeled MTBE (intravenous, iv, oral or dermal) showed the majority of MTBE to be rapidly exhaled (20\u201370% depending on the dose), the remainder being eliminated through the urine (Miller et al., 1997). About 1% of the radioactivity was found in the feces and 2% in the carcass in all groups by 48 h after dosing in all routes of exposure (BioResearch Laboratories, 1990a,b; Table 6 ). The excretion pattern following inhalation is similar to the iv and oral dosing. ",
+    "term_A": "2-ethoxy-2-methylpropane",
+    "term_B": "ethyl tert-butyl ether",
+    "llm_generation": {
+        "summary": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned in relation to their metabolism in the liver, particularly involving the P450 enzyme system. While the focus is primarily on the metabolism of MTBE, the mention of ETBE indicates a shared metabolic pathway involving CYP2A6. However, the specific relationship between 2-ethoxy-2-methylpropane and ETBE is not elaborated upon, suggesting a general connection rather than a detailed interaction.",
+        "reason": "The score of 2 reflects an indirect connection between 2-ethoxy-2-methylpropane and ethyl tert-butyl ether, as they are both involved in similar metabolic processes but lack a detailed discussion of their specific interactions or comparative significance in the context provided.",
+        "score": 2
+    }
+}

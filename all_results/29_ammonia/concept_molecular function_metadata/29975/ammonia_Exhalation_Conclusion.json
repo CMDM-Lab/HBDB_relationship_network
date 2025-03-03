@@ -1,0 +1,10 @@
+{
+    "context": "The concentrations of ETS markers (RSP, UVPM, FPM, solanesol, nicotine, 3-ethenylpyridine), volatile organic compound (VOC: toluene), total volatile organic compounds (TVOC), and carbon monoxide CO were below the limits of detection (LOD) or limits of quantification (LOQ) in both the non-smoking and the smoking areas when using the NTV product in the simulation chamber. The concentrations of ammonia and carbonyls (formaldehyde, acetaldehyde, and acetone) were at the same level as when people only were present in the chamber, i.e. not using any tobacco products. Consequently, under the simulations tested, the NTV product had no effect on the IAQ in both the non-smoking area as well as the smoking area. There was no significant increase in the levels of formaldehyde, acetone or ammonia in exhaled breath following NTV use and was LOQ level's nicotine although those constituents were included in mainstream of NTV. This fact must be a significant contributing factor to the finding that the use of the NTV had no effect on IAQ. Conflicts of interest All authors are employees of Japan Tobacco Inc. and this study was funded by Japan Tobacco Inc. This research did not receive any specific grant from public, commercial, or not-for-profit funding agencies. ",
+    "term_A": "ammonia",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, ammonia is mentioned in relation to exhalation, specifically noting that there was no significant increase in ammonia levels in exhaled breath following the use of a non-tobacco vapor (NTV) product. This indicates that ammonia concentrations remained stable and did not contribute to changes in indoor air quality (IAQ) during the study, suggesting a lack of direct relationship between ammonia and exhalation in the context of NTV use.",
+        "reason": "The score of 2 reflects an indirect connection, as ammonia is mentioned in the context of exhalation but lacks detailed discussion on their relationship. The focus is more on the absence of change in ammonia levels rather than a significant interaction.",
+        "score": 2
+    }
+}

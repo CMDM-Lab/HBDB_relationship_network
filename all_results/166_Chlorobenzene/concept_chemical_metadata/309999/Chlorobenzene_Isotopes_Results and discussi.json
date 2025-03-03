@@ -1,0 +1,10 @@
+{
+    "context": "If we compare the calibration curves between compounds of different groups, the analyte selectivity of the fiber still can be explained, except for 1,1-DCE and CT, by K H. For the low sensitivity compounds (MCB, 1,1-DCE, cis-DCE, CT, CF and DCM) this relation is valid from a minimum amount of carbon in the aqueous standard of approximately 100nmol. In this case, the relation with the other factors is not clear. However, the compounds which showed the calibration curves with highest linearity (PCE, TCE, toluene and MCB) are the compounds with lowest P 0. To test if the competition process produces an isotopic effect on C isotopes, aqueous standard solutions of selected compounds at different concentration were prepared with the standard stock solutions P10 and P10-C (Fig. 3). When an analyte has the same concentration in two aqueous standard solutions, one prepared with the stock solution P10 and the other with P10-C, the total concentration of VOCs in each standard will be different. The calibration curves of PCE and TCE (Fig. 4 ) did not show significant differences, despite the reduction of their molar fraction and the increase of VOCs concentration, in 147.0%, in the standards P10-C compared to P10. This fact indicates that these compounds have a high affinity to the fiber. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "Isotopes",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is mentioned alongside other volatile organic compounds (VOCs) in relation to calibration curves and isotopic effects on carbon isotopes. However, the discussion does not provide a direct relationship between chlorobenzene and isotopes, as it primarily focuses on the calibration and selectivity of various compounds without detailing how chlorobenzene specifically interacts with isotopes or their effects.",
+        "reason": "The score of 2 reflects an indirect connection, as chlorobenzene is part of a broader discussion on VOCs and isotopic effects, but there is no specific interaction or detailed relationship established between chlorobenzene and isotopes in the context provided.",
+        "score": 2
+    }
+}

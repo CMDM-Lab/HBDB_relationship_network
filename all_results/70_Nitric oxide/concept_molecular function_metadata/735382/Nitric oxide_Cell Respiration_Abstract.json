@@ -1,0 +1,10 @@
+{
+    "context": "[3] Section 1734 solely to indicate this fact. [1] \u00e2\u2020\u00b5\u00e2\u20ac\u00a1 To whom proofs and reprint requests should be addressed: Dept. of Microbiology, Immunology, and Molecular Genetics, UCLA School of Medicine, 10833 Le Conte Ave., Los Angeles, CA 90095-1747. [2] Tel.: 310-825-2233; Fax: 310-206-3865;E-mail: bbonavida@mednet.ucla.edu. [1] Nitric oxide (NO) plays a key role in many physiological and pathophysiological events, including the control of cell respiration. [2] Both reversible and irreversible inhibition of mitochondrial respiration have been reported following the generation of NO by cells. [3] We have exposed the murine macrophage cell line J774 to high concentrations of NO, such as are generated in some pathological conditions, and determined their effect on oxygen consumption. [4] We observed a persistent inhibition of respiration which was due to a redox-dependent, progressive inhibition of complex I activity. ",
+    "term_A": "Nitric oxide",
+    "term_B": "Cell Respiration",
+    "llm_generation": {
+        "summary": "In this context, nitric oxide (NO) is highlighted as a significant regulator of cell respiration, influencing mitochondrial function. The study indicates that high concentrations of NO can lead to both reversible and irreversible inhibition of mitochondrial respiration, particularly affecting complex I activity. This suggests that NO plays a critical role in modulating oxygen consumption in cells, especially under pathological conditions.",
+        "reason": "The score of 5 reflects a direct and critical relationship between nitric oxide and cell respiration, as the context discusses NO's role in inhibiting mitochondrial respiration and its impact on oxygen consumption, supported by experimental observations.",
+        "score": 5
+    }
+}

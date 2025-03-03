@@ -1,0 +1,642 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Propane-1,2-diol",
+                    "label": "Propane-1,2-diol",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Propane-1,2-diol",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Propane-1,2-diol",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Propane-1,2-diol",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Propane-1,2-diol",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Propane-1,2-diol",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Propane-1,2-diol",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propane-1,2-diol",
+                        "label": "Propane-1,2-diol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Autoimmune Syndrome Type II, Polyglandular",
+                        "label": "Autoimmune Syndrome Type II, Polyglandular",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Propane-1,2-diol",
+                        "target": "Autoimmune Syndrome Type II, Polyglandular",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propane-1,2-diol",
+                        "label": "Propane-1,2-diol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Esters",
+                        "label": "Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Propylene Glycols",
+                        "label": "Propylene Glycols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Propionic Acids",
+                        "label": "Propionic Acids",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1-Propanol",
+                        "label": "1-Propanol",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Propane-1,2-diol",
+                        "target": "Esters",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Propane-1,2-diol",
+                        "target": "Propylene Glycols",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Propane-1,2-diol",
+                        "target": "Propionic Acids",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Propane-1,2-diol",
+                        "target": "1-Propanol",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propane-1,2-diol",
+                        "label": "Propane-1,2-diol",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Fermentation",
+                        "label": "Fermentation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Propane-1,2-diol",
+                        "target": "Fermentation",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Propane-1,2-diol",
+                        "target": "Process",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propane-1,2-diol",
+                        "label": "Propane-1,2-diol",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propane-1,2-diol",
+                        "label": "Propane-1,2-diol",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propane-1,2-diol",
+                        "label": "Propane-1,2-diol",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Autoimmune Syndrome Type II, Polyglandular": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Autoimmune Syndrome Type II, Polyglandular",
+                        "label": "Autoimmune Syndrome Type II, Polyglandular",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900",
+                        "label": "Effects of air exposure, temperature and additives on fermentation characteristics, yeast count, aerobic stability and volatile organic compounds in corn silage.\nK. Weiss, B. Kroschewski, H. Auerbach\nJ. Dairy Sci. 2016 Oct;99(10):8053-8069.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27497899"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_Autoimmune Syndrome Type II, Polyglandular_Discussion.json",
+                        "label": "In this context, Propane-1,2-diol is mentioned as a fermentation byproduct associated with the activity of Lactobacillus buchneri in corn silage. However, there is no direct or implied relationship to Autoimmune Syndrome Type II, Polyglandular. The discussion focuses on fermentation processes rather than any biological or medical implications related to autoimmune conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Autoimmune Syndrome Type II, Polyglandular",
+                        "target": "374900",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_Autoimmune Syndrome Type II, Polyglandular_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Esters": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Esters",
+                        "label": "Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900",
+                        "label": "Effects of air exposure, temperature and additives on fermentation characteristics, yeast count, aerobic stability and volatile organic compounds in corn silage.\nK. Weiss, B. Kroschewski, H. Auerbach\nJ. Dairy Sci. 2016 Oct;99(10):8053-8069.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27497899"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_Esters_Discussion.json",
+                        "label": "In this context, propane-1,2-diol is mentioned alongside ethyl esters in the discussion of fermentation patterns in silage. While ethyl esters are noted as important in the evaluation of silage, propane-1,2-diol is listed among other compounds that are not yet utilized in this context. The relationship between propane-1,2-diol and esters is not explicitly detailed, indicating a potential connection but lacking direct evidence or interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Esters",
+                        "target": "374900",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_Esters_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Propylene Glycols": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propylene Glycols",
+                        "label": "Propylene Glycols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900",
+                        "label": "Effects of air exposure, temperature and additives on fermentation characteristics, yeast count, aerobic stability and volatile organic compounds in corn silage.\nK. Weiss, B. Kroschewski, H. Auerbach\nJ. Dairy Sci. 2016 Oct;99(10):8053-8069.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27497899"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_Propylene Glycols_Discussion.json",
+                        "label": "In this context, Propane-1,2-diol is mentioned as a compound that can be converted to n-propanol by bacteria during fermentation processes. Propylene Glycols, which include Propane-1,2-diol, are typically used in various applications, including food and pharmaceuticals. However, the context does not provide a direct relationship or detailed discussion about their specific interactions or significance in the fermentation process, focusing instead on the effects of additives on fermentation outcomes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_Propylene Glycols_Results.json",
+                        "label": "In this context, propane-1,2-diol is mentioned as a compound found in corn silages, with varying concentrations detected. Propylene glycols, which include propane-1,2-diol as a common form, are not explicitly discussed but are implied as related substances. The context suggests a connection through their chemical structure and potential roles in fermentation processes, but does not provide detailed interactions or specific functional relationships.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_Propylene Glycols_Materials and Method.json",
+                        "label": "In this context, Propane-1,2-diol is mentioned as one of the components detected in silage extracts, while Propylene Glycols refers to a broader category of compounds that includes Propane-1,2-diol. The relationship is that Propane-1,2-diol is a specific type of propylene glycol, indicating a direct chemical connection. However, the context does not elaborate on their functional significance or interactions within the silage analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Propylene Glycols",
+                        "target": "374900",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_Propylene Glycols_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_Propylene Glycols_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_Propylene Glycols_Materials and Method.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Propionic Acids": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propionic Acids",
+                        "label": "Propionic Acids",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900",
+                        "label": "Effects of air exposure, temperature and additives on fermentation characteristics, yeast count, aerobic stability and volatile organic compounds in corn silage.\nK. Weiss, B. Kroschewski, H. Auerbach\nJ. Dairy Sci. 2016 Oct;99(10):8053-8069.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27497899"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_Propionic Acids_Discussion.json",
+                        "label": "In this context, propane-1,2-diol is mentioned as a substrate that can be converted into propionic acid by specific microbial communities, particularly Lactobacillus diolivorans. This highlights a metabolic relationship where propane-1,2-diol serves as a precursor in the anaerobic fermentation process, leading to the production of propionic acid, which is significant in silage fermentation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Propionic Acids",
+                        "target": "374900",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_Propionic Acids_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "1-Propanol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-Propanol",
+                        "label": "1-Propanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900",
+                        "label": "Effects of air exposure, temperature and additives on fermentation characteristics, yeast count, aerobic stability and volatile organic compounds in corn silage.\nK. Weiss, B. Kroschewski, H. Auerbach\nJ. Dairy Sci. 2016 Oct;99(10):8053-8069.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27497899"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_1-Propanol_Materials and Method.json",
+                        "label": "In this context, propane-1,2-diol (also known as propylene glycol) and 1-propanol are both mentioned as components detected in the chemical analysis of silage samples. They are analyzed using gas chromatography (GC) alongside other compounds like lactic acid and ethanol. However, there is no direct discussion of their relationship or interaction within the context provided, indicating they are simply part of the same analytical procedure without further relevance to each other.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_1-Propanol_Discussion.json",
+                        "label": "In this context, propane-1,2-diol (also known as propylene glycol) and 1-propanol are indirectly related through the fermentation process of corn silage. The text mentions that n-propanol can be produced from the anaerobic conversion of propane-1,2-diol by bacteria. The presence of formic acid-based additives inhibits this bacterial conversion, leading to lower concentrations of n-propanol. This indicates a metabolic relationship where the presence of one compound affects the production of the other during fermentation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "1-Propanol",
+                        "target": "374900",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_1-Propanol_Materials and Method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_1-Propanol_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Fermentation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Fermentation",
+                        "label": "Fermentation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900",
+                        "label": "Effects of air exposure, temperature and additives on fermentation characteristics, yeast count, aerobic stability and volatile organic compounds in corn silage.\nK. Weiss, B. Kroschewski, H. Auerbach\nJ. Dairy Sci. 2016 Oct;99(10):8053-8069.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27497899"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_Fermentation_Discussion.json",
+                        "label": "In this context, propane-1,2-diol is identified as a product of fermentation processes involving Lactobacillus buchneri, a heterofermentative lactic acid bacterium. The presence of this compound in corn silage is attributed to the fermentation activity of this specific LAB, which converts lactate into acetate and subsequently produces propane-1,2-diol. This indicates a direct relationship between the fermentation process and the production of propane-1,2-diol in silage.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Fermentation",
+                        "target": "374900",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_Fermentation_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900",
+                        "label": "Effects of air exposure, temperature and additives on fermentation characteristics, yeast count, aerobic stability and volatile organic compounds in corn silage.\nK. Weiss, B. Kroschewski, H. Auerbach\nJ. Dairy Sci. 2016 Oct;99(10):8053-8069.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27497899"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374900_Propane-1,2-diol_Process_Discussion.json",
+                        "label": "In this context, propane-1,2-diol is mentioned as a compound produced during the fermentation process of corn silage, specifically attributed to the activity of Lactobacillus buchneri. The fermentation process is influenced by various factors, including the type of inoculant used, which can alter the fermentation patterns and the resultant chemical composition of the silage, including the production of propane-1,2-diol. This indicates a direct relationship between the fermentation process and the presence of propane-1,2-diol as a byproduct.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "374900",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374900",
+                        "target": "374900_Propane-1,2-diol_Process_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

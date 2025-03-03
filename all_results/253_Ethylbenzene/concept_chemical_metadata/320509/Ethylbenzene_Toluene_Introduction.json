@@ -1,0 +1,10 @@
+{
+    "context": "These VOCs have already been shown to play an important role in the atmospheric chemistry. VOCs are a major group of pollutants, which have now become a cause of concern worldwide. VOCs are harmful to ecosystem, human health and atmosphere [1\u20134]. Some VOCs (such as benzene, toluene, ethylbenzene and o-xylene (BTEX)) are important industrial solvents that are frequently encountered in industrial operations and contaminated sites. Many BTEX vapours are emitted into the atmosphere during its manufacture, transportation, use and disposal every year. BTEX are volatile aromatic hydrocarbons with toxic properties. Exposure to BTEX can cause neurological, respiratory, genetic and excretory system damage. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both identified as components of the BTEX group, which consists of volatile aromatic hydrocarbons known for their toxic properties. They are highlighted as significant industrial solvents that contribute to environmental pollution and pose health risks, including neurological and respiratory damage. However, the context does not delve into their specific interactions or comparative effects, focusing instead on their collective impact as pollutants.",
+        "reason": "The score of 3 reflects a moderate relevance, as ethylbenzene and toluene are both part of the BTEX group and share similar toxicological concerns. However, the context does not provide detailed information on their specific relationship or interactions beyond their classification as harmful VOCs.",
+        "score": 3
+    }
+}

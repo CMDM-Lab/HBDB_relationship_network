@@ -1,0 +1,10 @@
+{
+    "context": "GHG emission is a growing concern in Alberta. With only 10.5% of Canada\u2019s population, this Province generates 33.2% (245.7 million tonnes) of Canada\u2019s total GHG emission (Environment Canada, 2009). Almost 40% of these emissions come from fossil fuel production and their subsequent use for electricity and heat generation. Coal (81.2%) and natural gas (11.7%) are the major contributors to electricity generation. Since these fossil fuels have a high carbon footprint, GHG emissions from Alberta\u2019s power generation sector are one of the major contributors to total GHG missions from the Province. Therefore, in response to the climate change issue, Alberta has planned to mitigate 37 million tonnes of GHG by 2050 by greening its energy sector with renewable resources (Kabir et al., 2012). A significant part of this mitigation can be achieved by replacing fossil fuels with sustainable biomass feedstock including agricultural residue (AR), forest residue (FR), and whole tree biomass (WT). ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Coal",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is indirectly related to coal as a major fossil fuel contributing to greenhouse gas (GHG) emissions in Alberta. The burning of coal for electricity generation is a significant source of SO2 emissions, which are a byproduct of coal combustion. The discussion focuses on the environmental impact of coal and the need for transitioning to renewable energy sources to mitigate GHG emissions, including SO2.",
+        "reason": "The score of 3 reflects a moderate relevance, as sulfur dioxide is a known pollutant resulting from coal combustion, but the context does not delve deeply into their specific interactions or the health impacts of SO2 emissions from coal.",
+        "score": 3
+    }
+}

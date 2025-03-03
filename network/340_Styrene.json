@@ -1,0 +1,1725 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Styrene",
+                    "label": "Styrene",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Styrene",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Styrene",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Styrene",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Styrene",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Styrene",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Styrene",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Styrene",
+                        "label": "Styrene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tangier Disease",
+                        "label": "Tangier Disease",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Tangier Disease",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Styrene",
+                        "label": "Styrene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Protium",
+                        "label": "Protium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Butadiene",
+                        "label": "Butadiene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Epoxy Compounds",
+                        "label": "Epoxy Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "metal oxide",
+                        "label": "metal oxide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "isoprene",
+                        "label": "isoprene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sulfhydryl Compounds",
+                        "label": "Sulfhydryl Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "styrene oxide",
+                        "label": "styrene oxide",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Protium",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Carbon",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Butadiene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Metabolites",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Chemicals",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Epoxy Compounds",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "metal oxide",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Organic Chemicals",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "isoprene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Sulfhydryl Compounds",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "styrene oxide",
+                        "score": 8
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Styrene",
+                        "label": "Styrene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ionization",
+                        "label": "ionization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pressure- physical agent",
+                        "label": "Pressure- physical agent",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "catalyst",
+                        "label": "catalyst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "flocculation",
+                        "label": "flocculation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exocytosis",
+                        "label": "Exocytosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Baresthesia",
+                        "label": "Baresthesia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Shock",
+                        "label": "Shock",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Infiltration",
+                        "label": "Infiltration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "ionization",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Pressure- physical agent",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "catalyst",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "flocculation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Exocytosis",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Baresthesia",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Inspiration function",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Shock",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Infiltration",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "Process",
+                        "score": 16
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Styrene",
+                        "label": "Styrene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "MERTK gene",
+                        "label": "MERTK gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Styrene",
+                        "target": "MERTK gene",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Styrene",
+                        "label": "Styrene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Styrene",
+                        "label": "Styrene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Tangier Disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Tangier Disease",
+                        "label": "Tangier Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009",
+                        "label": "T(H1)-directed modulation of in vitro cytokine production in human peripheral blood mononuclear cells by styrene-7.8-oxide.\nGH. Merker, G. Metzner, F. Raabe\nToxicol. Lett. 2006 Jan;160(2):105-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16111840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009_Styrene_Tangier Disease_Discussion.json",
+                        "label": "In this context, styrene is discussed in relation to its inhalation exposure and potential effects on human immune cells. However, there is no direct mention or evidence linking styrene to Tangier Disease, a genetic disorder affecting lipid metabolism and characterized by low levels of high-density lipoprotein (HDL). The relationship between styrene exposure and Tangier Disease is not established, indicating a lack of direct relevance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Tangier Disease",
+                        "target": "339009",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339009",
+                        "target": "339009_Styrene_Tangier Disease_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Protium": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Protium",
+                        "label": "Protium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517",
+                        "label": "A biofilter integrated with gas membrane separation unit for the treatment of fluctuating styrene loads.\nL. Li, J. Lian, Y. Han, J. Liu\nBioresour. Technol. 2012 May;111:76-83.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22382297"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517_Styrene_Protium_Results and discussi.json",
+                        "label": "In this context, styrene is discussed in relation to its concentration and permeation through membranes in a biofilter system, while protium, a stable isotope of hydrogen, is not mentioned or connected to the discussion of styrene's behavior or treatment processes. There is no direct or indirect relationship established between styrene and protium in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Protium",
+                        "target": "337517",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "337517",
+                        "target": "337517_Styrene_Protium_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Carbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517",
+                        "label": "A biofilter integrated with gas membrane separation unit for the treatment of fluctuating styrene loads.\nL. Li, J. Lian, Y. Han, J. Liu\nBioresour. Technol. 2012 May;111:76-83.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22382297"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517_Styrene_Carbon_Methods.json",
+                        "label": "In this context, styrene is utilized as the sole carbon source for the growth of fungal strains in a degradation study. The relationship between styrene and carbon is direct, as styrene serves as an organic carbon source that supports microbial metabolism and growth. The study focuses on the degradation characteristics of styrene, highlighting its role in carbon utilization by the fungi.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517_Styrene_Carbon_Results and discussi.json",
+                        "label": "In this context, styrene is identified as a sole carbon and energy source for various microorganisms, including Candida tropicalis and Pseudomonas species, which are capable of biodegrading it. The relationship highlights the role of styrene as a carbon source in microbial metabolism, emphasizing its significance in bioremediation processes involving carbon utilization.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon",
+                        "target": "337517",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "337517",
+                        "target": "337517_Styrene_Carbon_Methods.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "337517",
+                        "target": "337517_Styrene_Carbon_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Butadiene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butadiene",
+                        "label": "Butadiene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_Butadiene_Introduction.json",
+                        "label": "In this context, styrene and butadiene are both mentioned as important chemicals in the production of various commercial products, including polystyrene and styrene–butadiene latexes. However, the relationship between them is not explicitly discussed in terms of their chemical interactions or metabolic pathways. Styrene is highlighted for its role in biofiltration processes, while butadiene is not directly addressed, indicating a lack of detailed connection between the two in this specific context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Butadiene",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_Butadiene_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Metabolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009",
+                        "label": "T(H1)-directed modulation of in vitro cytokine production in human peripheral blood mononuclear cells by styrene-7.8-oxide.\nGH. Merker, G. Metzner, F. Raabe\nToxicol. Lett. 2006 Jan;160(2):105-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16111840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009_Styrene_Metabolites_Introduction.json",
+                        "label": "In this context, styrene is linked to its main metabolite, styrene-7.8-oxide (SO), which is investigated for its effects on the human immune response. The study aims to explore how SO, particularly its enantiomers, modulates cytokine production in mononuclear leukocyte cultures, indicating a direct relationship between styrene exposure and its metabolic effects on immune function.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009_Styrene_Metabolites_Discussion.json",
+                        "label": "In this context, styrene is directly related to its metabolite, styrene-7,8-oxide, which is highlighted for its toxicity and potential mutagenic and carcinogenic effects. The study investigates the immunomodulating capacities of styrene-7,8-oxide, indicating a significant relationship between styrene and its metabolites in terms of biological impact, particularly on cytokine secretion in human mononuclear cells.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolites",
+                        "target": "339009",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339009",
+                        "target": "339009_Styrene_Metabolites_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339009",
+                        "target": "339009_Styrene_Metabolites_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339601",
+                        "label": "The kinetics of catalytic incineration of styrene over a MnO/Fe2O3 catalyst.\nTK. Tseng, H. Chu\nSci. Total Environ. 2001 Jul;275(1-3):83-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11482406"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339601_Styrene_Chemicals_Materials and method.json",
+                        "label": "In this context, styrene is mentioned as a standard product from Merk Chemicals Inc., indicating its use as a chemical reference in the study. However, the relationship between styrene and the broader category of chemicals is not elaborated upon, as the focus is primarily on the experimental setup and calibration of equipment rather than any specific interactions or implications involving styrene as a chemical.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_Chemicals_Introduction.json",
+                        "label": "In this context, styrene is identified as a significant aromatic chemical used in the production of various commercially important products, including polystyrene and ABS. The discussion highlights the role of styrene in biofiltration processes for degrading hazardous volatile organic compounds (VOCs) in petrochemical wastewaters, indicating its relevance as a chemical of concern in environmental management and industrial applications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "339601",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339601",
+                        "target": "339601_Styrene_Chemicals_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_Chemicals_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Epoxy Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Epoxy Compounds",
+                        "label": "Epoxy Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009",
+                        "label": "T(H1)-directed modulation of in vitro cytokine production in human peripheral blood mononuclear cells by styrene-7.8-oxide.\nGH. Merker, G. Metzner, F. Raabe\nToxicol. Lett. 2006 Jan;160(2):105-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16111840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009_Styrene_Epoxy Compounds_Introduction.json",
+                        "label": "In this context, styrene is discussed in relation to its metabolism into styrene-7,8-oxide (SO), which is an epoxy compound. SO, characterized by its reactive epoxide ring, is responsible for the toxic effects associated with styrene exposure. This indicates a direct relationship where styrene is a precursor to the formation of epoxy compounds, specifically SO, which has significant biological implications due to its reactivity and toxicity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Epoxy Compounds",
+                        "target": "339009",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339009",
+                        "target": "339009_Styrene_Epoxy Compounds_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "metal oxide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "metal oxide",
+                        "label": "metal oxide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339601",
+                        "label": "The kinetics of catalytic incineration of styrene over a MnO/Fe2O3 catalyst.\nTK. Tseng, H. Chu\nSci. Total Environ. 2001 Jul;275(1-3):83-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11482406"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339601_Styrene_metal oxide_Introduction.json",
+                        "label": "In this context, styrene is investigated in relation to its catalytic incineration over metal oxide catalysts, specifically MnO/Fe2O3. The study highlights that while previous research has focused on other volatile organic compounds (VOCs) and their catalytic behaviors, the kinetics of styrene's incineration on metal oxide catalysts have not been thoroughly explored. This indicates a potential gap in understanding the specific interactions and efficiencies of styrene when subjected to metal oxide catalysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "metal oxide",
+                        "target": "339601",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339601",
+                        "target": "339601_Styrene_metal oxide_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Organic Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_Organic Chemicals_Introduction.json",
+                        "label": "In this context, styrene is identified as a significant aromatic organic chemical used in the production of various commercially important products, including polystyrene and ABS. The discussion highlights the environmental impact of styrene release and its treatment through conventional activated sludge processes (CASPs), which are commonly employed for degrading hazardous volatile organic compounds (VOCs) like styrene. This establishes a clear relationship between styrene and the broader category of organic chemicals, particularly in terms of its applications and environmental management.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_Organic Chemicals_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "isoprene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "isoprene",
+                        "label": "isoprene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_isoprene_Introduction.json",
+                        "label": "In this context, styrene and isoprene are both mentioned as important volatile organic compounds (VOCs) related to biofiltration processes. Styrene is highlighted for its role in the production of various commercial products and its environmental impact, while isoprene is not directly discussed but is implied as a relevant compound in the context of VOCs. However, there is no direct interaction or specific relationship established between styrene and isoprene within the provided information.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "isoprene",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_isoprene_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Sulfhydryl Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfhydryl Compounds",
+                        "label": "Sulfhydryl Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_Sulfhydryl Compounds_Results and discussi.json",
+                        "label": "In this context, styrene is described as a thiol-reactive toxic chemical, suggesting a potential interaction with sulfhydryl compounds, which contain thiol groups. The text implies that styrene may influence sludge flocculation and metabolic activity in activated sludge systems, possibly through its reactivity with sulfhydryl groups. However, the specific mechanisms or effects of this interaction are not fully explored, indicating a need for further research.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sulfhydryl Compounds",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_Sulfhydryl Compounds_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "styrene oxide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "styrene oxide",
+                        "label": "styrene oxide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009",
+                        "label": "T(H1)-directed modulation of in vitro cytokine production in human peripheral blood mononuclear cells by styrene-7.8-oxide.\nGH. Merker, G. Metzner, F. Raabe\nToxicol. Lett. 2006 Jan;160(2):105-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16111840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009_Styrene_styrene oxide_Discussion.json",
+                        "label": "In this context, styrene and styrene oxide (SO) are related through their concentrations and effects on human immune cells. The study suggests that the biological and clinical relevance of inhaling styrene or SO is significant for individuals exposed occupationally, indicating that both compounds may have stimulating effects on immune responses. Styrene is noted for its carcinogenic and genotoxic potential, while SO is highlighted for its short half-life and possible immunomodulatory effects, emphasizing their interconnected roles in health risks associated with exposure.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009_Styrene_styrene oxide_Introduction.json",
+                        "label": "In this context, styrene and styrene oxide (SO) are related through the investigation of SO as the main metabolite of styrene in the human body. The study aims to explore how SO may modulate the human immune response, particularly in relation to allergic diseases, which have been linked to styrene exposure. However, the specific interactions between styrene and SO in terms of immune modulation are not well-documented, indicating a need for further research.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "styrene oxide",
+                        "target": "339009",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339009",
+                        "target": "339009_Styrene_styrene oxide_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339009",
+                        "target": "339009_Styrene_styrene oxide_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "ionization": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ionization",
+                        "label": "ionization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_ionization_Materials and method.json",
+                        "label": "In this context, styrene is analyzed using a gas chromatograph equipped with a helium ionization detector, indicating a direct relationship between styrene and the ionization process. The ionization detector is crucial for measuring the concentration of styrene in the synthetic wastewater, demonstrating how ionization is employed to quantify the presence of styrene in the liquid phase. This highlights the importance of ionization in the analytical methods used for styrene detection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ionization",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_ionization_Materials and method.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Pressure- physical agent": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pressure- physical agent",
+                        "label": "Pressure- physical agent",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517",
+                        "label": "A biofilter integrated with gas membrane separation unit for the treatment of fluctuating styrene loads.\nL. Li, J. Lian, Y. Han, J. Liu\nBioresour. Technol. 2012 May;111:76-83.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22382297"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517_Styrene_Pressure- physical agent_Results and discussi.json",
+                        "label": "In this context, styrene is being separated through a membrane module, where the separation efficiency is influenced by the pressure differences (P d) between the feed-side and permeate-side. The relationship indicates that higher pressure can enhance the transport of styrene across the membrane, thereby affecting its concentration in the permeate. The study emphasizes the importance of optimizing pressure conditions to improve styrene separation from off-gas emissions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517_Styrene_Pressure- physical agent_Conclusions.json",
+                        "label": "In this context, styrene is discussed in relation to a biofiltration system designed to treat fluctuating styrene loads effectively. The pressure differences across gas membrane modules are mentioned as a factor in optimizing the treatment process, indicating that pressure is a physical agent influencing the retention and degradation of styrene by specific microbial species. Thus, while styrene is the target compound, pressure plays a critical role in the operational efficiency of the biofiltration system.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pressure- physical agent",
+                        "target": "337517",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "337517",
+                        "target": "337517_Styrene_Pressure- physical agent_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "337517",
+                        "target": "337517_Styrene_Pressure- physical agent_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "catalyst": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "catalyst",
+                        "label": "catalyst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339601",
+                        "label": "The kinetics of catalytic incineration of styrene over a MnO/Fe2O3 catalyst.\nTK. Tseng, H. Chu\nSci. Total Environ. 2001 Jul;275(1-3):83-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11482406"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339601_Styrene_catalyst_Introduction.json",
+                        "label": "In this context, styrene is investigated in relation to its catalytic incineration over metal oxide catalysts, specifically a MnO/Fe2O3 catalyst. The study aims to explore the kinetic behavior of styrene during catalytic processes, indicating a direct relationship where the catalyst facilitates the incineration of styrene, although the kinetic studies are noted to be insufficiently explored. The use of various kinetic models suggests a significant focus on understanding the interaction between styrene and the catalyst in the catalytic incineration process.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339601_Styrene_catalyst_Conclusions.json",
+                        "label": "In this context, styrene is the target compound undergoing catalytic incineration using a MnO/Fe2O3 catalyst. The study evaluates different kinetic models to understand the reaction kinetics involved in the catalytic process. The findings indicate that the Langmuir–Hinshelwood model is the most suitable for describing the catalytic behavior, highlighting the critical role of the catalyst in facilitating the incineration of styrene.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "catalyst",
+                        "target": "339601",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339601",
+                        "target": "339601_Styrene_catalyst_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339601",
+                        "target": "339601_Styrene_catalyst_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "flocculation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "flocculation",
+                        "label": "flocculation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_flocculation_Results and discussi.json",
+                        "label": "In this context, styrene is identified as a weakly electrophilic thiol-reactive toxic chemical that potentially impacts the flocculation process in activated sludge. The activation of the glutathione-gated potassium efflux (GGKE) system in response to styrene may lead to the weakening and disintegration of the floc structure, suggesting a relationship between styrene exposure and deflocculation. However, the specific effects of styrene on sludge flocculation have not been previously studied, indicating a need for further research to confirm this hypothesis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "flocculation",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_flocculation_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Exocytosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exocytosis",
+                        "label": "Exocytosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009",
+                        "label": "T(H1)-directed modulation of in vitro cytokine production in human peripheral blood mononuclear cells by styrene-7.8-oxide.\nGH. Merker, G. Metzner, F. Raabe\nToxicol. Lett. 2006 Jan;160(2):105-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16111840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009_Styrene_Exocytosis_Discussion.json",
+                        "label": "In this context, styrene-7.8-oxide (SO) is investigated for its immunomodulating effects, particularly on cytokine secretion from human mononuclear cells. The study indicates that within certain concentrations, SO stimulates cytokine secretion, which may involve exocytosis as a mechanism for cytokine release. However, the specific role of exocytosis in this process is not explicitly detailed, leaving the relationship somewhat implied rather than directly established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exocytosis",
+                        "target": "339009",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339009",
+                        "target": "339009_Styrene_Exocytosis_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Baresthesia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Baresthesia",
+                        "label": "Baresthesia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_Baresthesia_Results and discussi.json",
+                        "label": "In this context, styrene is discussed in relation to its volatilization and biodegradation in a membrane bioreactor (MBR) system. However, there is no mention or connection to baresthesia, which refers to a loss of tactile sensation. The two terms appear in the same context but are not related in terms of function or interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Baresthesia",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_Baresthesia_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009",
+                        "label": "T(H1)-directed modulation of in vitro cytokine production in human peripheral blood mononuclear cells by styrene-7.8-oxide.\nGH. Merker, G. Metzner, F. Raabe\nToxicol. Lett. 2006 Jan;160(2):105-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16111840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009_Styrene_Inspiration function_Discussion.json",
+                        "label": "In this context, styrene is discussed in relation to its potential effects on human immune cells and its inhalation by individuals in occupational settings, such as styrene processing plants and heavy smokers. While the text highlights the biological relevance of styrene exposure, it does not explicitly connect styrene to inspiration function or respiratory effects. The focus is more on immunomodulatory and carcinogenic properties rather than direct implications for respiratory function.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "339009",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339009",
+                        "target": "339009_Styrene_Inspiration function_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Shock": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Shock",
+                        "label": "Shock",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_Shock_Results and discussi.json",
+                        "label": "In this context, styrene is identified as a weakly electrophilic thiol-reactive toxic chemical that may cause deflocculation of activated sludge due to shock loading. The authors hypothesize that the increase in organic loading rate (OLR) of styrene, when hydraulic retention time (HRT) was reduced, led to a shock effect on the sludge, resulting in the weakening of the floc structure. This suggests a potential relationship between styrene exposure and the shock response in the activated sludge system, although further studies are needed for confirmation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Shock",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_Shock_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Infiltration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Infiltration",
+                        "label": "Infiltration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339314",
+                        "label": "Risk assessment of exposure to volatile organic compounds in different indoor environments.\nH. Guo, SC. Lee, LY. Chan, WM. Li\nEnviron. Res. 2004 Jan;94(1):57-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14643287"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339314_Styrene_Infiltration_Results and discussi.json",
+                        "label": "In this context, styrene is linked to infiltration as it is primarily found in indoor environments due to the infiltration of outdoor air contaminated with vehicle emissions. The study highlights that elevated indoor levels of styrene were observed in administrative and printing offices, suggesting that infiltration of outdoor air significantly contributes to the indoor concentration of this volatile organic compound (VOC).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Infiltration",
+                        "target": "339314",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339314",
+                        "target": "339314_Styrene_Infiltration_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517",
+                        "label": "A biofilter integrated with gas membrane separation unit for the treatment of fluctuating styrene loads.\nL. Li, J. Lian, Y. Han, J. Liu\nBioresour. Technol. 2012 May;111:76-83.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22382297"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "337517_Styrene_Process_Results and discussi.json",
+                        "label": "In this context, styrene is directly related to the process of biodegradation within a biofiltration column. The study discusses how styrene is recharged into the system, maintaining a concentration that supports styrene-degrading microorganisms. The process involves multiple metabolic steps to convert styrene into carbon dioxide and water, with specific microbial species specializing in different stages of degradation. This highlights the critical role of the biodegradation process in managing styrene levels and the importance of microbial diversity in effectively carrying out this process.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046",
+                        "label": "Long-term operation of submerged membrane bioreactor (MBR) for the treatment of synthetic wastewater containing styrene as volatile organic compound (VOC): Effect of hydraulic retention time (HRT).\nN. Fallah, B. Bonakdarpour, B. Nasernejad, MR. Alavi Moghadam\nJ. Hazard. Mater. 2010 Jun;178(1-3):718-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20207478"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_Process_Introduction.json",
+                        "label": "In this context, styrene is directly related to the process of treating synthetic wastewater using a membrane bioreactor (MBR). The study focuses on assessing the performance of the MBR process specifically for styrene removal mechanisms and membrane fouling at varying hydraulic retention times (HRTs). The characteristics of the synthetic wastewater are designed to simulate petrochemical wastewater, indicating that the process is tailored to effectively manage styrene concentrations in the effluent.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "338046_Styrene_Process_Results and discussi.json",
+                        "label": "In this context, styrene is discussed in relation to its removal during a membrane bioreactor (MBR) process. The study indicates that styrene removal is primarily biological rather than through adsorption or volatilization. The MBR process demonstrates high removal efficiencies with minimal styrene volatilization, highlighting the effectiveness of biological processes in treating VOCs like styrene in wastewater management.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009",
+                        "label": "T(H1)-directed modulation of in vitro cytokine production in human peripheral blood mononuclear cells by styrene-7.8-oxide.\nGH. Merker, G. Metzner, F. Raabe\nToxicol. Lett. 2006 Jan;160(2):105-11.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16111840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339009_Styrene_Process_Discussion.json",
+                        "label": "In this context, styrene is linked to the process of occupational exposure in processing plants, where its metabolite, styrene-7.8-oxide, may stimulate immune responses in individuals exposed to high concentrations. The study highlights the biological and clinical relevance of styrene exposure, particularly its carcinogenic, genotoxic, and immunomodulatory effects, emphasizing the importance of understanding these processes for individuals in high-risk environments, such as heavy smokers and workers in styrene processing.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "337517",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "337517",
+                        "target": "337517_Styrene_Process_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "338046",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_Process_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "338046",
+                        "target": "338046_Styrene_Process_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "339009",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339009",
+                        "target": "339009_Styrene_Process_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "MERTK gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "MERTK gene",
+                        "label": "MERTK gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339601",
+                        "label": "The kinetics of catalytic incineration of styrene over a MnO/Fe2O3 catalyst.\nTK. Tseng, H. Chu\nSci. Total Environ. 2001 Jul;275(1-3):83-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11482406"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "339601_Styrene_MERTK gene_Materials and method.json",
+                        "label": "In this context, styrene is mentioned as a standard chemical used in a study involving gas analysis, while the MERTK gene is not referenced at all. There is no discussion or indication of any relationship between styrene and the MERTK gene, as the context focuses solely on the technical setup for measuring gas concentrations without any biological implications or connections to genetic factors.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "MERTK gene",
+                        "target": "339601",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "339601",
+                        "target": "339601_Styrene_MERTK gene_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

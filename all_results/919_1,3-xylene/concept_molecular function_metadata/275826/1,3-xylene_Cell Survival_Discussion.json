@@ -1,0 +1,10 @@
+{
+    "context": "By 4 h, \u223c10% of the initial exposure medium m-xylene concentration remained. However, in our sealed system the m-xylene concentration did not change between the 0, 0.08, and 4-h exposures. These results suggest that our sealed system prevents m-xylene evaporation from the exposure medium, resulting in a uniform chemical dose throughout the exposure period. The effect of m-xylene evaporation on cell viability was compared between unsealed 24- and 48-well culture plates and sealed vials. At 4 h, the viability of fibroblasts exposed in unsealed culture plates was 4\u20136-fold higher than the viability of fibroblasts exposed in sealed vials. The increased viability in the unsealed plates reflects the resultant m-xylene evaporation from the exposure medium during the exposure period. Such a loss of m-xylene can lead to a non-uniform chemical dose throughout the exposure period, which makes it difficult to determine the actual toxic chemical concentration. ",
+    "term_A": "1,3-xylene",
+    "term_B": "Cell Survival",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene is indirectly related to cell survival through its impact on fibroblast viability during exposure experiments. The study compares cell viability in unsealed versus sealed environments, highlighting that m-xylene evaporation in unsealed plates leads to higher fibroblast survival rates. This suggests that the concentration of 1,3-xylene affects cell survival, but the relationship is primarily inferred from the effects of m-xylene rather than a direct analysis of 1,3-xylene's specific impact.",
+        "reason": "The score of 3 reflects a moderate relevance, as the study discusses the effects of m-xylene on cell viability, which indirectly relates to 1,3-xylene. However, the focus is more on the experimental conditions rather than a direct relationship between 1,3-xylene and cell survival.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[8] The off state is favoured by ADP (or ADP\u00c2\u00b7Pi) in the absence of calcium. [9] A detailed co-operative model of the interaction of ADP and calcium with HMM is presented. [1] T cells play a central role in host defense. [2] ATP release and autocrine feedback via purinergic receptors has been shown to regulate T cell function. [3] However, the sources of the ATP that drives this process are not known. [4] We found that stimulation of T cells triggers a spike in cellular ATP production that doubles intracellular ATP levels in <30 s and causes prolonged ATP release into the extracellular space. [5] Cell stimulation triggered rapid mitochondrial Ca2+ uptake, increased oxidative phosphorylation, a drop in mitochondrial membrane potential (\u00ce\u201d\u00cf\u02c6m), and the accumulation of active mitochondria at the immune synapse of stimulated T cells. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Feedback",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is crucial for T cell function, as its release and subsequent autocrine feedback through purinergic receptors regulate T cell activity. The stimulation of T cells leads to a rapid increase in ATP production, which is essential for various cellular processes, including mitochondrial function and immune response. This indicates a direct relationship where ATP acts as a signaling molecule that influences feedback mechanisms in T cell activation.",
+        "reason": "The score of 4 reflects a significant connection between ATP and feedback mechanisms in T cell function, supported by evidence of ATP's role in regulating T cell activity through purinergic receptors. The context provides a clear understanding of how ATP influences feedback in immune responses.",
+        "score": 4
+    }
+}

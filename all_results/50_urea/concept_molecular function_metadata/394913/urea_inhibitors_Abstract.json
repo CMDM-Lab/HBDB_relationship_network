@@ -1,0 +1,10 @@
+{
+    "context": "[1] Putative pathways for ureide degradation in plants. [2] The enzymatic activities represented are: allantoinase (1), allantoate amidinohydrolase (2), allantoate amidohydrolase (3), ureidoglycolate urea-lyase (4), and ureidoglycolate amidohydrolase (5). [1] The exact pathway for ureide degradation in plants was suggested only on the basis of physiological studies. [2] One study showed urea accumulation in soybean (Glycine max) leaf pieces incubated in the presence of allantoin and a urease inhibitor . [3] However, urease inhibitors could be inhibiting ureide-degrading enzymes as well . [4] Studies of ureide catabolism using urease-deficient mutant soybean plants  or others based on the Ni2+ requirement of urease  support the idea of ureide degradation without any detectable urea production. [5] In addition, labeled ureides are degraded to ammonium without detectable urea . ",
+    "term_A": "urea",
+    "term_B": "inhibitors",
+    "llm_generation": {
+        "summary": "In this context, urea is discussed in relation to urease inhibitors, which are suggested to affect ureide degradation pathways in plants. The presence of urease inhibitors was shown to lead to urea accumulation in soybean leaf pieces, indicating a potential interaction where inhibitors may influence the enzymatic breakdown of ureides, possibly by inhibiting urease or other ureide-degrading enzymes. This suggests a significant relationship between urea and inhibitors in the context of plant physiology and metabolism.",
+        "reason": "The score of 4 reflects a significant connection between urea and inhibitors, as the context discusses how urease inhibitors can impact urea accumulation and ureide degradation pathways, supported by physiological studies.",
+        "score": 4
+    }
+}

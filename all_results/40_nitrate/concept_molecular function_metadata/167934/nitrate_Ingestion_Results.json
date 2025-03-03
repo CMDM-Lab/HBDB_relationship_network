@@ -1,0 +1,10 @@
+{
+    "context": "A P value of <0.05 was considered significant. Effect sizes (ES) were calculated using Cohen's d. In addition, univariate regression was used to explore the relationships between changes in measured variables. As intended, NO3 \u2212 ingestion significantly (P\u2009<\u20090.001; ES\u2009=\u20090.85\u20131.53) increased NO bioavailability, as indicated by the amount of NO in breath (Fig.\u20092 ). There was no significant difference in maximal isometric torque (2.60\u2009\u00b1\u20090.13\u2009Nm/kg NO3 \u2212 vs. 2.64\u2009\u00b1\u20090.13\u2009Nm/kg placebo; P\u2009=\u20090.61; ES\u2009=\u2009\u22120.15) or in peak isokinetic torque or power at 1.57\u20134.17 rad/s (Table\u20091 ; ES\u2009=\u2009\u22120.21 to 0.15). ",
+    "term_A": "nitrate",
+    "term_B": "Ingestion",
+    "llm_generation": {
+        "summary": "In this context, nitrate (NO3\u2212) ingestion is directly linked to increased nitric oxide (NO) bioavailability, as evidenced by significant changes in the amount of NO detected in breath samples. The study demonstrates that ingesting nitrate enhances NO production, which is crucial for various physiological functions, including vasodilation and exercise performance. The statistical significance of the results indicates a strong relationship between nitrate ingestion and its physiological effects.",
+        "reason": "The score of 5 reflects a direct and highly relevant relationship between nitrate and ingestion, as the context clearly shows that nitrate ingestion significantly increases NO bioavailability, supported by statistical evidence.",
+        "score": 5
+    }
+}

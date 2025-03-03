@@ -1,0 +1,10 @@
+{
+    "context": "[2] Under hypoxia, on the other hand, respiration and ATP supply are restricted. [3] Under these conditions of oxygen limitation, any compromise in the coupling of oxidative phosphorylation to oxygen consumption could accentuate ATP depletion, leading to metabolic failure. [4] To address this issue, we have developed the approach of oxygen-injection microcalorimetry and ADP-injection respirometry for evaluating mitochondrial function at limiting oxygen supply. [5] Whereas phosphorylation efficiency drops during ADP limitation at high oxygen levels, we show here that oxidative phosphorylation is more efficient at low oxygen than at air saturation, as indicated by higher ratios of ADP flux to total oxygen flux at identical submaximal rates of ATP synthesis. [6] At low oxygen, the proton leak and uncoupled respiration are depressed, thus reducing maintenance energy expenditure. [7] This indicates the importance of low intracellular oxygen levels in avoiding oxidative stress and protecting bioenergetic efficiency.  [1] Atmospheric oxygen levels were probably 0.1% of the present when mitochondria became associated with cells early during evolution (\u00e2\u20ac\u201c). ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Phosphorylation",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is closely linked to phosphorylation, as ATP is the primary energy currency in cells and is essential for phosphorylation processes. The text discusses how oxidative phosphorylation efficiency affects ATP synthesis under varying oxygen conditions, highlighting the role of ATP in energy metabolism and its dependence on phosphorylation for energy transfer and utilization in cellular functions.",
+        "reason": "The score of 5 reflects a direct and critical relationship between ATP and phosphorylation, as ATP is fundamentally involved in phosphorylation reactions, which are vital for energy metabolism and cellular function. The context emphasizes the importance of ATP in the phosphorylation process under different oxygen levels.",
+        "score": 5
+    }
+}

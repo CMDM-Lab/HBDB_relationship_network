@@ -1,0 +1,10 @@
+{
+    "context": "2.2.4 Sequential dosing isotherm method Isotherms were obtained for uncoated and coated materials using an automated sequential dosing method. Equilibrium sorption isotherms for LHA were collected in an associated study (Bell and LeBoeuf, in press). In order to evaluate equilibrium behavior of TCE onto these model soils, a sequential dosing method with the Micromeretics ASAP 2010 was used. The ASAP 2010 is equipped with a hydrocarbon manifold so liquids that possess a vapor pressure of at least 1mm Hg at room temperature and <10\u03bcm Hg at liquid nitrogen temperature could be used as sorbates in obtaining equilibrium isotherms (TCE meets this requirement). Vapor phase equilibrium isotherms were collected at experimental temperatures of 15\u00b0C, 25\u00b0C, 35\u00b0C, 75\u00b0C, 95\u00b0C, and 115\u00b0C corresponding to three temperatures above and three temperatures below the glass transition temperature of LHA (Tg =74\u00b13\u00b0C (DeLapp et al., 2004)). Samples were degassed on one of two degas ports. Degas temperatures were 105\u00b0C for all samples with the exception of the highest temperature isotherms at 115\u00b0C in which case the degas temperature was 115\u00b0C. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Liquid nitrogen",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as a sorbate used in equilibrium sorption isotherm studies, which can be conducted at various temperatures, including those achievable with liquid nitrogen. Liquid nitrogen is utilized to create conditions for measuring vapor phase equilibrium isotherms of TCE, indicating its role in facilitating the experimental setup rather than a direct chemical interaction or biological relevance.",
+        "reason": "The score of 2 reflects an indirect connection, as TCE is used in experiments that involve liquid nitrogen for temperature control, but there is no detailed discussion of their relationship beyond this experimental context.",
+        "score": 2
+    }
+}

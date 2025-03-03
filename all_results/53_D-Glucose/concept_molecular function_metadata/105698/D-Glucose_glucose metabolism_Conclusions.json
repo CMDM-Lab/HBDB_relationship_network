@@ -1,0 +1,10 @@
+{
+    "context": "[1] To our knowledge, there are relatively few studies that have explored the use of dynamic [18F]-FDG PET to quantitatively analyze tissue-specific GU in VF and SC fat  and skeletal muscle . [2] Based on the current data, obese T2D have decreased GU in skeletal muscles compared with ND and control subjects; this confirms previous results by our group . [3] The decreased skeletal muscle GU in T2D in response to insulin may be due, at least in part, to increased FFA levels , i.e., a model of substrate competition. [1] With regard to fat glucose metabolism, research suggests that VF depots tends to have higher rate of insulin-stimulated GU compared with SC compartments . [2] In obese individuals, GU in visceral and SC compartments is lower than in nonobese subjects . [3] Our findings confirm that expanded fat mass leads to decreased GU, particularly in the VF fat regions. [1] Dividing the abdominal SC fat into deep and superficial regions and VF into intraperitoneal and extraperitoneal yielded interesting results. ",
+    "term_A": "D-Glucose",
+    "term_B": "glucose metabolism",
+    "llm_generation": {
+        "summary": "In this context, D-Glucose is indirectly related to glucose metabolism as the study discusses glucose uptake (GU) in various tissues, particularly in the context of obesity and type 2 diabetes (T2D). The findings indicate that decreased GU in skeletal muscle and fat compartments is linked to impaired glucose metabolism, highlighting the role of D-Glucose as a substrate in these metabolic processes. However, the specific role of D-Glucose itself is not explicitly detailed, focusing more on the overall glucose metabolism in different fat depots and muscle tissues.",
+        "reason": "The score of 3 reflects a moderate relevance, as D-Glucose is a key substrate in glucose metabolism, and the context discusses its implications in metabolic processes related to obesity and T2D. However, the relationship is not deeply explored, limiting the strength of the connection.",
+        "score": 3
+    }
+}

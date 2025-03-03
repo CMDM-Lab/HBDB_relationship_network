@@ -1,0 +1,10 @@
+{
+    "context": "[5] A rabbit polyclonal antibody against the VP1 N-terminal unique region of MVM (VP1 residues 1 to 141) was obtained from Susan Cotmore and Peter Tattersall, Yale University. [6] In antibody microinjection studies, normal mouse immunoglobulin G (IgG) (Sigma, St. Louis, Mo.) was used as a control. [1] The exposure of the 3\u00e2\u20ac\u00b2 end of the viral genome was detected by polymerase extension. [2] Capsids treated with urea or heat as described above were washed in Microcon filter units (10-kDa retention) (Millipore, Bedford, Mass.) and then incubated with modified T7 DNA polymerase (Sequenase; Amersham Life Science, Cleveland, Ohio)-0.2 mM deoxynucleoside triphosphates-5 \u00ce\u00bcCi of [32P]dATP-10 mM Tris-HCl (pH 7.5)-50 mM NaCl-2 mM MgCl2 for 45 min. [3] The samples were electrophoresed in a 1% agarose gel, which was then dried and exposed to X-ray film. [1] Neutralization by antibodies outside or inside the cell.For neutralization assays, various amounts of either anti-VP1-2-13 or the rabbit anti-VP1 unique region antibody were incubated with 105 TCID50s of CPV for 1 h at 37\u00c2\u00b0C. [2] Each virus-antibody combination was then diluted and titrated in a TCID50 assay in NLFK cells. ",
+    "term_A": "urea",
+    "term_B": "triphosphate",
+    "llm_generation": {
+        "summary": "In this context, urea is mentioned as a treatment for capsids in a study involving viral genome detection, while triphosphate refers to deoxynucleoside triphosphates used in the polymerase extension process. However, there is no direct interaction or functional relationship established between urea and triphosphate in the described experimental procedures. They are part of different aspects of the methodology without a clear connection.",
+        "reason": "The score of 1 reflects a very low relationship, as urea and triphosphate are mentioned in separate contexts within the methodology, with no direct relevance or interaction discussed between them.",
+        "score": 1
+    }
+}

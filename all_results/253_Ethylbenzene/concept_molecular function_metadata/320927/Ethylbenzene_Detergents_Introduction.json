@@ -1,0 +1,10 @@
+{
+    "context": "Although limited number of study subjects were tested, current observations warrant further study to validate this alternative testing strategy. Also, further work on these miRNA signatures is required to provide mechanistic insight into the toxicological effects on circulation. Conflict of interest statement There is no conflict of interest associated with this manuscript. BTEX, a group of volatile organic compounds (VOCs), composed of benzene, toluene, ethylbenzene and xylenes, are constituents of petroleum and solvents widely used in manufacturing rubbers, lubricants, dyes, detergents, and drugs. These compounds are commonly found as air contaminants in related industrial sites, but vehicle traffic and industrial processes can lead to the contamination of BTEX in the soil and groundwater. In general aquatic environment, the background concentrations of BTEX is relative low because of volatilization and degradation processes. However, accident oil spill, leakage from underground gasoline storage tanks, and improper discharges from petrol and chemical industries can result in BTEX contamination in the soil and ground water. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Detergents",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is mentioned as part of the BTEX group, which includes volatile organic compounds commonly found in various industrial applications, including the production of detergents. While ethylbenzene is associated with the manufacturing of detergents, the context does not provide specific details about its role or interaction with detergents, indicating a general connection rather than a direct relationship.",
+        "reason": "The score of 2 reflects an indirect connection between ethylbenzene and detergents, as both are part of the broader category of industrial chemicals. However, there is no detailed discussion of their specific interactions or functional relationships.",
+        "score": 2
+    }
+}

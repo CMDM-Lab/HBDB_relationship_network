@@ -1,0 +1,3074 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "adenosine 5'-monophosphate",
+                    "label": "adenosine 5'-monophosphate",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "adenosine 5'-monophosphate",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "adenosine 5'-monophosphate",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "adenosine 5'-monophosphate",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "adenosine 5'-monophosphate",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "adenosine 5'-monophosphate",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "adenosine 5'-monophosphate",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "adenosine 5'-monophosphate",
+                        "label": "adenosine 5'-monophosphate",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Intestinal Diseases",
+                        "label": "Intestinal Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hyperostosis Frontalis Interna",
+                        "label": "Hyperostosis Frontalis Interna",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pneumonia",
+                        "label": "Pneumonia",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Intestinal Diseases",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Hyperostosis Frontalis Interna",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Pneumonia",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "adenosine 5'-monophosphate",
+                        "label": "adenosine 5'-monophosphate",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Amines",
+                        "label": "Amines",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "KT 5720",
+                        "label": "KT 5720",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-methylquercetin",
+                        "label": "3-methylquercetin",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chlorides",
+                        "label": "Chlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "quinoxaline",
+                        "label": "quinoxaline",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Flavonoids",
+                        "label": "Flavonoids",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "kaempferol",
+                        "label": "kaempferol",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Amines",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "KT 5720",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Metabolites",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "3-methylquercetin",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Chlorides",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "quinoxaline",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Flavonoids",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "kaempferol",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "adenosine 5'-monophosphate",
+                        "label": "adenosine 5'-monophosphate",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "antagonists",
+                        "label": "antagonists",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Phosphorylation",
+                        "label": "Phosphorylation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "reverse transcription polymerase chain reaction",
+                        "label": "reverse transcription polymerase chain reaction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Stimulus",
+                        "label": "Stimulus",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Immunoreactivity",
+                        "label": "Immunoreactivity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Reverse Transcription",
+                        "label": "Reverse Transcription",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "adenylate cyclase activity",
+                        "label": "adenylate cyclase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cell physiology",
+                        "label": "Cell physiology",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Platelet aggregation",
+                        "label": "Platelet aggregation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Vasodilation",
+                        "label": "Vasodilation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Functional disorder",
+                        "label": "Functional disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exocytosis",
+                        "label": "Exocytosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Gene Expression",
+                        "label": "Gene Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hypoxia",
+                        "label": "Hypoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Baresthesia",
+                        "label": "Baresthesia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "mRNA Expression",
+                        "label": "mRNA Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Intestinal chloride secretion",
+                        "label": "Intestinal chloride secretion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "adenylate kinase activity",
+                        "label": "adenylate kinase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Regulation",
+                        "label": "Regulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Signal Transduction",
+                        "label": "Signal Transduction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Calmodulin Pathway",
+                        "label": "Calmodulin Pathway",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "depolarization",
+                        "label": "depolarization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "antagonists",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Phosphorylation",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "reverse transcription polymerase chain reaction",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Stimulus",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Immunoreactivity",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Reverse Transcription",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "adenylate cyclase activity",
+                        "score": 16
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Cell physiology",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Platelet aggregation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Vasodilation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Functional disorder",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Exocytosis",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Gene Expression",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Hypoxia",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Baresthesia",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "inhibitors",
+                        "score": 16
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "mRNA Expression",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Intestinal chloride secretion",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "adenylate kinase activity",
+                        "score": 11
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Regulation",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Signal Transduction",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Calmodulin Pathway",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "depolarization",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "Process",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "adenosine 5'-monophosphate",
+                        "label": "adenosine 5'-monophosphate",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "MAPK1 gene",
+                        "label": "MAPK1 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ADCY9 gene",
+                        "label": "ADCY9 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ADCY5 gene",
+                        "label": "ADCY5 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ADCY6 gene",
+                        "label": "ADCY6 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "GLI3 gene",
+                        "label": "GLI3 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "MAPK3 gene",
+                        "label": "MAPK3 gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "MAPK1 gene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "ADCY9 gene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "ADCY5 gene",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "ADCY6 gene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "GLI3 gene",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "adenosine 5'-monophosphate",
+                        "target": "MAPK3 gene",
+                        "score": 8
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "adenosine 5'-monophosphate",
+                        "label": "adenosine 5'-monophosphate",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "adenosine 5'-monophosphate",
+                        "label": "adenosine 5'-monophosphate",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Intestinal Diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Intestinal Diseases",
+                        "label": "Intestinal Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Intestinal Diseases_DISCUSSION.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to intestinal diseases through its role in the signaling pathways involving adenylate cyclase isoforms, particularly AC5 and AC6, which are expressed in colonic epithelial cells. The study discusses how nitric oxide (NO) affects adenylate cyclase activity, influencing epithelial barrier function and potentially contributing to conditions like radiation enteropathy. While AMP itself is not directly mentioned as a therapeutic target, its involvement in cAMP signaling pathways is crucial for understanding intestinal epithelial responses in disease contexts.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Intestinal Diseases",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Intestinal Diseases_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Hyperostosis Frontalis Interna": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hyperostosis Frontalis Interna",
+                        "label": "Hyperostosis Frontalis Interna",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Hyperostosis Frontalis Interna_DISCUSSION.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to Hyperostosis Frontalis Interna (HFI) through its role in cellular signaling pathways, particularly involving adenylate cyclase activity. However, there is no direct mention or exploration of HFI in relation to AMP or its metabolic pathways. The discussion primarily focuses on the effects of nitric oxide (NO) on adenylate cyclase, without establishing a clear connection to HFI.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hyperostosis Frontalis Interna",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Hyperostosis Frontalis Interna_DISCUSSION.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Pneumonia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pneumonia",
+                        "label": "Pneumonia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "502800",
+                        "label": "Effect of inhaled ciclesonide on airway responsiveness to inhaled AMP, the composition of induced sputum and exhaled nitric oxide in patients with mild asthma.\nF. Kanniess, K. Richter, S. Böhme, RA. Jörres, H. Magnussen\nPulm Pharmacol Ther 2001 ;14(2):141-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11273796"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "502800_adenosine 5'-monophosphate_Pneumonia_DISCUSSION.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to pneumonia through the study of adenylate kinase (AKcpn) from Chlamydia pneumoniae. The enzyme's properties, including its interaction with AMP, are characterized, but there is no direct discussion of how AMP specifically relates to pneumonia or its pathophysiology. The focus is more on the enzyme's characteristics rather than a clear link to pneumonia.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pneumonia",
+                        "target": "502800",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "502800",
+                        "target": "502800_adenosine 5'-monophosphate_Pneumonia_DISCUSSION.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Amines": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Amines",
+                        "label": "Amines",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777",
+                        "label": "Exhaled nitric oxide and bronchial responsiveness to adenosine 5'-monophosphate in subjects with allergic rhinitis.\nL. Prieto, V. Gutiérrez, S. Uixera\nChest 2002 Jun;121(6):1853-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12065349"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_Amines_Materials and Method.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) and amines are mentioned in relation to physiological experiments involving perfusion pressure and various inhibitors. However, there is no direct discussion of how AMP interacts with amines or their specific roles in the experimental setup. The focus is primarily on the effects of noradrenaline and other compounds on perfusion pressure, with AMP and amines appearing without a clear relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_Amines_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) and amines are not directly related. The study focuses on the vasodilatory effects of quercetin and its metabolites on vascular tissues, with no mention of AMP's role or interaction with amines. While both terms are relevant in biochemical pathways, their specific relationship is not explored in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Amines",
+                        "target": "501777",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_Amines_Materials and Method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_Amines_Abstract.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "KT 5720": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "KT 5720",
+                        "label": "KT 5720",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136",
+                        "label": "Dose-response comparison of budesonide dry powder inhalers using adenosine monophosphate bronchial challenge.\nBJ. Lipworth, EJ. Sims, SK. Das, H. Buck, M. Paterson\nAnn. Allergy Asthma Immunol. 2005 Jun;94(6):675-81.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15984601"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136_adenosine 5'-monophosphate_KT 5720_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (cAMP) is involved in the signaling pathway that regulates Ca2+ channel conductance in Rana esculenta ventricular cells. KT 5720 is mentioned as an inhibitor of protein kinase A, which decreases the frequency of spontaneous Ca2+ transients and thus affects cAMP accumulation. This indicates a significant relationship where KT 5720 modulates the effects of cAMP on Ca2+ signaling.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "KT 5720",
+                        "target": "499136",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "499136",
+                        "target": "499136_adenosine 5'-monophosphate_KT 5720_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Metabolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777",
+                        "label": "Exhaled nitric oxide and bronchial responsiveness to adenosine 5'-monophosphate in subjects with allergic rhinitis.\nL. Prieto, V. Gutiérrez, S. Uixera\nChest 2002 Jun;121(6):1853-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12065349"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_Metabolites_Discussion.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is not directly mentioned, but the discussion revolves around the metabolites of quercetin, such as isorhamnetin, which exhibit vasodilator effects. These metabolites are derived from quercetin, indicating a relationship where AMP may play a role in the metabolic pathways of these compounds. However, the specific connection between AMP and the metabolites is not explicitly detailed, limiting the strength of their relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolites",
+                        "target": "501777",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_Metabolites_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "3-methylquercetin": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-methylquercetin",
+                        "label": "3-methylquercetin",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777",
+                        "label": "Exhaled nitric oxide and bronchial responsiveness to adenosine 5'-monophosphate in subjects with allergic rhinitis.\nL. Prieto, V. Gutiérrez, S. Uixera\nChest 2002 Jun;121(6):1853-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12065349"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_3-methylquercetin_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) and 3-methylquercetin are not directly mentioned or linked. The study focuses on the vasodilator effects of quercetin and its metabolites, including isorhamnetin, but does not discuss AMP's role or interaction with these flavonoids. Therefore, their relationship remains unclear and unexamined within the provided context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_3-methylquercetin_Discussion.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is not directly mentioned in relation to 3-methylquercetin, which is a metabolite of quercetin known for its vasodilator effects. The study focuses on the vascular effects of quercetin and its metabolites, including isorhamnetin, but does not establish a clear connection between AMP and 3-methylquercetin. Therefore, while both terms are related to vascular physiology, their specific relationship is not discussed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-methylquercetin",
+                        "target": "501777",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_3-methylquercetin_Abstract.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_3-methylquercetin_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chlorides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chlorides",
+                        "label": "Chlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Chlorides_Statistics from Altm.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to chlorides through the modulation of adenylate cyclase (AC) isoforms, specifically AC5 and AC6, which are involved in cAMP-dependent cellular responses. The study highlights the role of these isoforms in colonic chloride secretion, suggesting that AMP's influence on cAMP levels may affect chloride transport in intestinal mucosa, particularly under conditions of nitric oxide inhibition post-irradiation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Chlorides_DISCUSSION.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to chlorides through the signaling pathways involved in ion transport and secretion in the intestinal epithelium. The study highlights that nitric oxide (NO) inhibits cAMP accumulation, which in turn affects chloride secretion mediated by adenylate cyclase isoforms AC5 and/or AC6. This suggests that AMP, as a component of the cAMP signaling pathway, plays a role in regulating chloride secretion, particularly in the context of radiation-induced secretory dysfunction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chlorides",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Chlorides_Statistics from Altm.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Chlorides_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "quinoxaline": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "quinoxaline",
+                        "label": "quinoxaline",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777",
+                        "label": "Exhaled nitric oxide and bronchial responsiveness to adenosine 5'-monophosphate in subjects with allergic rhinitis.\nL. Prieto, V. Gutiérrez, S. Uixera\nChest 2002 Jun;121(6):1853-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12065349"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_quinoxaline_Materials and Method.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) and quinoxaline are mentioned in relation to their roles in cellular signaling pathways. Quinoxaline, specifically the compound 1H-[1,2,4]oxadiazolo[4,3-a]quinoxalin-1-one (ODQ), is used as a guanylate cyclase inhibitor, which may influence the signaling pathways involving AMP. However, the context does not provide a direct interaction or detailed relationship between AMP and quinoxaline beyond their involvement in the same experimental setup.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_quinoxaline_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) and quinoxaline are not directly related. The study primarily focuses on the effects of quercetin and its metabolites on vascular responses, with quinoxaline mentioned as a guanylate cyclase inhibitor. However, there is no discussion of AMP's role or interaction with quinoxaline or the vasodilatory effects observed, indicating a lack of direct relevance between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "quinoxaline",
+                        "target": "501777",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_quinoxaline_Materials and Method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_quinoxaline_Abstract.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Flavonoids": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Flavonoids",
+                        "label": "Flavonoids",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777",
+                        "label": "Exhaled nitric oxide and bronchial responsiveness to adenosine 5'-monophosphate in subjects with allergic rhinitis.\nL. Prieto, V. Gutiérrez, S. Uixera\nChest 2002 Jun;121(6):1853-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12065349"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_Flavonoids_Discussion.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to flavonoids, particularly quercetin and isorhamnetin, through their effects on vascular relaxation. The study investigates the mechanisms of flavonoid-induced vasodilation, suggesting that cyclic nucleotides, including AMP, may play a role. However, the specific relationship between AMP and flavonoids is not deeply explored, indicating a moderate connection rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Flavonoids",
+                        "target": "501777",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_Flavonoids_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "kaempferol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "kaempferol",
+                        "label": "kaempferol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777",
+                        "label": "Exhaled nitric oxide and bronchial responsiveness to adenosine 5'-monophosphate in subjects with allergic rhinitis.\nL. Prieto, V. Gutiérrez, S. Uixera\nChest 2002 Jun;121(6):1853-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12065349"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_kaempferol_Discussion.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is not directly mentioned in relation to kaempferol, which is discussed as a metabolite of quercetin that induces vascular smooth muscle relaxation. While AMP is a significant molecule in cellular signaling and metabolism, its specific interaction with kaempferol or its role in the vasodilatory effects of quercetin metabolites is not addressed. Therefore, the relationship between AMP and kaempferol remains unclear and indirect.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "kaempferol",
+                        "target": "501777",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_kaempferol_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "antagonists": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "antagonists",
+                        "label": "antagonists",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_antagonists_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to antagonists through the discussion of adenylate cyclase isoforms and their modulation by various compounds. While antagonists are mentioned in the context of differentiating the functional activities of adenylate cyclase isoforms, there is no direct interaction or specific role of AMP as an antagonist or in relation to antagonists. The focus is more on the effects of agonists and the modulation of adenylate cyclase activity rather than a clear relationship with antagonists.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "antagonists",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_antagonists_RESULTS.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Phosphorylation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Phosphorylation",
+                        "label": "Phosphorylation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "503311",
+                        "label": "Can exhaled nitric oxide be a surrogate marker of bronchial hyperresponsiveness to adenosine 5'-monophosphate in steroid-naive asthmatic children?\nM. Arga, A. Bakirtas, E. Topal, I. Turktas\nClin. Exp. Allergy 2015 Apr;45(4):758-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25378028"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "503311_adenosine 5'-monophosphate_Phosphorylation_Introduction.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to phosphorylation through its role in platelet function and signaling pathways. The phosphorylation of vasodilator-stimulated phosphoprotein (VASP) is measured to evaluate the effects of ADP on platelet aggregation, which is influenced by AMP levels. This suggests that AMP may play a role in the phosphorylation processes that regulate platelet activity, particularly in the context of P2Y12 receptor signaling.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "503311_adenosine 5'-monophosphate_Phosphorylation_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to phosphorylation through its role in the signaling pathways involving P2Y12 receptors. The study highlights impaired phosphorylation of vasodilator-stimulated phosphoprotein and the increase in cyclic AMP (cAMP) due to ADP, indicating that AMP's involvement in these pathways is crucial for normal platelet function and aggregation. The dysfunction in phosphorylation processes suggests a significant link between AMP levels and the phosphorylation state of proteins involved in platelet activation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Phosphorylation",
+                        "target": "503311",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "503311",
+                        "target": "503311_adenosine 5'-monophosphate_Phosphorylation_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "503311",
+                        "target": "503311_adenosine 5'-monophosphate_Phosphorylation_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "reverse transcription polymerase chain reaction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "reverse transcription polymerase chain reaction",
+                        "label": "reverse transcription polymerase chain reaction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_reverse transcription polymerase chain reaction_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to reverse transcription polymerase chain reaction (RT-PCR) through the examination of adenylate cyclase expression. RT-PCR is employed as a method to analyze the expression levels of adenylate cyclase isoforms in mouse colon and human biopsies, which are relevant to AMP signaling pathways. However, the specific role of AMP in the RT-PCR analysis is not explicitly detailed, limiting the direct connection between the two terms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_reverse transcription polymerase chain reaction_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to reverse transcription polymerase chain reaction (RT-PCR) through the study of adenylate cyclase isoforms in intestinal epithelium. The RT-PCR technique is employed to analyze the expression of these isoforms, which may be influenced by AMP levels, but the specific relationship between AMP and RT-PCR is not explicitly detailed in the provided information.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_reverse transcription polymerase chain reaction_MATERIALS AND METHOD.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to reverse transcription polymerase chain reaction (RT-PCR) through the study of adenylate cyclase isoforms in mouse colonic tissues. RT-PCR is employed to analyze the expression of these isoforms, which may involve AMP as a signaling molecule. However, the specific role of AMP in the RT-PCR process or its direct relevance to the findings is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "reverse transcription polymerase chain reaction",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_reverse transcription polymerase chain reaction_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_reverse transcription polymerase chain reaction_RESULTS.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_reverse transcription polymerase chain reaction_MATERIALS AND METHOD.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Stimulus": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Stimulus",
+                        "label": "Stimulus",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "503311",
+                        "label": "Can exhaled nitric oxide be a surrogate marker of bronchial hyperresponsiveness to adenosine 5'-monophosphate in steroid-naive asthmatic children?\nM. Arga, A. Bakirtas, E. Topal, I. Turktas\nClin. Exp. Allergy 2015 Apr;45(4):758-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25378028"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "503311_adenosine 5'-monophosphate_Stimulus_Introduction.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to the concept of 'stimulus' through its role in platelet function and signal transduction. The P2Y12 receptor, which interacts with ADP (adenosine diphosphate), is crucial for platelet aggregation and is influenced by stimuli such as prostaglandin E1. The failure of ADP to induce aggregation in patients with P2Y12 receptor defects highlights the importance of stimuli in activating pathways involving AMP and cyclic AMP (cAMP) levels, although AMP itself is not directly discussed as a stimulus.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Stimulus",
+                        "target": "503311",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "503311",
+                        "target": "503311_adenosine 5'-monophosphate_Stimulus_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Immunoreactivity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Immunoreactivity",
+                        "label": "Immunoreactivity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Immunoreactivity_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to immunoreactivity through the study of adenylate cyclase isoforms AC5/6 in a human intestinal epithelial cell line. The immunoreactivity observed indicates the presence of these isoforms, which are involved in the signaling pathways that AMP participates in. However, the specific role of AMP in relation to the immunoreactivity of AC5/6 is not explicitly detailed in the provided information.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723",
+                        "label": "Pituitary adenylate cyclase-activating polypeptide induces a sustained increase in intracellular free Ca(2+) concentration and catechol amine release by activating Ca(2+) influx via receptor-stimulated Ca(2+) entry, independent of store-operated Ca(2+) channels, and voltage-dependent Ca(2+) channels in bovine adrenal medullary chromaffin cells.\nK. Morita, A. Sakakibara, S. Kitayama, K. Kumagai, K. Tanne, T. Dohi\nJ. Pharmacol. Exp. Ther. 2002 Sep;302(3):972-82.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12183654"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_Immunoreactivity_Hypoxia-Responsive S.json",
+                        "label": "In this context, adenosine 5'-monophosphate (ADO) is implicated in the modulation of intracellular calcium levels ([Ca2+]i) in PC12 cells under conditions of chronic hypoxia. The study indicates that chronic hypoxia affects the immunoreactivity of A2A receptors, which are linked to ADO's signaling pathways. However, the specific relationship between ADO and immunoreactivity is not deeply explored, focusing instead on the effects of ADO on calcium dynamics and PKA activity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Immunoreactivity",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Immunoreactivity_RESULTS.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Immunoreactivity",
+                        "target": "105723",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_Immunoreactivity_Hypoxia-Responsive S.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Reverse Transcription": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Reverse Transcription",
+                        "label": "Reverse Transcription",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136",
+                        "label": "Dose-response comparison of budesonide dry powder inhalers using adenosine monophosphate bronchial challenge.\nBJ. Lipworth, EJ. Sims, SK. Das, H. Buck, M. Paterson\nAnn. Allergy Asthma Immunol. 2005 Jun;94(6):675-81.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15984601"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136_adenosine 5'-monophosphate_Reverse Transcription_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to reverse transcription through the study of cAMP signaling in MIN6 β-cells. The expression of adenylate cyclase and phosphodiesterase isoforms, which regulate cAMP levels, is analyzed using reverse transcription-PCR. While AMP is a product of adenylate cyclase activity, the direct relationship between AMP and reverse transcription is not explicitly discussed, focusing instead on the broader signaling pathways involved.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Reverse Transcription",
+                        "target": "499136",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "499136",
+                        "target": "499136_adenosine 5'-monophosphate_Reverse Transcription_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "adenylate cyclase activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "adenylate cyclase activity",
+                        "label": "adenylate cyclase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136",
+                        "label": "Dose-response comparison of budesonide dry powder inhalers using adenosine monophosphate bronchial challenge.\nBJ. Lipworth, EJ. Sims, SK. Das, H. Buck, M. Paterson\nAnn. Allergy Asthma Immunol. 2005 Jun;94(6):675-81.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15984601"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136_adenosine 5'-monophosphate_adenylate cyclase activity_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate cyclase activity through its role in the signaling pathways that regulate cAMP levels. The study highlights that increases in cytoplasmic Ca2+ lead to enhanced adenylate cyclase activity, which subsequently raises cAMP concentrations. This suggests that AMP may play a role in modulating adenylate cyclase activity, particularly in the context of Ca2+-dependent signaling in endocrine cells.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_adenylate cyclase activity_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate cyclase activity through the discussion of cAMP levels and the functional importance of adenylate cyclase isoforms in chloride secretion. The text indicates that decreased adenylate cyclase activity is a key factor in hyporesponsiveness to secretagogues, suggesting that AMP may play a role in modulating this activity, although the direct relationship is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_adenylate cyclase activity_MATERIALS AND METHOD.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate cyclase activity through the measurement of cyclic adenosine monophosphate (cAMP) levels. Adenylate cyclase catalyzes the conversion of ATP to cAMP, and the activity of adenylate cyclase is crucial for understanding the signaling pathways involving AMP. The study measures adenylate cyclase activity using forskolin, which stimulates cAMP production, indicating a functional relationship between AMP and adenylate cyclase in cellular signaling processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_adenylate cyclase activity_DISCUSSION.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate cyclase activity through the discussion of signaling pathways involving opioid receptors and nitric oxide (NO). The text suggests that NO may influence adenylate cyclase activity, which is crucial for the conversion of ATP to cyclic AMP (cAMP). While AMP itself is not directly discussed in relation to adenylate cyclase, its role as a signaling molecule in the context of cAMP production implies a connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_adenylate cyclase activity_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate cyclase activity through the modulation of signaling pathways. The study discusses how forskolin, a known activator of adenylate cyclase, influences chloride secretion in mouse colon, while nitric oxide's effect on adenylate cyclase activity is noted as independent of Gi protein mechanisms. Although AMP is not explicitly mentioned as a direct modulator, its role as a signaling molecule in the adenylate cyclase pathway is implied, suggesting a connection in the broader context of cellular signaling.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "adenylate cyclase activity",
+                        "target": "499136",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "499136",
+                        "target": "499136_adenosine 5'-monophosphate_adenylate cyclase activity_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "adenylate cyclase activity",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_adenylate cyclase activity_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_adenylate cyclase activity_MATERIALS AND METHOD.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_adenylate cyclase activity_DISCUSSION.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_adenylate cyclase activity_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Cell physiology": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cell physiology",
+                        "label": "Cell physiology",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723",
+                        "label": "Pituitary adenylate cyclase-activating polypeptide induces a sustained increase in intracellular free Ca(2+) concentration and catechol amine release by activating Ca(2+) influx via receptor-stimulated Ca(2+) entry, independent of store-operated Ca(2+) channels, and voltage-dependent Ca(2+) channels in bovine adrenal medullary chromaffin cells.\nK. Morita, A. Sakakibara, S. Kitayama, K. Kumagai, K. Tanne, T. Dohi\nJ. Pharmacol. Exp. Ther. 2002 Sep;302(3):972-82.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12183654"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_Cell physiology_Hypoxia-Responsive S.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to cell physiology through its role in cellular signaling pathways influenced by calcium ions (Ca2+). The activation of various enzymes, including adenylate cyclases, is crucial for transducing Ca2+ signals into nuclear events that affect gene expression and cellular functions. While AMP is not explicitly mentioned, its involvement in energy metabolism and signaling pathways is essential for understanding cell physiology, particularly in relation to gene expression and cellular responses to stimuli.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cell physiology",
+                        "target": "105723",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_Cell physiology_Hypoxia-Responsive S.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Platelet aggregation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Platelet aggregation",
+                        "label": "Platelet aggregation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "503311",
+                        "label": "Can exhaled nitric oxide be a surrogate marker of bronchial hyperresponsiveness to adenosine 5'-monophosphate in steroid-naive asthmatic children?\nM. Arga, A. Bakirtas, E. Topal, I. Turktas\nClin. Exp. Allergy 2015 Apr;45(4):758-66.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25378028"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "503311_adenosine 5'-monophosphate_Platelet aggregation_Introduction.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to platelet aggregation through its role in the signaling pathway mediated by the P2Y12 receptor (P2Y12R). The failure of ADP, a derivative of AMP, to induce platelet aggregation in patients with P2Y12R defects highlights the importance of this receptor in platelet function. The study emphasizes the connection between AMP signaling and the regulation of platelet aggregation, particularly in the context of inherited receptor defects that lead to bleeding disorders.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Platelet aggregation",
+                        "target": "503311",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "503311",
+                        "target": "503311_adenosine 5'-monophosphate_Platelet aggregation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Vasodilation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Vasodilation",
+                        "label": "Vasodilation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777",
+                        "label": "Exhaled nitric oxide and bronchial responsiveness to adenosine 5'-monophosphate in subjects with allergic rhinitis.\nL. Prieto, V. Gutiérrez, S. Uixera\nChest 2002 Jun;121(6):1853-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12065349"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_Vasodilation_Discussion.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to vasodilation through the discussion of cyclic nucleotides and their role in the vasodilatory effects of flavonoids like quercetin and isorhamnetin. While the study investigates the mechanisms of vasodilation, it does not explicitly link AMP to the observed effects, focusing instead on other signaling pathways. Thus, the relationship is more suggestive than direct.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_Vasodilation_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is not explicitly mentioned, but the study focuses on the vasodilatory effects of quercetin and its metabolites on isolated vascular tissues. Vasodilation is a key physiological response that can be influenced by various signaling molecules, including AMP, which is known to play a role in vascular smooth muscle relaxation. However, the direct relationship between AMP and vasodilation is not detailed in the provided context, limiting the clarity of their connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Vasodilation",
+                        "target": "501777",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_Vasodilation_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_Vasodilation_Abstract.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Functional disorder": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Functional disorder",
+                        "label": "Functional disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Functional disorder_DISCUSSION.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to functional disorders through its role in cAMP signaling pathways. The study discusses how nitric oxide (NO) inhibits cAMP accumulation, affecting ion transport and chloride secretion in the intestinal epithelium. This inhibition may contribute to secretory dysfunction, which is a functional disorder, particularly in the context of radiation injury and inflammation. However, the specific role of AMP itself in these disorders is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Functional disorder",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Functional disorder_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Exocytosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exocytosis",
+                        "label": "Exocytosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Exocytosis_Statistics from Altm.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to exocytosis through its role in modulating cellular responses via cAMP signaling pathways. The study focuses on adenylate cyclase isoforms, particularly AC5 and AC6, which influence cAMP levels and subsequently affect secretagogue responsiveness in intestinal cells. While AMP itself is not directly mentioned in relation to exocytosis, its involvement in cAMP signaling suggests a potential link to exocytotic processes influenced by secretagogues.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Exocytosis_DISCUSSION.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to exocytosis through its role in cAMP signaling pathways. The study discusses how nitric oxide (NO) inhibits cAMP accumulation, which is crucial for ion transport and secretion processes, including exocytosis. While AMP itself is not directly mentioned as a mediator of exocytosis, its involvement in cAMP signaling suggests a potential link to the regulation of secretory functions in the intestinal epithelium.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Exocytosis_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to exocytosis through its role as a signaling molecule that can influence cAMP levels and subsequent cellular responses. The study discusses the effects of cAMP analogs like 8-Br-cAMP on colonic secretory responses, suggesting that AMP may play a role in modulating exocytosis in response to various stimuli, although the direct relationship is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exocytosis",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Exocytosis_Statistics from Altm.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Exocytosis_DISCUSSION.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Exocytosis_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Gene Expression": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Gene Expression",
+                        "label": "Gene Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723",
+                        "label": "Pituitary adenylate cyclase-activating polypeptide induces a sustained increase in intracellular free Ca(2+) concentration and catechol amine release by activating Ca(2+) influx via receptor-stimulated Ca(2+) entry, independent of store-operated Ca(2+) channels, and voltage-dependent Ca(2+) channels in bovine adrenal medullary chromaffin cells.\nK. Morita, A. Sakakibara, S. Kitayama, K. Kumagai, K. Tanne, T. Dohi\nJ. Pharmacol. Exp. Ther. 2002 Sep;302(3):972-82.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12183654"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_Gene Expression_Oxygen-Sensing Cells.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is implicated in the regulation of gene expression during hypoxia in PC12 cells. The cAMP-protein kinase A pathway, which involves AMP, is one of several signaling pathways identified as regulators of gene expression under low oxygen conditions. This suggests that AMP plays a significant role in the cellular response to hypoxia by influencing gene expression mechanisms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_Gene Expression_Hypoxia-Responsive S.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to gene expression through its role in cellular signaling pathways activated by calcium ions (Ca2+). The increase in intracellular Ca2+ leads to the activation of various kinases, which subsequently influence gene expression. While AMP is not explicitly mentioned in the gene expression mechanisms, it is often involved in energy metabolism and signaling that can affect transcriptional regulation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Gene Expression",
+                        "target": "105723",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_Gene Expression_Oxygen-Sensing Cells.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_Gene Expression_Hypoxia-Responsive S.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Hypoxia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hypoxia",
+                        "label": "Hypoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723",
+                        "label": "Pituitary adenylate cyclase-activating polypeptide induces a sustained increase in intracellular free Ca(2+) concentration and catechol amine release by activating Ca(2+) influx via receptor-stimulated Ca(2+) entry, independent of store-operated Ca(2+) channels, and voltage-dependent Ca(2+) channels in bovine adrenal medullary chromaffin cells.\nK. Morita, A. Sakakibara, S. Kitayama, K. Kumagai, K. Tanne, T. Dohi\nJ. Pharmacol. Exp. Ther. 2002 Sep;302(3):972-82.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12183654"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_Hypoxia_Hypoxia-Responsive S.json",
+                        "label": "In this context, adenosine 5'-monophosphate (ADO) is implicated in the cellular response to hypoxia. Chronic hypoxia enhances the rise in intracellular calcium ([Ca2+]i) during anoxic conditions and diminishes the inhibitory effects of ADO on calcium influx and [Ca2+]i elevation. This suggests that chronic hypoxia alters the signaling pathways involving ADO, particularly through increased A2A receptor levels and reduced protein kinase A (PKA) activity, which may help maintain cellular excitability under prolonged low oxygen conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hypoxia",
+                        "target": "105723",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_Hypoxia_Hypoxia-Responsive S.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Baresthesia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Baresthesia",
+                        "label": "Baresthesia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777",
+                        "label": "Exhaled nitric oxide and bronchial responsiveness to adenosine 5'-monophosphate in subjects with allergic rhinitis.\nL. Prieto, V. Gutiérrez, S. Uixera\nChest 2002 Jun;121(6):1853-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12065349"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_Baresthesia_Results.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is not directly mentioned or linked to the concept of baresthesia, which refers to the perception of pressure or touch. The focus is primarily on the effects of quercetin and isorhamnetin on vascular relaxation and perfusion pressure in the thoracic aorta and mesenteric bed. There is no discussion of AMP's role in sensory perception or its relationship to baresthesia.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Baresthesia",
+                        "target": "501777",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_Baresthesia_Results.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "inhibitors": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777",
+                        "label": "Exhaled nitric oxide and bronchial responsiveness to adenosine 5'-monophosphate in subjects with allergic rhinitis.\nL. Prieto, V. Gutiérrez, S. Uixera\nChest 2002 Jun;121(6):1853-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12065349"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_inhibitors_Discussion.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to inhibitors through the discussion of cyclic nucleotides and their role in vasodilation. The study mentions selective inhibitors of soluble guanylate cyclase and adenylate cyclase, which are involved in the signaling pathways that could affect AMP levels. However, the specific relationship between AMP and the inhibitors is not directly explored, indicating a more general connection rather than a detailed interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_inhibitors_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is not directly mentioned, but the study discusses the effects of various inhibitors, including guanylate cyclase and adenylate cyclase inhibitors, on vasodilator responses. While inhibitors are relevant to the signaling pathways involving AMP, the specific relationship between AMP and these inhibitors is not explicitly detailed, indicating a more indirect connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_inhibitors_Materials and Method.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to inhibitors through the mention of various inhibitors affecting different pathways, including adenylate cyclase. The study involves the use of inhibitors like SQ22536, which targets adenylate cyclase, potentially influencing AMP levels and signaling pathways. However, the specific role of AMP in relation to these inhibitors is not explicitly detailed, indicating a more general connection rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "501777_adenosine 5'-monophosphate_inhibitors_Results.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to inhibitors as the study discusses the effects of various inhibitors on vascular responses. Specifically, the adenylate cyclase inhibitor SQ22536 is mentioned, which would affect AMP levels by inhibiting its production from ATP. However, the context does not elaborate on the direct relationship between AMP and the inhibitors, focusing instead on their effects on vascular relaxation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136",
+                        "label": "Dose-response comparison of budesonide dry powder inhalers using adenosine monophosphate bronchial challenge.\nBJ. Lipworth, EJ. Sims, SK. Das, H. Buck, M. Paterson\nAnn. Allergy Asthma Immunol. 2005 Jun;94(6):675-81.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15984601"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136_adenosine 5'-monophosphate_inhibitors_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to inhibitors, specifically the DDA inhibitor of membrane-bound adenylate cyclases. The study discusses how secretagogue-induced cAMP production is influenced by calcium signaling and the presence of inhibitors like DDA, which affects the accumulation of cAMP in MIN6 cells. While AMP is a product of adenylate cyclase activity, the focus is on the role of inhibitors in modulating cAMP levels rather than a direct relationship between AMP and the inhibitors themselves.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "495977",
+                        "label": "The use of bronchial challenge to diagnose asthma in preschool children.\nS. Godfrey\nPrim Care Respir J 2009 Mar;18(1):10-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19172211"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "495977_adenosine 5'-monophosphate_inhibitors_Results.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is involved in the enzymatic reaction catalyzed by adenylate kinase, which converts ADP to ATP. The study evaluates the effects of specific inhibitors, particularly diadenosine pentaphosphate, on adenylate kinase activity and ATP accumulation in phagosomes. The significant inhibition of ATP levels by the adenylate kinase inhibitor indicates a direct relationship between AMP and the inhibitors, highlighting the role of AMP in energy metabolism and the impact of inhibitors on this process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "501777",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_inhibitors_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_inhibitors_Abstract.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_inhibitors_Materials and Method.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "501777",
+                        "target": "501777_adenosine 5'-monophosphate_inhibitors_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "499136",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "499136",
+                        "target": "499136_adenosine 5'-monophosphate_inhibitors_RESULTS.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "495977",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "495977",
+                        "target": "495977_adenosine 5'-monophosphate_inhibitors_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "mRNA Expression": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "mRNA Expression",
+                        "label": "mRNA Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_mRNA Expression_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to mRNA expression through the study of adenylate cyclase isoforms in intestinal epithelial cells. The expression of these isoforms is assessed via reverse transcription-polymerase chain reaction (RT-PCR), which involves mRNA derived from total RNA. While AMP is a product of adenylate cyclase activity, the specific relationship between AMP and mRNA expression is not explicitly detailed in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "mRNA Expression",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_mRNA Expression_RESULTS.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Intestinal chloride secretion": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Intestinal chloride secretion",
+                        "label": "Intestinal chloride secretion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Intestinal chloride secretion_DISCUSSION.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to intestinal chloride secretion through its role in the activation of adenylate cyclase isoforms, particularly AC5. The study investigates how these isoforms influence chloride secretion in response to forskolin and other activators. The findings suggest that AC5 plays a significant role in mediating the secretory response, indicating a functional relationship between AMP signaling and chloride transport in intestinal epithelia.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Intestinal chloride secretion",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Intestinal chloride secretion_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "adenylate kinase activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "adenylate kinase activity",
+                        "label": "adenylate kinase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "495977",
+                        "label": "The use of bronchial challenge to diagnose asthma in preschool children.\nS. Godfrey\nPrim Care Respir J 2009 Mar;18(1):10-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19172211"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "495977_adenosine 5'-monophosphate_adenylate kinase activity_Results.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate kinase activity, as adenylate kinase is responsible for converting ADP to ATP, which is crucial for cellular energy metabolism. The study highlights that adenylate kinase activity is significantly higher in permeabilized phagosomes, suggesting that AMP may play a role in the energy dynamics within these organelles. However, the direct relationship between AMP and adenylate kinase activity is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "495977_adenosine 5'-monophosphate_adenylate kinase activity_Summary.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate kinase activity through the conversion of ADP to ATP. Adenylate kinase catalyzes this reaction, which is crucial for maintaining ATP levels in cells, especially under conditions of ATP limitation. The study highlights the importance of ATP in actin assembly within phagosomes, suggesting that adenylate kinase activity is essential for ATP regeneration from ADP, which is influenced by AMP levels.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "495977_adenosine 5'-monophosphate_adenylate kinase activity_Discussion.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate kinase activity through the conversion of ADP to ATP. Adenylate kinase (AK) facilitates this conversion, which is crucial for activating the P2X7 receptor (P2X7R) and stimulating actin assembly in macrophages. The process highlights the role of adenylate kinase in cellular energy metabolism and signaling pathways involving AMP and ATP.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "adenylate kinase activity",
+                        "target": "495977",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "495977",
+                        "target": "495977_adenosine 5'-monophosphate_adenylate kinase activity_Results.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "495977",
+                        "target": "495977_adenosine 5'-monophosphate_adenylate kinase activity_Summary.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "495977",
+                        "target": "495977_adenosine 5'-monophosphate_adenylate kinase activity_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Regulation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Regulation",
+                        "label": "Regulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136",
+                        "label": "Dose-response comparison of budesonide dry powder inhalers using adenosine monophosphate bronchial challenge.\nBJ. Lipworth, EJ. Sims, SK. Das, H. Buck, M. Paterson\nAnn. Allergy Asthma Immunol. 2005 Jun;94(6):675-81.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15984601"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136_adenosine 5'-monophosphate_Regulation_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to regulation through its involvement in the signaling pathways of MIN6 β-cells. The study focuses on the expression of adenylate cyclase (AC) and phosphodiesterase (PDE) isoforms that modulate cAMP levels, which are crucial for cellular responses to stimuli. While AMP itself is not explicitly discussed, its role as a signaling molecule in regulating cAMP concentrations is implied, highlighting its importance in the broader regulatory mechanisms of cellular signaling.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Regulation",
+                        "target": "499136",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "499136",
+                        "target": "499136_adenosine 5'-monophosphate_Regulation_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Signal Transduction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Signal Transduction",
+                        "label": "Signal Transduction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500681",
+                        "label": "[New techniques in the study of asthma].\nJM. Olaguíbel, MJ. Alvarez, P. Uribe, BE. García, AI. Tabar\nAn Sist Sanit Navar 2003 ;26 Suppl 2:57-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/13679964"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500681_adenosine 5'-monophosphate_Signal Transduction_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to signal transduction through its role in the activation of adenylate cyclases, which are key enzymes in the cAMP signaling pathway. The discussion highlights how calcium-sensitive adenylate cyclases integrate signals from calcium and cAMP, indicating that AMP is a crucial component in the broader context of signal transduction mechanisms involving these pathways. However, the specific interactions of AMP with signal transduction processes are not elaborated in detail.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136",
+                        "label": "Dose-response comparison of budesonide dry powder inhalers using adenosine monophosphate bronchial challenge.\nBJ. Lipworth, EJ. Sims, SK. Das, H. Buck, M. Paterson\nAnn. Allergy Asthma Immunol. 2005 Jun;94(6):675-81.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15984601"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136_adenosine 5'-monophosphate_Signal Transduction_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (cAMP) plays a crucial role in signal transduction, particularly in the regulation of cellular functions through its interaction with calcium (Ca2+) signaling. The study highlights how increases in cAMP levels are dependent on extracellular Ca2+ and are influenced by adenylate cyclase activity. This indicates that cAMP acts as a second messenger in signaling pathways, coordinating cellular responses to stimuli such as glucose and depolarization in endocrine cells.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Signal Transduction",
+                        "target": "500681",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500681",
+                        "target": "500681_adenosine 5'-monophosphate_Signal Transduction_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Signal Transduction",
+                        "target": "499136",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "499136",
+                        "target": "499136_adenosine 5'-monophosphate_Signal Transduction_Abstract.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Calmodulin Pathway": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Calmodulin Pathway",
+                        "label": "Calmodulin Pathway",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723",
+                        "label": "Pituitary adenylate cyclase-activating polypeptide induces a sustained increase in intracellular free Ca(2+) concentration and catechol amine release by activating Ca(2+) influx via receptor-stimulated Ca(2+) entry, independent of store-operated Ca(2+) channels, and voltage-dependent Ca(2+) channels in bovine adrenal medullary chromaffin cells.\nK. Morita, A. Sakakibara, S. Kitayama, K. Kumagai, K. Tanne, T. Dohi\nJ. Pharmacol. Exp. Ther. 2002 Sep;302(3):972-82.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12183654"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_Calmodulin Pathway_Oxygen-Sensing Cells.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is mentioned as part of the signaling pathways involved in the cellular response to hypoxia, specifically within the cAMP-protein kinase A pathway. The Calmodulin pathway is also identified as a significant signaling route that regulates gene expression during hypoxia. While both pathways are implicated in the cellular response to low oxygen levels, the context does not provide a direct interaction or detailed relationship between AMP and the Calmodulin pathway, indicating they are part of a broader network of signaling mechanisms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_Calmodulin Pathway_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to the Calmodulin pathway through its involvement in cellular signaling during hypoxia. The Calmodulin pathway is one of several signaling pathways mentioned that regulate gene expression in response to reduced oxygen levels. While AMP is part of the broader signaling landscape, the specific interaction between AMP and the Calmodulin pathway is not detailed, indicating a more general connection rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Calmodulin Pathway",
+                        "target": "105723",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_Calmodulin Pathway_Oxygen-Sensing Cells.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_Calmodulin Pathway_Abstract.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "depolarization": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "depolarization",
+                        "label": "depolarization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136",
+                        "label": "Dose-response comparison of budesonide dry powder inhalers using adenosine monophosphate bronchial challenge.\nBJ. Lipworth, EJ. Sims, SK. Das, H. Buck, M. Paterson\nAnn. Allergy Asthma Immunol. 2005 Jun;94(6):675-81.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15984601"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "499136_adenosine 5'-monophosphate_depolarization_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to depolarization through its role in cAMP signaling. The study shows that depolarization of insulin-secreting MIN6 cells leads to a rapid increase in cAMP levels, which is dependent on extracellular Ca2+. This suggests that AMP, as a precursor to cAMP, is involved in the signaling pathway activated by depolarization, highlighting a coordinated interplay between Ca2+ and cAMP signaling in these cells.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "depolarization",
+                        "target": "499136",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "499136",
+                        "target": "499136_adenosine 5'-monophosphate_depolarization_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_Process_DISCUSSION.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to the process of adenylate cyclase activity modulation. The discussion revolves around the effects of nitric oxide (NO) on adenylate cyclase, which is influenced by AMP levels. The study highlights how NO can inhibit adenylate cyclase activity, suggesting that AMP's role in this signaling pathway is significant, although the specific processes involving AMP are not detailed extensively.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_Process_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "MAPK1 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "MAPK1 gene",
+                        "label": "MAPK1 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723",
+                        "label": "Pituitary adenylate cyclase-activating polypeptide induces a sustained increase in intracellular free Ca(2+) concentration and catechol amine release by activating Ca(2+) influx via receptor-stimulated Ca(2+) entry, independent of store-operated Ca(2+) channels, and voltage-dependent Ca(2+) channels in bovine adrenal medullary chromaffin cells.\nK. Morita, A. Sakakibara, S. Kitayama, K. Kumagai, K. Tanne, T. Dohi\nJ. Pharmacol. Exp. Ther. 2002 Sep;302(3):972-82.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12183654"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_MAPK1 gene_Oxygen-Sensing Cells.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is part of the signaling pathways that regulate gene expression during hypoxia in PC12 cells, which includes the ERK1 and ERK2 mitogen-activated protein kinase (MAPK) pathway. While AMP itself is not directly linked to the MAPK1 gene, it plays a role in the broader signaling network that influences MAPK pathway activation, suggesting an indirect relationship in the context of cellular responses to hypoxia.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "MAPK1 gene",
+                        "target": "105723",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_MAPK1 gene_Oxygen-Sensing Cells.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "ADCY9 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ADCY9 gene",
+                        "label": "ADCY9 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_ADCY9 gene_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to the ADCY9 gene through the discussion of adenylate cyclase isoforms, which are enzymes that convert ATP to cyclic AMP (cAMP). The ADCY9 gene encodes one of these isoforms, suggesting a role in the regulation of AMP levels via cAMP signaling pathways. However, the specific interaction between AMP and ADCY9 is not explicitly detailed in the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ADCY9 gene",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_ADCY9 gene_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "ADCY5 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ADCY5 gene",
+                        "label": "ADCY5 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_ADCY5 gene_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to the ADCY5 gene through the study of adenylate cyclase expression, specifically isoform 5, which is encoded by the ADCY5 gene. The research highlights the role of adenylate cyclase in producing cyclic AMP (cAMP), a critical signaling molecule derived from AMP, and its importance in chloride secretion in the intestinal epithelium. Thus, while AMP is not directly discussed, its metabolic pathway is linked to the function of the ADCY5 gene.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ADCY5 gene",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_ADCY5 gene_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "ADCY6 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ADCY6 gene",
+                        "label": "ADCY6 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_ADCY6 gene_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to the ADCY6 gene through the study of adenylate cyclase isoforms AC5/6, which are involved in the conversion of AMP to cyclic AMP (cAMP). The immunoreactivity of AC5/6 in human intestinal epithelial cells suggests a functional role in cellular signaling pathways that may be influenced by the ADCY6 gene, although the specific relationship between AMP and ADCY6 is not explicitly detailed in the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ADCY6 gene",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_ADCY6 gene_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "GLI3 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "GLI3 gene",
+                        "label": "GLI3 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432",
+                        "label": "Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids.\nDK. Lee, K. Haggart, FM. Robb, BJ. Lipworth\nClin. Exp. Allergy 2004 Jan;34(1):110-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14720270"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "500432_adenosine 5'-monophosphate_GLI3 gene_RESULTS.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) and the GLI3 gene are not directly related. The focus is on the effects of nitric oxide (NO) donors on cGMP and cAMP levels in mouse colon and T84 cells, with no mention of the GLI3 gene or its functions. While AMP is involved in cellular signaling, the GLI3 gene is primarily associated with developmental processes and signaling pathways, particularly in the context of hedgehog signaling. Thus, their relationship is not established in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "GLI3 gene",
+                        "target": "500432",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "500432",
+                        "target": "500432_adenosine 5'-monophosphate_GLI3 gene_RESULTS.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "MAPK3 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "MAPK3 gene",
+                        "label": "MAPK3 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723",
+                        "label": "Pituitary adenylate cyclase-activating polypeptide induces a sustained increase in intracellular free Ca(2+) concentration and catechol amine release by activating Ca(2+) influx via receptor-stimulated Ca(2+) entry, independent of store-operated Ca(2+) channels, and voltage-dependent Ca(2+) channels in bovine adrenal medullary chromaffin cells.\nK. Morita, A. Sakakibara, S. Kitayama, K. Kumagai, K. Tanne, T. Dohi\nJ. Pharmacol. Exp. Ther. 2002 Sep;302(3):972-82.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12183654"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_MAPK3 gene_Abstract.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is part of the signaling pathways that regulate gene expression during hypoxia, which includes the MAPK3 gene pathway. The MAPK pathway, specifically p42 and p44 MAPK (ERK1 and ERK2), is activated in response to hypoxic conditions, suggesting that AMP may play a role in modulating this signaling pathway and influencing the expression of genes regulated by MAPK3 during oxygen deprivation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105723_adenosine 5'-monophosphate_MAPK3 gene_Oxygen-Sensing Cells.json",
+                        "label": "In this context, adenosine 5'-monophosphate (AMP) is part of the signaling pathways that regulate gene expression during hypoxia in PC12 cells, which includes the MAPK pathway. The MAPK3 gene, a component of the ERK1 and ERK2 MAPK pathway, is likely influenced by AMP levels as part of the cellular response to hypoxic conditions. This suggests a functional relationship where AMP may play a role in modulating the activity of MAPK3 in response to hypoxia.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "MAPK3 gene",
+                        "target": "105723",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_MAPK3 gene_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105723",
+                        "target": "105723_adenosine 5'-monophosphate_MAPK3 gene_Oxygen-Sensing Cells.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[2] METHODS--Volatile organic compounds were assayed by gas chromatography/mass spectroscopy (GC/MS) in 88 subjects--25 with acute schizophrenic psychosis, 26 with psychiatric disorders other than schizophrenia, and 37 normal volunteers. [3] RESULTS--The mean alveolar gradients of pentane and carbon disulfide (CS2) were significantly higher in the patients with schizophrenia than in the control groups. [4] CONCLUSIONS--Schizophrenia may be accompanied by accelerated lipid peroxidation in cell membranes, as well as increased manufacture of CS2, a known neurotoxin.  [1] We have determined the concentrations of carbonyl sulfide (OCS), dimethylsulfide, and carbon disulfide (CS2) in the breath of a group of cystic fibrosis (CF) patients and one of healthy controls.  [2] At the detection sensitivity in these experiments, room air always contained measurable quantities of these three gases.  [3] For each subject the inhaled room concentrations were subtracted from the time-coincident concentrations in exhaled breath air.  [4] The most significant differences between the CF and control cohorts in these breath-minus-room values were found for OCS. ",
+    "term_A": "Sulfanylidenemethanone",
+    "term_B": "Cystic Fibrosis",
+    "llm_generation": {
+        "summary": "In this context, sulfanylidenemethanone is indirectly related to cystic fibrosis (CF) through the analysis of volatile organic compounds (VOCs) in the breath of CF patients. The study measures concentrations of various sulfur-containing gases, including carbonyl sulfide (OCS), in CF patients compared to healthy controls. While sulfanylidenemethanone is not explicitly mentioned as being measured, the focus on sulfur compounds suggests a potential relevance to the biochemical processes in CF, particularly regarding breath analysis as a diagnostic tool.",
+        "reason": "The score of 2 reflects an indirect connection between sulfanylidenemethanone and cystic fibrosis, as both are involved in the study of VOCs in breath analysis. However, there is no direct evidence or detailed discussion of their relationship.",
+        "score": 2
+    }
+}

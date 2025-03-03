@@ -1,0 +1,10 @@
+{
+    "context": "The response of the FID to the standard mixture of short chain aliphatic hydrocarbons can be seen in Fig. 2 . As expected, greater responses were obtained from the larger compounds as more ions are produced for the FID to detect. However, the sensitivity of the system to methane was less than expected compared to the other aliphatics compounds. The GC-FID analyses showed that cells grown in culture media with different ionic strength between 0.5 and 3.0 M produced a range of VOCs including methane, ethane, propane, butane and pentane (Fig. 3 ). However, only cells grown at 0.5 M NaCl showed production of all of the five VOCs, while cells grown in 2.0 and 3.0 M NaCl did not produce detectable amounts of methane. The presence of methane in the 0.5 M NaCl was unexpected as this compound is normally produced by anaerobic bacteria and not algae. It is possible that bacteria were present in the cultures despite best efforts to minimise this contamination and at the higher ionic strengths, they may not have been able to survive. ",
+    "term_A": "Pentane",
+    "term_B": "Propane",
+    "llm_generation": {
+        "summary": "In this context, pentane and propane are both mentioned as volatile organic compounds (VOCs) produced by cells grown in culture media with varying ionic strengths. The study highlights the production of these hydrocarbons in relation to the growth conditions, but does not provide specific details on their interaction or comparative significance. They are part of a broader analysis of VOCs generated under different conditions, indicating a general relationship as components of the same experimental setup.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as pentane and propane are both identified as VOCs produced in the same experimental context, but there is no detailed discussion of their specific interactions or functional relationships.",
+        "score": 2
+    }
+}

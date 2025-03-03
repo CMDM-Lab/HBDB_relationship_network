@@ -1,0 +1,10 @@
+{
+    "context": "In the enhanced bioremediation column, TCE and VC were detected in the column headspace, while DCE remained below the detection limit. TCE stabilized in the headspace around 500ppm, and VC concentrations approached 1400ppm towards the end of the experiment. The inhalation exposure limits for vinyl chloride are more stringent than that of TCE - 1ppm for 8-h time weighted average (WorkSafeBC, 2015), and 5ppm for short term (15min) exposure (OSHA, 2012). TCE was transported earlier than VC, as TCE daughter products did not accumulate in the contamination zone until TCE co-metabolism was underway. Despite orders of magnitude higher concentrations of TCE than VC in the contamination zone (the highest dissolved concentration of VC was 25mg/L), VC vertical transport with ebullition was dominant due to the differing Henry's Constants. The dimensionless Henry's Constants give an indication of how readily dissolved VOCs will partition into the gas phase - at 20\u00b0C, KH \u2032(TCE)=0.41, and KH \u2032(VC)=1.18 ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "trichloroethylene metabolism",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as a contaminant in a bioremediation study, where its metabolism is indirectly referenced through the discussion of its daughter products and co-metabolism processes. While TCE is a precursor to other compounds, the specific metabolic pathways or interactions involving TCE and its transformation into other substances are not detailed, limiting the direct connection to trichloroethylene metabolism.",
+        "reason": "The score of 2 reflects an indirect connection between 1,1,2-trichloroethene and trichloroethylene metabolism, as they are both part of the same chemical family and involved in similar bioremediation processes, but the context does not provide detailed insights into their metabolic relationship.",
+        "score": 2
+    }
+}

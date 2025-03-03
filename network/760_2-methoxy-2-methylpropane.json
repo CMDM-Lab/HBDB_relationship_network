@@ -1,0 +1,3758 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "2-methoxy-2-methylpropane",
+                    "label": "2-methoxy-2-methylpropane",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-methoxy-2-methylpropane",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-methoxy-2-methylpropane",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-methoxy-2-methylpropane",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-methoxy-2-methylpropane",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-methoxy-2-methylpropane",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-methoxy-2-methylpropane",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-methoxy-2-methylpropane",
+                        "label": "2-methoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Amputation Stumps",
+                        "label": "Amputation Stumps",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Athetoid cerebral palsy",
+                        "label": "Athetoid cerebral palsy",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Autoimmune Syndrome Type II, Polyglandular",
+                        "label": "Autoimmune Syndrome Type II, Polyglandular",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Amputation Stumps",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Athetoid cerebral palsy",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Autoimmune Syndrome Type II, Polyglandular",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-methoxy-2-methylpropane",
+                        "label": "2-methoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Electrolytes",
+                        "label": "Electrolytes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Petroleum",
+                        "label": "Petroleum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Aromatic",
+                        "label": "Hydrocarbons, Aromatic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Growth Factor",
+                        "label": "Growth Factor",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "tenax",
+                        "label": "tenax",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ammonium",
+                        "label": "Ammonium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aromatic Compounds",
+                        "label": "Aromatic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxygen Compounds, Inorganic",
+                        "label": "Oxygen Compounds, Inorganic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Zeolites",
+                        "label": "Zeolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Butyl formate",
+                        "label": "Butyl formate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "clay",
+                        "label": "clay",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Phosphorous",
+                        "label": "Phosphorous",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Minerals",
+                        "label": "Minerals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Water Specimen",
+                        "label": "Water Specimen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-methyl-1-pentanol",
+                        "label": "3-methyl-1-pentanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1-Propanol",
+                        "label": "1-Propanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "tetrahydrofuran",
+                        "label": "tetrahydrofuran",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "hemicellulose",
+                        "label": "hemicellulose",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "mordenite",
+                        "label": "mordenite",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Electrolytes",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "3-xylene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Petroleum",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Hydrocarbons, Aromatic",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Growth Factor",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Toluene",
+                        "score": 31
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Atom",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Carbon",
+                        "score": 14
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Metabolites",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "tenax",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Naphthalene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Ammonium",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Aromatic Compounds",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Oxygen Compounds, Inorganic",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Zeolites",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Butyl formate",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "clay",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Phosphorous",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Minerals",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "octane",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Organic Chemicals",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Water Specimen",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "3-methyl-1-pentanol",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "1-Propanol",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "tetrahydrofuran",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "4-xylene",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "hemicellulose",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "mordenite",
+                        "score": 7
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-methoxy-2-methylpropane",
+                        "label": "2-methoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Stereochemistry",
+                        "label": "Stereochemistry",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "attenuation",
+                        "label": "attenuation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Drug Interactions",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Stereochemistry",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Adjudication",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "volatile substances",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Respiration",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "attenuation",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "inhibitors",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "Process",
+                        "score": 8
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-methoxy-2-methylpropane",
+                        "label": "2-methoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "TERT gene",
+                        "label": "TERT gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "GC gene",
+                        "label": "GC gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "FASTK Gene",
+                        "label": "FASTK Gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "MAP3K14 gene",
+                        "label": "MAP3K14 gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "TERT gene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "GC gene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "FASTK Gene",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-methoxy-2-methylpropane",
+                        "target": "MAP3K14 gene",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-methoxy-2-methylpropane",
+                        "label": "2-methoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-methoxy-2-methylpropane",
+                        "label": "2-methoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Amputation Stumps": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Amputation Stumps",
+                        "label": "Amputation Stumps",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934",
+                        "label": "Actual commuter exposure to methyl-tertiary butyl ether, benzene and toluene while traveling in Korean urban areas.\nJW. Lee, WK. Jo\nSci. Total Environ. 2002 May;291(1-3):219-28.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12150439"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Amputation Stumps_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned as a volatile organic compound (VOC) that individuals may be exposed to in vehicles due to gasoline emissions. However, there is no direct connection or discussion regarding amputation stumps, making it unclear how these two terms relate to each other. The mention of amputation stumps does not provide any context linking them to the exposure or effects of 2-methoxy-2-methylpropane.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Amputation Stumps",
+                        "target": "371934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Amputation Stumps_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Athetoid cerebral palsy": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Athetoid cerebral palsy",
+                        "label": "Athetoid cerebral palsy",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Athetoid cerebral palsy_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and athetoid cerebral palsy are mentioned without any direct relationship or interaction. The context primarily discusses methods for analyzing benzene and MTBE concentrations and does not provide any information linking the chemical compound to the neurological condition. Therefore, their mention appears coincidental and lacks relevance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Athetoid cerebral palsy",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Athetoid cerebral palsy_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Autoimmune Syndrome Type II, Polyglandular": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Autoimmune Syndrome Type II, Polyglandular",
+                        "label": "Autoimmune Syndrome Type II, Polyglandular",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Autoimmune Syndrome Type II, Polyglandular_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly related to Autoimmune Syndrome Type II, Polyglandular. The passage discusses environmental contaminants, particularly BTEX compounds and MTBE, focusing on their health implications and biodegradability. There is no mention of autoimmune conditions or any connection to 2-methoxy-2-methylpropane, indicating a lack of relevance between the two terms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Autoimmune Syndrome Type II, Polyglandular_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and Autoimmune Syndrome Type II, Polyglandular are mentioned without any direct relationship or interaction. The context primarily discusses the environmental impact and biodegradation of various organic compounds, including BTEX and MTBE, with no reference to autoimmune conditions or their potential links to these chemicals. Thus, their mention appears coincidental rather than relevant.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Autoimmune Syndrome Type II, Polyglandular",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Autoimmune Syndrome Type II, Polyglandular_Introduction.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Autoimmune Syndrome Type II, Polyglandular",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Autoimmune Syndrome Type II, Polyglandular_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Electrolytes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Electrolytes",
+                        "label": "Electrolytes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911",
+                        "label": "Solid-phase dynamic extraction for the enrichment of polar volatile organic compounds from water.\nMA. Jochmann, MP. Kmiecik, TC. Schmidt\nJ Chromatogr A 2006 May;1115(1-2):208-16.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16530775"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911_2-methoxy-2-methylpropane_Electrolytes_Results and discussi.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned in relation to the extraction process, where the influence of electrolytes, specifically sodium chloride, on extraction yield is tested. The addition of salt is shown to affect the extraction efficiency, indicating a relationship where electrolytes can modify the behavior of organic compounds like 2-methoxy-2-methylpropane during extraction processes. However, the specific interactions between the two are not deeply explored, focusing more on the general effect of electrolytes on extraction yields.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Electrolytes",
+                        "target": "351911",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "351911",
+                        "target": "351911_2-methoxy-2-methylpropane_Electrolytes_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "3-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911",
+                        "label": "Comparison of outdoor and indoor mobile source-related volatile organic compounds between low- and high-floor apartments.\nWK. Jo, KY. Kim, KH. Park, YK. Kim, HW. Lee, JK. Park\nEnviron. Res. 2003 Jun;92(2):166-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12854697"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_3-xylene_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 3-xylene are both mentioned as volatile organic compounds (VOCs) that may be present in the air surrounding low- and high-floor apartments due to motor vehicle emissions and other sources. However, there is no direct discussion of their specific interactions or comparative significance in the context of exposure levels or health effects, indicating a general association rather than a detailed relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_3-xylene_Experimental methods.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 3-xylene are both mentioned as volatile organic compounds (VOCs) that may be present in the air of high-rise apartments. However, there is no direct discussion of their relationship, interactions, or specific relevance to each other beyond their classification as VOCs. The study focuses on measuring various VOC concentrations without detailing how these two compounds might relate to one another.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "371911",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_3-xylene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_3-xylene_Experimental methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Petroleum": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Petroleum",
+                        "label": "Petroleum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934",
+                        "label": "Actual commuter exposure to methyl-tertiary butyl ether, benzene and toluene while traveling in Korean urban areas.\nJW. Lee, WK. Jo\nSci. Total Environ. 2002 May;291(1-3):219-28.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12150439"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Petroleum_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane (MTBE) is mentioned as a component of gasoline produced by petroleum companies, which also contains other volatile organic compounds like benzene and toluene. The study focuses on the exposure to these compounds during commutes, indicating that MTBE is derived from petroleum products, but does not elaborate on any specific health effects or interactions between MTBE and petroleum beyond their association in gasoline formulations.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Petroleum_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to petroleum through its mention as a component of gasoline, which is derived from petroleum. The study discusses the levels of MTBE (methyl tert-butyl ether) in gasoline, which is a fuel additive, and how it affects exposure levels in vehicles. However, there is no direct interaction or specific relevance between 2-methoxy-2-methylpropane and petroleum beyond their association in fuel composition.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Petroleum",
+                        "target": "371934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Petroleum_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Petroleum_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons, Aromatic": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Aromatic",
+                        "label": "Hydrocarbons, Aromatic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Hydrocarbons, Aromatic_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned, but the discussion revolves around the removal of aromatic hydrocarbons, including benzene and toluene, from groundwater through a multi-stage filtration system. Aromatic hydrocarbons are a category that may include various compounds, potentially including 2-methoxy-2-methylpropane, but the specific relationship or interaction between them is not detailed. The focus is primarily on the treatment performance of the filtration system rather than on the properties or interactions of the individual hydrocarbons.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Hydrocarbons, Aromatic_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned but is implied as a potential compound of interest in the study of biodegradation processes involving aromatic hydrocarbons, specifically BTEX compounds. The focus is on the inhibitory effects of these aromatic hydrocarbons on the biodegradation of MTBE, indicating a broader relationship between various hydrocarbons, including 2-methoxy-2-methylpropane, and their interactions in environmental remediation processes. However, the specific relationship between 2-methoxy-2-methylpropane and aromatic hydrocarbons is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Hydrocarbons, Aromatic_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned alongside various aromatic hydrocarbons, including benzene and toluene, in the analysis of groundwater and effluents. However, there is no direct discussion of the relationship between 2-methoxy-2-methylpropane and aromatic hydrocarbons, as they are simply listed as compounds analyzed in the study without any indication of interaction or significance in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons, Aromatic",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Hydrocarbons, Aromatic_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Hydrocarbons, Aromatic_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Hydrocarbons, Aromatic_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Growth Factor": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Growth Factor",
+                        "label": "Growth Factor",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Growth Factor_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned, but the discussion revolves around phosphorus as a potential growth-limiting factor in biomass formation during the degradation of organic contaminants. Growth factors are typically substances that promote cellular growth, but the relationship between 2-methoxy-2-methylpropane and growth factors is not established or explored in detail. The focus is primarily on microbial communities and biofilm development rather than specific chemical interactions involving 2-methoxy-2-methylpropane.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Growth Factor",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Growth Factor_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as components of gasoline and are discussed in relation to their environmental stability and health impacts. However, there is no direct interaction or specific relationship detailed between the two compounds. They are part of a broader discussion on gasoline components and their effects, particularly focusing on MTBE as a fuel additive and its comparison to other compounds like toluene.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Toluene_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as aromatic hydrocarbons present in the influent groundwater and effluents of a multi-stage filtration system. However, there is no direct discussion of their interactions or specific roles in the treatment process. They are part of a broader analysis of volatile organic compounds (VOCs) but lack a detailed relationship in the context provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Toluene_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are mentioned as co-contaminants that may influence the biodegradation of MTBE. The presence of toluene, along with other BTEX compounds, is suggested to inhibit the biodegradation process of MTBE, potentially due to competitive inhibition or the production of by-products. However, there is no direct interaction or specific relationship detailed between 2-methoxy-2-methylpropane and toluene themselves.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as components of BTEX compounds, which are common groundwater contaminants. However, the text primarily focuses on the environmental impact and degradation of MTBE, with no direct interaction or specific relationship discussed between 2-methoxy-2-methylpropane and toluene. Their mention is more about their classification as contaminants rather than any functional or chemical relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Toluene_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as aromatic hydrocarbons analyzed in groundwater samples using headspace gas chromatography and mass spectrometry. However, there is no direct discussion of their relationship or interaction; they are simply part of a broader analysis of various compounds, including degradation products of MTBE. Their mention is coincidental rather than indicative of a significant connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as organic contaminants of environmental concern, particularly in groundwater systems. However, the text primarily focuses on the biodegradation and removal mechanisms of other compounds like benzene and MTBE, without detailing any specific interactions or comparative significance between 2-methoxy-2-methylpropane and toluene. Their mention is more about their classification as pollutants rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934",
+                        "label": "Actual commuter exposure to methyl-tertiary butyl ether, benzene and toluene while traveling in Korean urban areas.\nJW. Lee, WK. Jo\nSci. Total Environ. 2002 May;291(1-3):219-28.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12150439"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Toluene_Conclusions.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as constituents of gasoline, with toluene being highlighted for its significant proportion (50% by volume) in spurious gasoline. However, the relationship between the two compounds is not explicitly discussed, and they are primarily referenced in the context of exposure levels during commuting. There is no direct interaction or comparison provided between 2-methoxy-2-methylpropane and toluene.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Toluene_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) measured in passenger cars. However, the analysis focuses primarily on the concentration levels of toluene and other aromatic compounds in relation to car model year and size, without detailing any specific interaction or relationship between 2-methoxy-2-methylpropane and toluene. Their mention is more about their presence in the same study rather than a direct connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Toluene_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) that may be present in urban environments, particularly in vehicle interiors during commutes. However, the context does not provide any specific interaction or comparative analysis between the two compounds, focusing instead on their individual presence in air quality studies. Thus, their relationship is not explicitly defined beyond being part of the same environmental study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as components of gasoline and solvents, with toluene specifically noted for its neurotoxic effects. However, the relationship between the two compounds is not directly discussed, and they are primarily referenced in the context of exposure studies related to gasoline emissions. Their connection is more about their presence in similar environments rather than any specific interaction or functional relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Toluene_Experimental methods.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) in a study measuring in-vehicle concentrations during commuter traffic. However, the context does not provide any specific interaction or relationship between the two compounds, as the focus is primarily on measuring VOC levels in different seasonal conditions without detailing their comparative significance or effects.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911",
+                        "label": "Comparison of outdoor and indoor mobile source-related volatile organic compounds between low- and high-floor apartments.\nWK. Jo, KY. Kim, KH. Park, YK. Kim, HW. Lee, JK. Park\nEnviron. Res. 2003 Jun;92(2):166-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12854697"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_Toluene_Conclusions.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) that contribute to indoor air pollution in residential settings. However, the relationship between them is not explicitly discussed, and they are primarily noted for their presence in the air rather than any direct interaction or comparative analysis. The focus is on their concentrations in different apartment settings rather than their chemical properties or effects on health.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_Toluene_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) present in indoor air samples. However, the text primarily focuses on the concentrations of toluene and other VOCs in low- and high-floor apartments, without detailing any specific interaction or relationship between 2-methoxy-2-methylpropane and toluene. Their mention is coincidental, as they are part of a broader discussion on VOC levels in residential settings.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_Toluene_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) associated with vehicle emissions and indoor air quality. However, the relationship between them is not explicitly discussed, and they are not shown to interact or influence each other directly. Instead, they are part of a broader analysis of VOC concentrations in residential areas near roadways and parking lots, indicating their presence in similar environmental contexts without a specific connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) that may be present in the air surrounding low- and high-floor apartments due to motor vehicle emissions and other sources. However, the relationship between the two compounds is not explicitly discussed, and they are presented as part of a broader investigation into VOC exposure rather than having a direct interaction or comparison in the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_Toluene_Experimental methods.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and toluene are both mentioned as volatile organic compounds (VOCs) that may be present in the air of high-rise apartments. However, there is no direct discussion of their relationship, interactions, or comparative significance in the study. They are simply part of a broader analysis of VOC concentrations in urban environments.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Toluene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Toluene_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Toluene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "371934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Toluene_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Toluene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Toluene_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Toluene_Experimental methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "371911",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_Toluene_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_Toluene_Results.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_Toluene_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_Toluene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_Toluene_Experimental methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Atom": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Atom_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned in relation to the biodegradation of pollutants like benzene and MTBE, which involves understanding the chemical structure of these compounds, including the presence of specific atoms such as tertiary carbon atoms. However, there is no direct discussion of the relationship between 2-methoxy-2-methylpropane and the concept of an 'atom' itself, making their connection very general and indirect.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Atom_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned, but the discussion revolves around MTBE, which contains a tertiary carbon atom and an ether bond. The term 'atom' is referenced in relation to the structure of MTBE, indicating that the chemical properties of MTBE are influenced by its atomic composition. However, there is no specific relationship established between 2-methoxy-2-methylpropane and the concept of an atom beyond the general chemical context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Atom",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Atom_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Atom",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Atom_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Carbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Carbon_Results and discussi.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly related to carbon but is mentioned in the context of adsorption studies involving various adsorbents, including F400 carbon. The focus is on the adsorption capacities of different materials rather than a specific interaction between 2-methoxy-2-methylpropane and carbon itself. The relationship is more about the comparison of adsorption performance rather than a chemical or functional connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Carbon_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is implied as a synthetic organic compound (SOC) that may be adsorbed using granular activated carbon (GAC). The discussion focuses on the effectiveness of carbon as an adsorbent for removing SOCs like MTBE from contaminated water, highlighting the role of carbon in the adsorption process rather than a direct relationship with 2-methoxy-2-methylpropane itself.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Carbon_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to carbon through its chemical structure, which includes carbon atoms. The discussion focuses on the biodegradation of MTBE, a compound with a tertiary carbon atom, highlighting the challenges posed by its structure in enzymatic degradation. However, there is no direct interaction or significant relationship established between 2-methoxy-2-methylpropane and carbon beyond their basic chemical composition.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Carbon_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly discussed, but it is implied as a compound related to the broader category of organic contaminants, which includes carbon-based compounds like benzene and MTBE. The mention of carbon primarily relates to its role in the physico-chemical properties of these compounds, particularly regarding their solubility and adsorption characteristics. However, there is no specific interaction or detailed relationship established between 2-methoxy-2-methylpropane and carbon in the provided text.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Carbon_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is discussed in relation to its biodegradation, specifically highlighting its resistance due to the presence of a tertiary carbon atom and an ether bond. The mention of carbon refers to its role as a source of energy for the MTBE-degrading β-proteobacterium strain L108, which utilizes fuel oxygenate ethers like MTBE as its sole carbon source. This indicates a direct relationship between the compound and carbon in the context of biodegradation processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Carbon_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned, but the discussion revolves around total organic carbon (TOC) and its relationship with various organic compounds, including benzene and MTBE. Carbon is a fundamental element in organic compounds, and the analysis of TOC indicates the presence of carbon in the samples. However, there is no specific interaction or relevance established between 2-methoxy-2-methylpropane and carbon in the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Carbon_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Carbon_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Carbon_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Carbon_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Carbon_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Carbon_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Metabolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Metabolites_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to metabolites through the discussion of MTBE (methyl tert-butyl ether) biodegradation. The metabolites mentioned, such as tert-butyl alcohol (TBA) and tert-butyl formate (TBF), are products of MTBE degradation, indicating that while 2-methoxy-2-methylpropane is not directly analyzed, it is part of a broader discussion on the degradation of similar compounds and their metabolites in the environment.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolites",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Metabolites_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "tenax": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "tenax",
+                        "label": "tenax",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_tenax_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned but is implied as a potential contaminant being monitored in the air alongside benzene and MTBE. Tenax TA® is used as a sorbent material for active sampling of volatile organic compounds (VOCs) like 2-methoxy-2-methylpropane. The relationship is based on Tenax's role in capturing and analyzing air samples for VOCs, including 2-methoxy-2-methylpropane, but no specific interaction or detailed discussion of their relationship is provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "tenax",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_tenax_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Naphthalene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Naphthalene_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and naphthalene are both mentioned as aromatic hydrocarbons analyzed in groundwater samples using headspace gas chromatography and mass spectrometry. However, there is no direct discussion of their relationship or interaction, as they are simply listed among other compounds without any specific functional or chemical connection highlighted in the analysis.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Naphthalene_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and naphthalene are both mentioned as part of a broader discussion on the treatment of volatile organic compounds (VOCs) in groundwater. However, there is no direct interaction or specific relationship detailed between the two compounds. They are included in a list of aromatic hydrocarbons analyzed in the influent and effluent of a multi-stage filtration system, but their individual roles or interactions are not explored.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Naphthalene",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Naphthalene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Naphthalene_Results.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Ammonium": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ammonium",
+                        "label": "Ammonium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Ammonium_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and ammonium are mentioned in relation to the analysis of microbial community compositions and water quality parameters. However, there is no direct interaction or specific relationship discussed between the two compounds. Ammonium concentrations are reported alongside other parameters, but 2-methoxy-2-methylpropane is not linked to ammonium in any functional or chemical context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Ammonium_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and ammonium are mentioned in relation to the degradation of organic contaminants and the nutrient dynamics within a microbial community. However, there is no direct interaction or specific relationship discussed between the two terms. Ammonium is noted as a necessary component for degradation processes, while 2-methoxy-2-methylpropane is not explicitly linked to ammonium's role or effects in the system.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Ammonium_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and ammonium are mentioned in relation to a groundwater treatment system designed to address contamination from various pollutants, including ammonium. However, there is no direct interaction or specific relationship discussed between the two compounds. The focus is primarily on the treatment system's performance rather than any chemical or biological interaction involving 2-methoxy-2-methylpropane and ammonium.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ammonium",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Ammonium_Results.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Ammonium_Discussion.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Ammonium_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Aromatic Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aromatic Compounds",
+                        "label": "Aromatic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934",
+                        "label": "Actual commuter exposure to methyl-tertiary butyl ether, benzene and toluene while traveling in Korean urban areas.\nJW. Lee, WK. Jo\nSci. Total Environ. 2002 May;291(1-3):219-28.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12150439"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Aromatic Compounds_Conclusions.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly discussed in relation to aromatic compounds like toluene and benzene, which are highlighted as significant components of in-vehicle exposure. The study focuses on the levels of these aromatic compounds in the vehicle environment, while 2-methoxy-2-methylpropane is not mentioned as a relevant aromatic compound or in any specific interaction with them. Thus, their relationship is not established within the context provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Aromatic Compounds_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned alongside aromatic compounds like benzene and toluene in a study analyzing in-vehicle VOC concentrations. However, there is no direct discussion of the relationship between 2-methoxy-2-methylpropane and the aromatic compounds. The focus is primarily on the statistical differences in VOC levels based on car model year and commute periods, without detailing how 2-methoxy-2-methylpropane interacts with or relates to the aromatic compounds.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aromatic Compounds",
+                        "target": "371934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Aromatic Compounds_Conclusions.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Aromatic Compounds_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Oxygen Compounds, Inorganic": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxygen Compounds, Inorganic",
+                        "label": "Oxygen Compounds, Inorganic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Oxygen Compounds, Inorganic_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to inorganic oxygen compounds through the discussion of oxygen's role in enhancing biodegradation rates of contaminants in groundwater. While the text emphasizes the importance of oxygen for biodegradation processes, it does not specifically link 2-methoxy-2-methylpropane to inorganic oxygen compounds or detail their interaction. Instead, it focuses on the broader context of oxygen supply challenges in contaminated aquifers.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxygen Compounds, Inorganic",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Oxygen Compounds, Inorganic_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Zeolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Zeolites",
+                        "label": "Zeolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Zeolites_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to zeolites through their roles as adsorbates and adsorbents in water treatment processes. The study mentions mordenite zeolite as an adsorbent with a suitable pore size for adsorbing compounds like MTBE, which may include 2-methoxy-2-methylpropane. However, there is no direct interaction or specific analysis of 2-methoxy-2-methylpropane's behavior with zeolites in the provided context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Zeolites_Conclusions.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane (MTBE) is discussed in relation to its adsorption kinetics on mordenite zeolite compared to carbonaceous resins. The study highlights how the presence of natural organic matter (NOM) affects the adsorption process, indicating that zeolites like mordenite can influence the transport and adsorption behavior of MTBE in natural waters. However, the relationship is primarily focused on the adsorption characteristics rather than a direct chemical interaction between MTBE and zeolites.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Zeolites_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane (MTBE) is discussed in relation to its adsorption behavior on zeolites, specifically mordenite, compared to carbonaceous resins. The study aims to evaluate the effectiveness of these adsorbents in removing MTBE from contaminated water, highlighting the role of zeolites in the adsorption process. However, the relationship is primarily focused on the adsorption characteristics rather than a direct chemical interaction between MTBE and zeolites.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Zeolites_Results and discussi.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to zeolites through the discussion of adsorption kinetics and molecular diffusivity within microporous adsorbents. While zeolites, such as mordenite, are mentioned as adsorbents for substances like MTBE, the specific interaction or relevance of 2-methoxy-2-methylpropane to zeolites is not explicitly detailed, indicating a general connection rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Zeolites",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Zeolites_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Zeolites_Conclusions.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Zeolites_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Zeolites_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Butyl formate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butyl formate",
+                        "label": "Butyl formate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Butyl formate_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and butyl formate are both mentioned as intermediate degradation products of MTBE (methyl tert-butyl ether) in the analysis of groundwater and effluents. However, there is no direct discussion of their relationship or interaction, as they are simply listed among other compounds analyzed using headspace gas chromatography and mass spectrometry. Their mention does not imply any significant functional or chemical connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Butyl formate_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and butyl formate are both mentioned in relation to the biodegradation of MTBE and its metabolites. However, there is no direct interaction or specific relationship discussed between these two compounds. They are part of a broader study on the microbial community's role in degrading various organic compounds, but their individual roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Butyl formate",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Butyl formate_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Butyl formate_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "clay": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "clay",
+                        "label": "clay",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_clay_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned, but the discussion revolves around the performance of different filter materials, including expanded clay, in the removal of contaminants like benzene and MTBE. The relationship between 2-methoxy-2-methylpropane and clay is not established, as the focus is on the efficiency of clay as a filter medium rather than any specific interaction with 2-methoxy-2-methylpropane.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "clay",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_clay_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Phosphorous": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Phosphorous",
+                        "label": "Phosphorous",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Phosphorous_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned or related to phosphorous. The discussion focuses on phosphorous concentrations in a system and its relationship to soil microbial biomass and growth yields of various compounds. There is no indication of how 2-methoxy-2-methylpropane interacts with or affects phosphorous levels or vice versa.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Phosphorous",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Phosphorous_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Minerals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Minerals",
+                        "label": "Minerals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Minerals_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned in relation to the analysis of benzene and MTBE concentrations, while minerals are referenced in the context of growth media for specific degraders. However, there is no direct relationship or interaction discussed between 2-methoxy-2-methylpropane and minerals, as they are part of separate analytical processes without any evident connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Minerals",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Minerals_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "octane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_octane_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and octane are both mentioned in relation to gasoline and fuel additives. While octane is highlighted as a key component that enhances combustion efficiency, 2-methoxy-2-methylpropane is not directly linked to octane's properties or functions. The discussion primarily focuses on methyl tert-butyl ether (MTBE) as an oxygenated fuel additive, with no specific interaction or comparative analysis between 2-methoxy-2-methylpropane and octane provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934",
+                        "label": "Actual commuter exposure to methyl-tertiary butyl ether, benzene and toluene while traveling in Korean urban areas.\nJW. Lee, WK. Jo\nSci. Total Environ. 2002 May;291(1-3):219-28.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12150439"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_octane_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and octane are both mentioned in relation to gasoline and its components. Octane is highlighted as a factor in increasing gasoline's performance, while 2-methoxy-2-methylpropane is not directly linked to octane but is implied to be part of the broader discussion on VOCs in vehicle emissions. Their relationship is indirect, as both are associated with gasoline but not specifically connected in terms of chemical interaction or functional relevance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_octane_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "371934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_octane_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Organic Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Organic Chemicals_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to organic chemicals as it is a specific type of organic compound. The discussion focuses on the volatilization of toxic organic hydrocarbons, including MTBE and benzene, in relation to soil filter systems. However, 2-methoxy-2-methylpropane is not specifically mentioned or analyzed, limiting the depth of its relationship with organic chemicals in this study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934",
+                        "label": "Actual commuter exposure to methyl-tertiary butyl ether, benzene and toluene while traveling in Korean urban areas.\nJW. Lee, WK. Jo\nSci. Total Environ. 2002 May;291(1-3):219-28.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12150439"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Organic Chemicals_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned as a specific organic chemical among other volatile organic compounds (VOCs) like MTBE, benzene, and toluene. The study focuses on the in-vehicle exposure of commuters to these organic chemicals, highlighting their varying concentrations based on transportation mode and season. However, the relationship between 2-methoxy-2-methylpropane and the broader category of organic chemicals is not explicitly detailed beyond its classification as a VOC.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Organic Chemicals_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "371934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Organic Chemicals_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Water Specimen": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Water Specimen",
+                        "label": "Water Specimen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Water Specimen_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane (MTBE) is mentioned as a contaminant in water samples prepared for analysis. The study focuses on the methods used to analyze MTBE concentration in both deionized and natural water specimens. However, there is no direct interaction or functional relationship discussed between MTBE and the water specimens beyond the contamination aspect.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Water Specimen_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and water specimen are mentioned in relation to an experimental setup involving groundwater filtration systems. However, there is no direct interaction or specific relationship discussed between the two substances. The focus is primarily on the analysis of dissolved contaminants like MTBE and benzene in the water, without elaborating on the role of 2-methoxy-2-methylpropane in this process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Water Specimen",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Water Specimen_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Water Specimen",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Water Specimen_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "3-methyl-1-pentanol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-methyl-1-pentanol",
+                        "label": "3-methyl-1-pentanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911",
+                        "label": "Solid-phase dynamic extraction for the enrichment of polar volatile organic compounds from water.\nMA. Jochmann, MP. Kmiecik, TC. Schmidt\nJ Chromatogr A 2006 May;1115(1-2):208-16.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16530775"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911_2-methoxy-2-methylpropane_3-methyl-1-pentanol_Experimental.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 3-methyl-1-pentanol are both mentioned as part of a list of chemicals and reagents used in preparing stock solutions and standard mixtures. However, there is no direct discussion of their chemical properties, interactions, or relevance to each other beyond their inclusion in the same inventory of substances. Thus, their relationship is coincidental and lacks any detailed exploration.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-methyl-1-pentanol",
+                        "target": "351911",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "351911",
+                        "target": "351911_2-methoxy-2-methylpropane_3-methyl-1-pentanol_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "1-Propanol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-Propanol",
+                        "label": "1-Propanol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911",
+                        "label": "Solid-phase dynamic extraction for the enrichment of polar volatile organic compounds from water.\nMA. Jochmann, MP. Kmiecik, TC. Schmidt\nJ Chromatogr A 2006 May;1115(1-2):208-16.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16530775"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911_2-methoxy-2-methylpropane_1-Propanol_Experimental.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 1-propanol are both mentioned as part of a list of chemicals and reagents used in preparing stock solutions and standard mixtures. However, there is no direct discussion of their relationship, interactions, or specific roles in the experimental setup. They are simply listed among other alcohols and solvents without any further elaboration on their significance or comparative properties.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "1-Propanol",
+                        "target": "351911",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "351911",
+                        "target": "351911_2-methoxy-2-methylpropane_1-Propanol_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "tetrahydrofuran": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "tetrahydrofuran",
+                        "label": "tetrahydrofuran",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911",
+                        "label": "Solid-phase dynamic extraction for the enrichment of polar volatile organic compounds from water.\nMA. Jochmann, MP. Kmiecik, TC. Schmidt\nJ Chromatogr A 2006 May;1115(1-2):208-16.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16530775"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911_2-methoxy-2-methylpropane_tetrahydrofuran_Experimental.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and tetrahydrofuran are both mentioned as chemicals obtained from suppliers for use in preparing stock solutions and standard mixtures. However, there is no discussion of their specific interactions, properties, or roles in the experimental setup. They are simply listed among other solvents and reagents without any direct relationship or relevance to each other.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911_2-methoxy-2-methylpropane_tetrahydrofuran_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and tetrahydrofuran (THF) are both mentioned as compounds selected for investigation due to their occurrence in environmental aqueous matrices and their relevance in studies related to toxicity and physicochemical behavior. However, there is no direct discussion of their specific interactions or relationships, indicating they are part of a broader category of ethers and solvents being analyzed for environmental impact.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "tetrahydrofuran",
+                        "target": "351911",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "351911",
+                        "target": "351911_2-methoxy-2-methylpropane_tetrahydrofuran_Experimental.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "351911",
+                        "target": "351911_2-methoxy-2-methylpropane_tetrahydrofuran_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "4-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_4-xylene_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 4-xylene are both mentioned as part of a broader analysis of volatile organic compounds (VOCs) in groundwater and effluents. However, there is no direct discussion of their specific interactions or relationships. They are included in a list of compounds analyzed for their presence in environmental samples, indicating they are part of the same study but without any detailed connection between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_4-xylene_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 4-xylene are both mentioned as organic compounds related to environmental contamination, specifically in groundwater. However, there is no direct discussion of their relationship or interaction. They are part of a broader category of BTEX compounds and MTBE, which are frequently detected as contaminants, but their specific roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_4-xylene_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 4-xylene are both mentioned as part of a broader discussion on the treatment of volatile organic compounds (VOCs) in a multi-stage filtration system. However, there is no direct interaction or specific relationship detailed between these two compounds. They are included in a list of aromatic hydrocarbons and degradation products, but their individual roles or connections are not explored.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_4-xylene_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 4-xylene are both mentioned as organic contaminants of concern in groundwater systems, particularly in relation to their biodegradation and removal mechanisms. However, there is no direct discussion of their specific interactions or relationships, as the focus is primarily on the broader category of BTEX compounds and their environmental impact. Thus, while they are both relevant to the topic of groundwater contamination, their connection is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911",
+                        "label": "Comparison of outdoor and indoor mobile source-related volatile organic compounds between low- and high-floor apartments.\nWK. Jo, KY. Kim, KH. Park, YK. Kim, HW. Lee, JK. Park\nEnviron. Res. 2003 Jun;92(2):166-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12854697"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_4-xylene_Experimental methods.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 4-xylene are both mentioned as volatile organic compounds (VOCs) that may be present in the air of high-rise apartments. However, there is no direct discussion of their relationship, interactions, or specific relevance to each other within the study. They are simply part of a broader analysis of VOC concentrations in urban environments.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_4-xylene_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane and 4-xylene are both mentioned as volatile organic compounds (VOCs) that may be present in the air surrounding low- and high-floor apartments due to motor vehicle emissions and other sources. However, there is no direct discussion of their specific interactions or comparative significance in the context of exposure levels or health effects, indicating a general association rather than a detailed relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_4-xylene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_4-xylene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_4-xylene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_4-xylene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "371911",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_4-xylene_Experimental methods.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_4-xylene_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "hemicellulose": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "hemicellulose",
+                        "label": "hemicellulose",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_hemicellulose_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly related to hemicellulose, but both are mentioned in the broader discussion of biodegradation processes. The text suggests that auxiliary substances from coconut material, which may include hemicellulose, could potentially enhance the growth of aerobic MTBE degraders. However, there is no specific interaction or detailed relationship established between 2-methoxy-2-methylpropane and hemicellulose.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "hemicellulose",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_hemicellulose_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "mordenite": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "mordenite",
+                        "label": "mordenite",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_mordenite_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned in relation to mordenite, which is used as an adsorbent in the study. Mordenite is selected for its comparable aperture size to MTBE, indicating its role in adsorption processes. However, there is no specific discussion of how 2-methoxy-2-methylpropane interacts with or is affected by mordenite, leading to a lack of direct relevance between the two terms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_mordenite_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to mordenite through the study of adsorption processes for removing MTBE (methyl tert-butyl ether) from contaminated water. Mordenite, a type of zeolite, is one of the adsorbents evaluated for its effectiveness in adsorbing MTBE, although 2-methoxy-2-methylpropane is not directly mentioned as a subject of study. The focus is primarily on the adsorption kinetics and equilibrium of MTBE on mordenite and other carbonaceous resins.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_mordenite_Conclusions.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane (MTBE) and mordenite are related through their roles in adsorption processes. The study compares the adsorption kinetics of MTBE onto mordenite zeolite and carbonaceous resins, highlighting that mordenite's performance is influenced by the presence of natural organic matter (NOM). While both substances are involved in the adsorption process, the context does not provide a direct interaction or significant functional relationship between them beyond their roles as adsorbate and adsorbent.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_mordenite_Results and discussi.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to mordenite through the study of adsorption kinetics of MTBE (methyl tert-butyl ether) onto mordenite. While 2-methoxy-2-methylpropane is not explicitly mentioned in relation to mordenite, the focus on adsorption kinetics suggests a broader investigation of how various organic compounds, potentially including 2-methoxy-2-methylpropane, interact with mordenite as an adsorbent material. However, the specific relationship between the two terms is not detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "mordenite",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_mordenite_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_mordenite_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_mordenite_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_mordenite_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Drug Interactions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Drug Interactions_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane (MTBE) is mentioned in relation to adsorption experiments, but there is no direct discussion of its role in drug interactions. The focus is primarily on the physical properties and behavior of MTBE in adsorption processes rather than its pharmacological implications or interactions with drugs. Therefore, the relationship between MTBE and drug interactions is not established or explored in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Drug Interactions",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Drug Interactions_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Stereochemistry": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Stereochemistry",
+                        "label": "Stereochemistry",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Stereochemistry_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly discussed in relation to stereochemistry. The focus is primarily on the environmental behavior and biodegradation of various organic compounds, including BTEX and MTBE, without any mention of stereochemical aspects or specific interactions involving 2-methoxy-2-methylpropane. Thus, the relationship between the two terms is not established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Stereochemistry",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Stereochemistry_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Adjudication_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not mentioned, nor is there any discussion of adjudication. The focus is on the extraction and analysis of MTBE using SPME and GC techniques, with no direct or indirect relationship established between the two terms. They appear unrelated within the provided context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_Adjudication_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned as part of a chemical analysis involving volatile organic compounds, but there is no direct connection to the term 'Adjudication.' The context primarily focuses on the methods for analyzing chemical concentrations and viable cell counts, without discussing any adjudicative processes or decisions related to the substances mentioned.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911",
+                        "label": "Solid-phase dynamic extraction for the enrichment of polar volatile organic compounds from water.\nMA. Jochmann, MP. Kmiecik, TC. Schmidt\nJ Chromatogr A 2006 May;1115(1-2):208-16.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16530775"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "351911_2-methoxy-2-methylpropane_Adjudication_Results and discussi.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned in relation to extraction processes and the influence of sodium chloride on extraction yields. However, there is no direct connection or relevance to the term 'Adjudication,' which typically refers to a legal process or decision-making. The two terms appear in the same context but do not interact or relate to each other in any meaningful way.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Adjudication_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_Adjudication_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "351911",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "351911",
+                        "target": "351911_2-methoxy-2-methylpropane_Adjudication_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "volatile substances": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911",
+                        "label": "Comparison of outdoor and indoor mobile source-related volatile organic compounds between low- and high-floor apartments.\nWK. Jo, KY. Kim, KH. Park, YK. Kim, HW. Lee, JK. Park\nEnviron. Res. 2003 Jun;92(2):166-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12854697"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371911_2-methoxy-2-methylpropane_volatile substances_Results.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned as a volatile organic compound (VOC) among other substances like m,o-xylene, ethylbenzene, MTBE, benzene, and toluene. The discussion focuses on the concentrations of various VOCs in indoor versus outdoor air, highlighting the presence of these substances in consumer products and their varying levels based on time of day. However, there is no specific interaction or detailed relationship established between 2-methoxy-2-methylpropane and the broader category of volatile substances.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "volatile substances",
+                        "target": "371911",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371911",
+                        "target": "371911_2-methoxy-2-methylpropane_volatile substances_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934",
+                        "label": "Actual commuter exposure to methyl-tertiary butyl ether, benzene and toluene while traveling in Korean urban areas.\nJW. Lee, WK. Jo\nSci. Total Environ. 2002 May;291(1-3):219-28.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12150439"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371934_2-methoxy-2-methylpropane_Respiration_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane (MTBE) is mentioned in relation to gasoline composition and its levels in passenger cars, but there is no direct discussion of its impact on respiration. The focus is on the concentration of MTBE in gasoline and its effects on in-car levels, without addressing any respiratory implications or biological interactions with respiration.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "371934",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371934",
+                        "target": "371934_2-methoxy-2-methylpropane_Respiration_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "attenuation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "attenuation",
+                        "label": "attenuation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_attenuation_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to the concept of attenuation through the discussion of MTBE biodegradation. The text highlights the natural attenuation potential of an MTBE-degrading β-proteobacterium strain, which suggests that the degradation process may involve similar mechanisms applicable to other ether compounds like 2-methoxy-2-methylpropane. However, the specific relationship between 2-methoxy-2-methylpropane and attenuation is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "attenuation",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_attenuation_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "inhibitors": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_inhibitors_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane (MTBE) is discussed in relation to its biodegradation, which is potentially inhibited by the presence of BTEX compounds. While the studies referenced suggest various forms of inhibition (substrate, by-product, and competitive), the specific inhibitory effects on MTBE biodegradation were not observed in the filters during the study. This indicates a complex relationship where inhibitors may not always lead to expected outcomes in biodegradation processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_inhibitors_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Process_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is not directly mentioned, but the process described involves the analysis of MTBE (methyl tert-butyl ether) in water samples using solid-phase micro extraction (SPME) and gas chromatography (GC). The focus is on the analytical process for determining MTBE concentration rather than any specific relationship with 2-methoxy-2-methylpropane. Therefore, the connection between the two terms is weak and primarily coincidental.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_Process_Introduction.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane (MTBE) is discussed in relation to its adsorption behavior in various water types, specifically focusing on the effectiveness of adsorption processes for removing MTBE from contaminated water. The study evaluates the kinetics and equilibrium of MTBE adsorption onto different adsorbents, indicating a direct relationship between the chemical's behavior and the adsorption process being investigated. However, the term 'Process' is used generically to refer to the adsorption methods without specific details on how MTBE interacts with the process itself.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Process_Conclusions.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to the 'Process' of groundwater remediation technology aimed at treating contaminants like MTBE and benzene. While the term 'Process' encompasses various methods and mechanisms for remediation, 2-methoxy-2-methylpropane is not specifically discussed as part of the remediation techniques or microbial processes involved. Its mention is more about the broader category of organic contaminants rather than a direct relationship with the remediation process itself.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_Process_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is indirectly related to the processes of microbial degradation, volatilization, and plant uptake in the removal of contaminants like MTBE and benzene from groundwater. While the specific role of 2-methoxy-2-methylpropane is not detailed, it is implied that it may be involved in the broader processes affecting the efficiency of vertical-flow soil filter systems. However, the relationship lacks direct evidence or specific discussion regarding its function within these processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Process_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_Process_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Process_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_Process_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "TERT gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "TERT gene",
+                        "label": "TERT gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_TERT gene_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned as a chemical compound analyzed in relation to the degradation products of MTBE, while the TERT gene is not discussed or connected to the analysis. There is no indication of any relationship between the chemical properties of 2-methoxy-2-methylpropane and the biological function of the TERT gene, which is typically associated with telomerase activity and cellular aging. Thus, their mention appears coincidental without any direct relevance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_TERT gene_Discussion.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned in relation to the biodegradation of MTBE and its metabolites, while the TERT gene is not directly referenced or discussed. The focus is on the microbial community structure and the efficiency of biodegradation processes, with no clear connection established between the chemical compound and the genetic aspect of TERT. Therefore, their relationship appears coincidental rather than significant.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "TERT gene",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_TERT gene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_TERT gene_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "GC gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "GC gene",
+                        "label": "GC gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667",
+                        "label": "Aerated treatment pond technology with biofilm promoting mats for the bioremediation of benzene, MTBE and ammonium contaminated groundwater.\nS. Jechalke, C. Vogt, N. Reiche, AG. Franchini, H. Borsdorf, TR. Neu, HH. Richnow\nWater Res. 2010 Mar;44(6):1785-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20074770"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371667_2-methoxy-2-methylpropane_GC gene_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned in relation to the analysis of volatile organic compounds (VOCs) using gas chromatography (GC), while the GC gene is not explicitly discussed. The context focuses on the methodology for analyzing contaminants like benzene and MTBE, without establishing a direct relationship between 2-methoxy-2-methylpropane and the GC gene, which may refer to genetic factors influencing gas chromatography processes or microbial degradation pathways.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "GC gene",
+                        "target": "371667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371667",
+                        "target": "371667_2-methoxy-2-methylpropane_GC gene_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "FASTK Gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "FASTK Gene",
+                        "label": "FASTK Gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828",
+                        "label": "Adsorption of MTBE from contaminated water by carbonaceous resins and mordenite zeolite.\nHW. Hung, TF. Lin\nJ. Hazard. Mater. 2006 Jul;135(1-3):210-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16386837"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371828_2-methoxy-2-methylpropane_FASTK Gene_Conclusions.json",
+                        "label": "In this context, there is no direct relationship between 2-methoxy-2-methylpropane and the FASTK gene. The discussion focuses on the adsorption kinetics of MTBE in natural waters and the influence of NOM on this process, without any mention of 2-methoxy-2-methylpropane's biological relevance or any connection to the FASTK gene, which is involved in mitochondrial function and cellular metabolism.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "FASTK Gene",
+                        "target": "371828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371828",
+                        "target": "371828_2-methoxy-2-methylpropane_FASTK Gene_Conclusions.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "MAP3K14 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "MAP3K14 gene",
+                        "label": "MAP3K14 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603",
+                        "label": "Remediation of groundwater contaminated with MTBE and benzene: the potential of vertical-flow soil filter systems.\nM. van Afferden, KZ. Rahman, P. Mosig, C. De Biase, M. Thullner, SE. Oswald, RA. Müller\nWater Res. 2011 Oct;45(16):5063-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21794890"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "371603_2-methoxy-2-methylpropane_MAP3K14 gene_Materials and method.json",
+                        "label": "In this context, 2-methoxy-2-methylpropane is mentioned as a chemical compound analyzed in groundwater samples, while the MAP3K14 gene is not referenced in relation to any specific biological function or interaction with the chemical. There is no direct or indirect relationship established between the two terms, as the context focuses solely on chemical analysis without discussing genetic implications or interactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "MAP3K14 gene",
+                        "target": "371603",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "371603",
+                        "target": "371603_2-methoxy-2-methylpropane_MAP3K14 gene_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

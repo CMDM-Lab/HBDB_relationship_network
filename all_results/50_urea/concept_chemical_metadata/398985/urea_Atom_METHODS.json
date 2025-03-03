@@ -1,0 +1,10 @@
+{
+    "context": "[4] Additionally, the breath test allows a semiquantitative classification of the density of the bacterial colonization on the gastric mucosa. [1] A newly developed H pylori antigen test in stool specimen (HpSA) detects bacterial material in feces.Therefore, it could turn out to be an appropriate noninvasive diagnostic tool for H pylori infection even in children. [2] In this prospective study, we compared the HpSA with the UBT in children with dyspeptic symptoms. [1] For the UBT, the patients ingested 75 mg13C-urea (99% atom percent excess) dissolved in 200 mL orange juice (apple juice in children <2 years). [2] Breath samples at baseline and 30 minutes were measured by isotope ratio mass spectrometry (Tracermass, Europa Scientific, Crewe, UK). [3] A \u00ce\u00b4 over baseline value >5 \u00ce\u00b4\u00e2\u20ac\u00b0 indicates H pyloriinfection.  [1] Stool samples were collected on the day of the breath test or 1 day thereafter and were frozen at \u00e2\u02c6\u201920\u00c2\u00b0C until further analysis. ",
+    "term_A": "urea",
+    "term_B": "Atom",
+    "llm_generation": {
+        "summary": "In this context, urea is mentioned as a component of a breath test for detecting H. pylori infection, where patients ingest 13C-urea. The term 'atom' refers to the isotopic composition of the urea used in the test, specifically the 13C isotope. While both terms are present, their relationship is primarily technical, focusing on the use of urea's atomic structure for diagnostic purposes rather than a direct biological or chemical interaction.",
+        "reason": "The score of 2 reflects an indirect connection between urea and atom, as they are related through the context of the breath test. However, there is no detailed discussion of their interaction beyond the technical use of urea's isotopic form.",
+        "score": 2
+    }
+}

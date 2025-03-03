@@ -1,0 +1,10 @@
+{
+    "context": "The tests included samples taken from emissions from fuel storage tanks, and the manifold and the fuel feeding system of a motor vehicle. The test consisted of introducing the vehicle to the SHED hut immediately after concluding the FTP-74 test and recording the temperature and concentration of hydrocarbons every minute for 1 h. Three tests of this type were carried out.Ozone-formation smog chambers This experiment was carried out in smog chambers between 3 and 23 April 1995. The experiments determined both the maximum ozone and propane/butane initial concentrations. These captive air irradiation [CAI] type experiments are similar to those described by Kelly and Gunst (1990) and Gunst and Kelly (1993). These experiments were carried out at the Mexican Petroleum Institute, which is close to industrial areas with pollutant sources and is located in the trajectory of the prevailing winds. The IMP also had facilities to monitor ozone, nitrogen oxides, oxides of sulfur and carbon monoxide. ",
+    "term_A": "Butane",
+    "term_B": "Propane",
+    "llm_generation": {
+        "summary": "In this context, butane and propane are both mentioned as hydrocarbons involved in emissions testing from fuel storage tanks and motor vehicles. The experiments focus on measuring their concentrations and their role in ozone formation within smog chambers. However, there is no detailed discussion of their specific interactions or comparative significance beyond their shared involvement in the emissions analysis.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as butane and propane are both identified as hydrocarbons in the same emissions testing context, but their relationship is not elaborated upon, indicating a general connection rather than a specific interaction.",
+        "score": 2
+    }
+}

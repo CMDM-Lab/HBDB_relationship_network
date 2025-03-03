@@ -1,0 +1,10 @@
+{
+    "context": "[7] These findings indicated that the C-terminal domain of NrtC is involved in the ammonium-promoted inhibition of the nitrate/nitrite transporter. [8] In the presence of ammonium, NC2 could not assimilate nitrate despite its ability to accumulate nitrate intracellularly, which suggested that reduction of intracellular nitrate by nitrate reductase is also subject to inhibition by ammonium. [1] Nitrate is a major source of nitrogen for cyanobacteria . [2] It is transported into the cell by an active transport system and reduced to ammonium by the sequential action of nitrate reductase (NR)1 and nitrite reductase (NiR) prior to fixation into amide nitrogen of Gln. [3] Expression of the nitrate assimilation activity is negatively regulated by ammonium . [4] In the unicellular non-nitrogen-fixing cyanobacteriumSynechococcus sp. [5] strain PCC 7942, the genes encoding the nitrate transport system (nrtA, nrtB, nrtC, andnrtD) , NR (narB) , and NiR (nirA)  form an nirA-nrtABCD-narB operon (the nirA operon), and the transcription from the operon is inhibited by the addition of ammonium to the cyanobacterial cultures . ",
+    "term_A": "nitrate",
+    "term_B": "Amides",
+    "llm_generation": {
+        "summary": "In this context, nitrate is described as a crucial nitrogen source for cyanobacteria, which is transported into the cell and subsequently reduced to ammonium. This ammonium is then incorporated into amide nitrogen, specifically in the synthesis of glutamine (Gln). The relationship highlights the metabolic pathway where nitrate serves as a precursor for amide formation, indicating a direct biochemical connection between the two terms.",
+        "reason": "The score of 4 reflects a significant connection between nitrate and amides, as nitrate is directly involved in the metabolic process that leads to the formation of amide nitrogen in glutamine. The context provides a clear biochemical pathway linking the two terms.",
+        "score": 4
+    }
+}

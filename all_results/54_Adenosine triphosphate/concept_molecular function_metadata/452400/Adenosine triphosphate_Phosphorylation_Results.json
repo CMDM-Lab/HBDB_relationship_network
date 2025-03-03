@@ -1,0 +1,10 @@
+{
+    "context": "[5] (Inset A) The average pO2 is given at steady state (n = 3). [6] (Inset B) The average pO2 represents the maximum obtained after 2 min (n = 2). [7] The extent of oxygen limitation during calorimetry experiments is illustrated by transposing these pO2 values onto the profiles for oxygen kinetics (arrows, labeled steady state); (1 kPa is equivalent to 7.501 mmHg.) [1] From the reduction in the heat flow of coupled relative to uncoupled mitochondria at constant oxygen consumption (Fig. 2), one can calculate the phosphorylation of ADP to ATP per unit of oxygen consumed, i.e., the total ADP/O flux ratio. [2] The difference in heat/O2 flux ratios between coupled and uncoupled states was divided by 2 to convert molecular heat/O2 flux ratios to atomic heat/O ratios. [3] The latter were then divided by 44 kJ/mol ATP, i.e., the enthalpy conserved per mol ATP synthesized under the experimental conditions used in our studies . [4] The resulting ADP/O ratios were 1.14 \u00c2\u00b1 0.19 (SEM; n = 4) for rat liver mitochondria and 1.22 \u00c2\u00b1 0.18 (SEM; n = 4) for Artemia mitochondria. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Phosphorylation",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is directly linked to the process of phosphorylation, which refers to the conversion of ADP to ATP during oxidative phosphorylation in mitochondria. The study quantifies the efficiency of ATP synthesis per unit of oxygen consumed, highlighting the critical role of phosphorylation in energy metabolism. The calculated ADP/O flux ratio indicates the extent of ATP production, demonstrating a clear and significant relationship between ATP and phosphorylation in cellular respiration.",
+        "reason": "The score of 5 reflects a direct and critical relationship between ATP and phosphorylation, as the context discusses the quantification of ATP synthesis through phosphorylation processes in mitochondria, emphasizing their integral role in energy metabolism.",
+        "score": 5
+    }
+}

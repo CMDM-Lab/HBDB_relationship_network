@@ -1,0 +1,10 @@
+{
+    "context": "This work investigates the impact of a series of modifications to the base scenario problem geometry that could potentially impact the fate and transport of TCE from the source zone below the water table, across the capillary fringe, into the vadose zone, through the foundation slab, and into the indoor air. These scenarios are itemized as scenario 2\u20136 as listed on Table\u00a01, and are described below. Scenario 2 involves modifying the base scenario by increasing infiltration to a steady-state value of 0.2m/year. The rationale for the modification being that the aqueous phase diffusive flux of TCE across the capillary fringe is the limiting hydrologic process controlling indoor air exposure. Increasing the infiltration rate diminishes the diffusive flux of TCE across the capillary fringe by effectively pushing the groundwater plume downward as the additional water recharges the water table. The indoor air concentration within all six houses decreases for scenario 2 relative to the base scenario shown in Fig.\u00a05. In fact, house 2 no longer exhibits indoor air concentration in excess of the regulatory limit and hence should be part of the exclusion zone. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is analyzed within a series of modified scenarios that impact its fate and transport in the environment, particularly concerning indoor air exposure. The modifications to the base scenario are described as processes that influence the hydrologic behavior of TCE, such as increasing infiltration rates, which subsequently affect the concentration of TCE in indoor air. This indicates a direct relationship between TCE and the processes governing its environmental transport and exposure risk.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2-trichloroethene and the processes described, as the modifications directly influence TCE's behavior and concentration in indoor air, supported by quantitative data on exposure levels.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[10] Hence, the inner membrane protein, UreI, has six transmembrane\u00e2\u20ac\u201cinserted segments, with both NH2- and COOH-termini located in the periplasm (Fig. 5B). [1] The apparent pK of UreI activation implies protonation of one or more periplasmic histidines for activation of urea transport. [2] Histidine 123, located at the boundary of H4, was mutated to arginine or glycine . [3] Expression of UreI was unaffected by this mutation, but acid activation of urea uptake disappeared (1.83 \u00c2\u00b1 0.20 pmol per oocyte at pH 5.0 versus 1.75 \u00c2\u00b1 0.34 pmol per oocyte at pH 7.5). [4] The protonated state of this histidine is important for acid activation of transport. [1] Acid survival of prokaryotes depends on the maintenance of suitable levels of cytoplasmic and periplasmic pH to maintain their PMF.Helicobacter pylori survives between pH 4.0 and 8.5 in the absence of urea and grows between pH 6.0 and 8.0 . [2] A neutral pH\u00e2\u20ac\u201coptimum urease must be shielded from gastric acidity and prevented from being active at neutral pH to avoid lethal alkalinization . ",
+    "term_A": "urea",
+    "term_B": "uptake",
+    "llm_generation": {
+        "summary": "In this context, urea is linked to its transport mechanism via the inner membrane protein UreI, which facilitates urea uptake in prokaryotes like Helicobacter pylori. The activation of UreI for urea transport is influenced by the protonation state of specific histidine residues, indicating that pH levels play a crucial role in regulating urea uptake. The study highlights the importance of maintaining appropriate pH levels for effective urea transport, which is vital for the survival of these organisms in acidic environments.",
+        "reason": "The score of 4 reflects a significant connection between urea and its uptake mechanism, supported by evidence of the role of UreI and the influence of pH on transport activation. The context provides a clear understanding of how urea uptake is regulated, indicating a strong relationship.",
+        "score": 4
+    }
+}

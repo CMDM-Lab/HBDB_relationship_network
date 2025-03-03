@@ -1,0 +1,10 @@
+{
+    "context": " [3] Calcium imaging studies using fura-2 revealed that anoxia (100% N2) produced a rapid rise in [Ca2+]i and that this rise was attenuated by ADO.  [4] Pre-exposure to chronic hypoxia (10% O2 for 24 or 48 hours) enhanced the subsequent anoxia-induced rise in [Ca2+]i.  [5] In contrast, pre-exposure to chronic hypoxia blunted the inhibitory effects of ADO on both ICa and on the anoxia-induced increase in [Ca2+]i.. Northern blot analysis and radioligand binding with [3H]CGS21680, a selective A2A receptor ligand, showed that the A2A receptor levels were increased by chronic hypoxia.  [6] Chronic hypoxia did not alter the immunoreactivity levels of G\u00ce\u00b1s or activity of adenylate cyclase.  [7] However, PKA enzyme activity was significantly inhibited when PC12 cells were exposed to 10% O2 for 24 or 48 hours.  [8] This suggests that reduced activity of PKA is the primary mechanism by which the actions of adenosine on ICa and [Ca2+]i are attenuated by chronic hypoxia in PC12 cells.  [9] This mechanism may also serve to limit negative feedback on ICa and [Ca2+]i by adenosine and therefore maintain enhanced membrane excitability of PC12 cells during long-term hypoxia. ",
+    "term_A": "adenosine 5'-monophosphate",
+    "term_B": "Hypoxia",
+    "llm_generation": {
+        "summary": "In this context, adenosine 5'-monophosphate (ADO) is implicated in the cellular response to hypoxia. Chronic hypoxia enhances the rise in intracellular calcium ([Ca2+]i) during anoxic conditions and diminishes the inhibitory effects of ADO on calcium influx and [Ca2+]i elevation. This suggests that chronic hypoxia alters the signaling pathways involving ADO, particularly through increased A2A receptor levels and reduced protein kinase A (PKA) activity, which may help maintain cellular excitability under prolonged low oxygen conditions.",
+        "reason": "The score of 4 reflects a significant connection between adenosine 5'-monophosphate and hypoxia, as the context provides evidence of how chronic hypoxia modifies the effects of ADO on calcium signaling, indicating a clear physiological relationship.",
+        "score": 4
+    }
+}

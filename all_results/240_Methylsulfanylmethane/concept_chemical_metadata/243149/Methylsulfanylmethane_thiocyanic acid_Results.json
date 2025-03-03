@@ -1,0 +1,10 @@
+{
+    "context": "By correlating the signals of m/z 60 and m/z 62 from root infested plants over time a natural abundance ratio m/z 62/m/z 60 of 4.57\u00b10.05% was found, with R 2 =0.90 (Fig. 5 ). Model calculations predict m/z 62/m/z 60=4.44%. Pure HCNS (thiocyanic acid) measured with PTR-MS shows a natural isotopic abundance m/z 62/m/z 60=4.74\u00b10.02% with R 2 =0.988. Therefore, HCNS itself, or a bigger molecule fragmenting into HCNS, is a likely candidate for this mass m/z 60. To further investigate the origin of m/z 60, the fragmentation patterns of a number of volatile glucosinolate breakdown products were studied. ",
+    "term_A": "Methylsulfanylmethane",
+    "term_B": "thiocyanic acid",
+    "llm_generation": {
+        "summary": "In this context, Methylsulfanylmethane and thiocyanic acid (HCNS) are discussed in relation to their isotopic abundance ratios as measured by PTR-MS. The study indicates that HCNS, or a larger molecule that fragments into HCNS, is a potential source for the mass signal m/z 60. This suggests a connection between the breakdown products of glucosinolates and the presence of thiocyanic acid, with Methylsulfanylmethane potentially being involved in this process, although the direct relationship is not explicitly detailed.",
+        "reason": "The score of 3 reflects a moderate relevance, as both compounds are linked through the analysis of isotopic abundance and fragmentation patterns, indicating a potential interaction in the context of glucosinolate breakdown, but lacking detailed functional or chemical interactions.",
+        "score": 3
+    }
+}

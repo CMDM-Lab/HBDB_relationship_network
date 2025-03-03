@@ -1,0 +1,10 @@
+{
+    "context": "[5] \u00ce\u201dCp is an approximate measure of the surface area buried in an association reaction and can be used to predict conformational rearrangements in associating protein molecules. [6] An example of high medicinal interest where such information is essential is thymidine kinase from herpes simplex virus type 1 (HSV1 TK).1 The structure of this enzyme is known at high resolution in complex with a series of ligands, including various substrates (natural and non-natural) and inhibitors . [1] Thymidine kinases (EC 2.7.1.21) [2] catalyze the phosphorylation of thymidine (dT) to dTMP in the presence of magnesium ions by transferring the \u00ce\u00b3-phosphate group of ATP to the 5\u00e2\u20ac\u00b2-OH group of dT. [3] Herpesviruses encode their own thymidine kinases, which differ considerably from the enzyme of the human cellular host (human cellular thymidine kinase). [4] While the human enzyme is highly specific, HSV1 TK is a multifunctional enzyme of broad substrate specificity. [5] It shows deoxycytidine kinase and thymidylate kinase activity  and phosphorylates a broad spectrum of pyrimidine as well as purine analogs . ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Phosphorylation",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is directly involved in the phosphorylation process catalyzed by thymidine kinase, which transfers the \u03b3-phosphate group of ATP to the 5'-OH group of thymidine, converting it to dTMP. This highlights ATP's critical role as a phosphate donor in phosphorylation reactions, particularly in the context of viral enzyme activity.",
+        "reason": "The score of 5 reflects a strong and direct relationship between ATP and phosphorylation, as ATP is essential for the phosphorylation process described, demonstrating a clear biochemical interaction with significant implications in enzymatic function.",
+        "score": 5
+    }
+}

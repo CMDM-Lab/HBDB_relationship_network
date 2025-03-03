@@ -1,0 +1,2741 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Nitrite",
+                    "label": "Nitrite",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitrite",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitrite",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitrite",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitrite",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitrite",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitrite",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Spastic syndrome",
+                        "label": "Spastic syndrome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acute asthma",
+                        "label": "Acute asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chronic Obstructive Airway Disease",
+                        "label": "Chronic Obstructive Airway Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pneumonia",
+                        "label": "Pneumonia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cystic Fibrosis",
+                        "label": "Cystic Fibrosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hyperdistention",
+                        "label": "Hyperdistention",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Spastic syndrome",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Acute asthma",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Chronic Obstructive Airway Disease",
+                        "score": 19
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Pneumonia",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Cystic Fibrosis",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Hyperdistention",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Lung diseases",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Protons",
+                        "label": "Protons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Anions",
+                        "label": "Anions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sulfuric Acid Esters",
+                        "label": "Sulfuric Acid Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chlorides",
+                        "label": "Chlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrogen gas",
+                        "label": "Nitrogen gas",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrate",
+                        "label": "Nitrate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lactates",
+                        "label": "Lactates",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "18-crown-6",
+                        "label": "18-crown-6",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Protons",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Anions",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Nitrite",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Sulfuric Acid Esters",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Chlorides",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Nitrogen gas",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Nitrate",
+                        "score": 16
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Lactates",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "18-crown-6",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sterility",
+                        "label": "Sterility",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "muscle metabolism",
+                        "label": "muscle metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Biological function, NOS",
+                        "label": "Biological function, NOS",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Apoptosis",
+                        "label": "Apoptosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Gastric Emptying",
+                        "label": "Gastric Emptying",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pathogenesis",
+                        "label": "Pathogenesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Vital capacity",
+                        "label": "Vital capacity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "protonation",
+                        "label": "protonation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pathological Dilatation",
+                        "label": "Pathological Dilatation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hypoxia",
+                        "label": "Hypoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lung volume",
+                        "label": "Lung volume",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Regulation",
+                        "label": "Regulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "nitric oxide metabolism",
+                        "label": "nitric oxide metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Sterility",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "muscle metabolism",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Biological function, NOS",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Apoptosis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Gastric Emptying",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Respiration",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Exhalation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Pathogenesis",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Vital capacity",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "protonation",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Pathological Dilatation",
+                        "score": 15
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Hypoxia",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Lung volume",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Inspiration function",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Regulation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "nitric oxide metabolism",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Inflammation",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Process",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Glucagon-Like Peptide 1",
+                        "label": "Glucagon-Like Peptide 1",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitrite",
+                        "target": "Glucagon-Like Peptide 1",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Spastic syndrome": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Spastic syndrome",
+                        "label": "Spastic syndrome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Spastic syndrome_Discussion.json",
+                        "label": "In this context, nitrite is discussed in relation to its release from mechanically ventilated lungs and its correlation with tidal volume. While spastic syndrome is not directly mentioned, the implications of increased nitrite levels may relate to lung function and potential respiratory complications. However, there is no explicit connection made between nitrite and spastic syndrome, limiting the relevance of their relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Spastic syndrome",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Spastic syndrome_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Acute asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acute asthma",
+                        "label": "Acute asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Acute asthma_Discussion.json",
+                        "label": "In this context, nitrite (NO2−) is discussed in relation to exhaled breath condensate (EBC) and its potential increase due to pulmonary inflammation, particularly in conditions like acute asthma. The study suggests that while EBC NO2− may rise due to airway inflammation, it is not solely determined by inflammatory markers, indicating a complex relationship where mechanical factors may also play a role in nitrite production during acute asthma episodes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acute asthma",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Acute asthma_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Chronic Obstructive Airway Disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chronic Obstructive Airway Disease",
+                        "label": "Chronic Obstructive Airway Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585",
+                        "label": "Capillary electrophoresis--a new tool for ionic analysis of exhaled breath condensate.\nP. Kubáň, EG. Kobrin, M. Kaljurand\nJ Chromatogr A 2012 Dec;1267:239-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22796027"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585_Nitrite_Chronic Obstructive Airway Disease_Conclusions.json",
+                        "label": "In this context, nitrite is mentioned as a measurable component in exhaled breath condensate (EBC) of a person diagnosed with mild Chronic Obstructive Pulmonary Disease (COPD). The study indicates that changes in nitrite levels can be observed during acute inflammation of the upper airways and in COPD, suggesting a potential link between nitrite levels and the inflammatory processes associated with this disease. However, the relationship is not deeply explored beyond its presence in EBC samples.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Chronic Obstructive Airway Disease_Discussion.json",
+                        "label": "In this context, nitrite is discussed as a potential diagnostic tool for assessing hyperinflation in patients with Chronic Obstructive Airway Disease (COPD). The measurement of nitrite in exhaled breath condensate (EBC) may aid in monitoring pulmonary function and detecting early signs of lung stress associated with COPD. The relationship suggests that nitrite levels could reflect mechanical stress in the lungs, which is relevant for understanding the pathogenesis of COPD and guiding therapeutic interventions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Chronic Obstructive Airway Disease_Results.json",
+                        "label": "In this context, nitrite levels in exhaled breath condensate (EBC) are analyzed in relation to Chronic Obstructive Airway Disease (COPD). The study indicates that EBC nitrite levels increase with the severity of static hyperinflation in COPD patients, suggesting a potential biomarker role for nitrite in assessing disease progression. Additionally, inflammatory cytokine levels in EBC differ among patient groups, with COPD patients showing distinct profiles compared to healthy individuals, highlighting the inflammatory aspect of the disease.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Chronic Obstructive Airway Disease_Introduction.json",
+                        "label": "In this context, nitrite is investigated as a potential biomarker for mechanical stress in the lungs, particularly in relation to Chronic Obstructive Airway Disease (COPD). The study hypothesizes that increased levels of exhaled breath condensate (EBC) nitrite correlate with lung distension and hyperinflation, which are characteristic of COPD. The research aims to compare nitrite levels in stable COPD patients with those in healthy volunteers and smokers, linking nitrite accumulation to the pathophysiology of COPD.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Chronic Obstructive Airway Disease_Discussion.json",
+                        "label": "In this context, nitrite (NO2−) is discussed as a potential marker of inflammation in patients with chronic obstructive airway disease (COPD). The study found a significant correlation between nitrite levels in exhaled breath condensate (EBC) and bronchoalveolar lavage (BAL) fluid, suggesting that elevated nitrite may reflect inflammatory processes associated with lung injury in COPD patients. However, the relationship is complex, as other factors influencing nitrite levels were also considered, indicating that while there is a connection, it may not be straightforward.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic Obstructive Airway Disease",
+                        "target": "105585",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105585",
+                        "target": "105585_Nitrite_Chronic Obstructive Airway Disease_Conclusions.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic Obstructive Airway Disease",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Chronic Obstructive Airway Disease_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Chronic Obstructive Airway Disease_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Chronic Obstructive Airway Disease_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic Obstructive Airway Disease",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Chronic Obstructive Airway Disease_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Pneumonia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pneumonia",
+                        "label": "Pneumonia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Pneumonia_Discussion.json",
+                        "label": "In this context, nitrite is discussed as a product of nitric oxide metabolism, which is involved in pulmonary function and inflammation. While nitrite is considered a marker of inflammation, the study suggests that it does not correlate significantly with pro-inflammatory cytokines in patients, indicating that nitrite levels may not directly reflect pneumonia or acute pulmonary inflammation. Instead, its relationship appears more complex, particularly in the context of chronic obstructive pulmonary disease (COPD) rather than pneumonia specifically.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Pneumonia_Discussion.json",
+                        "label": "In this context, nitrite (NO2−) is discussed in relation to its potential increase in exhaled breath condensate (EBC) during conditions like pneumonia, particularly in acute lung injury (ALI) or acute respiratory distress syndrome (ARDS). The study suggests that elevated EBC NO2− may be linked to pulmonary distension rather than solely to inflammation, indicating a complex relationship where nitrite levels could reflect lung mechanics and injury severity rather than direct inflammatory processes typically associated with pneumonia.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pneumonia",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Pneumonia_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pneumonia",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Pneumonia_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Cystic Fibrosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cystic Fibrosis",
+                        "label": "Cystic Fibrosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585",
+                        "label": "Capillary electrophoresis--a new tool for ionic analysis of exhaled breath condensate.\nP. Kubáň, EG. Kobrin, M. Kaljurand\nJ Chromatogr A 2012 Dec;1267:239-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22796027"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585_Nitrite_Cystic Fibrosis_Results and discussi.json",
+                        "label": "In this context, nitrite is identified as a biomarker that may indicate respiratory tract inflammation, with elevated levels found in individuals suffering from cystic fibrosis, among other severe lung conditions. The study suggests that measuring nitrite levels in exhaled breath condensate (EBC) could serve as a potential screening method for monitoring cystic fibrosis and related respiratory diseases, highlighting a significant relationship between nitrite and cystic fibrosis in the context of lung health.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Cystic Fibrosis_Discussion.json",
+                        "label": "In this context, nitrite (NO2−) is analyzed as a potential biomarker for nitric oxide production in patients with cystic fibrosis (CF). The study indicates a strong correlation between nitrite levels in exhaled breath condensate (EBC) and bronchoalveolar lavage fluid (BALF), suggesting that EBC nitrite measurements may effectively reflect lung inflammation and nitric oxide production in CF patients. This relationship highlights the relevance of nitrite as a noninvasive indicator of pulmonary function in cystic fibrosis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cystic Fibrosis",
+                        "target": "105585",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105585",
+                        "target": "105585_Nitrite_Cystic Fibrosis_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cystic Fibrosis",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Cystic Fibrosis_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hyperdistention": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hyperdistention",
+                        "label": "Hyperdistention",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Hyperdistention_Introduction.json",
+                        "label": "In this context, nitrite is investigated as a potential biomarker for lung hyperdistention in mechanically ventilated patients. The study suggests that increased levels of exhaled breath condensate (EBC) nitrite correlate with higher tidal volumes, indicating that nitrite may reflect mechanical stress in the lungs during hyperinflation, particularly in conditions like COPD. The findings support the hypothesis that nitrite levels rise with lung distension, linking it to hyperdistention and its physiological implications.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Hyperdistention_Results.json",
+                        "label": "In this context, nitrite levels in exhaled breath condensate (EBC) are correlated with static hyperinflation metrics in patients with chronic obstructive pulmonary disease (COPD). The study indicates that as hyperdistention increases, so do EBC nitrite levels, particularly in advanced stages of COPD. This suggests a potential link between nitrite levels and the degree of hyperdistention, highlighting the role of nitrite as a biomarker in assessing lung function and inflammation in COPD patients.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Hyperdistention_Discussion.json",
+                        "label": "In this context, nitrite is discussed as a potential biomarker in exhaled breath condensate (EBC) for assessing pulmonary hyperinflation in COPD patients. The relationship between nitrite levels and hyperdistention is highlighted, suggesting that elevated nitrite may correlate with airway hyperinflation and associated stress in the lungs, which can lead to cellular apoptosis and emphysema. This indicates a significant role for nitrite in monitoring lung conditions related to hyperdistention.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hyperdistention",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Hyperdistention_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Hyperdistention_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Hyperdistention_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Lung diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Lung diseases_Discussion.json",
+                        "label": "In this context, nitrite is discussed as a potential diagnostic tool for assessing hyperinflation in the lungs of patients with chronic obstructive pulmonary disease (COPD). The measurement of nitrite in exhaled breath condensate (EBC) may aid in early diagnosis and monitoring of lung function, particularly in relation to mechanical stress and its implications for lung diseases like emphysema. The relationship highlights nitrite's role in understanding and managing lung conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lung diseases",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Lung diseases_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Protons": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Protons",
+                        "label": "Protons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579",
+                        "label": "Sensing the quality parameters of Chinese traditional Yao-meat by using a colorimetric sensor combined with genetic algorithm partial least squares regression.\nX. Huang, X. Zou, J. Zhao, J. Shi, X. Zhang, Z. Li, L. Shen\nMeat Sci. 2014 Oct;98(2):203-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24971808"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579_Nitrite_Protons_Results and discussi.json",
+                        "label": "In this context, nitrite is discussed in relation to its formation from nitrate under anaerobic conditions, while protons are mentioned in the context of pH indicators that respond to changes in acidity. The relationship between nitrite and protons is indirect, as nitrite concentration can influence the acidity of the environment, which in turn affects the behavior of pH indicators. However, the specific interaction between nitrite and protons is not elaborated upon, making their connection more general than direct.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Protons",
+                        "target": "105579",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105579",
+                        "target": "105579_Nitrite_Protons_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Anions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Anions",
+                        "label": "Anions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585",
+                        "label": "Capillary electrophoresis--a new tool for ionic analysis of exhaled breath condensate.\nP. Kubáň, EG. Kobrin, M. Kaljurand\nJ Chromatogr A 2012 Dec;1267:239-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22796027"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585_Nitrite_Anions_Results and discussi.json",
+                        "label": "In this context, nitrite is identified as one of the measurable inorganic anions present in the ionic content of exhaled breath condensate (EBC). The study focuses on optimizing a background electrolyte (BGE) for the simultaneous separation of various anions, including nitrite, and cations. This indicates that nitrite is categorized as an anion within the analytical framework, but no specific interactions or functional relationships between nitrite and other anions are discussed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Anions",
+                        "target": "105585",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105585",
+                        "target": "105585_Nitrite_Anions_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Nitrite": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577",
+                        "label": "Does hypoxia play a role in the development of sarcopenia in humans? Mechanistic insights from the Caudwell Xtreme Everest Expedition.\nL. Wandrag, M. Siervo, HL. Riley, M. Khosravi, BO. Fernandez, CA. Leckstrom, DS. Martin, K. Mitchell, DZH. Levett, HE. Montgomery, MG. Mythen, MA. Stroud, MPW. Grocott, M. Feelisch, . \nRedox Biol 2017 10;13:60-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28570949"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_Nitrite_Results.json",
+                        "label": "In this context, nitrite levels are monitored as part of a study on metabolic and vascular biomarkers during an expedition at high altitude. The data indicates that nitrite levels increased initially but then experienced a significant drop after eight weeks. This fluctuation in nitrite levels is part of a broader analysis of how various biomarkers respond to prolonged hypoxia, highlighting the importance of nitrite in physiological adaptations to altitude.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579",
+                        "label": "Sensing the quality parameters of Chinese traditional Yao-meat by using a colorimetric sensor combined with genetic algorithm partial least squares regression.\nX. Huang, X. Zou, J. Zhao, J. Shi, X. Zhang, Z. Li, L. Shen\nMeat Sci. 2014 Oct;98(2):203-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24971808"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579_Nitrite_Nitrite_Results and discussi.json",
+                        "label": "In this context, nitrite is discussed in relation to its permissible limits in salted meat, specifically Yao-meat. The text mentions that the maximum allowed nitrite concentration is 30 mg/kg according to Chinese standards, and the observed nitrite levels in the meat ranged from 14 to 20 mg/kg over a 35-day period. The relationship is focused on regulatory limits and the observed concentrations of nitrite in the product, indicating a concern for food safety and quality.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Nitrite_Results.json",
+                        "label": "In this context, nitrite is analyzed in relation to pulmonary function tests in patients with Chronic Obstructive Pulmonary Disease (COPD). The study finds that exhaled breath condensate (EBC) nitrite concentration correlates with various lung function parameters, particularly in advanced stages of COPD. However, it shows no correlation with forced vital capacity (FVC) or forced expiratory volume (FEV1) in the overall COPD patient group, indicating a specific relationship between nitrite levels and certain aspects of lung function rather than a general one.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrite",
+                        "target": "105577",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_Nitrite_Results.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrite",
+                        "target": "105579",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105579",
+                        "target": "105579_Nitrite_Nitrite_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrite",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Nitrite_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Sulfuric Acid Esters": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfuric Acid Esters",
+                        "label": "Sulfuric Acid Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585",
+                        "label": "Capillary electrophoresis--a new tool for ionic analysis of exhaled breath condensate.\nP. Kubáň, EG. Kobrin, M. Kaljurand\nJ Chromatogr A 2012 Dec;1267:239-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22796027"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585_Nitrite_Sulfuric Acid Esters_Results and discussi.json",
+                        "label": "In this context, nitrite is measured in the exhaled breath condensate (EBC) of individuals, particularly noting its elevated levels during acute respiratory infections. However, sulfuric acid esters are not mentioned or discussed in relation to nitrite or the respiratory conditions described. Therefore, there is no direct or indirect relationship established between nitrite and sulfuric acid esters in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sulfuric Acid Esters",
+                        "target": "105585",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105585",
+                        "target": "105585_Nitrite_Sulfuric Acid Esters_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Chlorides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chlorides",
+                        "label": "Chlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585",
+                        "label": "Capillary electrophoresis--a new tool for ionic analysis of exhaled breath condensate.\nP. Kubáň, EG. Kobrin, M. Kaljurand\nJ Chromatogr A 2012 Dec;1267:239-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22796027"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585_Nitrite_Chlorides_Results and discussi.json",
+                        "label": "In this context, nitrite and chlorides are both analyzed as anions in the electropherogram of exhaled breath condensate (EBC) samples. While nitrite levels significantly increase during an acute upper respiratory infection, chlorides are also present but not highlighted as having a notable change. The relationship is primarily through their simultaneous measurement in the context of respiratory health, indicating their relevance in assessing respiratory conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chlorides",
+                        "target": "105585",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105585",
+                        "target": "105585_Nitrite_Chlorides_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Nitrogen gas": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrogen gas",
+                        "label": "Nitrogen gas",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579",
+                        "label": "Sensing the quality parameters of Chinese traditional Yao-meat by using a colorimetric sensor combined with genetic algorithm partial least squares regression.\nX. Huang, X. Zou, J. Zhao, J. Shi, X. Zhang, Z. Li, L. Shen\nMeat Sci. 2014 Oct;98(2):203-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24971808"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579_Nitrite_Nitrogen gas_Results and discussi.json",
+                        "label": "In this context, nitrite and nitrogen gas are related through the biochemical processes involving lactic acid bacteria (LAB) in the spoilage of Yao-meat. Under anaerobic conditions, nitrate is converted to nitrite and subsequently to nitrogen gas by certain bacteria. This indicates a metabolic pathway where nitrite serves as an intermediate in the reduction process to nitrogen gas, highlighting their interconnected roles in food spoilage and preservation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrogen gas",
+                        "target": "105579",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105579",
+                        "target": "105579_Nitrite_Nitrogen gas_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Nitrate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrate",
+                        "label": "Nitrate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577",
+                        "label": "Does hypoxia play a role in the development of sarcopenia in humans? Mechanistic insights from the Caudwell Xtreme Everest Expedition.\nL. Wandrag, M. Siervo, HL. Riley, M. Khosravi, BO. Fernandez, CA. Leckstrom, DS. Martin, K. Mitchell, DZH. Levett, HE. Montgomery, MG. Mythen, MA. Stroud, MPW. Grocott, M. Feelisch, . \nRedox Biol 2017 10;13:60-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28570949"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_Nitrate_Discussion.json",
+                        "label": "In this context, nitrite and nitrate are discussed in relation to their roles in enhancing muscular energy efficiency under low oxygen conditions. Nitrate supplementation leads to increased exercise performance and reduced oxygen consumption, with significant correlations to post-supplementation plasma nitrite levels. This suggests that nitrite may be a product of nitrate metabolism, indicating a direct relationship where nitrite levels are influenced by nitrate availability and supplementation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_Nitrate_Introduction.json",
+                        "label": "In this context, nitrite and nitrate are discussed as markers of nitric oxide (NO) production, which is influenced by oxygen availability during high-altitude expeditions. The elevation of both nitrite and nitrate levels indicates increased NO metabolism, suggesting a physiological response to hypoxia that may relate to skeletal muscle mobilization and metabolic changes. Their relationship is significant as they both serve as indicators of NO activity and its effects on the body under stress conditions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579",
+                        "label": "Sensing the quality parameters of Chinese traditional Yao-meat by using a colorimetric sensor combined with genetic algorithm partial least squares regression.\nX. Huang, X. Zou, J. Zhao, J. Shi, X. Zhang, Z. Li, L. Shen\nMeat Sci. 2014 Oct;98(2):203-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24971808"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579_Nitrite_Nitrate_Results and discussi.json",
+                        "label": "In this context, nitrite and nitrate are related through their roles in the storage and preservation of Yao-meat. Initially, lactic acid bacteria (LAB) reduce nitrite concentrations, but as storage progresses, nitrite levels can rise due to the conversion of nitrate to nitrite, facilitated by bacterial contamination and the action of nitrate reductase. This indicates a dynamic relationship where nitrate serves as a precursor to nitrite during meat storage, influenced by microbial activity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Nitrate_Discussion.json",
+                        "label": "In this context, nitrite (NO2−) and nitrate are discussed in relation to their presence in bronchoalveolar lavage fluid (BALF) and exhaled breath condensate (EBC) of patients at risk for acute respiratory distress syndrome (ARDS). The study highlights a correlation between increased levels of nitrite and nitrate in BALF, suggesting their potential role as biomarkers for lung injury and mortality in ARDS patients. The relationship indicates that both compounds are part of the same biochemical pathway involving nitric oxide and may reflect similar pathological processes in lung damage.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrate",
+                        "target": "105577",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_Nitrate_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_Nitrate_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrate",
+                        "target": "105579",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105579",
+                        "target": "105579_Nitrite_Nitrate_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrate",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Nitrate_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Lactates": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lactates",
+                        "label": "Lactates",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585",
+                        "label": "Capillary electrophoresis--a new tool for ionic analysis of exhaled breath condensate.\nP. Kubáň, EG. Kobrin, M. Kaljurand\nJ Chromatogr A 2012 Dec;1267:239-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22796027"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585_Nitrite_Lactates_Results and discussi.json",
+                        "label": "In this context, nitrite and lactate are both mentioned as components of the ionic content analyzed in exhaled breath condensate (EBC) using a specific buffer gel electrophoresis (BGE) method. They are categorized as anions present in the samples, but there is no direct discussion of their interaction or functional relationship. The focus is primarily on the optimization of the BGE for separation rather than on the biological significance of nitrite and lactate together.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lactates",
+                        "target": "105585",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105585",
+                        "target": "105585_Nitrite_Lactates_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "18-crown-6": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "18-crown-6",
+                        "label": "18-crown-6",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585",
+                        "label": "Capillary electrophoresis--a new tool for ionic analysis of exhaled breath condensate.\nP. Kubáň, EG. Kobrin, M. Kaljurand\nJ Chromatogr A 2012 Dec;1267:239-45.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22796027"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105585_Nitrite_18-crown-6_Results and discussi.json",
+                        "label": "In this context, nitrite is mentioned as one of the measurable anions in the ionic content of exhaled breath condensate (EBC) analyzed using a background electrolyte (BGE) that includes 18-crown-6. The 18-crown-6 is utilized to enhance the separation of ions, specifically aiding in distinguishing ammonium ions from potassium ions during the analysis. However, there is no direct interaction or chemical relationship discussed between nitrite and 18-crown-6 beyond their roles in the analytical method.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "18-crown-6",
+                        "target": "105585",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105585",
+                        "target": "105585_Nitrite_18-crown-6_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Sterility": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sterility",
+                        "label": "Sterility",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579",
+                        "label": "Sensing the quality parameters of Chinese traditional Yao-meat by using a colorimetric sensor combined with genetic algorithm partial least squares regression.\nX. Huang, X. Zou, J. Zhao, J. Shi, X. Zhang, Z. Li, L. Shen\nMeat Sci. 2014 Oct;98(2):203-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24971808"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105579_Nitrite_Sterility_Results and discussi.json",
+                        "label": "In this context, nitrite is discussed in relation to its permissible levels in commercially sterile and vacuum-packaged Yao-meat. The study indicates that the nitrite concentration in the meat remained below the maximum limit set by Chinese standards, which is crucial for ensuring sterility and safety in food products. While nitrite is a preservative that can inhibit bacterial growth, the relationship to sterility is implied through regulatory limits rather than a direct discussion of their interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sterility",
+                        "target": "105579",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105579",
+                        "target": "105579_Nitrite_Sterility_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "muscle metabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "muscle metabolism",
+                        "label": "muscle metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577",
+                        "label": "Does hypoxia play a role in the development of sarcopenia in humans? Mechanistic insights from the Caudwell Xtreme Everest Expedition.\nL. Wandrag, M. Siervo, HL. Riley, M. Khosravi, BO. Fernandez, CA. Leckstrom, DS. Martin, K. Mitchell, DZH. Levett, HE. Montgomery, MG. Mythen, MA. Stroud, MPW. Grocott, M. Feelisch, . \nRedox Biol 2017 10;13:60-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28570949"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_muscle metabolism_Discussion.json",
+                        "label": "In this context, nitrite is associated with muscle metabolism through its role in the physiological response to hypoxic stress. The study indicates that nitrite concentrations increase during high-altitude exposure, which may enhance muscular efficiency and adapt to increased energetic demands. Additionally, the significant association between circulating nitrite levels and fat-free mass (FFM) loss suggests a potential link between nitrite and muscle metabolism, particularly in the context of hypoxia-induced adaptations.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "muscle metabolism",
+                        "target": "105577",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_muscle metabolism_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Biological function, NOS": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Biological function, NOS",
+                        "label": "Biological function, NOS",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Biological function, NOS_Discussion.json",
+                        "label": "In this context, nitrite is discussed in relation to its biological function, particularly in the context of nitric oxide (NO) release in the lungs. The study highlights the role of nitric oxide in protecting alveolar cells from apoptosis and its potential to induce pulmonary vasodilation. The generation of nitrite (NO2−) is linked to the mechanical stimuli affecting nitric oxide production, suggesting a significant relationship between nitrite and its biological functions related to nitric oxide synthase (NOS) activity in lung physiology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Biological function, NOS",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Biological function, NOS_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Apoptosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Apoptosis",
+                        "label": "Apoptosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Apoptosis_Discussion.json",
+                        "label": "In this context, nitrite is linked to apoptosis through its relationship with nitric oxide (NO), which is generated in the lungs and has protective effects against apoptosis in alveolar type II epithelial cells during mechanical overdistension. The study suggests that while nitric oxide can protect cells from apoptosis, it may also contribute to lung damage through nitrosative stress, indicating a complex role of nitrite in cellular processes related to apoptosis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Apoptosis",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Apoptosis_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Gastric Emptying": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Gastric Emptying",
+                        "label": "Gastric Emptying",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577",
+                        "label": "Does hypoxia play a role in the development of sarcopenia in humans? Mechanistic insights from the Caudwell Xtreme Everest Expedition.\nL. Wandrag, M. Siervo, HL. Riley, M. Khosravi, BO. Fernandez, CA. Leckstrom, DS. Martin, K. Mitchell, DZH. Levett, HE. Montgomery, MG. Mythen, MA. Stroud, MPW. Grocott, M. Feelisch, . \nRedox Biol 2017 10;13:60-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28570949"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_Gastric Emptying_Discussion.json",
+                        "label": "In this context, nitrite is discussed in relation to its role in enhancing exercise performance and metabolic responses under hypoxic conditions, which may indirectly influence gastric emptying. The incretin hormone GLP-1, which regulates gastric emptying, is also mentioned, suggesting a potential link between nitrite levels and gastric motility through metabolic pathways. However, the direct relationship between nitrite and gastric emptying is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Gastric Emptying",
+                        "target": "105577",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_Gastric Emptying_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Respiration_Results.json",
+                        "label": "In this context, nitrite (EBC NO2 −) is analyzed in relation to respiratory parameters in patients with acute respiratory distress syndrome (ARDS) and acute lung injury (ALI). The study finds a significant correlation between EBC NO2 − levels and ventilatory parameters such as tidal volume (Vt) and expiratory minute volume (EMV), suggesting that nitrite levels may reflect pulmonary function and respiratory status. This indicates a direct relationship between nitrite and respiration, particularly in the context of lung injury.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Respiration_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Exhalation_Discussion.json",
+                        "label": "In this context, nitrite is discussed in relation to its measurement in exhaled breath condensate (EBC) as a product of nitric oxide (NO) conversion. The study highlights that nitrite levels in EBC do not correlate with exhaled NO, suggesting that nitrite may serve as a more reliable biomarker for lung conditions like COPD. The relationship indicates that while both are related to respiratory function, nitrite's presence in EBC provides distinct insights compared to exhaled NO.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Exhalation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Pathogenesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pathogenesis",
+                        "label": "Pathogenesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577",
+                        "label": "Does hypoxia play a role in the development of sarcopenia in humans? Mechanistic insights from the Caudwell Xtreme Everest Expedition.\nL. Wandrag, M. Siervo, HL. Riley, M. Khosravi, BO. Fernandez, CA. Leckstrom, DS. Martin, K. Mitchell, DZH. Levett, HE. Montgomery, MG. Mythen, MA. Stroud, MPW. Grocott, M. Feelisch, . \nRedox Biol 2017 10;13:60-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28570949"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_Pathogenesis_Discussion.json",
+                        "label": "In this context, nitrite is associated with the pathogenesis of sarcopenia, particularly in the setting of hypoxic stress during high-altitude exposure. The study indicates that circulating nitrite concentrations correlate significantly with fat-free mass (FFM) loss, suggesting a potential role of nitrite in the metabolic adaptations and inflammatory responses that may contribute to the development of sarcopenia. However, the exact mechanisms linking nitrite to pathogenesis remain to be fully elucidated.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Pathogenesis_Discussion.json",
+                        "label": "In this context, nitrite is discussed as a potential diagnostic tool for assessing hyperinflation in COPD patients, suggesting its role in monitoring lung function and possibly indicating pathogenesis related to mechanical stress in the lungs. The mention of nitrite in exhaled breath condensate (EBC) highlights its relevance in understanding the underlying mechanisms of lung disease, including apoptosis and emphysema development. This indicates a connection between nitrite levels and the pathogenesis of lung conditions, particularly in the context of COPD.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pathogenesis",
+                        "target": "105577",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_Pathogenesis_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pathogenesis",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Pathogenesis_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Vital capacity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Vital capacity",
+                        "label": "Vital capacity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Vital capacity_Results.json",
+                        "label": "In this context, nitrite levels in exhaled breath condensate (EBC) are analyzed in relation to pulmonary function tests in COPD patients. While EBC nitrite shows significant correlations with residual volume (RV), total lung capacity (TLC), and intrathoracic gas volume (ITGV), it does not correlate with forced vital capacity (FVC) or forced expiratory volume in one second (FEV1). This indicates that nitrite may be more relevant to certain aspects of lung function, particularly those associated with hyperinflation, rather than overall vital capacity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Vital capacity",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Vital capacity_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "protonation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "protonation",
+                        "label": "protonation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "183721",
+                        "label": "The biochemistry of asthma.\nB. Gaston\nBiochim. Biophys. Acta 2011 Nov;1810(11):1017-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21718756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "183721_Nitrite_protonation_Biochemical phenotyp.json",
+                        "label": "In this context, nitrite is mentioned in relation to low airway pH, which favors its protonation. The discussion highlights how low pH conditions, such as those occurring during infections, can enhance the protonation of nitrite and related compounds, potentially influencing their biological activity and protective roles against infections. However, the specific implications of nitrite protonation in this context are not deeply explored.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "protonation",
+                        "target": "183721",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "183721",
+                        "target": "183721_Nitrite_protonation_Biochemical phenotyp.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Pathological Dilatation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pathological Dilatation",
+                        "label": "Pathological Dilatation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Pathological Dilatation_Introduction.json",
+                        "label": "In this context, nitrite is investigated as a potential biomarker for lung distension and mechanical stress, particularly in patients with chronic obstructive pulmonary disease (COPD). The study suggests that increased levels of exhaled breath condensate (EBC) nitrite correlate with lung distension, which may be indicative of pathological dilatation. The findings imply that nitrite could serve as a noninvasive indicator of lung mechanical stress, particularly in conditions characterized by hyperinflation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Pathological Dilatation_Discussion.json",
+                        "label": "In this context, nitrite levels are discussed in relation to mechanical stress on lung cells, particularly in the pathogenesis of chronic obstructive pulmonary disease (COPD) and emphysema. Increased nitrite in bronchoalveolar lavage (BAL) fluid is associated with mechanical overdistension of alveolar cells, which may contribute to pathological dilatation and apoptosis of lung structural cells. This suggests a potential link between elevated nitrite levels and the pathological changes observed in lung conditions characterized by dilatation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Pathological Dilatation_Discussion.json",
+                        "label": "In this context, nitrite is linked to pathological dilatation through its production as a byproduct of nitric oxide in the lungs, particularly in response to alveolar distension. The study suggests that elevated levels of nitrite in exhaled breath condensate (EBC) may indicate inappropriate lung distension, which correlates with clinical scores of lung injury. This relationship highlights the potential of nitrite as a marker for monitoring lung conditions associated with mechanical ventilation and lung injury.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Pathological Dilatation_Results.json",
+                        "label": "In this context, nitrite (EBC NO2 −) is investigated for its potential correlation with pulmonary distension and lung injury. The study suggests that while EBC NO2 − may reflect aspects of lung injury, no significant correlation was found between EBC NO2 − and markers of inflammation. The relationship between nitrite and pathological dilatation is implied through the exploration of lung injury severity, but direct evidence linking nitrite levels to pathological dilatation is not established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pathological Dilatation",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Pathological Dilatation_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Pathological Dilatation_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pathological Dilatation",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Pathological Dilatation_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Pathological Dilatation_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Hypoxia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hypoxia",
+                        "label": "Hypoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577",
+                        "label": "Does hypoxia play a role in the development of sarcopenia in humans? Mechanistic insights from the Caudwell Xtreme Everest Expedition.\nL. Wandrag, M. Siervo, HL. Riley, M. Khosravi, BO. Fernandez, CA. Leckstrom, DS. Martin, K. Mitchell, DZH. Levett, HE. Montgomery, MG. Mythen, MA. Stroud, MPW. Grocott, M. Feelisch, . \nRedox Biol 2017 10;13:60-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28570949"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_Hypoxia_Conclusions.json",
+                        "label": "In this context, nitrite is identified as a biomarker associated with the nitric oxide (NO) pathway, which is influenced by hypoxic conditions. The study suggests that exposure to hypobaric hypoxia leads to increased nitrite levels, alongside other biomarkers related to oxidative stress and inflammation. This indicates that nitrite may play a mediating role in the physiological responses to hypoxia, particularly concerning skeletal muscle loss and metabolic efficiency, highlighting its potential as a target for nutritional and pharmacological interventions in susceptible populations.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_Hypoxia_Discussion.json",
+                        "label": "In this context, nitrite and hypoxia are linked through their roles in physiological responses to prolonged low oxygen conditions. The study indicates that changes in nitrite concentrations are significantly correlated with hypoxia and are predictors of fat-free mass (FFM) loss. This suggests that nitrite may play a role in compensatory mechanisms aimed at enhancing blood flow and nutrient delivery during hypoxic conditions, which could impact muscle structure and performance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hypoxia",
+                        "target": "105577",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_Hypoxia_Conclusions.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_Hypoxia_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Lung volume": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lung volume",
+                        "label": "Lung volume",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Lung volume_Discussion.json",
+                        "label": "In this context, nitrite (EBC NO2 −) is discussed in relation to lung volume (Vt) in patients with varying degrees of lung injury. The study indicates a strong correlation between EBC NO2 − and Vt, suggesting that increased nitrite levels may be associated with mechanical distension of the lungs. This relationship implies that as lung volume decreases due to injury, the EBC NO2 −/Vt ratio increases, reflecting changes in alveolar distension rather than direct inflammation. Thus, nitrite levels may serve as an indirect marker of lung volume and injury severity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lung volume",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Lung volume_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Inspiration function_Results.json",
+                        "label": "In this context, nitrite (NO2−) is measured in exhaled breath condensate (EBC) as a potential marker for pulmonary function and inflammation. The study explores the correlation between EBC NO2− and various parameters related to lung injury, including tidal volume (Vt). While significant correlations were found between EBC NO2− normalized to Vt and lung injury severity, the direct relationship between nitrite and inspiration function is not explicitly established, indicating a more complex interaction rather than a straightforward correlation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Inspiration function_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Regulation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Regulation",
+                        "label": "Regulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577",
+                        "label": "Does hypoxia play a role in the development of sarcopenia in humans? Mechanistic insights from the Caudwell Xtreme Everest Expedition.\nL. Wandrag, M. Siervo, HL. Riley, M. Khosravi, BO. Fernandez, CA. Leckstrom, DS. Martin, K. Mitchell, DZH. Levett, HE. Montgomery, MG. Mythen, MA. Stroud, MPW. Grocott, M. Feelisch, . \nRedox Biol 2017 10;13:60-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28570949"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_Regulation_Discussion.json",
+                        "label": "In this context, nitrite is linked to the regulation of metabolic responses under low oxygen conditions. The study highlights how dietary nitrate supplementation leads to increased plasma nitrite concentrations, which correlate with enhanced exercise performance and mitochondrial efficiency. This suggests that nitrite plays a regulatory role in optimizing energy utilization and oxygen consumption in skeletal muscle during hypoxia.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Regulation",
+                        "target": "105577",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_Regulation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "nitric oxide metabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "nitric oxide metabolism",
+                        "label": "nitric oxide metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577",
+                        "label": "Does hypoxia play a role in the development of sarcopenia in humans? Mechanistic insights from the Caudwell Xtreme Everest Expedition.\nL. Wandrag, M. Siervo, HL. Riley, M. Khosravi, BO. Fernandez, CA. Leckstrom, DS. Martin, K. Mitchell, DZH. Levett, HE. Montgomery, MG. Mythen, MA. Stroud, MPW. Grocott, M. Feelisch, . \nRedox Biol 2017 10;13:60-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28570949"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_nitric oxide metabolism_Introduction.json",
+                        "label": "In this context, nitrite is presented as a marker of nitric oxide (NO) metabolism, particularly in relation to hypoxia and its effects on skeletal muscle. The study indicates that during high-altitude acclimatization, levels of nitrite and nitrate increase, reflecting enhanced NO production. This relationship is crucial for understanding how NO metabolism is influenced by oxygen availability and its implications for muscle health and metabolism under stress conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "nitric oxide metabolism",
+                        "target": "105577",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_nitric oxide metabolism_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Inflammation_Results.json",
+                        "label": "In this context, nitrite levels in exhaled breath condensate (EBC) were analyzed to investigate their relationship with pulmonary inflammation, as indicated by cytokine levels. However, the study found no significant correlation between EBC nitrite and inflammatory cytokines, suggesting that nitrite may not serve as an effective indicator of airway inflammation in the studied populations, including healthy individuals and those with COPD.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596",
+                        "label": "Exhaled breath condensate nitrite and its relation to tidal volume in acute lung injury.\nC. Gessner, S. Hammerschmidt, H. Kuhn, T. Lange, L. Engelmann, J. Schauer, H. Wirtz\nChest 2003 Sep;124(3):1046-52.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12970036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Inflammation_Results.json",
+                        "label": "In this context, nitrite (EBC NO2 −) is analyzed in relation to markers of inflammation in patients with varying degrees of lung injury. The study found no significant correlation between EBC NO2 − and pulmonary or systemic markers of inflammation, suggesting that nitrite levels do not reflect inflammatory processes in the studied conditions. Although there are correlations with lung injury parameters, the lack of a direct relationship with inflammation indicates a complex interaction that does not support a straightforward link between nitrite and inflammation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105596_Nitrite_Inflammation_Discussion.json",
+                        "label": "In this context, nitrite is linked to inflammation through its production as a byproduct of nitric oxide in the lungs, particularly in relation to alveolar distension. However, the study indicates that there is no direct correlation between nitrite levels in exhaled breath condensate (EBC) and systemic or pulmonary inflammation parameters. Instead, nitrite levels may serve as a marker for lung injury rather than inflammation itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Inflammation_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "105596",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Inflammation_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105596",
+                        "target": "105596_Nitrite_Inflammation_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590",
+                        "label": "Breath condensate nitrite correlates with hyperinflation in chronic obstructive pulmonary disease.\nC. Gessner, S. Hammerschmidt, H. Kuhn, G. Hoheisel, A. Gillissen, U. Sack, H. Wirtz\nRespir Med 2007 Nov;101(11):2271-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17693071"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Process_Discussion.json",
+                        "label": "In this context, nitrite is analyzed in exhaled breath condensate (EBC) to investigate its relationship with pulmonary function tests and inflammatory cytokines. The study aims to understand the process of nitrite generation in EBC and its potential correlation with airway inflammation in COPD. The choice of measuring nitrite alongside cytokines suggests a shared process in their generation, although no significant correlations were found with pulmonary function tests.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105590_Nitrite_Process_Results.json",
+                        "label": "In this context, nitrite is analyzed in exhaled breath condensate (EBC) to investigate its potential role as an indicator of pulmonary inflammation or hyperinflation processes. However, the study found no significant correlation between EBC nitrite levels and pulmonary function tests or inflammatory cytokines, suggesting that nitrite may not effectively represent the underlying inflammatory processes in the lungs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "105590",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Process_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105590",
+                        "target": "105590_Nitrite_Process_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Glucagon-Like Peptide 1": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Glucagon-Like Peptide 1",
+                        "label": "Glucagon-Like Peptide 1",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577",
+                        "label": "Does hypoxia play a role in the development of sarcopenia in humans? Mechanistic insights from the Caudwell Xtreme Everest Expedition.\nL. Wandrag, M. Siervo, HL. Riley, M. Khosravi, BO. Fernandez, CA. Leckstrom, DS. Martin, K. Mitchell, DZH. Levett, HE. Montgomery, MG. Mythen, MA. Stroud, MPW. Grocott, M. Feelisch, . \nRedox Biol 2017 10;13:60-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28570949"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105577_Nitrite_Glucagon-Like Peptide 1_Discussion.json",
+                        "label": "In this context, nitrite and Glucagon-Like Peptide 1 (GLP-1) are discussed as significantly correlated changes that predict loss of fat-free mass (FFM) during prolonged hypoxia. Both are suggested to represent compensatory responses aimed at enhancing blood flow and nutrient delivery, indicating a potential integrated role in metabolic adaptations related to muscle health and sarcopenia. Future research is encouraged to explore these mechanisms further, particularly in populations at risk for muscle loss.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Glucagon-Like Peptide 1",
+                        "target": "105577",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105577",
+                        "target": "105577_Nitrite_Glucagon-Like Peptide 1_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

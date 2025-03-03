@@ -1,0 +1,10 @@
+{
+    "context": "Fig. 1 shows an example of the ethane levels found in exhaled breath of one of the patients studied (case 4) as a function of the surgical procedure. Fig. 1 Exhaled ethane at multiple time points during surgical procedure, case 4. The amount of ethane detected in the fifth sample, collected 20 to 25 minutes after reperfusion, was almost twice the level found in the samples of breath collected before cross-clamping (baseline) or during cross-clamping. Fig. 2 summarizes the means and standard errors for ethane determinations as a function of the surgical procedure for six of the seven patients (cases 1, 2, and 4 through 7) studied. Fig. 2 Exhaled ethane normalized to baseline for six of seven cases. Values are expressed as mean \u00b1 SE. Abscissa is breath collection points during surgical procedure. The data were normalized to baseline to allow comparison between patients. ",
+    "term_A": "Ethane",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, ethane is measured in exhaled breath during a surgical procedure, indicating its presence as a volatile organic compound released from the body. The study highlights the levels of ethane detected at various time points, particularly noting a significant increase after reperfusion compared to baseline levels. This suggests a potential relationship between ethane exhalation and physiological changes during surgery, possibly linked to oxidative stress or tissue injury.",
+        "reason": "The score of 4 reflects a significant connection between ethane and exhalation, as the study provides quantitative data on ethane levels in exhaled breath during surgical procedures, indicating its relevance as a biomarker for physiological changes.",
+        "score": 4
+    }
+}

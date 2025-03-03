@@ -1,0 +1,10 @@
+{
+    "context": "Such a loss of m-xylene can lead to a non-uniform chemical dose throughout the exposure period, which makes it difficult to determine the actual toxic chemical concentration. Although many skin exposures to volatile chemicals may include evaporation of the chemical from the skin surface, evaporation from the skin surface would have a much different rate than an unsealed culture plate. Eliminating evaporation from the toxicology assessments, as we suggest, allows evaporation from the surface to be modeled separately with appropriate surface area and environmental temperature. In our sealed exposure system, which lacks a headspace, the culture medium, collagen, and fibroblasts represent the individual compartments into which m-xylene can be distributed during exposure of dermal equivalents. The partition coefficients describe the expected concentrations at equilibrium. The tissue culture media is in contact with both the collagen matrix and the fibroblasts and therefore the fibroblast:media partition coefficient for m-xylene can be used to determine the ultimate concentration in the fibroblasts. Partition coefficients (i.e. ",
+    "term_A": "1,3-xylene",
+    "term_B": "Dermo-",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene is discussed in relation to its exposure and distribution in dermal equivalents during toxicology assessments. The focus is on how m-xylene, a related compound, interacts with skin and tissue culture media, emphasizing the importance of partition coefficients in understanding chemical concentrations in fibroblasts. However, the term 'Dermo-' is not explicitly defined or connected to 1,3-xylene beyond its implication in dermal exposure, leading to a lack of direct relationship.",
+        "reason": "The score of 2 reflects an indirect connection, as 1,3-xylene is mentioned in the context of dermal exposure, but there is no detailed discussion of its specific relationship with 'Dermo-'. The terms share a general category of skin exposure but lack a clear, defined interaction.",
+        "score": 2
+    }
+}

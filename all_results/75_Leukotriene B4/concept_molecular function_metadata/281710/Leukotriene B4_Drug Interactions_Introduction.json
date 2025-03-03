@@ -1,0 +1,10 @@
+{
+    "context": "[1] Leukotrienes (LTA4, LTB4, LTC4, LTD4, and LTE4) are important inflammatory mediators (derived from arachidonic acid via the 5-lipoxygenase pathway) that exert their physiological effects by activating G protein-coupled receptors . [2] Circulating levels of leukotrienes in health and disease do not reach micromolar levels . [3] The chemical structure of these endogenous lipids includes a long hydrophobic backbone and at least one carboxylic acid end group (Fig. 1). [4] Here we demonstrate that LTB4 activates BK channels by direct interaction with the cholane steroid-sensing site located in the BK \u00ce\u00b21 TM2. [5] This finding is critical for the future development of \u00ce\u00b21-specific BK channel activators. [6] Moreover, we demonstrate that LTB4 activates BK channels with an unusually high potency (EC50 = 1 nm). [7] The fact that the EC50 value matches physiologically relevant levels of LTB4 in the vascular system raises speculation that cross-talk between endogenous leukotrienes and cholane steroids may converge to regulate smooth muscle contractility via BK \u00ce\u00b21 targeting. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Drug Interactions",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is discussed as an important inflammatory mediator that activates BK channels, suggesting a potential interaction with other drugs that may target these channels. The findings imply that LTB4 could influence drug efficacy or safety through its interactions with cholane steroids, indicating a relevant area for further exploration in drug interactions involving LTB4.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and drug interactions, as the context discusses LTB4's role in activating BK channels, which may have implications for drug development and interactions. The evidence provided supports the relevance of LTB4 in pharmacological contexts.",
+        "score": 4
+    }
+}

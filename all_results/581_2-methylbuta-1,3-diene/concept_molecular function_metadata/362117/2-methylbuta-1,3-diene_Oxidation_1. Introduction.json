@@ -1,0 +1,10 @@
+{
+    "context": "[5] Current bottom-up models estimate that 75% of biogenic VOCs are emitted from tropical ecosystems . [1] Detailed in situ biogenic VOC data for tropical ecosystems (e.g. ; ; ; ) are invaluable for testing models and evaluating satellite data, but are sparse in time and space. [2] Satellite observations provide information on scales of tens to hundreds of kilometres and therefore represent the ideal tool for extrapolating in situ data to continental scales. [1] We have shown previously that column measurements of HCHO, a high-yield oxidation product of VOCs, from the Global Ozone Monitoring Experiment (GOME) can be used to quantify net fluxes of VOCs, specifically isoprene over North America during summertime, on spatial scales of hundreds of kilometres . [2] The atmospheric abundance of HCHO is determined by a balance between production from the oxidation of VOCs and losses from oxidation by the hydroxyl radical and photolysis. [3] Oxidation of CH4 provides a global background of HCHO. [4] In continental boundary layers, oxidation of short-lived VOCs dominates over the source from CH4, resulting in a major enhancement of the total HCHO column. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Oxidation",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene is implied as a biogenic volatile organic compound (VOC) that undergoes oxidation processes in the atmosphere. The oxidation of VOCs, including 2-methylbuta-1,3-diene, contributes to the production of formaldehyde (HCHO), a significant oxidation product. The relationship highlights the role of oxidation in determining the atmospheric abundance of HCHO, which is influenced by the oxidation of various VOCs, including those emitted from tropical ecosystems.",
+        "reason": "The score of 4 reflects a significant connection between 2-methylbuta-1,3-diene and oxidation, as the context discusses how the oxidation of VOCs leads to the production of HCHO, indicating a clear relationship supported by atmospheric chemistry principles.",
+        "score": 4
+    }
+}

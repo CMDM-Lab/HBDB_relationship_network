@@ -1,0 +1,10 @@
+{
+    "context": "This estimate is consistent with acute studies in humans. An increased eye blinking frequency was observed at exposure of humans to 0.22ppm limonene admixed 0.13ppm ozone for 20min. At this level, seven of eight subjects reported weak eye irritation (Klen\u00f8 and Wolkoff, 2004). The lowest-observed-effect-level for the increase in blinking frequency was with 0.09ppm limonene admixed 0.10ppm ozone. At this level four of ten subjects perceived weak eye irritation (N\u00f8jgaard et al., 2005). In a 140min chamber study, 130 young women were exposed to a VOC mixture with 23 VOCs (total sum=26mg/m3) that contained mainly limonene (0.15ppm) and \u03b1-pinene (0.15ppm) as the unsaturated VOCs. The mixture was used as such or admixed ozone to a steady-state concentration of 0.04ppm. ",
+    "term_A": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "term_B": "Blinking",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene, commonly known as limonene, is associated with increased eye blinking frequency in humans when exposed to specific concentrations of limonene and ozone. The studies indicate that exposure to limonene can lead to weak eye irritation, prompting a physiological response such as increased blinking. However, the relationship is primarily focused on the effects of limonene rather than a direct interaction with blinking itself.",
+        "reason": "The score of 4 reflects a significant connection between limonene exposure and increased blinking frequency due to eye irritation. The studies provide evidence of this relationship, indicating a clear physiological response to the chemical exposure, although the specific mechanisms are not fully detailed.",
+        "score": 4
+    }
+}

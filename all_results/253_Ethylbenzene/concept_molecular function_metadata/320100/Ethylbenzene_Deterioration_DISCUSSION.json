@@ -1,0 +1,10 @@
+{
+    "context": "[3] However, it should be noted that in our study, airway acidity was related to different pollutants, namely PM10, NO2, benzene and ethylbenzene, suggesting a link between airways inflammation. [1] The spirometric findings for PM10 and NO2 are not in agreement with the negative associations found for wheezing in the previous months. [2] This could to be in accordance with a previous study [] where increasing exposure to PM10 was associated with reduction in peak expiratory flow, but not with wheezing or dyspnoea. [1] Benzene, toluene and ethylbenzene were the VOCs associated with lung function deterioration and airway inflammation. [2] Toluene is a known cause of occupational asthma [], where exposure to higher levels is common. [3] Low levels of VOCs seem to increase the risk of childhood [] and adult [] asthma symptoms but associations with lung function have been more difficult to find []. [4] Ethylbenzene has also been suggested as a significant risk factor for asthma [], a fact that is in accordance with the airways changes found in our study. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Deterioration",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is identified as a volatile organic compound (VOC) associated with lung function deterioration and airway inflammation. The study suggests a link between exposure to ethylbenzene and negative respiratory outcomes, indicating that it may contribute to the deterioration of lung function, particularly in relation to asthma symptoms. This highlights ethylbenzene's potential role as a risk factor for respiratory health issues.",
+        "reason": "The score of 4 reflects a significant connection between ethylbenzene and deterioration of lung function, supported by evidence of its association with airway inflammation and asthma. The context provides a clear link between ethylbenzene exposure and adverse respiratory effects, indicating its relevance in the study of lung health.",
+        "score": 4
+    }
+}

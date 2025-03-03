@@ -1,0 +1,10 @@
+{
+    "context": "In this study, the immunomodulating capacities of SO were investigated using the analysis of cytokine secretion of human mononuclear cells. Cytokine responses to increasing SO concentrations in the cell culture showed a biphasic curve progression (Fig. 2). One explanation of the biphasic progression would be the summation of two effects: a toxic and a stimulating effect. Stimulating effects, i.e. an increased secretion of cytokines, were described within the range from 16.8 to 420ng/ml styrene-7.8-oxide in the cell culture. Outside this range, the secretion of all cytokines was inhibited by toxic effects. Furthermore, the biphasic curve progression could be attributed to different reactions of single cell populations which establish a local cytokine micro-milieu within the range of the stimulating effects of styrene-7.8-oxide. Further experiments with single cells or cell populations should be performed to answer this question. ",
+    "term_A": "Styrene",
+    "term_B": "Exocytosis",
+    "llm_generation": {
+        "summary": "In this context, styrene-7.8-oxide (SO) is investigated for its immunomodulating effects, particularly on cytokine secretion from human mononuclear cells. The study indicates that within certain concentrations, SO stimulates cytokine secretion, which may involve exocytosis as a mechanism for cytokine release. However, the specific role of exocytosis in this process is not explicitly detailed, leaving the relationship somewhat implied rather than directly established.",
+        "reason": "The score of 3 reflects a moderate relevance, as styrene is linked to cytokine secretion, which likely involves exocytosis. However, the context does not provide direct evidence or detailed discussion of exocytosis's role in the observed effects, making the relationship less explicit.",
+        "score": 3
+    }
+}

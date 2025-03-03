@@ -1,0 +1,10 @@
+{
+    "context": "\u2022 Improved understanding of oxygen supply and transport constraints. \u2022 Continued translation of research findings into more robust practitioner practice. Air pollution by chlorinated volatile organic compounds (VOC) negatively affects human health and the environment. Volatile organic compounds such as trichloroethylene (C2HCl3) and carbon tetra-chloride (CCl4) are widely used as industrial solvents due to their low flammability, high evaporation rate and low reactivity. Moreover, VOCs can efficiently dissolve a wide range of organic substances; thus, they are often used as degreasers and in the dry-cleaning process. The toxicity of these compounds has promoted the development of a variety of technologies for the destruction of VOCs. Besides thermal incineration, catalytic technologies such as catalytic and photocatalytic destruction, catalytic hydrodechlorination, catalytic steam reformation and catalytic combustion have been employed. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Carbon",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene is mentioned as a chlorinated volatile organic compound (VOC) used as an industrial solvent, while carbon is referenced in relation to carbon tetra-chloride, another VOC. Both compounds are discussed in the context of air pollution and their negative health impacts. However, there is no direct interaction or specific relationship established between 1,1,2-trichloroethene and carbon beyond their classification as VOCs.",
+        "reason": "The score of 2 reflects a low relevance, as 1,1,2-trichloroethene and carbon are both mentioned in the context of VOCs and air pollution, but their relationship is not explicitly detailed or significant.",
+        "score": 2
+    }
+}

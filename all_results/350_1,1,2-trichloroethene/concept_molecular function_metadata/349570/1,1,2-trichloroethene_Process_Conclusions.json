@@ -1,0 +1,10 @@
+{
+    "context": "Breakthrough curves for conservative tracers indicate that relatively ideal flow conditions were achieved in the system. Furthermore, information derived from conservative tracer data (e.g. air-filled pore volume) was consistent with independently measured data. The results of the experiments indicate that vapor-phase transport of TCE was influenced by a combination of retention processes, including, in descending order of contribution, dissolution into water, accumulation at the air-water interface, and solid-phase sorption. These results are consistent with those reported for laboratory experiments (Brusseau et al., 1997; Kim et al., 2001). More generally, the relative contribution of the different retention processes will depend on the specific compound of interest, governed by its physicochemical properties, and the properties of the porous medium. The overall magnitude of TCE retardation was primarily a function of water content, both directly through its impact on retention via dissolution into water and indirectly through its impact on air\u2013water interfacial area. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is discussed in relation to its vapor-phase transport and the various retention processes that influence its behavior in a porous medium. The study highlights how TCE's physicochemical properties affect its dissolution in water, accumulation at the air-water interface, and solid-phase sorption. However, the term 'Process' is too vague and does not specify a particular process related to TCE, making the connection less direct.",
+        "reason": "The score of 2 reflects an indirect relationship, as TCE is involved in a discussion about transport and retention processes, but the term 'Process' lacks specificity and does not provide a clear, detailed connection to TCE's behavior.",
+        "score": 2
+    }
+}

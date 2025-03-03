@@ -1,0 +1,10 @@
+{
+    "context": "ng/mL, respectively. Questionnaire results indicated the workers identified as smokers consumed an average of 15.5 cigarettes per day. Table 2 summarizes the distributions of airborne BTEX by type of work. The average concentrations were highest for tanker loading workers: airborne benzene (5390\u03bcg/m3), airborne toluene (10,376\u03bcg/m3), airborne ethylbenzene (1583\u03bcg/m3), and airborne xylene (2067\u03bcg/m3). Compared to other occupations, workers responsible for tanker loading activities were found exposed to significantly higher concentrations by the Kruskal-Wallis test than other workers (p < 0.05) for all four analytes. Their exposure levels were associated with 3\u20135 orders of magnitude higher than recommended standards established by Iranian Committee for Review and Collection of Occupational Exposure Limit (ICRCOEL) and ACGIH of 1600\u03bcg/m3 for benzene (see Table 2). No ambient air exposure differences were found between smokers and non-smokers for each job type. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both volatile organic compounds (VOCs) that are measured in the airborne concentrations of workers involved in tanker loading activities. The study highlights that these workers are exposed to significantly higher levels of both ethylbenzene and toluene compared to other occupations, indicating a shared exposure risk. However, the relationship between the two compounds is not explicitly discussed beyond their co-occurrence in the occupational exposure scenario.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and toluene are mentioned together in the context of occupational exposure, but there is no detailed discussion of their interaction or specific relationship beyond their presence in the same work environment.",
+        "score": 2
+    }
+}

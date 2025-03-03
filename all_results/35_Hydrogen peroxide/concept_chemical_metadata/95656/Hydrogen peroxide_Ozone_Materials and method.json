@@ -1,0 +1,10 @@
+{
+    "context": "Vials were placed during at least 30min in a thermostatic bath at 80\u00b0C to volatilise DMDS. Then, at least five samples of 500\u03bcL of the headspace were injected in the GC (Thermo Scientific, Focus GC) with FID detection (column Alltech AT-1 2\u00d710m, 0.53mm id; splitless injector at 150\u00b0C; oven at 120\u00b0C; detector at 230\u00b0C).Hydroxyl radical tracking in the scrubber 2.2.1 Experimental set-up A description of the set-up and ozone generation apparatus is given by Biard et al. (2009a). Ozone was transferred in an aqueous solution using a bubble column at a given pH. The dissolved ozone solution (flow rate  Q L, O 3 ) was mixed with a hydrogen peroxide solution (flow rate  Q L, H 2 O 2 ) directly at the inlet of the scrubber. The pCBA (Analytical grade, Acros Organics, 99.5%) was previously dissolved in the hydrogen peroxide solution tank. No DMDS was used during these experiments to avoid parasitic O3 and HO\u00b0 consumption. Inlet and outlet O3, H2O2 and pCBA concentrations were determined with a special care to quench oxidants rapidly when sampling (using carmine indigo or sodium thiosulfate). ",
+    "term_A": "Hydrogen peroxide",
+    "term_B": "Ozone",
+    "llm_generation": {
+        "summary": "In this context, hydrogen peroxide (H2O2) and ozone (O3) are utilized in a scrubber system where they are mixed in an aqueous solution to track hydroxyl radicals. The experimental setup indicates a direct interaction between H2O2 and O3, as both are involved in the generation of reactive species for analytical purposes. Their combined use suggests a synergistic effect in oxidizing pollutants, highlighting their relevance in oxidative processes.",
+        "reason": "The score of 4 reflects a significant connection between hydrogen peroxide and ozone, as they are both actively involved in the same experimental setup for generating hydroxyl radicals. The context provides evidence of their interaction and shared purpose in the oxidation process.",
+        "score": 4
+    }
+}

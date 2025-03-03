@@ -1,0 +1,10 @@
+{
+    "context": " [8] The translation product of UreN5, Met1\u00e2\u20ac\u201cLys162, showed no glycosylation, with H5 acting as a stop transfer sequence, whereas the product of UreN6, Met1\u00e2\u20ac\u201cVal195, was glycosylated.  [9] H6 therefore behaved as a signal anchor. [10] Hence, the inner membrane protein, UreI, has six transmembrane\u00e2\u20ac\u201cinserted segments, with both NH2- and COOH-termini located in the periplasm (Fig. 5B). [1] The apparent pK of UreI activation implies protonation of one or more periplasmic histidines for activation of urea transport. [2] Histidine 123, located at the boundary of H4, was mutated to arginine or glycine . [3] Expression of UreI was unaffected by this mutation, but acid activation of urea uptake disappeared (1.83 \u00c2\u00b1 0.20 pmol per oocyte at pH 5.0 versus 1.75 \u00c2\u00b1 0.34 pmol per oocyte at pH 7.5). [4] The protonated state of this histidine is important for acid activation of transport. ",
+    "term_A": "urea",
+    "term_B": "protonation",
+    "llm_generation": {
+        "summary": "In this context, urea is linked to the process of protonation through the activation of the UreI protein, which is involved in urea transport. The protonation of specific histidine residues, particularly Histidine 123, is crucial for the acid activation of urea uptake. The study indicates that changes in pH affect the protonated state of histidine, which in turn influences urea transport activity.",
+        "reason": "The score of 4 reflects a significant connection between urea and protonation, as the protonation of histidine is essential for the activation of urea transport. The context provides evidence of this relationship through experimental observations regarding pH effects on transport activity.",
+        "score": 4
+    }
+}

@@ -1,0 +1,1513 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "glutathione",
+                    "label": "glutathione",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "glutathione",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "glutathione",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "glutathione",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "glutathione",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "glutathione",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "glutathione",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "glutathione",
+                        "label": "glutathione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tuberculosis",
+                        "label": "Tuberculosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tietze's Syndrome",
+                        "label": "Tietze's Syndrome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Tuberculosis",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Tietze's Syndrome",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Lung diseases",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "glutathione",
+                        "label": "glutathione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Electrolytes",
+                        "label": "Electrolytes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "eosin maleimide",
+                        "label": "eosin maleimide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "6-iodoacetamidofluorescein",
+                        "label": "6-iodoacetamidofluorescein",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic solvent product",
+                        "label": "Organic solvent product",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5-iodoacetamidofluorescein",
+                        "label": "5-iodoacetamidofluorescein",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Electrolytes",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "eosin maleimide",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Atom",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Carbon",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "6-iodoacetamidofluorescein",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Organic solvent product",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "5-iodoacetamidofluorescein",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "glutathione",
+                        "label": "glutathione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Proteolysis",
+                        "label": "Proteolysis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "hemolysis",
+                        "label": "hemolysis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Laser-generated electromagnetic radiation",
+                        "label": "Laser-generated electromagnetic radiation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "conjugation",
+                        "label": "conjugation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "acidification",
+                        "label": "acidification",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "nucleophilic addition",
+                        "label": "nucleophilic addition",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Free Radical Scavengers",
+                        "label": "Free Radical Scavengers",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Macromolecular alteration",
+                        "label": "Macromolecular alteration",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Proteolysis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "hemolysis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Drug Interactions",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Laser-generated electromagnetic radiation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Adjudication",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Exhalation",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "conjugation",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "acidification",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "nucleophilic addition",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Free Radical Scavengers",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "Macromolecular alteration",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "glutathione",
+                        "label": "glutathione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "GSTP1 gene",
+                        "label": "GSTP1 gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "glutathione",
+                        "target": "GSTP1 gene",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "glutathione",
+                        "label": "glutathione",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "glutathione",
+                        "label": "glutathione",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Tuberculosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Tuberculosis",
+                        "label": "Tuberculosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Tuberculosis_Conclusions.json",
+                        "label": "In this context, glutathione (GSH) is analyzed in exhaled breath condensates (EBC) of patients with various pulmonary diseases, including tuberculosis. The study aims to evaluate GSH levels, which are important for antioxidant defense and may play a role in the inflammatory response associated with tuberculosis. However, the specific relationship between GSH and tuberculosis is not detailed, indicating a potential area of investigation rather than a direct connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Tuberculosis",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Tuberculosis_Conclusions.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Tietze's Syndrome": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Tietze's Syndrome",
+                        "label": "Tietze's Syndrome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Tietze's Syndrome_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is discussed primarily in relation to its concentration in various biological fluids and the analytical methods used for its detection, notably the spectrophotometric method developed by Tietze. However, Tietze's Syndrome is not directly addressed in relation to glutathione, making the connection between the two terms unclear and lacking specific relevance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Tietze's Syndrome",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Tietze's Syndrome_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Lung diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Lung diseases_Conclusions.json",
+                        "label": "In this context, glutathione (GSH) is analyzed in exhaled breath condensates (EBC) from patients with various pulmonary diseases, indicating its potential role as a biomarker for lung health. The study aims to evaluate GSH levels in patients with lung diseases, suggesting a significant relationship between glutathione and respiratory conditions, particularly in the context of inflammation and oxidative stress in the lungs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lung diseases",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Lung diseases_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Electrolytes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Electrolytes",
+                        "label": "Electrolytes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Electrolytes_Results and discussi.json",
+                        "label": "In this context, glutathione (GSH) is discussed in relation to its derivatization for detection purposes, particularly focusing on its thiol group. While electrolytes are not directly mentioned in terms of their interaction with glutathione, the context implies that GSH's properties, such as conductivity, are relevant to its detection. However, there is no explicit connection established between glutathione and electrolytes, limiting the depth of their relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Electrolytes",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Electrolytes_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "eosin maleimide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "eosin maleimide",
+                        "label": "eosin maleimide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_eosin maleimide_Introduction.json",
+                        "label": "In this context, glutathione (GSH) and eosin maleimide (EMA) are directly related through the use of EMA as a fluorescent tag for the derivatization of GSH in biological samples. The study highlights the application of EMA in capillary electrophoresis-laser induced fluorescence (CE–LIF) for sensitive detection of GSH, demonstrating its effectiveness in quantifying GSH in exhaled breath condensate and saliva. The matching excitation wavelength of EMA with the laser module enhances the detection capabilities, indicating a significant methodological advancement in analyzing GSH levels.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "eosin maleimide",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_eosin maleimide_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Atom": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821",
+                        "label": "Chlorobenzene induces oxidative stress in human lung epithelial cells in vitro.\nR. Feltens, I. Mögel, C. Röder-Stolinski, JC. Simon, G. Herberth, I. Lehmann\nToxicol. Appl. Pharmacol. 2010 Jan;242(1):100-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19800902"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821_glutathione_Atom_Results.json",
+                        "label": "In this context, glutathione (GSH) is discussed in relation to its interaction with the GSTP1-1 enzyme and the NBDHEX compound. The sulfur atom of the cysteine side chain in GSH is positioned to facilitate a reaction with the benzoxadiazole C4 group. However, the term 'Atom' is mentioned in a general sense, referring to the sulfur atom specifically, without establishing a broader or significant relationship with glutathione beyond this specific interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821_glutathione_Atom_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is discussed in relation to its sulfur atom, which is highlighted for its electron density and conformation. The focus is on the structural aspects of GSH, particularly the sulfur atom's role in the active site architecture. However, the relationship is primarily structural and does not delve into broader biochemical implications or interactions involving glutathione beyond its atomic representation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Atom",
+                        "target": "309821",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309821",
+                        "target": "309821_glutathione_Atom_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309821",
+                        "target": "309821_glutathione_Atom_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Carbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821",
+                        "label": "Chlorobenzene induces oxidative stress in human lung epithelial cells in vitro.\nR. Feltens, I. Mögel, C. Röder-Stolinski, JC. Simon, G. Herberth, I. Lehmann\nToxicol. Appl. Pharmacol. 2010 Jan;242(1):100-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19800902"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821_glutathione_Carbon_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is mentioned in relation to its sulfur atom and its interaction with the NBDHEX molecule. Carbon is referenced in the context of the molecular structure, specifically in the depiction of GSH and its active site architecture. However, there is no direct discussion of the functional relationship between glutathione and carbon beyond their presence in the molecular structure, indicating a lack of significant interaction or relevance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon",
+                        "target": "309821",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309821",
+                        "target": "309821_glutathione_Carbon_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "6-iodoacetamidofluorescein": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "6-iodoacetamidofluorescein",
+                        "label": "6-iodoacetamidofluorescein",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_6-iodoacetamidofluorescein_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is analyzed using capillary electrophoresis (CE) methods, specifically through derivatization with 6-iodoacetamidofluorescein. This compound is one of several reagents mentioned that enhance the detection of GSH in biological samples, indicating a direct relationship where 6-iodoacetamidofluorescein serves as a tool for measuring glutathione levels effectively. The focus is on improving detection sensitivity and resolution in GSH analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "6-iodoacetamidofluorescein",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_6-iodoacetamidofluorescein_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Organic solvent product": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic solvent product",
+                        "label": "Organic solvent product",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Organic solvent product_Results and discussi.json",
+                        "label": "In this context, glutathione (GSH) is discussed in relation to its measurement in biological samples, particularly in the presence of organic solvents. The method developed for capillary electrophoresis (CE) highlights how organic solvents can influence the protein precipitation process, which in turn affects the accurate measurement of GSH levels. While organic solvents are used to facilitate the analysis, the relationship is more about the methodological challenges rather than a direct biochemical interaction between glutathione and organic solvent products.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic solvent product",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Organic solvent product_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "5-iodoacetamidofluorescein": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "5-iodoacetamidofluorescein",
+                        "label": "5-iodoacetamidofluorescein",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_5-iodoacetamidofluorescein_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is analyzed using capillary electrophoresis (CE) methods, specifically through derivatization with 5-iodoacetamidofluorescein. This compound is utilized to enhance the detection sensitivity of GSH in biological samples, indicating a direct relationship where 5-iodoacetamidofluorescein serves as a reagent to facilitate the analysis of glutathione levels.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "5-iodoacetamidofluorescein",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_5-iodoacetamidofluorescein_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Proteolysis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Proteolysis",
+                        "label": "Proteolysis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Proteolysis_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is discussed in relation to its stability during sample preparation for analysis, particularly highlighting the impact of proteolysis. The text indicates that proteolysis can lead to the degradation of GSH in plasma samples, affecting the accuracy of GSH and GSSG assays. This suggests a significant relationship where proteolysis can influence the measurement and interpretation of glutathione levels in biological samples.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Proteolysis",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Proteolysis_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "hemolysis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "hemolysis",
+                        "label": "hemolysis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_hemolysis_Introduction.json",
+                        "label": "In this context, glutathione (GSH) and hemolysis are related through the analysis of blood samples where hemolysis can significantly affect GSH measurement. Hemolysis can lead to an overestimation of GSH levels in plasma due to the high concentration of GSH in erythrocytes, complicating accurate assessments of oxidative stress and redox status. Proper sample handling is crucial to avoid these artifacts.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "hemolysis",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_hemolysis_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Drug Interactions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821",
+                        "label": "Chlorobenzene induces oxidative stress in human lung epithelial cells in vitro.\nR. Feltens, I. Mögel, C. Röder-Stolinski, JC. Simon, G. Herberth, I. Lehmann\nToxicol. Appl. Pharmacol. 2010 Jan;242(1):100-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19800902"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821_glutathione_Drug Interactions_Site-directed mutage.json",
+                        "label": "In this context, glutathione (GSH) is involved in the analysis of drug interactions, specifically with the enzyme glutathione S-transferase (GST). The study examines how NBDHEX interacts with GST in the presence of GSH, indicating that glutathione plays a crucial role in mediating the binding and activity of drugs like NBDHEX. This suggests that GSH is significant in understanding drug interactions, particularly in the context of detoxification and metabolism.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Drug Interactions",
+                        "target": "309821",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309821",
+                        "target": "309821_glutathione_Drug Interactions_Site-directed mutage.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Laser-generated electromagnetic radiation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Laser-generated electromagnetic radiation",
+                        "label": "Laser-generated electromagnetic radiation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Laser-generated electromagnetic radiation_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is analyzed using a 515nm green laser module in a capillary electrophoresis-laser-induced fluorescence (CE–LIF) setup. The laser's wavelength is specifically chosen to match the excitation spectra of eosin-5-maleimide, a fluorescent tag used for GSH derivatization, allowing for sensitive detection of GSH in biological samples like exhaled breath condensate and saliva. This demonstrates a direct application of laser-generated electromagnetic radiation in the quantification of glutathione.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Laser-generated electromagnetic radiation",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Laser-generated electromagnetic radiation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Adjudication_Results and discussi.json",
+                        "label": "In this context, glutathione (GSH) is mentioned in relation to its analysis in saliva samples using a capillary electrophoresis (CE) method. However, there is no direct connection to 'Adjudication,' which typically refers to a legal process or decision-making. The mention of GSH does not imply any evaluative or decision-making process related to adjudication, indicating a lack of relevance between the two terms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Adjudication_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is analyzed using a 515nm green laser module for sensitive determination in biological samples like exhaled breath condensate and saliva. However, the term 'Adjudication' is not directly related to the analysis or measurement of GSH, indicating no significant connection between the two terms in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Adjudication_Results and discussi.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Adjudication_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Exhalation_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is discussed in relation to its concentrations in various biological fluids, including exhaled breath condensate. While GSH is typically found in higher concentrations in blood and saliva, its presence in exhaled breath is notably low, indicating a potential challenge in measuring its levels accurately. This suggests that exhalation may not be a primary route for GSH detection, but it highlights the need for sensitive analytical methods to assess its levels in breath samples.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Exhalation_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "conjugation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "conjugation",
+                        "label": "conjugation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821",
+                        "label": "Chlorobenzene induces oxidative stress in human lung epithelial cells in vitro.\nR. Feltens, I. Mögel, C. Röder-Stolinski, JC. Simon, G. Herberth, I. Lehmann\nToxicol. Appl. Pharmacol. 2010 Jan;242(1):100-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19800902"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821_glutathione_conjugation_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is directly involved in the conjugation process facilitated by glutathione S-transferases (GSTs), which are enzymes that help detoxify drugs by conjugating them with GSH. This conjugation reduces the pharmacologic activity of various drugs, contributing to multidrug resistance in cancer cells. The relationship is critical as it highlights how GSH and GSTs work together to modify and extrude potentially harmful compounds from cells, particularly in the context of cancer treatment resistance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "conjugation",
+                        "target": "309821",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309821",
+                        "target": "309821_glutathione_conjugation_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "acidification": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "acidification",
+                        "label": "acidification",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_acidification_Results and discussi.json",
+                        "label": "In this context, glutathione (GSH) is analyzed in biological samples, where acidification plays a crucial role in the preparation of these samples for capillary electrophoresis (CE). The process of acidification or the addition of organic solvents is shown to significantly influence the measured GSH content, indicating that proper sample preparation is essential for accurate analysis of glutathione levels. This highlights the importance of acidification in maintaining the integrity of GSH measurements in various biological fluids.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "acidification",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_acidification_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "nucleophilic addition": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "nucleophilic addition",
+                        "label": "nucleophilic addition",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821",
+                        "label": "Chlorobenzene induces oxidative stress in human lung epithelial cells in vitro.\nR. Feltens, I. Mögel, C. Röder-Stolinski, JC. Simon, G. Herberth, I. Lehmann\nToxicol. Appl. Pharmacol. 2010 Jan;242(1):100-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19800902"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821_glutathione_nucleophilic addition_Results.json",
+                        "label": "In this context, glutathione (GSH) is directly involved in a nucleophilic addition reaction with the benzoxadiazole compound NBDHEX. The formation of a covalent complex, where the sulfur atom of GSH adds to a specific carbon atom of the benzoxadiazole ring, is identified as the rate-limiting step in the reaction. This highlights the critical role of GSH as a nucleophile in the reaction mechanism, emphasizing its importance in biochemical processes involving nucleophilic addition.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "nucleophilic addition",
+                        "target": "309821",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309821",
+                        "target": "309821_glutathione_nucleophilic addition_Results.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Free Radical Scavengers": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Free Radical Scavengers",
+                        "label": "Free Radical Scavengers",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218",
+                        "label": "Sensitive determination of glutathione in biological samples by capillary electrophoresis with green (515 nm) laser-induced fluorescence detection.\nJ. Hodáková, J. Preisler, F. Foret, P. Kubáň\nJ Chromatogr A 2015 Apr;1391:102-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25757819"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "677218_glutathione_Free Radical Scavengers_Introduction.json",
+                        "label": "In this context, glutathione (GSH) is highlighted as a crucial tripeptide that functions as a free radical scavenger, protecting cells and tissues from oxidative damage. Its reactive thiol group allows GSH to react with free radicals and reactive oxygen species, playing a significant role in cellular defense mechanisms. The text emphasizes GSH's importance in maintaining normal physiological conditions and its involvement in various diseases where its levels are altered.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Free Radical Scavengers",
+                        "target": "677218",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "677218",
+                        "target": "677218_glutathione_Free Radical Scavengers_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Macromolecular alteration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Macromolecular alteration",
+                        "label": "Macromolecular alteration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821",
+                        "label": "Chlorobenzene induces oxidative stress in human lung epithelial cells in vitro.\nR. Feltens, I. Mögel, C. Röder-Stolinski, JC. Simon, G. Herberth, I. Lehmann\nToxicol. Appl. Pharmacol. 2010 Jan;242(1):100-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19800902"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821_glutathione_Macromolecular alteration_Results.json",
+                        "label": "In this context, glutathione (GSH) is discussed in relation to its interaction with NBDHEX and the formation of a Ïƒ-complex within the GSTP1-1 enzyme. The study highlights that a conformational change in the enzyme's structure, which is a macromolecular alteration, is essential for the binding and complex formation with GSH. This suggests that the flexibility and structural dynamics of macromolecules are crucial for the biochemical interactions involving glutathione.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Macromolecular alteration",
+                        "target": "309821",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309821",
+                        "target": "309821_glutathione_Macromolecular alteration_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "GSTP1 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "GSTP1 gene",
+                        "label": "GSTP1 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821",
+                        "label": "Chlorobenzene induces oxidative stress in human lung epithelial cells in vitro.\nR. Feltens, I. Mögel, C. Röder-Stolinski, JC. Simon, G. Herberth, I. Lehmann\nToxicol. Appl. Pharmacol. 2010 Jan;242(1):100-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19800902"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309821_glutathione_GSTP1 gene_Site-directed mutage.json",
+                        "label": "In this context, glutathione (GSH) is analyzed in relation to the GSTP1 gene, which encodes the GSTP1-1 enzyme. The study investigates the interaction of NBDHEX with GSTs and GSH, highlighting the role of GSTP1 in binding GSH. The crystal structure of the GSTP1-1/GSH/NBDHEX complex indicates a direct functional relationship, as GSH is a substrate for the GSTP1 enzyme, which is crucial for detoxification processes in cells.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "GSTP1 gene",
+                        "target": "309821",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309821",
+                        "target": "309821_glutathione_GSTP1 gene_Site-directed mutage.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

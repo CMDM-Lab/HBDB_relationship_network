@@ -1,0 +1,10 @@
+{
+    "context": "For both PM2.5 and ozone, other exposure metrics provided comparable results (see Methods in the Online Repository). When PM2.5 and ozone were both entered in the regression models, only the effect of ozone remained significant (P = .04). We also observed a 1.19-nmol increase in malondialdehyde for an interquartile increase in the heavy vehicle load accounting for the distance of the children's home to the closest avenue. When either PM2.5 or ozone and traffic count was included in the same model, both the pollutant and traffic count remained significantly associated with malondialdehyde levels (see Methods in the Online Repository). When traffic count was broken into tertiles, a significant positive trend was seen with EBC malondialdehyde levels (test of trend, P = .02; Fig 1). Associations between malondialdehyde levels and health outcomes Malondialdehyde levels were inversely related to FEV1 and FVC and directly related to IL-8 levels in nasal lavage (Table IV). ",
+    "term_A": "Malondialdehyde",
+    "term_B": "Ozone",
+    "llm_generation": {
+        "summary": "In this context, malondialdehyde (MDA) is presented as a biomarker for oxidative stress associated with exposure to ozone. The study indicates that an increase in malondialdehyde levels correlates with ozone exposure, as well as with traffic-related pollutants. The significant association between ozone and malondialdehyde suggests that ozone exposure may contribute to oxidative damage, which is further linked to adverse health outcomes such as reduced lung function and increased inflammatory markers.",
+        "reason": "The score of 4 reflects a strong connection between malondialdehyde and ozone, supported by statistical significance in the regression models. The context indicates that ozone exposure is a significant factor influencing malondialdehyde levels, highlighting its role in oxidative stress and potential health impacts.",
+        "score": 4
+    }
+}

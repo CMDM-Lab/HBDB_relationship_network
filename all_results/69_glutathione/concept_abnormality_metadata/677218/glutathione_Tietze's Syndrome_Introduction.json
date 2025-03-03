@@ -1,0 +1,10 @@
+{
+    "context": "For instance, GSH concentration in whole blood is in the mM range and is about 2\u20133 orders higher than in blood plasma or serum. In saliva, the concentration of GSH is about the same as in the serum samples but only nanomolar concentration of GSH was detected in exhaled breath condensate. Sensitive analytical methods are, therefore, needed to determine low concentrations of GSH in many biological fluids, also due to the need for dilution during sample preparation. Conventional spectrophotometric method developed by Tietze in 1969 is still one of the most widely applied techniques to detect GSH due to its simplicity, satisfactory sensitivity, and low cost. Spectrofluorimetric methods have been developed to improve the sensitivity of GSH and GSSG determination in different matrices [9\u201312]. Nevertheless, due to their low specificity, the spectrophotometric or spectrofluorimetric methods cannot compete with separation methods such as HPLC or CE. The separation methods extend the applicability to multiple thiol compounds that have physiological importance (for instance, cysteine, homocysteine, etc.). ",
+    "term_A": "glutathione",
+    "term_B": "Tietze's Syndrome",
+    "llm_generation": {
+        "summary": "In this context, glutathione (GSH) is discussed primarily in relation to its concentration in various biological fluids and the analytical methods used for its detection, notably the spectrophotometric method developed by Tietze. However, Tietze's Syndrome is not directly addressed in relation to glutathione, making the connection between the two terms unclear and lacking specific relevance.",
+        "reason": "The score of 2 reflects an indirect connection, as Tietze's method is used for measuring glutathione, but there is no discussion of how glutathione relates to Tietze's Syndrome itself, limiting the depth of their relationship.",
+        "score": 2
+    }
+}

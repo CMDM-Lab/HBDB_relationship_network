@@ -1,0 +1,10 @@
+{
+    "context": "These media conditions could enable a better microbiological growth corresponding to a higher oxygen demand. 3.3.2 Ammonia removal As observed in Fig. 2 , in the case of ammonia consumption, the best microbiological activity was obtained for the assay using pine bark. As this material has a natural acidity (see Table 3) it may favor the transfer of ammonia in the liquid phase by chemical neutralization with the acid surface functional groups and biological transformation. Moreover, the initial and final pH values, close to neutrality (Table 3), are a better condition for biomass growth. The formulated material UP 20 generated poor microbiological activity, which could be explained by its basic properties. However, when it was associated with pine bark, it induced better pH conditions: final pH less than 8 instead of nearly 9 (see Table 3). ",
+    "term_A": "ammonia",
+    "term_B": "functional group",
+    "llm_generation": {
+        "summary": "In this context, ammonia is discussed in relation to its removal and the role of functional groups on pine bark that facilitate its transfer in the liquid phase. The acidic surface functional groups of pine bark are suggested to chemically neutralize ammonia, enhancing microbiological activity and promoting better growth conditions. This indicates a significant interaction between ammonia and the functional groups present in the material used.",
+        "reason": "The score of 4 reflects a strong connection between ammonia and functional groups, as the context provides evidence of how these groups influence ammonia transfer and microbiological activity, indicating a clear functional relationship.",
+        "score": 4
+    }
+}

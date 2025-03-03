@@ -1,0 +1,10 @@
+{
+    "context": "Apart from a release of ATP by damaged or dying cells, physiological release of ATP from both neuronal and non-neuronal cells can be triggered by various stimuli. Several mechanisms of ATP release have been described that include the involvement of vesicular exocytosis, connexin and/or pannexin hemichannels, maxi anion and P2X7 channels. In the extracellular space ATP is rapidly broken down by ectonucleotidases to ADP, AMP and adenosine. Ectonucleotidase activity is important in shaping purinergic signalling by removing ATP and also by producing ATP metabolites, which are also active ligands for various purinergic receptors. Functionally, adenosine might be the most important product of ATP degradation by ectonucleotidases. In this review, however, we concentrate mostly on the functional role of ATP acting at P2 receptors. The effects of adenosine are not discussed in detail and can be found in recent reviews (for example, see Ref.). ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Ligands",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is discussed as a signaling molecule released by cells, which can act as a ligand for purinergic receptors. The breakdown of ATP by ectonucleotidases produces metabolites like ADP, AMP, and adenosine, which also function as active ligands. The focus is primarily on ATP's role at P2 receptors, highlighting its significance in purinergic signaling.",
+        "reason": "The score of 4 reflects a significant connection between ATP and ligands, as ATP itself acts as a ligand for purinergic receptors, and its metabolites also serve as ligands. The context provides a clear functional relationship supported by the mechanisms of ATP release and degradation.",
+        "score": 4
+    }
+}

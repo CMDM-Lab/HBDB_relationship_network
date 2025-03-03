@@ -1,0 +1,10 @@
+{
+    "context": "[10] E, transcription of IL-2 mRNA after CD3/CD28 stimulation (4 h) in splenocytes of panx1 knock-out or wild type mice; n = 5 animals per group, *, p < 0.05.  [1] Our findings indicate that mitochondria have a central role in T cell activation by producing the ATP that is required for purinergic signaling and maintaining Ca2+ homeostasis.  [2] Mitochondria thus occupy a key regulatory position in which they integrate the inside-out (purinergic) and outside-in (Ca2+) signaling networks that control T cell activation.  [3] This finding is interesting given the fact that glycolysis, and not mitochondrial ATP production, is the predominant mechanism by which activated T cells generate the bulk of their ATP demand .  [4] The function of mitochondria during T cell activation shifts from ATP production to the production of TCA intermediates that are required for biosynthesis .  [5] However, emerging evidence points to a more complex involvement of mitochondria in the T cell activation process .  [6] Our current findings support this notion. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Glycolysis",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) and glycolysis are closely related through their roles in T cell activation. While mitochondria produce ATP, glycolysis is identified as the primary pathway for ATP generation in activated T cells. This indicates that glycolysis is crucial for meeting the ATP demands during T cell activation, highlighting a significant metabolic shift in immune responses.",
+        "reason": "The score of 4 reflects a strong connection between ATP and glycolysis, as the context emphasizes glycolysis as the main ATP production pathway in activated T cells, indicating a clear metabolic relationship during immune activation.",
+        "score": 4
+    }
+}

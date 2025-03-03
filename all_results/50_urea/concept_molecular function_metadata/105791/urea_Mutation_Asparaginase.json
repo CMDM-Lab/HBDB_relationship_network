@@ -1,0 +1,10 @@
+{
+    "context": "Arginase-1 protein has been found in human liver, erythrocytes, granulocytes, kidney, brain, and gastrointestinal tract, whereas arginase-2 is detected in kidney, brain, gastrointestinal tract, and fibroblasts. Therefore, arginase-1 is the only isoenzyme found in liver and red blood cells while kidney, brain, and gastrointestinal tract express the two arginase isoproteins [67\u201369]. The human gene encoding arginase-1 has been mapped to chromosome 6q23. Mutations on this gene cause deficiency of arginase-1 activity and congenital argininemia, a rare autosomal recessive disorder that shows phenotypic variability, similarly to other urea cycle disorders. Most patients experience progressive mental impairment and neurologic manifestations such as spastic tetraplegia during childhood. Neonatal hyperammonemia is uncommon but metabolic crisis may occur later in life [71\u201373]. 3.3.7 Mitochondrial ornithine carrier (ORNT) In humans, the transport of ornithine from the cytosol to the mitochondrial matrix across the mitochondrial membrane is carried out by the mitochondrial ornithine transporter (ORNT). ",
+    "term_A": "urea",
+    "term_B": "Mutation",
+    "llm_generation": {
+        "summary": "In this context, urea is indirectly related to mutations through the discussion of arginase-1 gene mutations that lead to argininemia, a urea cycle disorder. The deficiency in arginase-1 activity due to these mutations results in impaired urea production, causing metabolic disturbances and neurological issues in affected individuals. Thus, mutations in the arginase-1 gene have a direct impact on urea metabolism.",
+        "reason": "The score of 4 reflects a significant connection between urea and mutations, as the context discusses how mutations in the arginase-1 gene lead to a deficiency in urea cycle function, resulting in clinical manifestations. This relationship is supported by the mention of specific disorders linked to the mutations.",
+        "score": 4
+    }
+}

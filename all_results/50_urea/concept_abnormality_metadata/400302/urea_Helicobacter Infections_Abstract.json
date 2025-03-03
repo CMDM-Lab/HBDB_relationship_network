@@ -1,0 +1,10 @@
+{
+    "context": "[1] In summary, we have presented evidence that an embryonic isomerase may play an important role in steric conversions of 13-cRA and 9-cRA to t-RA, in contrast to thiol-dependent, nonenzymatic catalysis, at concentrations similar to those observed in vivo. [2] The existence of an isomerase has been demonstrated by high catalytic efficiencies, saturation kinetics, and the inactivation of catalytic activities by heat and urea. [3] Additional studies are needed to further identify the enzyme and to completely elucidate the physiological significance of a retinoid isomerase in retinoid-induced embryotoxicity.  [1] BACKGROUND: The 13C-urea breath test (13C-UBT) is a simple, non-invasive and reliable test for the diagnosis of Helicobacter pylori infection.  [2] The duration of the test, the timing of breath sampling, and the accuracy of the method vary according to the test meal used.  [3] AIM: To identify the optimal test meal or drink for rapid and accurate performance of the 13C-UBT for the detection of H pylori infection.  [4] PATIENTS: Eighty patients with dyspeptic symptoms were included. ",
+    "term_A": "urea",
+    "term_B": "Helicobacter Infections",
+    "llm_generation": {
+        "summary": "In this context, urea is related to Helicobacter infections through the 13C-urea breath test (13C-UBT), which is a non-invasive diagnostic method for detecting Helicobacter pylori infection. The test relies on the metabolism of urea by H. pylori, producing carbon dioxide that can be measured in the breath, indicating the presence of the infection. The context emphasizes the importance of urea in the diagnostic process, highlighting its role in the detection of H. pylori.",
+        "reason": "The score of 5 reflects a strong relevance, as urea is directly utilized in the 13C-urea breath test, a critical diagnostic tool for Helicobacter pylori infections. The relationship is clearly established through the context of the test's methodology and its significance in clinical diagnosis.",
+        "score": 5
+    }
+}

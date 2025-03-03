@@ -1,0 +1,10 @@
+{
+    "context": "Measurement of exhaled 8-isoprostane EBC samples were collected using a specially design glass condensing chamber as described previously. 8-Isoprostane concentrations in EBC were measured by a specific enzyme immunoassay (EIA) kit (Cayman Chemical, Ann Arbor, MI, USA). The assay has been validated to obtain a high correlation (0.95) between added known amounts of 8-isoprostane and the concentration measured by EIA. The antiserum used in this assay has a 100% cross-reactivity with 8-isoprostane and < 0.3% with prostaglandin analogues. The detection limit of the assay was 4 pg/ml. The intra-assay and interassay coefficients of variation were 5% and 6%, respectively. This kit has been used to measure 8-isoprostane concentrations in breath condensate and in BAL fluid [9\u201312]. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "cross reactivity",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha is indirectly related to cross-reactivity through the measurement of 8-isoprostane in exhaled breath condensate (EBC) using a specific enzyme immunoassay (EIA). The assay demonstrates 100% cross-reactivity with 8-isoprostane, indicating that the assay can accurately measure this compound without interference from prostaglandin analogues. This relationship highlights the specificity of the assay in detecting 8-epi-PGF2alpha and its analogues in biological samples.",
+        "reason": "The score of 4 reflects a significant connection between 8-epi-PGF2alpha and cross-reactivity, as the assay's validation shows a strong correlation and specificity in measuring 8-isoprostane, which is relevant to 8-epi-PGF2alpha. The evidence provided supports their relationship in the context of biochemical analysis.",
+        "score": 4
+    }
+}

@@ -1,0 +1,3942 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "1,1,2,2-tetrachloroethene",
+                    "label": "1,1,2,2-tetrachloroethene",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,1,2,2-tetrachloroethene",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,1,2,2-tetrachloroethene",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,1,2,2-tetrachloroethene",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,1,2,2-tetrachloroethene",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,1,2,2-tetrachloroethene",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,1,2,2-tetrachloroethene",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,1,2,2-tetrachloroethene",
+                        "label": "1,1,2,2-tetrachloroethene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sweet's Syndrome",
+                        "label": "Sweet's Syndrome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Endemic Flea-Borne Typhus",
+                        "label": "Endemic Flea-Borne Typhus",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Sweet's Syndrome",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Endemic Flea-Borne Typhus",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,1,2,2-tetrachloroethene",
+                        "label": "1,1,2,2-tetrachloroethene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tetrachlorides",
+                        "label": "Tetrachlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metals",
+                        "label": "Metals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "bromochloromethane",
+                        "label": "bromochloromethane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Dichloropropane",
+                        "label": "Dichloropropane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Heptanes",
+                        "label": "Heptanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Butadiene",
+                        "label": "Butadiene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cyclohexane",
+                        "label": "Cyclohexane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "undecane",
+                        "label": "undecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Bromobenzenes",
+                        "label": "Bromobenzenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "bromoform",
+                        "label": "bromoform",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "perfluorotributylamine",
+                        "label": "perfluorotributylamine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aliphatic hydrocarbon",
+                        "label": "Aliphatic hydrocarbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrogen, Homeopathic preparation",
+                        "label": "Hydrogen, Homeopathic preparation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "trichlorobenzene",
+                        "label": "trichlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Water Specimen",
+                        "label": "Water Specimen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Halogens",
+                        "label": "Halogens",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "dichlorobis(ethylenediamine)rhodium(III)",
+                        "label": "dichlorobis(ethylenediamine)rhodium(III)",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "chlorobenzene",
+                        "label": "chlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-naphthylethyl methacrylate",
+                        "label": "2-naphthylethyl methacrylate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "tetrachloroethane",
+                        "label": "tetrachloroethane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ethylenes",
+                        "label": "Ethylenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "chlorodibromomethane",
+                        "label": "chlorodibromomethane",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Tetrachlorides",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Metals",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "3-xylene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "bromochloromethane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Dichloropropane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Toluene",
+                        "score": 20
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Heptanes",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Butadiene",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Cyclohexane",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "undecane",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Bromobenzenes",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "bromoform",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Chemicals",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "perfluorotributylamine",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Aliphatic hydrocarbon",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "decane",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Hydrogen, Homeopathic preparation",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "octane",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "trichlorobenzene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Organic Chemicals",
+                        "score": 14
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Water Specimen",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Halogens",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "dichlorobis(ethylenediamine)rhodium(III)",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "chlorobenzene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "2-naphthylethyl methacrylate",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "tetrachloroethane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Ethylenes",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "4-xylene",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "chlorodibromomethane",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,1,2,2-tetrachloroethene",
+                        "label": "1,1,2,2-tetrachloroethene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Stimulus",
+                        "label": "Stimulus",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toxicokinetics",
+                        "label": "Toxicokinetics",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adverse effects",
+                        "label": "Adverse effects",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Evolution",
+                        "label": "Evolution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Membrane Potentials",
+                        "label": "Membrane Potentials",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Obstruction",
+                        "label": "Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Receptor Inhibition",
+                        "label": "Receptor Inhibition",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "depolarization",
+                        "label": "depolarization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Stimulus",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Drug Interactions",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Adjudication",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Toxicokinetics",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Exhalation",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Adverse effects",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Evolution",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Membrane Potentials",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "inhibitors",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Inspiration function",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Analyte",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Obstruction",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Receptor Inhibition",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "depolarization",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "Process",
+                        "score": 6
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,1,2,2-tetrachloroethene",
+                        "label": "1,1,2,2-tetrachloroethene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ANP32B gene",
+                        "label": "ANP32B gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,1,2,2-tetrachloroethene",
+                        "target": "ANP32B gene",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,1,2,2-tetrachloroethene",
+                        "label": "1,1,2,2-tetrachloroethene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,1,2,2-tetrachloroethene",
+                        "label": "1,1,2,2-tetrachloroethene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Sweet's Syndrome": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sweet's Syndrome",
+                        "label": "Sweet's Syndrome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379",
+                        "label": "Graphene packed needle trap device as a novel field sampler for determination of perchloroethylene in the air of dry cleaning establishments.\nM. Heidari, A. Bahrami, AR. Ghiasvand, MR. Emam, FG. Shahna, AR. Soltanian\nTalanta 2015 Jan;131:142-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25281085"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379_1,1,2,2-tetrachloroethene_Sweet's Syndrome_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a chlorinated solvent, specifically in relation to its use in dry cleaning. However, there is no direct connection or discussion regarding Sweet's Syndrome, which is a rare skin condition characterized by fever and painful skin lesions. The context does not provide any evidence or indication that 1,1,2,2-tetrachloroethene is related to or impacts Sweet's Syndrome in any way.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sweet's Syndrome",
+                        "target": "343379",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343379",
+                        "target": "343379_1,1,2,2-tetrachloroethene_Sweet's Syndrome_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Endemic Flea-Borne Typhus": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Endemic Flea-Borne Typhus",
+                        "label": "Endemic Flea-Borne Typhus",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197",
+                        "label": "Application of solid-phase microextraction and gas chromatography-mass spectrometry to the determination of volatile organic compounds in end-exhaled breath samples.\nC. Prado, P. Marín, JF. Periago\nJ Chromatogr A 2003 Sep;1011(1-2):125-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14518769"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned in relation to a method for measuring its presence in exhaled breath samples of an occupationally exposed individual. However, there is no discussion or evidence linking 1,1,2,2-tetrachloroethene to Endemic Flea-Borne Typhus. The two terms appear in separate contexts without any direct or indirect relationship established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is discussed primarily as a model compound for studying environmental contaminants and their metabolic processes in humans. However, there is no mention or connection to Endemic Flea-Borne Typhus, which is a disease caused by Rickettsia typhi and transmitted by fleas. The two terms appear in the same context but lack any direct or indirect relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379",
+                        "label": "Graphene packed needle trap device as a novel field sampler for determination of perchloroethylene in the air of dry cleaning establishments.\nM. Heidari, A. Bahrami, AR. Ghiasvand, MR. Emam, FG. Shahna, AR. Soltanian\nTalanta 2015 Jan;131:142-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25281085"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PCE) is discussed primarily in relation to its monitoring in a dry-cleaning environment as a volatile organic compound (VOC). There is no mention or implication of a relationship between PCE and Endemic Flea-Borne Typhus, which is a disease caused by Rickettsia typhi and transmitted by fleas. The two terms appear in separate contexts without any direct or indirect connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Experimental.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PCE) is mentioned in relation to air sampling techniques used to assess exposure levels in a dry-cleaning environment. However, there is no discussion or evidence linking PCE to Endemic Flea-Borne Typhus, which is a disease caused by Rickettsia typhi and transmitted by fleas. The two terms appear in separate contexts without any direct or indirect relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342755",
+                        "label": "Green determination of the presence of volatile organic compounds in vehicle repair shops through passive sampling.\nD. Sanjuán-Herráez, I. Lliso, A. Pastor, M. de la Guardia\nTalanta 2012 Aug;98:40-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22939126"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342755_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a volatile organic compound (VOC) found in a car repair shop, where it is used for cleaning motor engines. However, there is no discussion or evidence linking this compound to Endemic Flea-Borne Typhus, a disease transmitted by fleas. The two terms appear in separate contexts without any direct or indirect relationship established between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Endemic Flea-Borne Typhus",
+                        "target": "343197",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343197",
+                        "target": "343197_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Results and discussi.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343197",
+                        "target": "343197_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Introduction.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Endemic Flea-Borne Typhus",
+                        "target": "343379",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343379",
+                        "target": "343379_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Results and discussi.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343379",
+                        "target": "343379_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Experimental.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Endemic Flea-Borne Typhus",
+                        "target": "342755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342755",
+                        "target": "342755_1,1,2,2-tetrachloroethene_Endemic Flea-Borne Typhus_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Tetrachlorides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Tetrachlorides",
+                        "label": "Tetrachlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Tetrachlorides_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as part of a mixture that includes various chlorinated compounds, specifically within the EPA Mix 1B solution. Tetrachlorides, which include compounds like tetrachloroethylene and carbon tetrachloride, are part of a broader category of chlorinated solvents. While both terms are related through their classification as chlorinated compounds, the context does not provide a detailed discussion of their specific interactions or significance beyond their inclusion in the mixtures.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Tetrachlorides",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Tetrachlorides_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Metals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metals",
+                        "label": "Metals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987",
+                        "label": "Characterization of the effects of inhaled perchloroethylene on sustained attention in rats performing a visual signal detection task.\nWM. Oshiro, QT. Krantz, PJ. Bushnell\nNeurotoxicol Teratol 2008 May-Jun;30(3):167-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18299185"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987_1,1,2,2-tetrachloroethene_Metals_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned among various volatile organic compounds (VOCs) found in groundwater, particularly in areas influenced by industrial and agricultural activities. However, there is no direct discussion of its relationship with metals. While metals may be present in contaminated sites, the context does not establish a clear connection between 1,1,2,2-tetrachloroethene and metals, focusing instead on the neurotoxic effects of VOCs like perchloroethylene.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Metals_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is discussed in relation to its degradation products, particularly trichloroethylene, which is used for metal cleaning. The presence of tetrachloroethene and its breakdown products highlights their relevance in the context of metal cleaning processes. However, the relationship is primarily focused on the emissions and degradation rather than a direct interaction with metals themselves.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197",
+                        "label": "Application of solid-phase microextraction and gas chromatography-mass spectrometry to the determination of volatile organic compounds in end-exhaled breath samples.\nC. Prado, P. Marín, JF. Periago\nJ Chromatogr A 2003 Sep;1011(1-2):125-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14518769"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197_1,1,2,2-tetrachloroethene_Metals_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is discussed as a solvent used in metal cleaning operations, indicating a potential relationship with metals. However, the focus is primarily on the analysis and biological monitoring of tetrachloroethene rather than a direct interaction with metals. The mention of metals is incidental to the discussion of tetrachloroethene's applications and metabolism.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107",
+                        "label": "Volatile organic compounds inhibit human and rat neuronal nicotinic acetylcholine receptors expressed in Xenopus oocytes.\nAS. Bale, CA. Meacham, VA. Benignus, PJ. Bushnell, TJ. Shafer\nToxicol. Appl. Pharmacol. 2005 May;205(1):77-88.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15885267"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107_1,1,2,2-tetrachloroethene_Metals_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) is mentioned as a volatile organic compound (VOC) used in industrial applications, particularly in dry cleaning and metal degreasing. However, there is no direct discussion of its relationship with metals. While metals may be involved in processes where PERC is used, the context does not provide specific interactions or implications regarding their relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metals",
+                        "target": "342987",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342987",
+                        "target": "342987_1,1,2,2-tetrachloroethene_Metals_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metals",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Metals_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metals",
+                        "target": "343197",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343197",
+                        "target": "343197_1,1,2,2-tetrachloroethene_Metals_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metals",
+                        "target": "343107",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343107",
+                        "target": "343107_1,1,2,2-tetrachloroethene_Metals_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "3-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_3-xylene_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and 3-xylene are both mentioned as volatile organic compounds (VOCs) detected in high concentrations during the emission monitoring of waste tipping activities. However, there is no direct discussion of their specific interactions or relationships beyond their presence in the same environmental study, indicating they are part of a broader category of VOCs commonly found in similar settings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_3-xylene_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "bromochloromethane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "bromochloromethane",
+                        "label": "bromochloromethane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471",
+                        "label": "Volatile organic compounds in the surface waters of northern Greece.\nMN. Kostopoulou, SK. Golfinopoulos, AD. Nikolaou, NK. Xilourgidis, TD. Lekkas\nChemosphere 2000 Mar;40(5):527-32.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10665390"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471_1,1,2,2-tetrachloroethene_bromochloromethane_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and bromochloromethane are both mentioned as volatile organic compounds (VOCs) analyzed in water samples using purge-and-trap gas chromatography. However, there is no direct discussion of their chemical interactions, toxicological effects, or any specific relationship beyond their inclusion in the same analytical procedure for VOC detection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "bromochloromethane",
+                        "target": "343471",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343471",
+                        "target": "343471_1,1,2,2-tetrachloroethene_bromochloromethane_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Dichloropropane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Dichloropropane",
+                        "label": "Dichloropropane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Dichloropropane_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and dichloropropane are both mentioned as components of different EPA Mix solutions used for calibration in a study involving various organic compounds. However, there is no direct discussion of their chemical interactions, toxicological properties, or any specific relevance to each other beyond their inclusion in the mixtures. They are simply part of a broader list of compounds analyzed in the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244",
+                        "label": "How to estimate moments and quantiles of environmental data sets with non-detected observations? A case study on volatile organic compounds in marine water samples.\nT. Huybrechts, O. Thas, J. Dewulf, H. Van Langenhov\nJ Chromatogr A 2002 Oct;975(1):123-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12458753"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244_1,1,2,2-tetrachloroethene_Dichloropropane_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and dichloropropane are both mentioned as part of a broader study analyzing concentrations of various volatile organic compounds (VOCs) in surface waters. However, there is no direct discussion of their relationship, interactions, or specific relevance to each other beyond their inclusion in the list of analytes monitored during the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dichloropropane",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Dichloropropane_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dichloropropane",
+                        "target": "343244",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343244",
+                        "target": "343244_1,1,2,2-tetrachloroethene_Dichloropropane_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Toluene_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and toluene are both mentioned as volatile organic compounds (VOCs) investigated in the study of emissions from an open cell landfill. However, there is no direct discussion of their relationship, interactions, or comparative significance in the analysis. They are simply part of a broader list of VOCs measured in the air samples.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Toluene_Conclusion.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and toluene are both identified as volatile organic compounds (VOCs) measured in the air near a compaction vehicle. The study highlights their concentrations, indicating that both chemicals are present in the same environment and subject to similar factors affecting their release and dispersion. However, there is no detailed discussion of their specific interactions or health implications related to each other.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Toluene_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and toluene are both mentioned as volatile organic compounds (VOCs) with specific concentration measurements in a waste management setting. However, the text does not provide any direct interaction or relationship between the two compounds, merely listing their concentrations in the biogas without discussing their potential effects or interactions in the environment or on human health.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107",
+                        "label": "Volatile organic compounds inhibit human and rat neuronal nicotinic acetylcholine receptors expressed in Xenopus oocytes.\nAS. Bale, CA. Meacham, VA. Benignus, PJ. Bushnell, TJ. Shafer\nToxicol. Appl. Pharmacol. 2005 May;205(1):77-88.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15885267"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107_1,1,2,2-tetrachloroethene_Toluene_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) and toluene (TOL) are both identified as volatile organic compounds (VOCs) that inhibit voltage-sensitive calcium channels (VSCC) in a manner similar to volatile anesthetics. The study suggests that their effects on VSCC may contribute to the neurotoxicity associated with VOC exposure, highlighting their relevance in understanding the risks of solvent exposure and its impact on the central nervous system (CNS).",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088",
+                        "label": "Perturbation of voltage-sensitive Ca2+ channel function by volatile organic solvents.\nTJ. Shafer, PJ. Bushnell, VA. Benignus, JJ. Woodward\nJ. Pharmacol. Exp. Ther. 2005 Dec;315(3):1109-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16109744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088_1,1,2,2-tetrachloroethene_Toluene_Materials and Method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) and toluene (TOL) are both volatile organic compounds (VOCs) examined for their effects on voltage-sensitive calcium channels (VSCC) in NGF-differentiated PC12 cells. The study investigates the interactions of these VOCs with VSCC function, including their inhibitory effects on calcium currents. While both compounds are part of the same experimental setup, the specific relationship between them is not deeply explored beyond their shared role in affecting cellular function.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088_1,1,2,2-tetrachloroethene_Toluene_Abstract.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) and toluene (TOL) are both classified as volatile organic compounds (VOCs) that exhibit neurotoxic effects when exposed to sufficient concentrations. The study highlights how these VOCs can disrupt voltage-sensitive calcium channel function in neurons, contributing to acute neurotoxicity. However, while they are mentioned together in the context of their effects on the central nervous system, the specific relationship between PERC and TOL is not deeply explored beyond their shared classification and neurotoxic potential.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244",
+                        "label": "How to estimate moments and quantiles of environmental data sets with non-detected observations? A case study on volatile organic compounds in marine water samples.\nT. Huybrechts, O. Thas, J. Dewulf, H. Van Langenhov\nJ Chromatogr A 2002 Oct;975(1):123-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12458753"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244_1,1,2,2-tetrachloroethene_Toluene_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and toluene are both mentioned as part of a broader study analyzing the concentration levels of various volatile organic compounds (VOCs) in surface waters. However, there is no specific discussion of their interactions, chemical relationships, or shared significance beyond their inclusion in the list of analytes. They are simply part of a monitoring study without any direct relevance to each other.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342755",
+                        "label": "Green determination of the presence of volatile organic compounds in vehicle repair shops through passive sampling.\nD. Sanjuán-Herráez, I. Lliso, A. Pastor, M. de la Guardia\nTalanta 2012 Aug;98:40-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22939126"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342755_1,1,2,2-tetrachloroethene_Toluene_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and toluene are both mentioned as volatile organic compounds (VOCs) evaluated for their presence in air samples from vehicle repair shops. The method quantitation limits (MQL) for both compounds are provided, indicating their detection thresholds in the studied environment. However, there is no direct discussion of their interactions or specific relevance to each other beyond their classification as VOCs and their quantification in the same study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343280",
+                        "label": "Exchange of organic solvents between the atmosphere and grass--the use of open top chambers.\nJ. Binnie, JN. Cape, N. Mackie, ID. Leith\nSci. Total Environ. 2002 Feb;285(1-3):53-67.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11874048"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343280_1,1,2,2-tetrachloroethene_Toluene_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and toluene are both mentioned as volatile organic compounds (VOCs) with seasonal concentration variations. The data indicates that their concentrations are correlated at certain sites, suggesting they may share similar sources or be influenced by meteorological conditions. However, the context does not provide specific details on their direct interactions or functional relationships beyond their co-occurrence and correlation in atmospheric measurements.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Toluene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Toluene_Conclusion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Toluene_Results and discussi.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "343107",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343107",
+                        "target": "343107_1,1,2,2-tetrachloroethene_Toluene_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "343088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343088",
+                        "target": "343088_1,1,2,2-tetrachloroethene_Toluene_Materials and Method.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343088",
+                        "target": "343088_1,1,2,2-tetrachloroethene_Toluene_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "343244",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343244",
+                        "target": "343244_1,1,2,2-tetrachloroethene_Toluene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "342755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342755",
+                        "target": "342755_1,1,2,2-tetrachloroethene_Toluene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "343280",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343280",
+                        "target": "343280_1,1,2,2-tetrachloroethene_Toluene_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Heptanes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heptanes",
+                        "label": "Heptanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Heptanes_Conclusion.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and heptanes are both mentioned as volatile organic compounds (VOCs) with high concentrations measured near a compaction vehicle. The study highlights the environmental impact of these VOCs, noting that their concentrations can vary significantly due to temperature and wind conditions. However, there is no direct discussion of their specific interactions or health implications in relation to each other.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Heptanes_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and heptanes are both mentioned as volatile organic compounds (VOCs) analyzed in the study of emissions from a landfill site. However, there is no direct discussion of their relationship or interaction. They are part of a broader investigation into VOCs present in the air surrounding the landfill, but no specific connection between the two compounds is established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Heptanes_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and heptanes are both mentioned as volatile organic compounds (VOCs) detected at high concentrations in the vicinity of waste tipping operations. They are part of a broader list of VOCs that are commonly used as solvents and are released during waste management activities. However, there is no specific discussion of their interactions or functional relationships beyond their presence in the same environmental study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Heptanes",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Heptanes_Conclusion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Heptanes_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Heptanes_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Butadiene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butadiene",
+                        "label": "Butadiene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244",
+                        "label": "How to estimate moments and quantiles of environmental data sets with non-detected observations? A case study on volatile organic compounds in marine water samples.\nT. Huybrechts, O. Thas, J. Dewulf, H. Van Langenhov\nJ Chromatogr A 2002 Oct;975(1):123-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12458753"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244_1,1,2,2-tetrachloroethene_Butadiene_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and butadiene are both mentioned as part of a broader study analyzing concentrations of various volatile organic compounds (VOCs) in marine and estuarine waters. However, there is no direct discussion of their relationship, interactions, or specific relevance to each other within the monitoring study. They are simply listed among other VOCs without any indication of shared properties or effects.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Butadiene",
+                        "target": "343244",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343244",
+                        "target": "343244_1,1,2,2-tetrachloroethene_Butadiene_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Cyclohexane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cyclohexane",
+                        "label": "Cyclohexane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244",
+                        "label": "How to estimate moments and quantiles of environmental data sets with non-detected observations? A case study on volatile organic compounds in marine water samples.\nT. Huybrechts, O. Thas, J. Dewulf, H. Van Langenhov\nJ Chromatogr A 2002 Oct;975(1):123-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12458753"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244_1,1,2,2-tetrachloroethene_Cyclohexane_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and cyclohexane are both mentioned as part of a broader study analyzing concentrations of various volatile organic compounds (VOCs) in surface waters. However, there is no specific discussion of their relationship, interactions, or comparative significance within the study, indicating they are simply part of a list of analytes monitored over time.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cyclohexane",
+                        "target": "343244",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343244",
+                        "target": "343244_1,1,2,2-tetrachloroethene_Cyclohexane_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "undecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "undecane",
+                        "label": "undecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_undecane_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and undecane are both mentioned as volatile organic compounds (VOCs) analyzed in the study of emissions from a landfill site. However, there is no direct discussion of their relationship, interactions, or comparative significance in the context of the study. They are simply part of a broader list of compounds investigated for their presence in the air samples collected.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "undecane",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_undecane_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Bromobenzenes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Bromobenzenes",
+                        "label": "Bromobenzenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Bromobenzenes_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and bromobenzenes are both mentioned as components of different EPA Mix solutions used for calibration in a study. However, there is no direct interaction or relationship discussed between these two compounds. They are simply part of a broader list of chemicals analyzed, with no specific relevance to each other beyond their inclusion in the mixtures.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Bromobenzenes",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Bromobenzenes_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "bromoform": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "bromoform",
+                        "label": "bromoform",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471",
+                        "label": "Volatile organic compounds in the surface waters of northern Greece.\nMN. Kostopoulou, SK. Golfinopoulos, AD. Nikolaou, NK. Xilourgidis, TD. Lekkas\nChemosphere 2000 Mar;40(5):527-32.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10665390"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471_1,1,2,2-tetrachloroethene_bromoform_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and bromoform are both mentioned as volatile organic compounds (VOCs) analyzed in water samples using purge-and-trap gas chromatography. However, there is no discussion of their specific interactions, chemical relationships, or shared significance beyond their inclusion in the list of studied VOCs. They are treated as separate entities in the analytical procedure without any direct relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "bromoform",
+                        "target": "343471",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343471",
+                        "target": "343471_1,1,2,2-tetrachloroethene_bromoform_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987",
+                        "label": "Characterization of the effects of inhaled perchloroethylene on sustained attention in rats performing a visual signal detection task.\nWM. Oshiro, QT. Krantz, PJ. Bushnell\nNeurotoxicol Teratol 2008 May-Jun;30(3):167-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18299185"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987_1,1,2,2-tetrachloroethene_Chemicals_Methods.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is indirectly related to the broader category of chemicals, as it is a specific type of chemical compound mentioned alongside perchloroethylene (PCE) in the study of vapor exposure in operant-inhalation chambers. However, there is no detailed discussion of its specific properties or interactions with other chemicals, limiting the depth of the relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197",
+                        "label": "Application of solid-phase microextraction and gas chromatography-mass spectrometry to the determination of volatile organic compounds in end-exhaled breath samples.\nC. Prado, P. Marín, JF. Periago\nJ Chromatogr A 2003 Sep;1011(1-2):125-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14518769"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197_1,1,2,2-tetrachloroethene_Chemicals_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is discussed as a specific chemical that can be monitored in exhaled air to assess exposure levels. The text emphasizes the analytical methods developed for detecting this chemical, which is part of a broader category of chemicals that may pose health risks. However, the relationship is primarily focused on the detection and monitoring of this specific chemical rather than a detailed interaction with other chemicals.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "342987",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342987",
+                        "target": "342987_1,1,2,2-tetrachloroethene_Chemicals_Methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "343197",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343197",
+                        "target": "343197_1,1,2,2-tetrachloroethene_Chemicals_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "perfluorotributylamine": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "perfluorotributylamine",
+                        "label": "perfluorotributylamine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197",
+                        "label": "Application of solid-phase microextraction and gas chromatography-mass spectrometry to the determination of volatile organic compounds in end-exhaled breath samples.\nC. Prado, P. Marín, JF. Periago\nJ Chromatogr A 2003 Sep;1011(1-2):125-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14518769"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197_1,1,2,2-tetrachloroethene_perfluorotributylamine_Experimental.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and perfluorotributylamine are both mentioned in relation to mass spectrometry analysis. Perfluorotributylamine (PFTBA) is used as a standard for autotuning the mass spectrometer, while 1,1,2,2-tetrachloroethene is analyzed for its retention time. However, there is no direct interaction or functional relationship discussed between the two compounds beyond their roles in the analytical process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "perfluorotributylamine",
+                        "target": "343197",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343197",
+                        "target": "343197_1,1,2,2-tetrachloroethene_perfluorotributylamine_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aliphatic hydrocarbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aliphatic hydrocarbon",
+                        "label": "Aliphatic hydrocarbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987",
+                        "label": "Characterization of the effects of inhaled perchloroethylene on sustained attention in rats performing a visual signal detection task.\nWM. Oshiro, QT. Krantz, PJ. Bushnell\nNeurotoxicol Teratol 2008 May-Jun;30(3):167-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18299185"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987_1,1,2,2-tetrachloroethene_Aliphatic hydrocarbon_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a volatile organic compound (VOC) alongside other chlorinated hydrocarbons. While it is categorized under halogenated hydrocarbons, the term 'aliphatic hydrocarbon' generally refers to a broader class of hydrocarbons that do not contain halogens. The relationship is weak as the context does not provide specific interactions or relevance between 1,1,2,2-tetrachloroethene and aliphatic hydrocarbons, focusing instead on the environmental impact of VOCs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aliphatic hydrocarbon",
+                        "target": "342987",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342987",
+                        "target": "342987_1,1,2,2-tetrachloroethene_Aliphatic hydrocarbon_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "decane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_decane_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and decane are both identified as volatile organic compounds (VOCs) present in high concentrations due to their common use as solvents and in cleaning products. However, the context does not provide any specific interaction or relationship between the two compounds beyond their co-occurrence in the emissions from waste tipping activities. They are part of a broader discussion on VOC emissions but lack a direct connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_decane_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and decane are both mentioned as volatile organic compounds (VOCs) analyzed in the study of emissions from a landfill site. However, there is no direct discussion of their relationship or interaction. They are part of a broader list of compounds investigated for their presence in the air samples, indicating they are both relevant to the study but without any specific connection or comparative analysis provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_decane_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_decane_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hydrogen, Homeopathic preparation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrogen, Homeopathic preparation",
+                        "label": "Hydrogen, Homeopathic preparation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Hydrogen, Homeopathic preparation_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is discussed in relation to its degradation process, which involves anaerobic hydrogen–halogen substitution leading to the formation of other chlorinated compounds. However, there is no mention of hydrogen as a relevant factor in this degradation or any connection to homeopathic preparations. The terms appear without a direct relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrogen, Homeopathic preparation",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Hydrogen, Homeopathic preparation_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "octane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_octane_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and octane are both mentioned as volatile organic compounds (VOCs) analyzed in the study of emissions from a landfill site. However, there is no direct discussion of their relationship, interactions, or comparative significance in the context of the study. They are simply part of a broader list of compounds investigated for their presence in the air samples collected from the landfill.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_octane_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "trichlorobenzene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "trichlorobenzene",
+                        "label": "trichlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244",
+                        "label": "How to estimate moments and quantiles of environmental data sets with non-detected observations? A case study on volatile organic compounds in marine water samples.\nT. Huybrechts, O. Thas, J. Dewulf, H. Van Langenhov\nJ Chromatogr A 2002 Oct;975(1):123-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12458753"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244_1,1,2,2-tetrachloroethene_trichlorobenzene_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and trichlorobenzene are both mentioned as part of a broader study analyzing concentrations of various volatile organic compounds (VOCs) in surface waters. However, there is no direct discussion of their relationship, interactions, or specific relevance to each other within the monitoring study. They are simply listed among other analytes of interest without further elaboration on their chemical or biological significance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471",
+                        "label": "Volatile organic compounds in the surface waters of northern Greece.\nMN. Kostopoulou, SK. Golfinopoulos, AD. Nikolaou, NK. Xilourgidis, TD. Lekkas\nChemosphere 2000 Mar;40(5):527-32.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10665390"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471_1,1,2,2-tetrachloroethene_trichlorobenzene_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and trichlorobenzene are both mentioned as volatile organic compounds (VOCs) analyzed in water samples using gas chromatography. However, there is no direct discussion of their relationship, interactions, or comparative significance in the study. They are simply part of a broader list of VOCs being investigated for environmental monitoring.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "trichlorobenzene",
+                        "target": "343244",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343244",
+                        "target": "343244_1,1,2,2-tetrachloroethene_trichlorobenzene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "trichlorobenzene",
+                        "target": "343471",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343471",
+                        "target": "343471_1,1,2,2-tetrachloroethene_trichlorobenzene_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Organic Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107",
+                        "label": "Volatile organic compounds inhibit human and rat neuronal nicotinic acetylcholine receptors expressed in Xenopus oocytes.\nAS. Bale, CA. Meacham, VA. Benignus, PJ. Bushnell, TJ. Shafer\nToxicol. Appl. Pharmacol. 2005 May;205(1):77-88.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15885267"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107_1,1,2,2-tetrachloroethene_Organic Chemicals_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) is identified as a volatile organic compound (VOC) that falls under the broader category of organic chemicals. The discussion focuses on the neurotoxic effects of various VOCs, including PERC, and their implications for human health, particularly regarding exposure risks. While PERC is mentioned as an organic chemical, the relationship is primarily categorical rather than specific, as the context does not delve into unique interactions or properties of PERC compared to other organic chemicals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342756",
+                        "label": "A two and half-year-performance evaluation of a field test on treatment of source zone tetrachloroethene and its chlorinated daughter products using emulsified zero valent iron nanoparticles.\nC. Su, RW. Puls, TA. Krug, MT. Watling, SK. O'Hara, JW. Quinn, NE. Ruiz\nWater Res. 2012 Oct;46(16):5071-84.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22868086"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342756_1,1,2,2-tetrachloroethene_Organic Chemicals_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (a chlorinated volatile organic compound) is mentioned as part of a discussion on the remediation of groundwater contaminated with chlorinated volatile organic compounds (CVOCs). The text highlights the use of nanoscale zero valent iron (NZVI) for the treatment of such organic chemicals, indicating a direct relationship between 1,1,2,2-tetrachloroethene and the broader category of organic chemicals, particularly in the context of environmental remediation efforts.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088",
+                        "label": "Perturbation of voltage-sensitive Ca2+ channel function by volatile organic solvents.\nTJ. Shafer, PJ. Bushnell, VA. Benignus, JJ. Woodward\nJ. Pharmacol. Exp. Ther. 2005 Dec;315(3):1109-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16109744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088_1,1,2,2-tetrachloroethene_Organic Chemicals_Abstract.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) is identified as a volatile organic compound (VOC) that falls under the broader category of organic chemicals. The text discusses the neurotoxic effects of various VOCs, including PERC, highlighting their common usage in industrial applications. However, the specific relationship between PERC and the general category of organic chemicals is not elaborated upon beyond its classification as a VOC.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342902",
+                        "label": "Simultaneous counter-flow of chlorinated volatile organic compounds across the saturated-unsaturated interface region of an aquifer.\nD. Ronen, H. Lev-Wiener, ER. Graber, O. Dahan, N. Weisbrod\nWater Res. 2010 Apr;44(7):2107-12.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20044117"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342902_1,1,2,2-tetrachloroethene_Organic Chemicals_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PCE) is identified as a chlorinated volatile organic compound (Cl-VOC) that contributes to widespread pollution problems in aquifers. The discussion highlights the degradation of PCE and its correlation with other degradation products, emphasizing its role as an organic chemical that poses environmental contamination risks. The relationship is framed within the broader category of organic chemicals, particularly those that are volatile and chlorinated, which are known to contaminate water sources.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343073",
+                        "label": "Bio-effect monitoring using a [(15)N]methacetin test as diagnostic tool to monitor remediation effects in an industrially polluted region.\nUE. Rolle-Kampczyk, M. Rehwagen, U. Franck, H. Weiss, P. Krumbiegel, O. Herbarth\nToxicol. Lett. 2006 Apr;162(2-3):234-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16242870"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343073_1,1,2,2-tetrachloroethene_Organic Chemicals_Methods.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as one of the chloro-organic compounds being monitored for exposure, alongside other volatile organic compounds (VOCs). The study focuses on the measurement of these organic chemicals, particularly their potential toxicity to the liver. However, the specific relationship between 1,1,2,2-tetrachloroethene and the broader category of organic chemicals is not elaborated upon beyond its classification as a VOC.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "343107",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343107",
+                        "target": "343107_1,1,2,2-tetrachloroethene_Organic Chemicals_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "342756",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342756",
+                        "target": "342756_1,1,2,2-tetrachloroethene_Organic Chemicals_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "343088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343088",
+                        "target": "343088_1,1,2,2-tetrachloroethene_Organic Chemicals_Abstract.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "342902",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342902",
+                        "target": "342902_1,1,2,2-tetrachloroethene_Organic Chemicals_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "343073",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343073",
+                        "target": "343073_1,1,2,2-tetrachloroethene_Organic Chemicals_Methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Water Specimen": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Water Specimen",
+                        "label": "Water Specimen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471",
+                        "label": "Volatile organic compounds in the surface waters of northern Greece.\nMN. Kostopoulou, SK. Golfinopoulos, AD. Nikolaou, NK. Xilourgidis, TD. Lekkas\nChemosphere 2000 Mar;40(5):527-32.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10665390"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471_1,1,2,2-tetrachloroethene_Water Specimen_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as one of the volatile organic compounds (VOCs) detected in water samples from various rivers and lakes. The analysis indicates that this compound, along with others, was found in the water specimens, suggesting potential contamination of aquatic environments. However, there is no detailed discussion of the specific effects or interactions of 1,1,2,2-tetrachloroethene with the water specimens beyond its presence as a detected contaminant.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Water Specimen",
+                        "target": "343471",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343471",
+                        "target": "343471_1,1,2,2-tetrachloroethene_Water Specimen_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Halogens": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Halogens",
+                        "label": "Halogens",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Halogens_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a compound that can degrade into trichloroethylene through biochemical processes involving halogens. The relationship highlights the role of halogens in the degradation pathways of chlorinated solvents, indicating that halogens are integral to the chemical behavior and transformation of tetrachloroethene. However, the discussion does not delve deeply into the specific interactions or mechanisms involving halogens beyond their role in the degradation process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Halogens",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Halogens_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "dichlorobis(ethylenediamine)rhodium(III)": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "dichlorobis(ethylenediamine)rhodium(III)",
+                        "label": "dichlorobis(ethylenediamine)rhodium(III)",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342902",
+                        "label": "Simultaneous counter-flow of chlorinated volatile organic compounds across the saturated-unsaturated interface region of an aquifer.\nD. Ronen, H. Lev-Wiener, ER. Graber, O. Dahan, N. Weisbrod\nWater Res. 2010 Apr;44(7):2107-12.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20044117"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342902_1,1,2,2-tetrachloroethene_dichlorobis(ethylenediamine)rhodium(III)_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and dichlorobis(ethylenediamine)rhodium(III) are not directly related. The discussion focuses on the transport and dynamics of various chlorinated volatile organic compounds (Cl-VOCs) in an aquifer, with no mention of dichlorobis(ethylenediamine)rhodium(III) or its interactions with 1,1,2,2-tetrachloroethene. The context primarily addresses the behavior of Cl-VOCs in the subsurface environment, lacking any specific connection to the rhodium complex.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "dichlorobis(ethylenediamine)rhodium(III)",
+                        "target": "342902",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342902",
+                        "target": "342902_1,1,2,2-tetrachloroethene_dichlorobis(ethylenediamine)rhodium(III)_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "chlorobenzene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chlorobenzene",
+                        "label": "chlorobenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_chlorobenzene_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and chlorobenzene are both mentioned as components of different EPA Mix solutions used for calibration in a study involving various organic compounds. However, there is no direct interaction or relationship discussed between these two compounds beyond their inclusion in separate mixtures for analytical purposes. Their mention is coincidental, with no evidence of shared function or significance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244",
+                        "label": "How to estimate moments and quantiles of environmental data sets with non-detected observations? A case study on volatile organic compounds in marine water samples.\nT. Huybrechts, O. Thas, J. Dewulf, H. Van Langenhov\nJ Chromatogr A 2002 Oct;975(1):123-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12458753"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244_1,1,2,2-tetrachloroethene_chlorobenzene_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and chlorobenzene are both mentioned as part of a broader study analyzing concentrations of various volatile organic compounds (VOCs) in surface waters. However, there is no specific discussion of their relationship, interactions, or comparative significance within the study, indicating they are simply part of a list of analytes monitored over time.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chlorobenzene",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_chlorobenzene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chlorobenzene",
+                        "target": "343244",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343244",
+                        "target": "343244_1,1,2,2-tetrachloroethene_chlorobenzene_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "2-naphthylethyl methacrylate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-naphthylethyl methacrylate",
+                        "label": "2-naphthylethyl methacrylate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088",
+                        "label": "Perturbation of voltage-sensitive Ca2+ channel function by volatile organic solvents.\nTJ. Shafer, PJ. Bushnell, VA. Benignus, JJ. Woodward\nJ. Pharmacol. Exp. Ther. 2005 Dec;315(3):1109-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16109744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088_1,1,2,2-tetrachloroethene_2-naphthylethyl methacrylate_Abstract.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and 2-naphthylethyl methacrylate are both mentioned as volatile organic compounds (VOCs) that can affect neuronal function. However, there is no direct discussion of their specific interactions or relationships. The focus is primarily on the neurotoxic effects of VOCs in general, without detailing how these two compounds relate to each other in terms of mechanism or impact.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088_1,1,2,2-tetrachloroethene_2-naphthylethyl methacrylate_Materials and Method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (TCE) is mentioned alongside other volatile organic compounds (VOCs) like toluene and perchloroethylene (PERC) in relation to their effects on voltage-sensitive calcium channels (VSCC) in PC12 cells. However, 2-naphthylethyl methacrylate is not discussed or linked to TCE or the study's focus on VOC interactions with VSCC function. Therefore, there is no direct relationship established between these two compounds in the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-naphthylethyl methacrylate",
+                        "target": "343088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343088",
+                        "target": "343088_1,1,2,2-tetrachloroethene_2-naphthylethyl methacrylate_Abstract.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343088",
+                        "target": "343088_1,1,2,2-tetrachloroethene_2-naphthylethyl methacrylate_Materials and Method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "tetrachloroethane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "tetrachloroethane",
+                        "label": "tetrachloroethane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471",
+                        "label": "Volatile organic compounds in the surface waters of northern Greece.\nMN. Kostopoulou, SK. Golfinopoulos, AD. Nikolaou, NK. Xilourgidis, TD. Lekkas\nChemosphere 2000 Mar;40(5):527-32.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10665390"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471_1,1,2,2-tetrachloroethene_tetrachloroethane_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and tetrachloroethane are both mentioned as volatile organic compounds (VOCs) analyzed in water samples using gas chromatography. However, there is no direct discussion of their chemical relationship or interactions. They are part of a broader list of VOCs studied for environmental monitoring, indicating they share a category but lack specific relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "tetrachloroethane",
+                        "target": "343471",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343471",
+                        "target": "343471_1,1,2,2-tetrachloroethene_tetrachloroethane_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Ethylenes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethylenes",
+                        "label": "Ethylenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342922",
+                        "label": "Multipass membrane air-stripping (MAS) for removing volatile organic compounds (VOCs) from surfactant micellar solutions.\nH. Cheng, Y. Hu, J. Luo, DA. Sabatini\nJ. Hazard. Mater. 2009 Oct;170(2-3):1070-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19520499"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342922_1,1,2,2-tetrachloroethene_Ethylenes_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a chlorinated ethylene solvent that, along with other chlorinated ethylenes like trichloroethylene and tetrachloroethylene, poses risks in contaminated groundwater. However, the relationship between 1,1,2,2-tetrachloroethene and ethylenes is not explicitly detailed, as the focus is on the environmental impact and remediation of chlorinated solvents rather than a direct chemical or functional relationship with ethylenes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ethylenes",
+                        "target": "342922",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342922",
+                        "target": "342922_1,1,2,2-tetrachloroethene_Ethylenes_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "4-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_4-xylene_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and 4-xylene are both mentioned as volatile organic compounds (VOCs) analyzed during a quality assurance procedure for VOC analysis. However, there is no direct discussion of their relationship, interactions, or significance in the context of the study. They are simply part of a list of compounds evaluated for recovery rates during the analysis process.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244",
+                        "label": "How to estimate moments and quantiles of environmental data sets with non-detected observations? A case study on volatile organic compounds in marine water samples.\nT. Huybrechts, O. Thas, J. Dewulf, H. Van Langenhov\nJ Chromatogr A 2002 Oct;975(1):123-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12458753"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244_1,1,2,2-tetrachloroethene_4-xylene_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and 4-xylene are both mentioned as part of a broader study analyzing concentrations of various volatile organic compounds (VOCs) in marine and estuarine waters. However, there is no specific discussion of their relationship, interactions, or comparative significance within the study, indicating they are simply part of a list of analytes monitored over time.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342755",
+                        "label": "Green determination of the presence of volatile organic compounds in vehicle repair shops through passive sampling.\nD. Sanjuán-Herráez, I. Lliso, A. Pastor, M. de la Guardia\nTalanta 2012 Aug;98:40-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22939126"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342755_1,1,2,2-tetrachloroethene_4-xylene_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and 4-xylene are both mentioned as volatile organic compounds (VOCs) evaluated for their presence in air samples from vehicle repair shops. The study focuses on the quantitation limits of various VOCs, including these two compounds, but does not provide any specific interaction or relationship between them beyond their classification as pollutants being monitored in the same environment.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_4-xylene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "343244",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343244",
+                        "target": "343244_1,1,2,2-tetrachloroethene_4-xylene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "342755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342755",
+                        "target": "342755_1,1,2,2-tetrachloroethene_4-xylene_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "chlorodibromomethane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chlorodibromomethane",
+                        "label": "chlorodibromomethane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471",
+                        "label": "Volatile organic compounds in the surface waters of northern Greece.\nMN. Kostopoulou, SK. Golfinopoulos, AD. Nikolaou, NK. Xilourgidis, TD. Lekkas\nChemosphere 2000 Mar;40(5):527-32.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10665390"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471_1,1,2,2-tetrachloroethene_chlorodibromomethane_Conclusions.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and chlorodibromomethane are both identified as volatile organic compounds (VOCs) detected in the surface waters of Northern Greece. However, the text does not provide any specific information about their relationship, interactions, or shared sources beyond their classification as VOCs present in the same environmental study. They are mentioned alongside other VOCs, but no direct connection is established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471_1,1,2,2-tetrachloroethene_chlorodibromomethane_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and chlorodibromomethane are both identified as volatile organic compounds (VOCs) detected in water samples from various rivers and lakes. However, the context does not provide any specific information about their interactions, chemical properties, or any significant relationship beyond their co-occurrence in the same environmental study. They are simply listed among other VOCs without further elaboration on their relevance to each other.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343471_1,1,2,2-tetrachloroethene_chlorodibromomethane_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene and chlorodibromomethane are both mentioned as volatile organic compounds (VOCs) analyzed in water samples using purge-and-trap gas chromatography. However, there is no direct discussion of their relationship, interactions, or comparative significance in the study. They are simply part of a broader list of VOCs being investigated for environmental quality.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chlorodibromomethane",
+                        "target": "343471",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343471",
+                        "target": "343471_1,1,2,2-tetrachloroethene_chlorodibromomethane_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343471",
+                        "target": "343471_1,1,2,2-tetrachloroethene_chlorodibromomethane_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343471",
+                        "target": "343471_1,1,2,2-tetrachloroethene_chlorodibromomethane_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Stimulus": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Stimulus",
+                        "label": "Stimulus",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987",
+                        "label": "Characterization of the effects of inhaled perchloroethylene on sustained attention in rats performing a visual signal detection task.\nWM. Oshiro, QT. Krantz, PJ. Bushnell\nNeurotoxicol Teratol 2008 May-Jun;30(3):167-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18299185"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987_1,1,2,2-tetrachloroethene_Stimulus_Methods.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is not directly mentioned, but the study focuses on perchloroethylene (PCE) vapor exposure in operant-inhalation chambers, which may serve as a stimulus for behavioral testing in rats. The relationship between PCE and the stimulus is implied through the controlled exposure conditions, but there is no explicit connection to 1,1,2,2-tetrachloroethene or its effects as a stimulus.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Stimulus",
+                        "target": "342987",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342987",
+                        "target": "342987_1,1,2,2-tetrachloroethene_Stimulus_Methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Drug Interactions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107",
+                        "label": "Volatile organic compounds inhibit human and rat neuronal nicotinic acetylcholine receptors expressed in Xenopus oocytes.\nAS. Bale, CA. Meacham, VA. Benignus, PJ. Bushnell, TJ. Shafer\nToxicol. Appl. Pharmacol. 2005 May;205(1):77-88.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15885267"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107_1,1,2,2-tetrachloroethene_Drug Interactions_Results.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) is mentioned alongside toluene (TOL) in a study analyzing the effects of volatile organic compounds (VOCs) on receptor sensitivity. However, there is no direct discussion of drug interactions related to PERC or TOL. The focus is on the concentration-effect relationships of these solvents rather than any pharmacological interactions, indicating a lack of relevance between PERC and drug interactions in this analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Drug Interactions",
+                        "target": "343107",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343107",
+                        "target": "343107_1,1,2,2-tetrachloroethene_Drug Interactions_Results.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197",
+                        "label": "Application of solid-phase microextraction and gas chromatography-mass spectrometry to the determination of volatile organic compounds in end-exhaled breath samples.\nC. Prado, P. Marín, JF. Periago\nJ Chromatogr A 2003 Sep;1011(1-2):125-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14518769"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197_1,1,2,2-tetrachloroethene_Adjudication_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned in relation to a method for measuring its presence in exhaled breath samples from an occupationally exposed individual. However, the term 'Adjudication' appears without any clear connection to the measurement or analysis of tetrachloroethene, indicating that it is not directly relevant to the chemical analysis or its implications in the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088",
+                        "label": "Perturbation of voltage-sensitive Ca2+ channel function by volatile organic solvents.\nTJ. Shafer, PJ. Bushnell, VA. Benignus, JJ. Woodward\nJ. Pharmacol. Exp. Ther. 2005 Dec;315(3):1109-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16109744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088_1,1,2,2-tetrachloroethene_Adjudication_Results.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (TCE) is mentioned as one of the volatile organic compounds (VOCs) studied for its effects on ion currents (ICa) in a statistical analysis. However, there is no direct mention or discussion of 'adjudication' in relation to TCE or its effects. The term 'adjudication' appears unrelated to the chemical analysis presented, indicating a lack of connection between the two terms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379",
+                        "label": "Graphene packed needle trap device as a novel field sampler for determination of perchloroethylene in the air of dry cleaning establishments.\nM. Heidari, A. Bahrami, AR. Ghiasvand, MR. Emam, FG. Shahna, AR. Soltanian\nTalanta 2015 Jan;131:142-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25281085"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379_1,1,2,2-tetrachloroethene_Adjudication_Conclusions.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PCE) is mentioned in relation to a study focused on developing a needle trap microextraction technique for sampling and analyzing various compounds in air, including PCE. However, the term 'Adjudication' does not appear to have a direct connection or relevance to the analysis or monitoring of PCE exposure, as it is not discussed in the context of the study's findings or methods.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379_1,1,2,2-tetrachloroethene_Adjudication_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a chemical analyzed using needle trap microextraction devices for sampling and analysis, particularly in dry cleaning applications. However, the term 'Adjudication' appears without any clear connection to the chemical analysis or its implications, indicating no direct relationship between the two terms in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "343197",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343197",
+                        "target": "343197_1,1,2,2-tetrachloroethene_Adjudication_Results and discussi.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "343088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343088",
+                        "target": "343088_1,1,2,2-tetrachloroethene_Adjudication_Results.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "343379",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343379",
+                        "target": "343379_1,1,2,2-tetrachloroethene_Adjudication_Conclusions.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343379",
+                        "target": "343379_1,1,2,2-tetrachloroethene_Adjudication_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Toxicokinetics": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toxicokinetics",
+                        "label": "Toxicokinetics",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107",
+                        "label": "Volatile organic compounds inhibit human and rat neuronal nicotinic acetylcholine receptors expressed in Xenopus oocytes.\nAS. Bale, CA. Meacham, VA. Benignus, PJ. Bushnell, TJ. Shafer\nToxicol. Appl. Pharmacol. 2005 May;205(1):77-88.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15885267"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107_1,1,2,2-tetrachloroethene_Toxicokinetics_Discussion.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is discussed in relation to toxicokinetics, particularly regarding species sensitivity differences between humans and rats. The text highlights that toxicokinetic factors may contribute to the observed differences in sensitivity to volatile organic compounds (VOCs) like 1,1,2,2-tetrachloroethene, suggesting that understanding these differences is crucial for assessing human health risks associated with exposure to such compounds. However, the specific toxicokinetic properties of 1,1,2,2-tetrachloroethene are not detailed, limiting the depth of the relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toxicokinetics",
+                        "target": "343107",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343107",
+                        "target": "343107_1,1,2,2-tetrachloroethene_Toxicokinetics_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197",
+                        "label": "Application of solid-phase microextraction and gas chromatography-mass spectrometry to the determination of volatile organic compounds in end-exhaled breath samples.\nC. Prado, P. Marín, JF. Periago\nJ Chromatogr A 2003 Sep;1011(1-2):125-34.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14518769"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197_1,1,2,2-tetrachloroethene_Exhalation_Conclusions.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is analyzed as a volatile organic compound (VOC) that can be monitored through exhalation. The study discusses the use of solid-phase microextraction (SPME) for sampling and quantifying this compound in the exhaled breath of individuals exposed occupationally. The method demonstrates good repeatability and linearity in calibration, indicating its effectiveness for biological monitoring of VOCs in breath samples.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197_1,1,2,2-tetrachloroethene_Exhalation_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is highlighted as a model compound for studying biological monitoring through exhalation. The text indicates that a significant portion of tetrachloroethene absorbed by humans is exhaled unchanged, making it an effective marker for respiratory elimination. This relationship underscores the compound's relevance in assessing exposure through breath analysis.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343197_1,1,2,2-tetrachloroethene_Exhalation_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is highlighted as a solvent that accumulates in fatty tissues, leading to its presence in exhaled air samples taken 16 hours post-exposure. The study indicates that repeated daily exposure results in progressive accumulation, which is reflected in the elevated levels of this compound in exhalation samples, suggesting a direct relationship between the solvent's accumulation in the body and its subsequent exhalation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "343197",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343197",
+                        "target": "343197_1,1,2,2-tetrachloroethene_Exhalation_Conclusions.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343197",
+                        "target": "343197_1,1,2,2-tetrachloroethene_Exhalation_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343197",
+                        "target": "343197_1,1,2,2-tetrachloroethene_Exhalation_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Adverse effects": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adverse effects",
+                        "label": "Adverse effects",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107",
+                        "label": "Volatile organic compounds inhibit human and rat neuronal nicotinic acetylcholine receptors expressed in Xenopus oocytes.\nAS. Bale, CA. Meacham, VA. Benignus, PJ. Bushnell, TJ. Shafer\nToxicol. Appl. Pharmacol. 2005 May;205(1):77-88.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15885267"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107_1,1,2,2-tetrachloroethene_Adverse effects_Discussion.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) is highlighted for its adverse behavioral effects at lower exposure concentrations compared to toluene (TOL). The study indicates that PERC is more potent than TOL, particularly at low concentrations, leading to significant adverse effects on nicotinic acetylcholine receptors (nAChRs). This suggests a direct relationship between PERC exposure and negative behavioral outcomes, emphasizing the importance of understanding its toxicological impact.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adverse effects",
+                        "target": "343107",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343107",
+                        "target": "343107_1,1,2,2-tetrachloroethene_Adverse effects_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Evolution": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Evolution",
+                        "label": "Evolution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_Evolution_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as one of the volatile organic compounds (VOCs) whose concentrations were measured over time, indicating its presence in the environment. The term 'evolution' refers to the changes in VOC concentrations observed during the sampling period, influenced by factors such as waste truck activity and atmospheric conditions. However, there is no direct biological or chemical relationship established between 1,1,2,2-tetrachloroethene and the concept of evolution in a biological sense.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Evolution",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_Evolution_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Membrane Potentials": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Membrane Potentials",
+                        "label": "Membrane Potentials",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107",
+                        "label": "Volatile organic compounds inhibit human and rat neuronal nicotinic acetylcholine receptors expressed in Xenopus oocytes.\nAS. Bale, CA. Meacham, VA. Benignus, PJ. Bushnell, TJ. Shafer\nToxicol. Appl. Pharmacol. 2005 May;205(1):77-88.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15885267"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107_1,1,2,2-tetrachloroethene_Membrane Potentials_Discussion.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) and membrane potentials are discussed in relation to the effects of lipophilic compounds on cellular membranes. The study indicates that neither PERC nor toluene (TOL) altered resting membrane potentials in oocytes, suggesting that these compounds do not significantly perturb membrane activity or influence ion channel function, which is critical for maintaining membrane potentials.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Membrane Potentials",
+                        "target": "343107",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343107",
+                        "target": "343107_1,1,2,2-tetrachloroethene_Membrane Potentials_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "inhibitors": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088",
+                        "label": "Perturbation of voltage-sensitive Ca2+ channel function by volatile organic solvents.\nTJ. Shafer, PJ. Bushnell, VA. Benignus, JJ. Woodward\nJ. Pharmacol. Exp. Ther. 2005 Dec;315(3):1109-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16109744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088_1,1,2,2-tetrachloroethene_inhibitors_Discussion.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (TCE) is discussed in relation to its effects on voltage-sensitive calcium channels (VSCCs) and its potency as an inhibitor compared to other volatile organic compounds (VOCs). The study highlights that TCE has a lower potency as an inhibitor of behavioral despair compared to PERC, indicating that TCE's inhibitory effects are less significant. However, the specific mechanisms by which TCE acts as an inhibitor are not thoroughly examined, leaving the relationship somewhat vague.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "343088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343088",
+                        "target": "343088_1,1,2,2-tetrachloroethene_inhibitors_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987",
+                        "label": "Characterization of the effects of inhaled perchloroethylene on sustained attention in rats performing a visual signal detection task.\nWM. Oshiro, QT. Krantz, PJ. Bushnell\nNeurotoxicol Teratol 2008 May-Jun;30(3):167-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18299185"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987_1,1,2,2-tetrachloroethene_Inspiration function_Methods.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PCE) is mentioned as a vapor generated for exposure testing in operant-inhalation chambers. However, there is no direct discussion regarding its impact on inspiration function or respiratory effects. The focus is primarily on the measurement and control of vapor concentrations rather than any physiological implications related to inspiration function.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "342987",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342987",
+                        "target": "342987_1,1,2,2-tetrachloroethene_Inspiration function_Methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Analyte": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244",
+                        "label": "How to estimate moments and quantiles of environmental data sets with non-detected observations? A case study on volatile organic compounds in marine water samples.\nT. Huybrechts, O. Thas, J. Dewulf, H. Van Langenhov\nJ Chromatogr A 2002 Oct;975(1):123-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12458753"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244_1,1,2,2-tetrachloroethene_Analyte_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as one of the analytes being evaluated for statistical estimation methods. The discussion focuses on the performance of various estimation techniques in the presence of censored data, highlighting that the robust imputation method shows little improvement for this analyte. However, the relationship is primarily statistical rather than chemical or biological, indicating that 1,1,2,2-tetrachloroethene is simply one of several analytes under consideration in the analysis.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343244_1,1,2,2-tetrachloroethene_Analyte_Materials and method.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as one of the compounds analyzed within two multivariate data sets, specifically in relation to the Scheldt estuary. The term 'analyte' refers to any substance being analyzed or measured, which includes 1,1,2,2-tetrachloroethene as part of the study's focus on environmental contaminants. However, there is no detailed discussion of the specific relationship or significance of 1,1,2,2-tetrachloroethene as an analyte beyond its inclusion in the data sets.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Analyte",
+                        "target": "343244",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343244",
+                        "target": "343244_1,1,2,2-tetrachloroethene_Analyte_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343244",
+                        "target": "343244_1,1,2,2-tetrachloroethene_Analyte_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Obstruction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Obstruction",
+                        "label": "Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088",
+                        "label": "Perturbation of voltage-sensitive Ca2+ channel function by volatile organic solvents.\nTJ. Shafer, PJ. Bushnell, VA. Benignus, JJ. Woodward\nJ. Pharmacol. Exp. Ther. 2005 Dec;315(3):1109-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16109744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088_1,1,2,2-tetrachloroethene_Obstruction_Results.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (TCE) is mentioned as a volatile organic compound (VOC) that affects ion currents (ICa) in NGF-differentiated PC12 cells. However, there is no direct mention or discussion of 'obstruction' in relation to TCE or its effects on cellular functions. The term 'obstruction' does not appear to be relevant to the described effects of TCE on ion currents, indicating a lack of connection between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Obstruction",
+                        "target": "343088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343088",
+                        "target": "343088_1,1,2,2-tetrachloroethene_Obstruction_Results.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Receptor Inhibition": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Receptor Inhibition",
+                        "label": "Receptor Inhibition",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107",
+                        "label": "Volatile organic compounds inhibit human and rat neuronal nicotinic acetylcholine receptors expressed in Xenopus oocytes.\nAS. Bale, CA. Meacham, VA. Benignus, PJ. Bushnell, TJ. Shafer\nToxicol. Appl. Pharmacol. 2005 May;205(1):77-88.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15885267"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107_1,1,2,2-tetrachloroethene_Receptor Inhibition_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) is being studied for its effects on nicotinic acetylcholine receptors (nAChRs), specifically α4β2 and α7 subtypes, which are important in the central nervous system (CNS). The research aims to compare the receptor inhibition profiles of PERC with those of toluene (TOL) to understand their behavioral effects and toxicodynamic sensitivity. This indicates a direct relationship between PERC and receptor inhibition, as the study focuses on how PERC influences nAChR activity, which is crucial for understanding its neurotoxic effects.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Receptor Inhibition",
+                        "target": "343107",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343107",
+                        "target": "343107_1,1,2,2-tetrachloroethene_Receptor Inhibition_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "depolarization": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "depolarization",
+                        "label": "depolarization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088",
+                        "label": "Perturbation of voltage-sensitive Ca2+ channel function by volatile organic solvents.\nTJ. Shafer, PJ. Bushnell, VA. Benignus, JJ. Woodward\nJ. Pharmacol. Exp. Ther. 2005 Dec;315(3):1109-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16109744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343088_1,1,2,2-tetrachloroethene_depolarization_Results.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PERC) is evaluated alongside other volatile organic compounds (VOCs) for its effects on peak current amplitude during step depolarization experiments. The data suggests that the presence of PERC, along with TCE and TOL, influences the current responses at various test potentials, indicating a relationship between these VOCs and the depolarization process in the studied system. However, the specific role of PERC in the depolarization mechanism is not detailed, leaving the relationship somewhat ambiguous.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "depolarization",
+                        "target": "343088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343088",
+                        "target": "343088_1,1,2,2-tetrachloroethene_depolarization_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987",
+                        "label": "Characterization of the effects of inhaled perchloroethylene on sustained attention in rats performing a visual signal detection task.\nWM. Oshiro, QT. Krantz, PJ. Bushnell\nNeurotoxicol Teratol 2008 May-Jun;30(3):167-74.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18299185"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "342987_1,1,2,2-tetrachloroethene_Process_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned alongside other volatile organic compounds (VOCs) in relation to their presence in groundwater influenced by anthropogenic activities. The term 'Process' refers to the monitoring and assessment of VOCs, including 1,1,2,2-tetrachloroethene, in industrial and agricultural settings. However, the specific relationship between 1,1,2,2-tetrachloroethene and the processes of monitoring or assessing its impact is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107",
+                        "label": "Volatile organic compounds inhibit human and rat neuronal nicotinic acetylcholine receptors expressed in Xenopus oocytes.\nAS. Bale, CA. Meacham, VA. Benignus, PJ. Bushnell, TJ. Shafer\nToxicol. Appl. Pharmacol. 2005 May;205(1):77-88.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15885267"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343107_1,1,2,2-tetrachloroethene_Process_Introduction.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned alongside other volatile organic compounds (VOCs) like toluene and perchloroethylene, which are used in various industrial processes. The discussion focuses on the neurotoxic effects of these VOCs and their common mechanisms of action, suggesting that 1,1,2,2-tetrachloroethene is part of a broader category of substances that impact central nervous system function through similar processes. However, the specific relationship between 1,1,2,2-tetrachloroethene and the term 'Process' is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379",
+                        "label": "Graphene packed needle trap device as a novel field sampler for determination of perchloroethylene in the air of dry cleaning establishments.\nM. Heidari, A. Bahrami, AR. Ghiasvand, MR. Emam, FG. Shahna, AR. Soltanian\nTalanta 2015 Jan;131:142-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25281085"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "343379_1,1,2,2-tetrachloroethene_Process_Experimental.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene (PCE) is mentioned as a target compound for exposure assessment in a dry-cleaning shop, where a specific sampling process using nanoplatelets graphene was optimized for its detection. The relationship between PCE and the sampling process is indirect, as the focus is on the methodology for quantifying PCE exposure rather than a direct interaction or functional relationship between the two.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "342987",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "342987",
+                        "target": "342987_1,1,2,2-tetrachloroethene_Process_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "343107",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343107",
+                        "target": "343107_1,1,2,2-tetrachloroethene_Process_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "343379",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "343379",
+                        "target": "343379_1,1,2,2-tetrachloroethene_Process_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "ANP32B gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ANP32B gene",
+                        "label": "ANP32B gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738",
+                        "label": "Characterisation of VOCs emitted by open cells receiving municipal solid waste.\nR. Chiriac, J. Carre, Y. Perrodin, L. Fine, JM. Letoffe\nJ. Hazard. Mater. 2007 Oct;149(2):249-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17826906"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_ANP32B gene_Conclusion.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a volatile organic compound (VOC) observed in high concentrations during waste unloading, while the ANP32B gene is not discussed or linked to any specific biological or chemical processes related to the emissions of VOCs. There is no direct or indirect relationship established between the two terms in the provided context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275738_1,1,2,2-tetrachloroethene_ANP32B gene_Results and discussi.json",
+                        "label": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a volatile organic compound (VOC) detected in high concentrations due to waste management activities. However, there is no mention or discussion of the ANP32B gene, which is unrelated to the VOCs or the environmental context provided. Thus, there is no established relationship between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ANP32B gene",
+                        "target": "275738",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_ANP32B gene_Conclusion.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275738",
+                        "target": "275738_1,1,2,2-tetrachloroethene_ANP32B gene_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

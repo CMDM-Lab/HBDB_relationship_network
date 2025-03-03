@@ -1,0 +1,10 @@
+{
+    "context": "The maximum observed decreases in catalase activity were \u224810 and 55% at 1 and 4 h, respectively. The observed catalase activity was significantly lower (P<0.05) at 4 h when compared to the 1 h time period. DTNB-reactive thiol levels in the living dermal equivalents decreased in a dose-dependent manner following exposure to m-xylene (Fig. 3 ). The mean (\u00b1S.E.M.) observed absorbance values for DTNB-reactive thiols at 412 nm (normalized to protein) in the sham-exposed controls were 4.61\u00b10.37 and 4.29\u00b10.15 at 1 and 4 h, respectively. The maximum observed decreases in thiol levels were \u224820 and 40% at 1 and 4 h, respectively. ",
+    "term_A": "1,3-xylene",
+    "term_B": "Sulfhydryl Compounds",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene is linked to the observed decrease in sulfhydryl compounds, specifically DTNB-reactive thiol levels, following exposure. The study indicates that exposure to m-xylene leads to a dose-dependent reduction in thiol levels, which are important for maintaining cellular redox balance and enzymatic activity, including catalase. This suggests a potential oxidative stress response associated with 1,3-xylene exposure, impacting sulfhydryl compound levels.",
+        "reason": "The score of 4 reflects a significant connection between 1,3-xylene and sulfhydryl compounds, as the context provides quantitative data showing a clear relationship between xylene exposure and the reduction of thiol levels, indicating a potential mechanism of oxidative stress.",
+        "score": 4
+    }
+}

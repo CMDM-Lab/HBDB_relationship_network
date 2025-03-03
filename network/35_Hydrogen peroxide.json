@@ -1,0 +1,2626 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Hydrogen peroxide",
+                    "label": "Hydrogen peroxide",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hydrogen peroxide",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hydrogen peroxide",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hydrogen peroxide",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hydrogen peroxide",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hydrogen peroxide",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hydrogen peroxide",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrogen peroxide",
+                        "label": "Hydrogen peroxide",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxygen toxicity",
+                        "label": "Oxygen toxicity",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Oxygen toxicity",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrogen peroxide",
+                        "label": "Hydrogen peroxide",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Superoxides",
+                        "label": "Superoxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Peroxides",
+                        "label": "Peroxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Phenols",
+                        "label": "Phenols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ozone",
+                        "label": "Ozone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Anions",
+                        "label": "Anions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "dimethyl disulfide",
+                        "label": "dimethyl disulfide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "small molecule",
+                        "label": "small molecule",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Signaling Molecule",
+                        "label": "Signaling Molecule",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sulfuric Acid Esters",
+                        "label": "Sulfuric Acid Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chlorides",
+                        "label": "Chlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydroxyl Radical",
+                        "label": "Hydroxyl Radical",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic sulfur compound",
+                        "label": "Organic sulfur compound",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "peroxone",
+                        "label": "peroxone",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Superoxides",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Peroxides",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Phenols",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Ozone",
+                        "score": 19
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Toluene",
+                        "score": 13
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Anions",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Metabolites",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "dimethyl disulfide",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "small molecule",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Chemicals",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Signaling Molecule",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Sulfuric Acid Esters",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Chlorides",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Hydroxyl Radical",
+                        "score": 15
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Organic sulfur compound",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "peroxone",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrogen peroxide",
+                        "label": "Hydrogen peroxide",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ionization",
+                        "label": "ionization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "hydrogen peroxide biosynthesis",
+                        "label": "hydrogen peroxide biosynthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Zero order kinetics",
+                        "label": "Zero order kinetics",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Impacts, Environmental",
+                        "label": "Impacts, Environmental",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "axon guidance",
+                        "label": "axon guidance",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "phenol catabolism",
+                        "label": "phenol catabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Evolution",
+                        "label": "Evolution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidants",
+                        "label": "Oxidants",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "toluene catabolism",
+                        "label": "toluene catabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "peroxidase activity",
+                        "label": "peroxidase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "enzyme activity",
+                        "label": "enzyme activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "ionization",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "hydrogen peroxide biosynthesis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Zero order kinetics",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Impacts, Environmental",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "axon guidance",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Oxidation",
+                        "score": 27
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Respiration",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Exhalation",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "phenol catabolism",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Evolution",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Oxidants",
+                        "score": 20
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "toluene catabolism",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "peroxidase activity",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "enzyme activity",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hydrogen peroxide",
+                        "target": "Process",
+                        "score": 8
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrogen peroxide",
+                        "label": "Hydrogen peroxide",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrogen peroxide",
+                        "label": "Hydrogen peroxide",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrogen peroxide",
+                        "label": "Hydrogen peroxide",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Oxygen toxicity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxygen toxicity",
+                        "label": "Oxygen toxicity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556",
+                        "label": "Increased hydrogen peroxide in the expired breath of patients with acute hypoxemic respiratory failure.\nJI. Sznajder, A. Fraiman, JB. Hall, W. Sanders, G. Schmidt, G. Crawford, A. Nahum, P. Factor, LD. Wood\nChest 1989 Sep;96(3):606-12.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/2766820"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556_Hydrogen peroxide_Oxygen toxicity_DISCUSSION.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is identified as a toxic oxygen metabolite implicated in the pathogenesis of oxygen toxicity and lung injury. It is produced by activated neutrophils and other phagocytic cells during inflammatory responses. The discussion highlights H2O2's role as a molecular mediator of tissue damage in conditions like acute respiratory distress syndrome (ARDS) and oxygen toxicity, suggesting a direct relationship between the two.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxygen toxicity",
+                        "target": "120556",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "120556",
+                        "target": "120556_Hydrogen peroxide_Oxygen toxicity_DISCUSSION.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Superoxides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Superoxides",
+                        "label": "Superoxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556",
+                        "label": "Increased hydrogen peroxide in the expired breath of patients with acute hypoxemic respiratory failure.\nJI. Sznajder, A. Fraiman, JB. Hall, W. Sanders, G. Schmidt, G. Crawford, A. Nahum, P. Factor, LD. Wood\nChest 1989 Sep;96(3):606-12.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/2766820"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556_Hydrogen peroxide_Superoxides_DISCUSSION.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) and superoxides (O2–) are both identified as toxic oxygen metabolites implicated in lung injury and acute respiratory distress syndrome (ARDS). They are produced by activated neutrophils and other phagocytic cells through various biochemical pathways. Both species are suggested to act as molecular mediators of tissue damage, indicating a significant relationship in the context of oxidative stress and lung pathology.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95261",
+                        "label": "Pulmonary oxidative stress is induced by maximal exercise in young cigarette smokers.\nS. Taito, K. Sekikawa, S. Domen, K. Konishi, T. Kimura, M. Takahashi, T. Inamizu, H. Hamada\nNicotine Tob. Res. 2012 Feb;14(2):243-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22080589"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95261_Hydrogen peroxide_Superoxides_DISCUSSION.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) and superoxides are both classified as reactive oxygen species (ROS) formed during the incomplete reduction of oxygen. While superoxides are radical species, H2O2 is a nonradical, membrane-permeable molecule that plays a distinct role in cellular signaling. The study highlights the different reactivities and lifetimes of these ROS, indicating that H2O2 can function as an efficient signaling molecule, contrasting with the more reactive and shorter-lived superoxides.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Superoxides",
+                        "target": "120556",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "120556",
+                        "target": "120556_Hydrogen peroxide_Superoxides_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Superoxides",
+                        "target": "95261",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95261",
+                        "target": "95261_Hydrogen peroxide_Superoxides_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Peroxides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Peroxides",
+                        "label": "Peroxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "98910",
+                        "label": "Degradation of 1,2-dichloroethane from wash water of ion-exchange resin using Fenton's oxidation.\nM. Vilve, S. Vilhunen, M. Vepsäläinen, TA. Kurniawan, N. Lehtonen, H. Isomäki, M. Sillanpää\nEnviron Sci Pollut Res Int 2010 May;17(4):875-84.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20101466"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "98910_Hydrogen peroxide_Peroxides_RESULTS.json",
+                        "label": "In this context, hydrogen peroxide is specifically measured as a systemic product in leaves, while peroxides refer to a broader class of compounds that includes hydrogen peroxide. The study highlights the production of hydrogen peroxide in response to submergence stress, indicating its role as a reactive oxygen species. However, the relationship is primarily focused on hydrogen peroxide without detailed exploration of other peroxides, suggesting a direct but limited connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Peroxides",
+                        "target": "98910",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "98910",
+                        "target": "98910_Hydrogen peroxide_Peroxides_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Phenols": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Phenols",
+                        "label": "Phenols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425",
+                        "label": "A new combined green method for 2-Chlorophenol removal using cross-linked Brassica rapa peroxidase in silicone oil.\nN. Tandjaoui, M. Abouseoud, A. Couvert, A. Amrane, A. Tassist\nChemosphere 2016 Apr;148:55-60.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26802263"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425_Hydrogen peroxide_Phenols_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is mentioned as a co-substrate used alongside peroxidases in enzymatic treatments for the degradation of phenolic compounds in wastewater. The combination of hydrogen peroxide and peroxidases enhances the efficiency of removing phenols, indicating a significant functional relationship where hydrogen peroxide acts as a catalyst in the enzymatic breakdown of phenolic pollutants.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Phenols",
+                        "target": "85425",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "85425",
+                        "target": "85425_Hydrogen peroxide_Phenols_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Ozone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ozone",
+                        "label": "Ozone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222",
+                        "label": "Integration of advanced oxidation processes at mild conditions in wet scrubbers for odourous sulphur compounds treatment.\nE. Vega, MJ. Martin, R. Gonzalez-Olmos\nChemosphere 2014 Aug;109:113-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24873715"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222_Hydrogen peroxide_Ozone_Materials and method.json",
+                        "label": "In this context, hydrogen peroxide and ozone are both evaluated for their oxidative efficiency in treating volatile sulfur compounds (VSC) under controlled experimental conditions. The study compares the effects of equal molar concentrations of both oxidants, indicating their potential roles in oxidation processes. However, the specific interactions or comparative effectiveness between hydrogen peroxide and ozone are not deeply explored beyond their use in the same experimental setup.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222_Hydrogen peroxide_Ozone_Introduction.json",
+                        "label": "In this context, hydrogen peroxide and ozone are both discussed as alternative oxidants for the removal of volatile sulfur compounds (VSCs) in odour treatment processes. They are mentioned in relation to advanced oxidation processes (AOPs) that generate highly reactive oxidants, such as hydroxyl radicals, which are effective in degrading VSCs. The text highlights their roles in promoting oxidation, suggesting a functional relationship in the context of environmental remediation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656",
+                        "label": "Intensification of volatile organic compounds mass transfer in a compact scrubber using the O3/H2O2 advanced oxidation process: kinetic study and hydroxyl radical tracking.\nPF. Biard, A. Couvert, C. Renner, JP. Levasseur\nChemosphere 2011 Nov;85(7):1122-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21880350"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Ozone_Materials and method.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) and ozone (O3) are utilized in a scrubber system where they are mixed in an aqueous solution to track hydroxyl radicals. The experimental setup indicates a direct interaction between H2O2 and O3, as both are involved in the generation of reactive species for analytical purposes. Their combined use suggests a synergistic effect in oxidizing pollutants, highlighting their relevance in oxidative processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Ozone_Results and discussi.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) and ozone (O3) are discussed in relation to their roles in the peroxone process, which involves the generation of hydroxyl radicals (HO°) for enhanced oxidation. The study highlights the relationship between varying concentrations of hydrogen peroxide and ozone, demonstrating how their interaction can significantly increase radical generation yields, thus indicating a synergistic effect in oxidative processes. This suggests that both compounds are critical in improving the efficiency of the peroxone process for environmental applications.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Ozone_Introduction.json",
+                        "label": "In this context, hydrogen peroxide and ozone are discussed in relation to their roles in chemical reactions involving volatile organic compounds (VOCs). Ozone is noted for its direct molecular attack and its ability to generate hydroxyl radicals (HO°) through decomposition, which can subsequently react with other compounds. The study aims to understand the kinetic constants and mechanisms of these reactions, indicating a significant interaction between ozone and hydrogen peroxide in the context of oxidative processes and pollutant degradation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ozone",
+                        "target": "89222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "89222",
+                        "target": "89222_Hydrogen peroxide_Ozone_Materials and method.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "89222",
+                        "target": "89222_Hydrogen peroxide_Ozone_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ozone",
+                        "target": "95656",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Ozone_Materials and method.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Ozone_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Ozone_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980",
+                        "label": "Chemical absorption process for degradation of VOC gas using heterogeneous gas-liquid photocatalytic oxidation: toluene degradation by photo-Fenton reaction.\nM. Tokumura, R. Nakajima, HT. Znad, Y. Kawase\nChemosphere 2008 Oct;73(5):768-75.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18653212"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980_Hydrogen peroxide_Toluene_Experimental.json",
+                        "label": "In this context, hydrogen peroxide is utilized in a photo-Fenton reaction to treat toluene, a volatile organic compound (VOC) present in effluent gas. The study emphasizes the need for continuous supply of hydrogen peroxide during the degradation process of toluene, indicating a direct chemical interaction where hydrogen peroxide acts as a reagent to facilitate the breakdown of toluene in the liquid phase.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980_Hydrogen peroxide_Toluene_Results and discussi.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) and toluene are related through their roles in a chemical degradation process. The study examines how the degradation rate of toluene in the liquid phase and the decomposition of hydrogen peroxide are influenced by various factors, including the concentration of toluene gas. The observed rate constants for both processes decrease with increasing toluene concentration, indicating a direct interaction between the two substances in the context of their chemical reactions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980_Hydrogen peroxide_Toluene_Conclusions.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is utilized as a reagent in the photo-Fenton reaction to enhance the degradation of toluene gas in a heterogeneous gas-liquid photocatalytic oxidation process. The study indicates that the presence of H2O2 improves the overall absorption and degradation rates of toluene, suggesting a direct and significant role of hydrogen peroxide in facilitating the breakdown of toluene in the liquid phase during the reaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "101980",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "101980",
+                        "target": "101980_Hydrogen peroxide_Toluene_Experimental.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "101980",
+                        "target": "101980_Hydrogen peroxide_Toluene_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "101980",
+                        "target": "101980_Hydrogen peroxide_Toluene_Conclusions.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Anions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Anions",
+                        "label": "Anions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "98464",
+                        "label": "Removal of organic matter from a variety of water matrices by UV photolysis and UV/H2O2 method.\nS. Vilhunen, M. Vilve, M. Vepsäläinen, M. Sillanpää\nJ. Hazard. Mater. 2010 Jul;179(1-3):776-82.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20381240"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "98464_Hydrogen peroxide_Anions_Results and discussi.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is discussed in relation to its effects on radical species and its interaction with anions, specifically the hydrogen peroxide anion (HO2−). The text indicates that H2O2 can scavenge hydroxyl radicals (HO) and that the presence of HO2− can enhance the degradation of organic compounds under alkaline conditions. This suggests a significant interaction where H2O2 influences the reactivity of anions and their role in organic degradation processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Anions",
+                        "target": "98464",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "98464",
+                        "target": "98464_Hydrogen peroxide_Anions_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Metabolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556",
+                        "label": "Increased hydrogen peroxide in the expired breath of patients with acute hypoxemic respiratory failure.\nJI. Sznajder, A. Fraiman, JB. Hall, W. Sanders, G. Schmidt, G. Crawford, A. Nahum, P. Factor, LD. Wood\nChest 1989 Sep;96(3):606-12.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/2766820"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556_Hydrogen peroxide_Metabolites_DISCUSSION.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is identified as a toxic oxygen metabolite implicated in lung injury and acute respiratory distress syndrome (ARDS). It is produced by activated neutrophils and other phagocytic cells during inflammatory responses. H2O2, along with other metabolites like superoxide ions and hydroxyl radicals, plays a critical role in mediating tissue damage in various pathological conditions, suggesting a significant relationship between hydrogen peroxide and the broader category of metabolites involved in oxidative stress and injury mechanisms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolites",
+                        "target": "120556",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "120556",
+                        "target": "120556_Hydrogen peroxide_Metabolites_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "dimethyl disulfide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "dimethyl disulfide",
+                        "label": "dimethyl disulfide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656",
+                        "label": "Intensification of volatile organic compounds mass transfer in a compact scrubber using the O3/H2O2 advanced oxidation process: kinetic study and hydroxyl radical tracking.\nPF. Biard, A. Couvert, C. Renner, JP. Levasseur\nChemosphere 2011 Nov;85(7):1122-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21880350"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_dimethyl disulfide_Introduction.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is involved in the peroxone process, which enhances the mass transfer of dimethyl disulfide (DMDS) when combined with ozone in water. The study indicates that the presence of H2O2 facilitates the generation of hydroxyl radicals (HO°) through ozone decomposition, which subsequently interacts with DMDS, suggesting a significant role of H2O2 in improving the efficiency of DMDS treatment in advanced oxidation processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "dimethyl disulfide",
+                        "target": "95656",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_dimethyl disulfide_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "small molecule": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "small molecule",
+                        "label": "small molecule",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "107434",
+                        "label": "[Limitations of the technique to determine hydrogen peroxide levels in exhaled breath condensate from patients with adult respiratory distress syndrome].\nA. Bruhn, L. Liberona, C. Lisboa, G. Borzone\nArch. Bronconeumol. 2005 Oct;41(10):542-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16266666"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "107434_Hydrogen peroxide_small molecule_Discussion.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is discussed as a reactive species that can modify the properties of small molecules, potentially enabling them to function as signaling molecules in axon guidance. The interaction between H2O2 and small molecules is highlighted, suggesting that H2O2 can influence the biophysical characteristics of the cytoskeleton and contribute to signaling pathways relevant to cellular processes. This indicates a significant relationship where hydrogen peroxide acts as a modulator of small molecules involved in physiological functions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "small molecule",
+                        "target": "107434",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "107434",
+                        "target": "107434_Hydrogen peroxide_small molecule_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980",
+                        "label": "Chemical absorption process for degradation of VOC gas using heterogeneous gas-liquid photocatalytic oxidation: toluene degradation by photo-Fenton reaction.\nM. Tokumura, R. Nakajima, HT. Znad, Y. Kawase\nChemosphere 2008 Oct;73(5):768-75.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18653212"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980_Hydrogen peroxide_Chemicals_Experimental.json",
+                        "label": "In this context, hydrogen peroxide is utilized as a reagent in the photo-Fenton reaction, which is a chemical process aimed at degrading volatile organic compounds (VOCs) like toluene. The study emphasizes the role of hydrogen peroxide as a chemical necessary for initiating the degradation process, highlighting its importance in the chemical reactions involved in treating effluent gas. Thus, hydrogen peroxide is directly related to the category of chemicals used in environmental remediation processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656",
+                        "label": "Intensification of volatile organic compounds mass transfer in a compact scrubber using the O3/H2O2 advanced oxidation process: kinetic study and hydroxyl radical tracking.\nPF. Biard, A. Couvert, C. Renner, JP. Levasseur\nChemosphere 2011 Nov;85(7):1122-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21880350"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Chemicals_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is mentioned as a chemical involved in reactions with ozone and hydroxyl radicals (HO°) in the study of volatile organic compounds (VOCs). The relationship is primarily focused on the chemical interactions and kinetics involving hydrogen peroxide and other chemicals, particularly in the context of their roles in oxidation processes. However, the specific interactions of hydrogen peroxide with other chemicals are not detailed, indicating a broader chemical context rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "101980",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "101980",
+                        "target": "101980_Hydrogen peroxide_Chemicals_Experimental.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "95656",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Chemicals_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Signaling Molecule": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Signaling Molecule",
+                        "label": "Signaling Molecule",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "107434",
+                        "label": "[Limitations of the technique to determine hydrogen peroxide levels in exhaled breath condensate from patients with adult respiratory distress syndrome].\nA. Bruhn, L. Liberona, C. Lisboa, G. Borzone\nArch. Bronconeumol. 2005 Oct;41(10):542-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16266666"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "107434_Hydrogen peroxide_Signaling Molecule_Discussion.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is discussed as a potential signaling molecule involved in axon guidance. It is suggested that H2O2 can modify the properties of other endogenous molecules, enabling them to function as additional signaling molecules. This indicates that H2O2 plays a significant role in cellular signaling pathways, particularly in relation to the cytoskeleton and axon guidance mechanisms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Signaling Molecule",
+                        "target": "107434",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "107434",
+                        "target": "107434_Hydrogen peroxide_Signaling Molecule_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Sulfuric Acid Esters": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfuric Acid Esters",
+                        "label": "Sulfuric Acid Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980",
+                        "label": "Chemical absorption process for degradation of VOC gas using heterogeneous gas-liquid photocatalytic oxidation: toluene degradation by photo-Fenton reaction.\nM. Tokumura, R. Nakajima, HT. Znad, Y. Kawase\nChemosphere 2008 Oct;73(5):768-75.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18653212"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980_Hydrogen peroxide_Sulfuric Acid Esters_Experimental.json",
+                        "label": "In this context, hydrogen peroxide is utilized as a reagent in the photo-Fenton reaction, which involves the degradation of toluene in the presence of iron(II) sulfate and sulfuric acid. While sulfuric acid is mentioned as a reagent, its specific role in relation to hydrogen peroxide is not detailed. The focus is primarily on the interaction of hydrogen peroxide with iron and toluene rather than a direct relationship with sulfuric acid esters.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sulfuric Acid Esters",
+                        "target": "101980",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "101980",
+                        "target": "101980_Hydrogen peroxide_Sulfuric Acid Esters_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chlorides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chlorides",
+                        "label": "Chlorides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222",
+                        "label": "Integration of advanced oxidation processes at mild conditions in wet scrubbers for odourous sulphur compounds treatment.\nE. Vega, MJ. Martin, R. Gonzalez-Olmos\nChemosphere 2014 Aug;109:113-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24873715"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222_Hydrogen peroxide_Chlorides_Materials and method.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is utilized as an oxidizing agent in various treatment methods, including Fenton and photo-Fenton oxidation, which involve iron chloride (FeCl2). While chlorides are mentioned in relation to the use of iron chloride, there is no direct discussion of their interaction with hydrogen peroxide or their role in the oxidation processes. The focus remains on the efficiency of oxidation treatments rather than a specific relationship between H2O2 and chlorides.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chlorides",
+                        "target": "89222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "89222",
+                        "target": "89222_Hydrogen peroxide_Chlorides_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hydroxyl Radical": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydroxyl Radical",
+                        "label": "Hydroxyl Radical",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "94016",
+                        "label": "Non-invasive collection of exhaled breath condensate in rats: evaluation of pH, H₂O₂ and NOx in lipopolysaccharide-induced acute lung injury.\nV. de Broucker, SM. Hassoun, S. Hulo, N. Chérot-Kornobis, R. Nevière, R. Matran, A. Sobaszek, JL. Edme\nVet. J. 2012 Nov;194(2):222-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22658821"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "94016_Hydrogen peroxide_Hydroxyl Radical_Introduction.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) and hydroxyl radicals are both identified as reactive oxygen species (ROS) generated during mitochondrial respiration and lipid oxidation. Their production is linked to oxidative stress and aging, indicating that both species play a role in cellular redox status and signaling. The relationship highlights their common origin and involvement in oxidative processes within cells, suggesting they may influence similar biological pathways.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556",
+                        "label": "Increased hydrogen peroxide in the expired breath of patients with acute hypoxemic respiratory failure.\nJI. Sznajder, A. Fraiman, JB. Hall, W. Sanders, G. Schmidt, G. Crawford, A. Nahum, P. Factor, LD. Wood\nChest 1989 Sep;96(3):606-12.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/2766820"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556_Hydrogen peroxide_Hydroxyl Radical_DISCUSSION.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) and hydroxyl radical (OH•) are both identified as toxic oxygen metabolites implicated in lung injury and acute respiratory distress syndrome (ARDS). They are produced through various biochemical pathways activated by neutrophils and other phagocytic cells. Both species are suggested to mediate tissue damage in pathological conditions, indicating a significant relationship in the context of oxidative stress and lung injury mechanisms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656",
+                        "label": "Intensification of volatile organic compounds mass transfer in a compact scrubber using the O3/H2O2 advanced oxidation process: kinetic study and hydroxyl radical tracking.\nPF. Biard, A. Couvert, C. Renner, JP. Levasseur\nChemosphere 2011 Nov;85(7):1122-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21880350"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Hydroxyl Radical_Introduction.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is indirectly related to hydroxyl radicals (HO°) through their roles in chemical reactions involving ozone (O3) and volatile organic compounds (VOCs). The generation of hydroxyl radicals is mentioned as a consequence of ozone decomposition, which can also involve hydrogen peroxide. The study aims to understand the kinetics of these reactions, highlighting the significance of both species in oxidative processes, although their direct interaction is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95261",
+                        "label": "Pulmonary oxidative stress is induced by maximal exercise in young cigarette smokers.\nS. Taito, K. Sekikawa, S. Domen, K. Konishi, T. Kimura, M. Takahashi, T. Inamizu, H. Hamada\nNicotine Tob. Res. 2012 Feb;14(2):243-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22080589"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95261_Hydrogen peroxide_Hydroxyl Radical_DISCUSSION.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) and hydroxyl radical (OH•) are both classified as reactive oxygen species (ROS) formed during the incomplete reduction of oxygen. While H2O2 is described as a nonpolar, membrane-permeable molecule that serves as an efficient signaling molecule, the hydroxyl radical is noted for its high reactivity. The relationship highlights the differing roles and characteristics of these ROS in cellular processes, particularly in apoptosis and signaling pathways.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydroxyl Radical",
+                        "target": "94016",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "94016",
+                        "target": "94016_Hydrogen peroxide_Hydroxyl Radical_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydroxyl Radical",
+                        "target": "120556",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "120556",
+                        "target": "120556_Hydrogen peroxide_Hydroxyl Radical_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydroxyl Radical",
+                        "target": "95656",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Hydroxyl Radical_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydroxyl Radical",
+                        "target": "95261",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95261",
+                        "target": "95261_Hydrogen peroxide_Hydroxyl Radical_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Organic sulfur compound": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic sulfur compound",
+                        "label": "Organic sulfur compound",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222",
+                        "label": "Integration of advanced oxidation processes at mild conditions in wet scrubbers for odourous sulphur compounds treatment.\nE. Vega, MJ. Martin, R. Gonzalez-Olmos\nChemosphere 2014 Aug;109:113-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24873715"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222_Hydrogen peroxide_Organic sulfur compound_Treatment comparison.json",
+                        "label": "In this context, hydrogen peroxide is involved in advanced oxidation processes (AOPs) where it competes with organic sulfur compounds for hydroxyl radicals during treatments like UV/H2O2 and Fenton. The presence of organic sulfur compounds affects the efficiency of hydrogen peroxide decomposition, leading to increased consumption of hydrogen peroxide without significant mineralization of sulfur compounds. This indicates a competitive relationship where organic sulfur compounds influence the reactivity and effectiveness of hydrogen peroxide in the treatment process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic sulfur compound",
+                        "target": "89222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "89222",
+                        "target": "89222_Hydrogen peroxide_Organic sulfur compound_Treatment comparison.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "peroxone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "peroxone",
+                        "label": "peroxone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656",
+                        "label": "Intensification of volatile organic compounds mass transfer in a compact scrubber using the O3/H2O2 advanced oxidation process: kinetic study and hydroxyl radical tracking.\nPF. Biard, A. Couvert, C. Renner, JP. Levasseur\nChemosphere 2011 Nov;85(7):1122-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21880350"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_peroxone_Introduction.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is a key component of the peroxone process, which involves the simultaneous use of ozone (O3) and hydrogen peroxide to generate hydroxyl radicals (HO°) for advanced oxidation processes (AOPs). The interaction between H2O2 and O3 leads to the formation of HO°, which are crucial for the oxidative degradation of pollutants. The efficiency of the peroxone process is influenced by the ratio of H2O2 to O3, indicating a significant and direct relationship between these two substances in enhancing the degradation of volatile organic compounds (VOCs).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "peroxone",
+                        "target": "95656",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_peroxone_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "ionization": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ionization",
+                        "label": "ionization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425",
+                        "label": "A new combined green method for 2-Chlorophenol removal using cross-linked Brassica rapa peroxidase in silicone oil.\nN. Tandjaoui, M. Abouseoud, A. Couvert, A. Amrane, A. Tassist\nChemosphere 2016 Apr;148:55-60.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26802263"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425_Hydrogen peroxide_ionization_Materials and method.json",
+                        "label": "In this context, hydrogen peroxide is utilized as a substrate in a peroxidase reaction, where its oxidation is monitored spectrophotometrically. Ionization is indirectly related as the flame ionization detector (FID) is used in gas chromatography to analyze compounds, but there is no direct discussion of how hydrogen peroxide itself undergoes ionization in this specific reaction or analysis. The focus is primarily on the enzymatic activity involving hydrogen peroxide rather than its ionization properties.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ionization",
+                        "target": "85425",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "85425",
+                        "target": "85425_Hydrogen peroxide_ionization_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "hydrogen peroxide biosynthesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "hydrogen peroxide biosynthesis",
+                        "label": "hydrogen peroxide biosynthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "96667",
+                        "label": "Standardization of exhaled breath condensate: effects of different de-aeration protocols on pH and H₂O₂ concentrations.\nJL. Lin, MH. Bonnichsen, PS. Thomas\nJ Breath Res 2011 Mar;5(1):011001.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21389585"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "96667_Hydrogen peroxide_hydrogen peroxide biosynthesis_RESULTS.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is measured as a product generated by macrophages and monocytes in response to exposure to chrysotile asbestos. The study assesses the rate of hydrogen peroxide generation, indicating a direct relationship between the presence of hydrogen peroxide and its biosynthesis in the cells. The results suggest that the generation of hydrogen peroxide is influenced by the cellular environment and the genetic background of the mice, particularly in the context of oxidative stress responses.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "hydrogen peroxide biosynthesis",
+                        "target": "96667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "96667",
+                        "target": "96667_Hydrogen peroxide_hydrogen peroxide biosynthesis_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Zero order kinetics": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Zero order kinetics",
+                        "label": "Zero order kinetics",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980",
+                        "label": "Chemical absorption process for degradation of VOC gas using heterogeneous gas-liquid photocatalytic oxidation: toluene degradation by photo-Fenton reaction.\nM. Tokumura, R. Nakajima, HT. Znad, Y. Kawase\nChemosphere 2008 Oct;73(5):768-75.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18653212"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980_Hydrogen peroxide_Zero order kinetics_Results and discussi.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is involved in a photoreactor system where its decomposition follows pseudo-zero order kinetics. This means that the rate of H2O2 decomposition is constant and independent of its concentration, which is significant for understanding the reaction dynamics in the system. The relationship is highlighted by the equation representing the rate of change of H2O2 concentration over time, indicating a clear connection between the substance and the kinetic model used to describe its reaction behavior.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Zero order kinetics",
+                        "target": "101980",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "101980",
+                        "target": "101980_Hydrogen peroxide_Zero order kinetics_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Impacts, Environmental": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Impacts, Environmental",
+                        "label": "Impacts, Environmental",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105499",
+                        "label": "The mechanism and applicability of in situ oxidation of trichloroethylene with Fenton's reagent.\nG. Chen, GE. Hoag, P. Chedda, F. Nadim, BA. Woody, GM. Dobbs\nJ. Hazard. Mater. 2001 Oct;87(1-3):171-86.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11566408"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105499_Hydrogen peroxide_Impacts, Environmental_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is a key component of Fenton's reagent, which is utilized for the in situ oxidation of trichloroethylene (TCE) in contaminated sites. The environmental impacts of using hydrogen peroxide in this application are highlighted, as it is noted for its strong oxidation capabilities and relatively low environmental footprint compared to other oxidants. The effectiveness of this method in remediating TCE contamination is discussed, indicating both successes and limitations in various studies.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Impacts, Environmental",
+                        "target": "105499",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105499",
+                        "target": "105499_Hydrogen peroxide_Impacts, Environmental_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "axon guidance": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "axon guidance",
+                        "label": "axon guidance",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "107434",
+                        "label": "[Limitations of the technique to determine hydrogen peroxide levels in exhaled breath condensate from patients with adult respiratory distress syndrome].\nA. Bruhn, L. Liberona, C. Lisboa, G. Borzone\nArch. Bronconeumol. 2005 Oct;41(10):542-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16266666"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "107434_Hydrogen peroxide_axon guidance_Discussion.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is implicated in axon guidance through its ability to oxidize G-actin, leading to conformational changes that may affect the integrity of F-actin filaments. These modifications can influence the biophysical properties of the cytoskeleton, which is crucial for axon guidance. The study suggests that H2O2 may act as a signaling molecule that interacts with other endogenous molecules, further supporting its role in the physiological processes related to axon guidance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "axon guidance",
+                        "target": "107434",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "107434",
+                        "target": "107434_Hydrogen peroxide_axon guidance_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Oxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "94016",
+                        "label": "Non-invasive collection of exhaled breath condensate in rats: evaluation of pH, H₂O₂ and NOx in lipopolysaccharide-induced acute lung injury.\nV. de Broucker, SM. Hassoun, S. Hulo, N. Chérot-Kornobis, R. Nevière, R. Matran, A. Sobaszek, JL. Edme\nVet. J. 2012 Nov;194(2):222-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22658821"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "94016_Hydrogen peroxide_Oxidation_Introduction.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is identified as a reactive oxygen species (ROS) produced during mitochondrial respiration and lipid oxidation. It plays a significant role in oxidative stress, where increased levels of H2O2 can lead to the oxidation of glutathione (GSH) to its oxidized form (GSSG). This oxidation process is crucial for modulating various cellular functions, including enzyme activities and protein interactions, highlighting the direct relationship between hydrogen peroxide and oxidation mechanisms within cells.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425",
+                        "label": "A new combined green method for 2-Chlorophenol removal using cross-linked Brassica rapa peroxidase in silicone oil.\nN. Tandjaoui, M. Abouseoud, A. Couvert, A. Amrane, A. Tassist\nChemosphere 2016 Apr;148:55-60.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26802263"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425_Hydrogen peroxide_Oxidation_Materials and method.json",
+                        "label": "In this context, hydrogen peroxide is utilized as a substrate in a peroxidase-catalyzed oxidation reaction. The addition of hydrogen peroxide initiates the oxidation process, which is monitored through color development. The peroxidase enzyme catalyzes the oxidation of hydrogen peroxide, indicating a direct relationship where hydrogen peroxide acts as a key oxidizing agent in biochemical reactions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222",
+                        "label": "Integration of advanced oxidation processes at mild conditions in wet scrubbers for odourous sulphur compounds treatment.\nE. Vega, MJ. Martin, R. Gonzalez-Olmos\nChemosphere 2014 Aug;109:113-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24873715"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222_Hydrogen peroxide_Oxidation_Materials and method.json",
+                        "label": "In this context, hydrogen peroxide is utilized as an oxidizing agent in various treatments, including UV/H2O2 and Fenton processes, to achieve oxidation of a synthetic multicomponent solution. The experiments compare the oxidative efficiency of hydrogen peroxide with ozone and investigate its concentration's effect on oxidation, highlighting its role in facilitating oxidation reactions through different treatment methods.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222_Hydrogen peroxide_Oxidation_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is discussed as an oxidant that can promote advanced oxidation processes (AOPs). It is compared to other oxidizing agents, such as ozone and chlorine, in terms of oxidation potential. The text highlights the role of hydrogen peroxide in oxidation reactions, particularly in the removal of volatile sulfur compounds (VSCs) through AOPs, indicating its significance in oxidative processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105499",
+                        "label": "The mechanism and applicability of in situ oxidation of trichloroethylene with Fenton's reagent.\nG. Chen, GE. Hoag, P. Chedda, F. Nadim, BA. Woody, GM. Dobbs\nJ. Hazard. Mater. 2001 Oct;87(1-3):171-86.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11566408"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105499_Hydrogen peroxide_Oxidation_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is a key component of Fenton's reagent, which is utilized for the oxidation of trichloroethylene (TCE) in contaminated sites. The strong oxidation capabilities of hydrogen peroxide, when combined with ferrous salts, facilitate the degradation of TCE, highlighting its critical role in oxidation processes for environmental remediation. The effectiveness of this oxidation method is discussed, indicating the importance of hydrogen peroxide in achieving successful contaminant removal.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656",
+                        "label": "Intensification of volatile organic compounds mass transfer in a compact scrubber using the O3/H2O2 advanced oxidation process: kinetic study and hydroxyl radical tracking.\nPF. Biard, A. Couvert, C. Renner, JP. Levasseur\nChemosphere 2011 Nov;85(7):1122-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21880350"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Oxidation_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is discussed as a component of advanced oxidation processes (AOPs) that utilize hydroxyl radicals (HO°) for the oxidation of volatile organic compounds (VOCs). The high reactivity of hydrogen peroxide makes it a suitable oxidant for enhancing mass transfer and degradation of VOCs, indicating a direct relationship between hydrogen peroxide and oxidation processes. The text highlights the role of hydrogen peroxide in facilitating oxidation reactions, particularly in the context of improving VOC solubility and degradation efficiency.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "94016",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "94016",
+                        "target": "94016_Hydrogen peroxide_Oxidation_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "85425",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "85425",
+                        "target": "85425_Hydrogen peroxide_Oxidation_Materials and method.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "89222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "89222",
+                        "target": "89222_Hydrogen peroxide_Oxidation_Materials and method.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "89222",
+                        "target": "89222_Hydrogen peroxide_Oxidation_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "105499",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105499",
+                        "target": "105499_Hydrogen peroxide_Oxidation_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "95656",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Oxidation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "94016",
+                        "label": "Non-invasive collection of exhaled breath condensate in rats: evaluation of pH, H₂O₂ and NOx in lipopolysaccharide-induced acute lung injury.\nV. de Broucker, SM. Hassoun, S. Hulo, N. Chérot-Kornobis, R. Nevière, R. Matran, A. Sobaszek, JL. Edme\nVet. J. 2012 Nov;194(2):222-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22658821"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "94016_Hydrogen peroxide_Respiration_Introduction.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is identified as a reactive oxygen species (ROS) produced during mitochondrial respiration. The generation of H2O2 is linked to the metabolic processes occurring in mitochondria, where it plays a role in redox signaling and oxidative stress responses. The relationship highlights how respiration contributes to the production of H2O2, which can influence cellular functions and signaling pathways.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "94016",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "94016",
+                        "target": "94016_Hydrogen peroxide_Respiration_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "108682",
+                        "label": "Markers of inflammation and oxidative stress in exacerbated chronic obstructive pulmonary disease patients.\nWB. Gerritsen, J. Asin, P. Zanen, JM. van den Bosch, FJ. Haas\nRespir Med 2005 Jan;99(1):84-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15672854"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "108682_Hydrogen peroxide_Exhalation_Introduction.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is measured in exhaled breath condensate as a non-invasive marker of oxidative stress and airway inflammation in patients with chronic obstructive pulmonary disease (COPD). Elevated levels of H2O2 in exhaled air correlate with disease severity and exacerbations, indicating its relevance in monitoring lung health and inflammation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "108682",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "108682",
+                        "target": "108682_Hydrogen peroxide_Exhalation_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "phenol catabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "phenol catabolism",
+                        "label": "phenol catabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425",
+                        "label": "A new combined green method for 2-Chlorophenol removal using cross-linked Brassica rapa peroxidase in silicone oil.\nN. Tandjaoui, M. Abouseoud, A. Couvert, A. Amrane, A. Tassist\nChemosphere 2016 Apr;148:55-60.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26802263"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425_Hydrogen peroxide_phenol catabolism_Results and discussi.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is implicated in the degradation of phenol, specifically through the activity of peroxidases. The study indicates that while H2O2 can enhance the degradation of phenol at lower concentrations, excessive amounts lead to a decrease in the rate and yield of phenol catabolism due to the inactivation of peroxidases. This highlights a critical balance in the concentration of H2O2 for effective phenol degradation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "phenol catabolism",
+                        "target": "85425",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "85425",
+                        "target": "85425_Hydrogen peroxide_phenol catabolism_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Evolution": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Evolution",
+                        "label": "Evolution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656",
+                        "label": "Intensification of volatile organic compounds mass transfer in a compact scrubber using the O3/H2O2 advanced oxidation process: kinetic study and hydroxyl radical tracking.\nPF. Biard, A. Couvert, C. Renner, JP. Levasseur\nChemosphere 2011 Nov;85(7):1122-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21880350"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Evolution_Results and discussi.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is discussed in relation to its role in the peroxone process, which involves the generation of hydroxyl radicals (HO°) through the interaction of hydrogen peroxide and ozone. The evolution of HO° concentration and the reaction kinetics are analyzed, indicating that the presence of hydrogen peroxide significantly enhances radical generation, which is crucial for various chemical processes. However, the term 'evolution' here primarily refers to the changes in concentration and reaction rates rather than a biological or evolutionary context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Evolution_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is mentioned in relation to its role in chemical reactions involving hydroxyl radicals (HO°) generated from ozone decomposition. However, the term 'evolution' is not explicitly defined or connected to hydrogen peroxide in a biological or chemical sense. The discussion focuses on the kinetics of reactions rather than any evolutionary implications or biological evolution related to hydrogen peroxide.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Evolution",
+                        "target": "95656",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Evolution_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Evolution_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Oxidants": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidants",
+                        "label": "Oxidants",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105347",
+                        "label": "Free radicals in exhaled breath condensate in cystic fibrosis and healthy subjects.\nPP. Rosias, GJ. Den Hartog, CM. Robroeks, A. Bast, RA. Donckerwolcke, JW. Heynens, J. Suykerbuyk, HJ. Hendriks, Q. Jöbsis, E. Dompeling\nFree Radic. Res. 2006 Sep;40(9):901-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17015269"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105347_Hydrogen peroxide_Oxidants_Abstract.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is identified as a major oxidant implicated in cataract formation, highlighting its role in oxidative damage within lens epithelial cells. The study explores the cytotoxic effects of H2O2 and its relationship with the activation of nuclear factor kappa B (NF-κB), indicating that H2O2 acts as a significant oxidant in cellular signaling and damage processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222",
+                        "label": "Integration of advanced oxidation processes at mild conditions in wet scrubbers for odourous sulphur compounds treatment.\nE. Vega, MJ. Martin, R. Gonzalez-Olmos\nChemosphere 2014 Aug;109:113-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24873715"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222_Hydrogen peroxide_Oxidants_Results and discussi.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is discussed as an oxidant used in reactions to oxidize volatile sulfur compounds (VSCs). The study indicates that varying concentrations of hydrogen peroxide influence the oxidation rates, with higher concentrations leading to increased oxidation percentages. This suggests that hydrogen peroxide acts as an oxidant in chemical reactions, highlighting its role in oxidation processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222_Hydrogen peroxide_Oxidants_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is identified as one of the oxidants used in advanced oxidation processes (AOPs) for the removal of volatile sulfur compounds (VSCs) in odour treatment systems. The text discusses the role of hydrogen peroxide alongside other oxidants, highlighting its function in generating highly reactive species, such as hydroxyl radicals, which are crucial for effective oxidation. This indicates a direct relationship where hydrogen peroxide is categorized as an oxidant with specific applications in environmental remediation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105499",
+                        "label": "The mechanism and applicability of in situ oxidation of trichloroethylene with Fenton's reagent.\nG. Chen, GE. Hoag, P. Chedda, F. Nadim, BA. Woody, GM. Dobbs\nJ. Hazard. Mater. 2001 Oct;87(1-3):171-86.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11566408"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105499_Hydrogen peroxide_Oxidants_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is identified as a key component of Fenton's reagent, which is a mixture used for the in situ oxidation of contaminants like trichloroethylene (TCE). As an oxidant, hydrogen peroxide plays a crucial role in enhancing the oxidation capabilities of the ferrous salt in the reagent, making it effective for environmental remediation. The relationship is significant as it highlights hydrogen peroxide's function as an oxidant in the degradation process of TCE in contaminated sites.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656",
+                        "label": "Intensification of volatile organic compounds mass transfer in a compact scrubber using the O3/H2O2 advanced oxidation process: kinetic study and hydroxyl radical tracking.\nPF. Biard, A. Couvert, C. Renner, JP. Levasseur\nChemosphere 2011 Nov;85(7):1122-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21880350"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Oxidants_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is discussed as a precursor in the generation of hydroxyl radicals (HO°), which are classified as oxidants. The use of advanced oxidation processes (AOPs) involving hydrogen peroxide aims to enhance the reactivity and efficiency of oxidants in degrading volatile organic compounds (VOCs). The relationship highlights hydrogen peroxide's role in producing powerful oxidants that can facilitate chemical reactions for VOC removal, although its stability poses challenges in practical applications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidants",
+                        "target": "105347",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105347",
+                        "target": "105347_Hydrogen peroxide_Oxidants_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidants",
+                        "target": "89222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "89222",
+                        "target": "89222_Hydrogen peroxide_Oxidants_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "89222",
+                        "target": "89222_Hydrogen peroxide_Oxidants_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidants",
+                        "target": "105499",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105499",
+                        "target": "105499_Hydrogen peroxide_Oxidants_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidants",
+                        "target": "95656",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Oxidants_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "toluene catabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "toluene catabolism",
+                        "label": "toluene catabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980",
+                        "label": "Chemical absorption process for degradation of VOC gas using heterogeneous gas-liquid photocatalytic oxidation: toluene degradation by photo-Fenton reaction.\nM. Tokumura, R. Nakajima, HT. Znad, Y. Kawase\nChemosphere 2008 Oct;73(5):768-75.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18653212"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "101980_Hydrogen peroxide_toluene catabolism_Results and discussi.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is involved in the degradation process of toluene, where the rate constants for both toluene catabolism and H2O2 decomposition are analyzed. The study indicates that the degradation of toluene and the decomposition of H2O2 are interrelated, with both processes being influenced by factors such as toluene gas concentration, Fe concentration, UV light intensity, temperature, and pH. The observed decrease in rate constants with increasing toluene concentration suggests a competitive or cooperative relationship between the two reactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "toluene catabolism",
+                        "target": "101980",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "101980",
+                        "target": "101980_Hydrogen peroxide_toluene catabolism_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "peroxidase activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "peroxidase activity",
+                        "label": "peroxidase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425",
+                        "label": "A new combined green method for 2-Chlorophenol removal using cross-linked Brassica rapa peroxidase in silicone oil.\nN. Tandjaoui, M. Abouseoud, A. Couvert, A. Amrane, A. Tassist\nChemosphere 2016 Apr;148:55-60.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26802263"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "85425_Hydrogen peroxide_peroxidase activity_Materials and method.json",
+                        "label": "In this context, hydrogen peroxide is utilized as a substrate in the measurement of peroxidase activity. The reaction involves the oxidation of guaiacol catalyzed by peroxidase in the presence of hydrogen peroxide, with the peroxidase activity defined as the amount of enzyme that catalyzes the oxidation of 1.0 μmol of hydrogen peroxide per minute. This indicates a direct and critical relationship where hydrogen peroxide is essential for assessing peroxidase activity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "peroxidase activity",
+                        "target": "85425",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "85425",
+                        "target": "85425_Hydrogen peroxide_peroxidase activity_Materials and method.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "enzyme activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "enzyme activity",
+                        "label": "enzyme activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556",
+                        "label": "Increased hydrogen peroxide in the expired breath of patients with acute hypoxemic respiratory failure.\nJI. Sznajder, A. Fraiman, JB. Hall, W. Sanders, G. Schmidt, G. Crawford, A. Nahum, P. Factor, LD. Wood\nChest 1989 Sep;96(3):606-12.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/2766820"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "120556_Hydrogen peroxide_enzyme activity_DISCUSSION.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is highlighted as a reactive oxygen species generated by enzymatic activity in various cellular compartments, including mitochondria and peroxisomes. The enzymes catalase and glutathione peroxidase play crucial roles in regulating intracellular H2O2 levels, indicating a direct relationship between enzyme activity and the concentration of hydrogen peroxide. Elevated H2O2 levels can lead to oxidative stress and potential lung injury, emphasizing the importance of these enzymes in maintaining cellular health.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "enzyme activity",
+                        "target": "120556",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "120556",
+                        "target": "120556_Hydrogen peroxide_enzyme activity_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222",
+                        "label": "Integration of advanced oxidation processes at mild conditions in wet scrubbers for odourous sulphur compounds treatment.\nE. Vega, MJ. Martin, R. Gonzalez-Olmos\nChemosphere 2014 Aug;109:113-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24873715"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "89222_Hydrogen peroxide_Process_Introduction.json",
+                        "label": "In this context, hydrogen peroxide is discussed as an oxidant used in advanced oxidation processes (AOPs) for the removal of volatile sulfur compounds (VSCs) in odour management. The process involves the generation of highly reactive oxidants, including hydroxyl radicals, which enhance the degradation of VSCs. Hydrogen peroxide's role as an oxidant is critical in facilitating these reactions, indicating its importance in the overall treatment process for odour removal.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656",
+                        "label": "Intensification of volatile organic compounds mass transfer in a compact scrubber using the O3/H2O2 advanced oxidation process: kinetic study and hydroxyl radical tracking.\nPF. Biard, A. Couvert, C. Renner, JP. Levasseur\nChemosphere 2011 Nov;85(7):1122-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21880350"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "95656_Hydrogen peroxide_Process_Introduction.json",
+                        "label": "In this context, hydrogen peroxide (H2O2) is integral to the peroxone process, which combines ozone (O3) and H2O2 to generate hydroxyl radicals (HO°) for advanced oxidation processes (AOPs). The efficiency of this process is influenced by the ratio of H2O2 to O3, highlighting its critical role in enhancing the reaction mechanisms involved in pollutant degradation. The relationship is characterized by H2O2's function as a reactant that facilitates the formation of reactive species necessary for the process to occur effectively.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "89222",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "89222",
+                        "target": "89222_Hydrogen peroxide_Process_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "95656",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "95656",
+                        "target": "95656_Hydrogen peroxide_Process_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "GSH is believed to be involved in various diseases, such as atherosclerosis, rheumatoid arthritis, or adult respiratory distress syndrome, in which its normal concentration usually decreases and on the other hand the concentration of the oxidized form (GSSG) increases. The concentration of GSH in biological fluids covers several orders of magnitude, typically from nM to mM. For instance, GSH concentration in whole blood is in the mM range and is about 2\u20133 orders higher than in blood plasma or serum. In saliva, the concentration of GSH is about the same as in the serum samples but only nanomolar concentration of GSH was detected in exhaled breath condensate. Sensitive analytical methods are, therefore, needed to determine low concentrations of GSH in many biological fluids, also due to the need for dilution during sample preparation. Conventional spectrophotometric method developed by Tietze in 1969 is still one of the most widely applied techniques to detect GSH due to its simplicity, satisfactory sensitivity, and low cost. Spectrofluorimetric methods have been developed to improve the sensitivity of GSH and GSSG determination in different matrices [9\u201312]. ",
+    "term_A": "glutathione",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, glutathione (GSH) is discussed in relation to its concentrations in various biological fluids, including exhaled breath condensate. While GSH is typically found in higher concentrations in blood and saliva, its presence in exhaled breath is notably low, indicating a potential challenge in measuring its levels accurately. This suggests that exhalation may not be a primary route for GSH detection, but it highlights the need for sensitive analytical methods to assess its levels in breath samples.",
+        "reason": "The score of 3 reflects a moderate relevance, as glutathione is mentioned in the context of exhaled breath, specifically regarding its low concentration in breath condensate compared to other biological fluids. However, the relationship is not deeply explored beyond this observation.",
+        "score": 3
+    }
+}

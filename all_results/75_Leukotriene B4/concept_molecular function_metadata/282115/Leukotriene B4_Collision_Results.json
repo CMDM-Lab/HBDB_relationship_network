@@ -1,0 +1,10 @@
+{
+    "context": "Quantitative analysis of LTB4 in EBC was performed in MS2 mode in order to increase specificity. The mass spectra of LTB4 and internal standard LTB4-d4 showed a base peak at m/z 335 for endogenous LTB4 and m/z 339 for internal standard LTB4-d4, corresponding to molecular ions. The most abundant product ions obtained by collision-induced decomposition of the carboxylate anion [M\u2212H]\u2212 derived from LTB4 following ESI were m/z 195 and 317 (Fig. 5 ). To measure LTB4 in EBC, after fragmentation of the parent ions m/z 335 (endogenous LTB4) and m/z 339 (deuterated internal standard) with a collision energy of 17 and 19%, respectively, the transition 335\u2192195 m/z and 339\u2192197 m/z was monitored (Fig. 6 ). \u03b1-Amylase concentrations (<22mU/ml) were not detected in any study sample, excluding significant salivary contamination. LTB4 concentrations in EBC were detected in all study samples except for 7 steroid naive atopic children with asthma who were receiving the higher dose of inhaled fluticasone (200\u03bcg/day) (Fig. 7A). Compared with healthy children [87.5 (82.5\u2013102.5) ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Collision",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is analyzed using mass spectrometry, where collision-induced decomposition is a critical step in identifying and quantifying LTB4 in exhaled breath condensate (EBC). The process involves fragmenting LTB4 ions to produce specific product ions, which are then monitored for accurate measurement. The relationship between LTB4 and collision is thus integral to the analytical method employed for its detection.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and collision, as the context details how collision-induced decomposition is essential for the quantitative analysis of LTB4, indicating a clear methodological relationship supported by specific experimental data.",
+        "score": 4
+    }
+}

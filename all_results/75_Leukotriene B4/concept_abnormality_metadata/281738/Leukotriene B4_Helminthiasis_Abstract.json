@@ -1,0 +1,10 @@
+{
+    "context": " [3] However, direct recognition of worms by eosinophils has not been explored as a mechanism for amplifying eosinophil accumulation.  [4] Here, we report that eosinophils rapidly migrate toward diverse nematode species in three-dimensional culture.  [5] These include the mammalian parasite Nippostrongylus brasiliensis and the free-living nematode Caenorhabditis elegans.  [6] Surprisingly, collective migration toward worms requires paracrine leukotriene B4 signaling between eosinophils.  [7] In contrast, neutrophils show a minimal response to nematodes, yet are able to undergo robust leukotriene-dependent migration toward IgG-coated beads.  [8] We further demonstrate that eosinophils accumulate around C. elegans in the lungs of mice.  [9] This response is not dependent on bacterial products, CCR3, or complement activation. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Helminthiasis",
+    "llm_generation": {
+        "summary": "In this context, leukotriene B4 is identified as a crucial signaling molecule that facilitates the migration of eosinophils towards nematodes, including the helminth Nippostrongylus brasiliensis. This paracrine signaling is essential for eosinophil accumulation around the nematodes, indicating a significant role of leukotriene B4 in the immune response to helminthiasis. The study highlights the specific interaction between eosinophils and helminths, mediated by leukotriene B4, suggesting its importance in the host's defense against parasitic infections.",
+        "reason": "The score of 5 reflects a strong relevance between leukotriene B4 and helminthiasis, as the context explicitly describes how leukotriene B4 signaling is necessary for eosinophil migration towards nematodes, indicating a critical role in the immune response to helminth infections.",
+        "score": 5
+    }
+}

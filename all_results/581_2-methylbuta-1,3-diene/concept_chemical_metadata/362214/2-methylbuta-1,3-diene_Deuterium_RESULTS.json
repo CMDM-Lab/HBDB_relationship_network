@@ -1,0 +1,10 @@
+{
+    "context": "[6] Photosynthesis was largely unaffected by administration of 2.94 mm DOX-d2. [1] Time course of isoprene emission and photosynthesis rate of a leaf fed with DOX-d2. [2] The light was turned on at point 1 (1,000 \u00ce\u00bcmol m\u00e2\u02c6\u20192 s\u00e2\u02c6\u20191), and DOX-d2 (2.94 mm) was added to the water fed to the petiole of the leaf at point 2. At point 3, the solution feeding the petiole was replaced with water. [3] Green triangles represent total isoprene emission, black squares represent isoprene not labeled with deuterium, red circles represent deuterium-labeled isoprene, and blue inverted triangles represent photosynthetic rate. [4] The solid gray line represents leaf temperature. [1] In most experiments, feeding 2.94 mm DOX-d2 resulted in half or more of the emitted isoprene to be labeled. [2] The average proportion after 90 min of feeding was 56 \u00c2\u00b1 5% (average \u00c2\u00b1 se, n = 8). ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Deuterium",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene (isoprene) is studied in relation to deuterium-labeled compounds (DOX-d2) during photosynthesis experiments. The administration of DOX-d2 resulted in a significant proportion of emitted isoprene being labeled with deuterium, indicating a direct relationship where deuterium is used to trace the metabolic pathway of isoprene emission in the leaf. This suggests that deuterium labeling is effective in studying the dynamics of isoprene production during photosynthesis.",
+        "reason": "The score of 4 reflects a significant connection between 2-methylbuta-1,3-diene and deuterium, as the context provides evidence of deuterium's role in labeling isoprene emissions, indicating a clear metabolic relationship in the study of photosynthesis.",
+        "score": 4
+    }
+}

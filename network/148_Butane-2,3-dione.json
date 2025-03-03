@@ -1,0 +1,2587 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Butane-2,3-dione",
+                    "label": "Butane-2,3-dione",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane-2,3-dione",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane-2,3-dione",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane-2,3-dione",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane-2,3-dione",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane-2,3-dione",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane-2,3-dione",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane-2,3-dione",
+                        "label": "Butane-2,3-dione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Occupational lung disease",
+                        "label": "Occupational lung disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Airway Obstruction",
+                        "label": "Airway Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma attack NOS",
+                        "label": "Asthma attack NOS",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Bronchitis, Chronic",
+                        "label": "Bronchitis, Chronic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chronic Obstructive Airway Disease",
+                        "label": "Chronic Obstructive Airway Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Bronchiolitis Obliterans",
+                        "label": "Bronchiolitis Obliterans",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Occupational lung disease",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Airway Obstruction",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Asthma attack NOS",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Bronchitis, Chronic",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Asthma",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Chronic Obstructive Airway Disease",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Bronchiolitis Obliterans",
+                        "score": 16
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Lung diseases",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane-2,3-dione",
+                        "label": "Butane-2,3-dione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "dinitrophenylhydrazine",
+                        "label": "dinitrophenylhydrazine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "isovalerylaldehyde",
+                        "label": "isovalerylaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-pentanone",
+                        "label": "2-pentanone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "isopentyl alcohol",
+                        "label": "isopentyl alcohol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Coal",
+                        "label": "Coal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pentanedione",
+                        "label": "Pentanedione",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "n-hexanal",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "dinitrophenylhydrazine",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Metabolites",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "isovalerylaldehyde",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Chemicals",
+                        "score": 22
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "2-pentanone",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "isopentyl alcohol",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Acetaldehyde",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Coal",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Pentanedione",
+                        "score": 6
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane-2,3-dione",
+                        "label": "Butane-2,3-dione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sterility",
+                        "label": "Sterility",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Occupational hazard",
+                        "label": "Occupational hazard",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pulmonary function",
+                        "label": "pulmonary function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Extravasation",
+                        "label": "Extravasation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Bioluminescence",
+                        "label": "Bioluminescence",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adverse effects",
+                        "label": "Adverse effects",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Vital capacity",
+                        "label": "Vital capacity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Evolution",
+                        "label": "Evolution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Obstruction",
+                        "label": "Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Sterility",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Occupational hazard",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "pulmonary function",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Extravasation",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "volatile substances",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Oxidation",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Respiration",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Bioluminescence",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Adverse effects",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Vital capacity",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Evolution",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Obstruction",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Process",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane-2,3-dione",
+                        "target": "Respiratory physiology",
+                        "score": 21
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane-2,3-dione",
+                        "label": "Butane-2,3-dione",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane-2,3-dione",
+                        "label": "Butane-2,3-dione",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane-2,3-dione",
+                        "label": "Butane-2,3-dione",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Occupational lung disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Occupational lung disease",
+                        "label": "Occupational lung disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Occupational lung disease_Statistics from Altm.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is directly linked to occupational lung disease, specifically bronchiolitis obliterans syndrome (BOS), commonly referred to as 'popcorn worker's lung.' The text discusses the exposure-response relationship between cumulative diacetyl exposure and abnormal lung function among workers in the microwave popcorn industry, indicating a significant health risk associated with inhalation of this chemical. The findings highlight the prevalence of respiratory symptoms and airway obstruction in workers exposed to diacetyl, establishing a clear connection between the chemical and occupational lung disease.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Occupational lung disease",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Occupational lung disease_Statistics from Altm.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Airway Obstruction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Airway Obstruction",
+                        "label": "Airway Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Airway Obstruction_Statistics from Altm.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) is linked to airway obstruction through its role as a predominant chemical in butter flavoring, which has been associated with bronchiolitis obliterans syndrome (BOS) in workers exposed to it. The study indicates a clear exposure-response relationship, where higher cumulative exposure to diacetyl correlates with increased prevalence of abnormal lung function and respiratory symptoms, including airway obstruction. This suggests that diacetyl exposure is a significant risk factor for developing airway obstruction in affected workers.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Airway Obstruction",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Airway Obstruction_Statistics from Altm.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Asthma attack NOS": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma attack NOS",
+                        "label": "Asthma attack NOS",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Asthma attack NOS_Abstract.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is linked to respiratory symptoms among workers exposed to it. The study reports a significant increase in the prevalence of asthma attacks among diacetyl workers compared to both the general population and minimally exposed internal reference groups. This suggests a direct association between diacetyl exposure and the incidence of asthma attacks, highlighting its potential as an occupational hazard.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma attack NOS",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Asthma attack NOS_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Bronchitis, Chronic": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Bronchitis, Chronic",
+                        "label": "Bronchitis, Chronic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Bronchitis, Chronic_Results.json",
+                        "label": "In this context, Butane-2,3-dione is not directly mentioned in relation to chronic bronchitis. The study discusses participants' diagnoses of chronic bronchitis and other respiratory conditions, but there is no specific mention of Butane-2,3-dione's role or impact on bronchitis. The connection between the two terms is absent, indicating a lack of direct relevance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Bronchitis, Chronic",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Bronchitis, Chronic_Results.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Asthma_DISCUSSION.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is linked to respiratory symptoms, including asthma, among workers exposed to it in a popcorn plant. The study indicates that process operators exposed to diacetyl exhibited significantly more respiratory symptoms and a decrease in pulmonary function, suggesting a potential occupational hazard related to asthma. The findings highlight a concerning relationship between diacetyl exposure and respiratory health outcomes, including asthma-like symptoms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Asthma_Abstract.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is linked to respiratory symptoms, including asthma, among workers exposed to it. The study reports a significantly higher prevalence of asthma attacks and doctor-diagnosed asthma in diacetyl-exposed workers compared to both the general population and minimally exposed groups. This suggests a direct association between diacetyl exposure and increased asthma-related respiratory issues.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Asthma_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Asthma_Abstract.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Chronic Obstructive Airway Disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chronic Obstructive Airway Disease",
+                        "label": "Chronic Obstructive Airway Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Chronic Obstructive Airway Disease_Results.json",
+                        "label": "In this context, Butane-2,3-dione is not directly mentioned in relation to Chronic Obstructive Airway Disease (COPD). The text discusses participants' smoking habits and diagnoses of respiratory conditions, including chronic bronchitis and COPD, but does not establish a specific connection between Butane-2,3-dione and these diseases. Therefore, any potential relationship remains unclear and unexamined.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic Obstructive Airway Disease",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Chronic Obstructive Airway Disease_Results.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Bronchiolitis Obliterans": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Bronchiolitis Obliterans",
+                        "label": "Bronchiolitis Obliterans",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Bronchiolitis Obliterans_Introduction.json",
+                        "label": "In this context, Butane-2,3-dione is mentioned as a substitute for diacetyl, a compound linked to respiratory toxicity, specifically obliterative bronchiolitis in flavoring manufacturing workers. The study highlights cases of bronchiolitis obliterans associated with flavoring chemicals, suggesting a potential relationship between exposure to Butane-2,3-dione and respiratory health issues, although the direct impact of Butane-2,3-dione on bronchiolitis obliterans is not explicitly established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Bronchiolitis Obliterans_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione is mentioned as a chemically related substitute to diacetyl, which is known to be a respiratory toxin linked to obliterative bronchiolitis. The text suggests that flavoring chemicals, including Butane-2,3-dione, should be treated with caution due to potential respiratory toxicity, indicating a possible association with bronchiolitis obliterans and other lung diseases. However, the specific relationship between Butane-2,3-dione and bronchiolitis obliterans is not explicitly detailed, leaving the connection somewhat implied rather than directly established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Bronchiolitis Obliterans_Conclusion.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is directly linked to the development of bronchiolitis obliterans among workers in a flavoring manufacturing facility. The study indicates that exposure to diacetyl is associated with respiratory symptoms and lung function abnormalities, with specific cases of bronchiolitis obliterans identified among workers. This suggests a significant occupational health risk related to diacetyl exposure, warranting further investigation and preventive measures.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Bronchiolitis Obliterans_Abstract.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is directly linked to the development of bronchiolitis obliterans among workers exposed to this flavoring chemical. The study indicates that symptoms and lung function abnormalities observed in the workforce are consistent with undiagnosed bronchiolitis obliterans, highlighting the need for reduced exposure to diacetyl and its substitutes to prevent respiratory diseases.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Bronchiolitis Obliterans",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Bronchiolitis Obliterans_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Bronchiolitis Obliterans_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Bronchiolitis Obliterans_Conclusion.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Bronchiolitis Obliterans",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Bronchiolitis Obliterans_Abstract.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Lung diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Lung diseases_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione is indirectly related to lung diseases through its classification as a flavoring chemical that may pose respiratory toxicity risks similar to diacetyl. The text discusses potential respiratory diseases, including obliterative bronchiolitis and emphysema, associated with exposure to flavoring agents, suggesting that Butane-2,3-dione could contribute to similar lung health issues. However, the specific impact of Butane-2,3-dione on lung diseases is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lung diseases",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Lung diseases_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "n-hexanal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_n-hexanal_Materials and method.json",
+                        "label": "In this context, Butane-2,3-dione and n-hexanal are both volatile organic compounds (VOCs) identified and quantified during the gas chromatography (GC) analysis of meat samples. However, the context does not provide any specific information about their interactions, functional relationships, or comparative significance in the study, indicating they are merely part of a broader analysis of VOCs in food spoilage.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_n-hexanal_Results.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) and n-hexanal are both volatile organic compounds (VOCs) detected in pork samples analyzed for sensory spoilage. While both compounds are included in the analysis of VOCs, the context does not provide a direct relationship or interaction between them. Instead, they are part of a broader study examining the correlation of various VOCs with bacterial levels in pork, with diacetyl showing a stronger correlation with aerobic bacteria than n-hexanal.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_n-hexanal_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione and n-hexanal are both mentioned as volatile compounds associated with the spoilage of pork. However, their specific relationship is not directly discussed. While hexanal is noted for its presence in both fresh and spoiled meat, Butane-2,3-dione is not explicitly linked to spoilage mechanisms or odor contributions in the provided text. Thus, their connection remains unclear and indirect.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-hexanal",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_n-hexanal_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_n-hexanal_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_n-hexanal_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "dinitrophenylhydrazine": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "dinitrophenylhydrazine",
+                        "label": "dinitrophenylhydrazine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_dinitrophenylhydrazine_RESULTS.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) is analyzed using dinitrophenylhydrazine (DNPH) cartridges for exposure monitoring in a diacetyl plant. DNPH is employed to capture and quantify carbonyl compounds like diacetyl and acetaldehyde through gas chromatography. This indicates a direct analytical relationship where DNPH serves as a reagent for detecting Butane-2,3-dione in occupational exposure assessments.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "dinitrophenylhydrazine",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_dinitrophenylhydrazine_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Metabolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_Metabolites_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) is identified as a significant volatile metabolite produced by bacteria such as B. thermosphacta and LAB in pork under aerobic conditions. The study highlights the role of diacetyl and its reduction product, acetoin, as key metabolites associated with bacterial growth in meat, indicating their importance in the metabolic processes occurring during meat storage and spoilage.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolites",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_Metabolites_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "isovalerylaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "isovalerylaldehyde",
+                        "label": "isovalerylaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_isovalerylaldehyde_Results.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) and isovalerylaldehyde are both volatile organic compounds (VOCs) analyzed in relation to sensory assessments of pork samples. However, the context primarily focuses on diacetyl's correlation with bacterial levels, without establishing a direct relationship or interaction between Butane-2,3-dione and isovalerylaldehyde. Their mention is more about their presence in the same analysis rather than a specific functional or chemical relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "isovalerylaldehyde",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_isovalerylaldehyde_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_Chemicals_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione is not explicitly mentioned, but it can be categorized as a chemical compound relevant to the discussion of volatile organic compounds (VOCs) and their role in food spoilage and quality assessment. The context primarily focuses on the effects of various VOCs, including hexanal and 1-octen-3-ol, on pork meat quality, indicating a broader discussion about chemical interactions in food preservation. However, there is no direct relationship established between Butane-2,3-dione and the other chemicals mentioned.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Chemicals_Abstract.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is identified as a specific flavoring chemical associated with adverse respiratory effects, particularly obliterative bronchiolitis, in occupational settings. The discussion emphasizes the need for exposure reduction to flavoring chemicals, indicating that Butane-2,3-dione is a representative example of the broader category of chemicals that pose health risks in the workplace. However, the relationship is primarily focused on the specific health implications of Butane-2,3-dione rather than a detailed exploration of its interactions with other chemicals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Chemicals_Conclusion.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is identified as a specific chemical associated with occupational exposure among flavoring manufacturing workers. The study highlights health issues, particularly respiratory symptoms and lung function abnormalities, linked to exposure to flavoring chemicals, including diacetyl. This indicates a direct relevance of Butane-2,3-dione as a chemical of concern in the workplace, emphasizing the need for reduced exposure to such chemicals to protect worker health.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Chemicals_Introduction.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is discussed as a chemical associated with respiratory toxicity, particularly in occupational settings involving flavoring agents. The text highlights the health risks linked to diacetyl and its substitutes, indicating that it is part of a broader category of flavoring chemicals that may pose similar health hazards. However, the relationship is primarily focused on diacetyl rather than a detailed exploration of Butane-2,3-dione's interactions with other chemicals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Chemicals_Statistics from Altm.json",
+                        "label": "In this context, Butane-2,3-dione is mentioned as a flavoring chemical related to workplace exposures that may lead to respiratory issues, similar to diacetyl. The discussion emphasizes the need for safety evaluations of flavoring chemicals, indicating that Butane-2,3-dione is part of a broader category of chemicals that pose health risks in occupational settings. However, the specific relationship between Butane-2,3-dione and the general term 'chemicals' is not deeply explored beyond its classification as a flavoring agent.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Chemicals_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione is mentioned as a flavoring chemical that is part of a broader discussion on respiratory toxicity associated with flavoring chemicals, including diacetyl and 2,3-pentanedione. The text emphasizes the need for caution in handling these chemicals due to their potential respiratory hazards, indicating that Butane-2,3-dione is included in the category of chemicals that may pose similar risks. However, the specific relationship between Butane-2,3-dione and the broader category of chemicals is not deeply explored beyond its classification as a flavoring agent.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Chemicals_Statistics from Altm.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is identified as a significant chemical associated with occupational lung disease, specifically bronchiolitis obliterans syndrome (BOS) among workers in the microwave popcorn industry. The relationship is highlighted through evidence of exposure-response correlations between diacetyl levels and respiratory health outcomes, indicating its harmful effects as a chemical in flavoring agents. Thus, Butane-2,3-dione is a specific example of a chemical that poses health risks in certain occupational settings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_Chemicals_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Chemicals_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Chemicals_Conclusion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Chemicals_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Chemicals_Statistics from Altm.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Chemicals_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Chemicals_Statistics from Altm.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "2-pentanone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-pentanone",
+                        "label": "2-pentanone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_2-pentanone_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione and 2-pentanone are both mentioned as volatile organic compounds (VOCs) associated with the storage and spoilage of pork meat. While 2-pentanone is specifically noted to increase during storage, Butane-2,3-dione is not directly discussed in relation to spoilage or oxidation processes. Their relationship is implied through their shared context as VOCs in food quality assessment, but no direct interaction or comparative analysis is provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_2-pentanone_Materials and method.json",
+                        "label": "In this context, Butane-2,3-dione and 2-pentanone are both mentioned as reference compounds used in the identification and quantification of volatile organic compounds (VOCs) in meat samples analyzed by gas chromatography. However, there is no detailed discussion of their specific interactions or functional relationships, indicating they are simply part of a broader analysis of VOCs without a direct connection between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_2-pentanone_Results.json",
+                        "label": "In this context, Butane-2,3-dione (also known as diacetyl) and 2-pentanone are both volatile organic compounds (VOCs) detected in pork samples. While the study notes that concentrations of various VOCs, including 2-pentanone, increased during storage, it specifically associates the increase of Butane-2,3-dione with bacterial growth. However, there is no direct interaction or comparative analysis between the two compounds, indicating they are part of a broader analysis of VOCs in meat rather than having a specific relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-pentanone",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_2-pentanone_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_2-pentanone_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_2-pentanone_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "isopentyl alcohol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "isopentyl alcohol",
+                        "label": "isopentyl alcohol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_isopentyl alcohol_Results.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) and isopentyl alcohol are both volatile organic compounds (VOCs) detected in pork samples, with diacetyl showing a strong correlation with levels of various bacteria. However, the relationship between these two specific compounds is not directly discussed, and their individual roles in sensory spoilage are highlighted without a clear interaction between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_isopentyl alcohol_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione (also known as diacetyl) and isopentyl alcohol (3-methyl-1-butanol) are both mentioned as compounds produced by Pseudomonas phosphoreum during bacterial growth in pork spoilage. While both compounds are associated with sensory defects in food, the context does not provide a direct interaction or detailed relationship between them, merely indicating their co-occurrence in spoilage processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_isopentyl alcohol_Materials and method.json",
+                        "label": "In this context, Butane-2,3-dione and isopentyl alcohol are both mentioned as reference compounds used in the identification and quantification of volatile organic compounds (VOCs) in meat samples. However, there is no direct discussion of their chemical interactions or functional relationships. They are simply part of a broader analysis involving various VOCs without specific relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "isopentyl alcohol",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_isopentyl alcohol_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_isopentyl alcohol_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_isopentyl alcohol_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Acetaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Acetaldehyde_Abstract.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) and acetaldehyde are both mentioned as chemicals to which workers were potentially exposed in a plant producing diacetyl. However, the context does not provide specific details about their interactions or shared effects on health. Both compounds are part of the exposure profile, but their relationship is not elaborated upon beyond their presence in the same occupational setting.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Acetaldehyde_RESULTS.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) and acetaldehyde are both volatile organic compounds (VOCs) monitored for exposure in a production environment. The study highlights that control measures implemented in 2001 significantly reduced exposure levels for both compounds. However, the relationship between them is primarily based on their co-occurrence in the workplace and the shared context of exposure monitoring rather than any direct chemical interaction or metabolic relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Acetaldehyde_DISCUSSION.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) and acetaldehyde are both mentioned as chemicals to which process operators were potentially exposed during diacetyl production. However, the context does not provide a direct relationship or interaction between the two compounds, merely indicating their presence in the same occupational environment. The focus is primarily on the exposure levels and their potential effects on pulmonary function, rather than any specific biochemical interaction between the two substances.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acetaldehyde",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Acetaldehyde_Abstract.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Acetaldehyde_RESULTS.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Acetaldehyde_DISCUSSION.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Coal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Coal",
+                        "label": "Coal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Coal_METHODS.json",
+                        "label": "In this context, Butane-2,3-dione (also known as diacetyl) is mentioned in relation to workers in a diacetyl production plant, while coal is referenced in the context of using spirometric reference values from the European Community for Steel and Coal. However, there is no direct discussion of a relationship between Butane-2,3-dione and coal, as they are mentioned in separate contexts without any indication of interaction or relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Coal",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Coal_METHODS.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Pentanedione": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pentanedione",
+                        "label": "Pentanedione",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Pentanedione_Introduction.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) and Pentanedione are both mentioned as compounds relevant to respiratory health in flavoring manufacturing workers. The study highlights a transition from diacetyl to 2,3-pentanedione as a substitute in the workplace. While both compounds are diketones and may have similar health implications, the focus is on the shift in usage rather than a direct comparison of their effects or interactions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Pentanedione_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione and Pentanedione are both mentioned as flavoring chemicals that may pose respiratory toxicity risks similar to diacetyl. The discussion highlights a shift in the flavoring manufacturing industry towards these substitutes, indicating that they may have comparable toxicological profiles. However, the specific relationship between Butane-2,3-dione and Pentanedione is not elaborated upon beyond their shared classification as potentially harmful flavoring agents.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pentanedione",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Pentanedione_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Pentanedione_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Sterility": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sterility",
+                        "label": "Sterility",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_Sterility_Results.json",
+                        "label": "In this context, Butane-2,3-dione (also known as diacetyl) is mentioned in relation to sensory defects in non-sterilized pork samples. The presence of diacetyl, along with other volatile organic compounds, is associated with spoilage in non-sterile conditions. However, the relationship between diacetyl and sterility is not explicitly detailed, as the focus is more on spoilage rather than a direct impact of diacetyl on sterility itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sterility",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_Sterility_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Occupational hazard": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Occupational hazard",
+                        "label": "Occupational hazard",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Occupational hazard_DISCUSSION.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is identified as an occupational hazard, particularly for workers in a popcorn plant. The study highlights that process operators exposed to diacetyl exhibited significantly more respiratory symptoms and a notable decrease in pulmonary function compared to other occupational groups. This establishes a clear link between diacetyl exposure and adverse respiratory health outcomes, reinforcing its classification as an occupational hazard.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Occupational hazard_Abstract.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is identified as a significant occupational hazard for workers exposed to it, particularly in the production of microwave popcorn. The study highlights a marked increase in respiratory symptoms among diacetyl workers compared to the general population, indicating a direct link between diacetyl exposure and adverse respiratory health outcomes, including asthma and chronic breathing issues. This establishes diacetyl as a critical occupational health risk.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Occupational hazard",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Occupational hazard_DISCUSSION.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Occupational hazard_Abstract.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "pulmonary function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pulmonary function",
+                        "label": "pulmonary function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_pulmonary function_RESULTS.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) is mentioned in relation to pulmonary function, specifically regarding its exposure among process operators in a diacetyl plant. While there was a borderline significant association with cough symptoms, the analysis did not find a clear link between diacetyl exposure and forced expiratory volume (FEV1). The study indicates some increase in FEV1 among workers, but the relationship with diacetyl exposure remains inconclusive, suggesting that other factors may influence pulmonary function.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pulmonary function",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_pulmonary function_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Extravasation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Extravasation",
+                        "label": "Extravasation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Extravasation_RESULTS.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) is mentioned in relation to exposure incidents among laboratory workers, but there is no direct discussion of its relationship with extravasation. The text primarily focuses on exposure incidents and respiratory symptoms without linking diacetyl to extravasation or detailing any physiological mechanisms that would connect the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Extravasation",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Extravasation_RESULTS.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "volatile substances": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_volatile substances_DISCUSSION.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is identified as a volatile substance predominantly found in air samples from the microwave popcorn industry. It serves as a proxy for flavoring exposure, indicating its significance among other volatile substances in the production environment. The discussion highlights diacetyl's concentration levels and potential health implications, particularly in relation to cases of bronchiolitis obliterans syndrome (BOS).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "volatile substances",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_volatile substances_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Oxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_Oxidation_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione is not explicitly mentioned, but the discussion revolves around the oxidation of lipids in pork meat, which leads to the production of various volatile organic compounds (VOCs) such as hexanal and 1-octen-3-ol. While oxidation is a key process affecting the quality and spoilage of meat, the specific role of Butane-2,3-dione in this oxidation process is not detailed, indicating a lack of direct connection between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_Oxidation_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Respiration_Statistics from Altm.json",
+                        "label": "In this context, Butane-2,3-dione (also known as diacetyl) is linked to respiratory health, particularly concerning its association with obliterative bronchiolitis due to occupational exposure in industries like popcorn and coffee processing. The respiratory toxicity of diacetyl has been confirmed in laboratory models, indicating its harmful effects on lung function and the necessity for exposure reduction measures to protect respiratory health.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Respiration_Results.json",
+                        "label": "In this context, Butane-2,3-dione is indirectly related to respiration through its association with work-related breathing troubles and respiratory symptoms among participants exposed to flavoring ingredients. While the study highlights respiratory issues linked to occupational exposure, it does not specifically detail the effects of Butane-2,3-dione on respiratory function or health outcomes, leaving the relationship somewhat vague.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Respiration_Abstract.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) is linked to respiratory health, as workers exposed to it reported significantly more respiratory symptoms compared to both the general population and a minimally exposed internal reference group. The study highlights a concerning association between diacetyl exposure and increased prevalence of respiratory issues, suggesting that diacetyl poses an occupational hazard affecting respiration.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Respiration_Statistics from Altm.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Respiration_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Respiration_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Bioluminescence": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Bioluminescence",
+                        "label": "Bioluminescence",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_Bioluminescence_Results.json",
+                        "label": "In this context, Butane-2,3-dione is not directly mentioned or linked to bioluminescence. The focus is on the presence of bioluminescent colonies formed by Pseudomonas phosphoreum-like bacteria in pork samples. While Butane-2,3-dione may be relevant in other biochemical contexts, its relationship to bioluminescence in this specific study is not established or discussed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Bioluminescence",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_Bioluminescence_Results.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Adverse effects": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adverse effects",
+                        "label": "Adverse effects",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Adverse effects_Statistics from Altm.json",
+                        "label": "In this context, Butane-2,3-dione (also known as diacetyl) is linked to adverse respiratory effects, particularly obliterative bronchiolitis, in workers exposed to flavoring chemicals. The text emphasizes that reducing exposure to diacetyl alone may not suffice to mitigate respiratory risks, indicating a broader concern for other flavoring agents and their potential adverse effects on lung function.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adverse effects",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Adverse effects_Statistics from Altm.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Vital capacity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Vital capacity",
+                        "label": "Vital capacity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Vital capacity_Methods.json",
+                        "label": "In this context, Butane-2,3-dione is not directly mentioned in relation to vital capacity. The focus is on spirometry testing and definitions of respiratory patterns, including obstructive and restrictive abnormalities based on FEV1 and FVC measurements. There is no discussion of how Butane-2,3-dione may affect vital capacity or respiratory function, indicating a lack of direct relevance between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Vital capacity",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Vital capacity_Methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Evolution": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Evolution",
+                        "label": "Evolution",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827",
+                        "label": "Volatile organic compounds and Photobacterium phosphoreum associated with spoilage of modified-atmosphere-packaged raw pork.\nTT. Nieminen, P. Dalgaard, J. Björkroth\nInt. J. Food Microbiol. 2016 Feb;218:86-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26623935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304827_Butane-2,3-dione_Evolution_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione is not directly related to the concept of evolution. The mention of evolutionary history pertains to the phylogenetic analysis of pork isolates based on 16S rRNA gene sequences, which does not involve Butane-2,3-dione. The focus is on evolutionary distances and tree construction rather than any biochemical or metabolic implications of Butane-2,3-dione.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Evolution",
+                        "target": "304827",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304827",
+                        "target": "304827_Butane-2,3-dione_Evolution_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Obstruction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Obstruction",
+                        "label": "Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Obstruction_Methods.json",
+                        "label": "In this context, Butane-2,3-dione is not directly mentioned in relation to obstruction. The focus is on defining and classifying respiratory conditions based on spirometry results, specifically obstruction as indicated by FEV1 and FEV1/FVC ratios. There is no discussion of Butane-2,3-dione's role or impact on respiratory obstruction, making their relationship unclear.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Obstruction",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Obstruction_Methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Process_RESULTS.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is discussed in relation to its production process and the exposure of process operators to this compound. The study examines the health effects of diacetyl exposure during its production, particularly focusing on respiratory symptoms and pulmonary function. However, the term 'process' is used broadly to refer to the production environment without detailing specific interactions or mechanisms involving diacetyl, limiting the depth of their relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Process_DISCUSSION.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is linked to a specific process associated with respiratory hazards in a workplace setting. The study highlights the risks of diacetyl exposure, particularly in relation to the production process that may lead to severe cases of bronchiolitis obliterans syndrome (BOS). The mention of a process indicates that the handling or production of diacetyl is critical to understanding the associated health risks.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Process_METHODS.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is indirectly related to the 'process' of assessing lung function among workers in a diacetyl plant. The study examines the impact of job history and duration of work in the diacetyl plant on lung function variables, suggesting that the process of working with diacetyl may influence respiratory health. However, the specific interactions between Butane-2,3-dione and the processes involved are not explicitly detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Process_RESULTS.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Process_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Process_METHODS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Respiratory physiology": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859",
+                        "label": "Respiratory symptoms and lung function abnormalities related to work at a flavouring manufacturing facility.\nKJ. Cummings, RJ. Boylstein, ML. Stanton, CA. Piacitelli, NT. Edwards, RF. LeBouf, K. Kreiss\nOccup Environ Med 2014 Aug;71(8):549-54.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/24891557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Respiratory physiology_Discussion.json",
+                        "label": "In this context, Butane-2,3-dione is indirectly related to respiratory physiology through its association with lung function changes observed in workers exposed to flavoring agents. The discussion focuses on the effects of exposure on spirometry and diffusing capacity, indicating that certain chemicals, potentially including Butane-2,3-dione, may contribute to respiratory issues like obliterative bronchiolitis. However, the specific role of Butane-2,3-dione in respiratory physiology is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Respiratory physiology_Abstract.json",
+                        "label": "In this context, Butane-2,3-dione (also known as diacetyl) is indirectly related to respiratory physiology through its mention in the study of lung function and exposure in a flavoring manufacturing facility. The study focuses on the effects of transitioning away from diacetyl towards substitutes, highlighting concerns about respiratory health among workers. While the relationship is relevant, it is not deeply explored in terms of specific physiological impacts or mechanisms related to Butane-2,3-dione.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304859_Butane-2,3-dione_Respiratory physiology_Conclusion.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is implicated in respiratory physiology due to its association with occupational lung diseases, particularly obliterative bronchiolitis among workers exposed to flavoring agents. The study highlights the need for medical surveillance and exposure reduction to mitigate respiratory health risks linked to diacetyl exposure, indicating a direct relationship between the compound and respiratory function outcomes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982",
+                        "label": "A cross-sectional study of lung function and respiratory symptoms among chemical workers producing diacetyl for food flavourings.\nFG. van Rooy, LA. Smit, R. Houba, VA. Zaat, JM. Rooyackers, DJ. Heederik\nOccup Environ Med 2009 Feb;66(2):105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18805877"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Respiratory physiology_METHODS.json",
+                        "label": "In this context, Butane-2,3-dione, also known as diacetyl, is indirectly related to respiratory physiology through its association with lung function variables among workers in a diacetyl plant. The study assesses the impact of occupational exposure to diacetyl on lung function, indicating potential respiratory health risks. However, the specific physiological mechanisms or direct effects of Butane-2,3-dione on respiratory physiology are not detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Respiratory physiology_Abstract.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) is linked to respiratory physiology through its association with bronchiolitis obliterans syndrome observed in workers exposed to this flavoring chemical. The study investigates the respiratory symptoms and lung function of workers, indicating that diacetyl exposure may lead to significant respiratory health issues, highlighting the need for reduced exposure to such chemicals in occupational settings.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "304982_Butane-2,3-dione_Respiratory physiology_Statistics from Altm.json",
+                        "label": "In this context, Butane-2,3-dione (diacetyl) is linked to respiratory physiology through its association with bronchiolitis obliterans syndrome (BOS), also known as 'popcorn worker's lung.' The study highlights the adverse effects of diacetyl exposure on lung function, particularly in workers exposed to butter-flavouring chemicals, indicating a clear relationship between diacetyl inhalation and respiratory health outcomes, including airway obstruction and reduced forced expiratory volume (FEV1).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory physiology",
+                        "target": "304859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Respiratory physiology_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Respiratory physiology_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304859",
+                        "target": "304859_Butane-2,3-dione_Respiratory physiology_Conclusion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory physiology",
+                        "target": "304982",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Respiratory physiology_METHODS.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Respiratory physiology_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "304982",
+                        "target": "304982_Butane-2,3-dione_Respiratory physiology_Statistics from Altm.json",
+                        "score": 5
+                    }
+                }
+            ]
+        }
+    }
+}

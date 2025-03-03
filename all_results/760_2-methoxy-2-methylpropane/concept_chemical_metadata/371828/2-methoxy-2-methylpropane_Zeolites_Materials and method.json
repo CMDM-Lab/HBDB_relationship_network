@@ -1,0 +1,10 @@
+{
+    "context": "Natural waters were collected in a groundwater source from San Tyau Liu (STL) and a surface water source from Feng Shan (FS), both located in south Taiwan. The average pH and NPDOC were 8.0 and 1.2mg/L for STL groundwater, and were 7.7 and 2.1mg/L for FS surface water.Adsorbents and adsorbate Two types of adsorbents, carbonaceous resins and mordenite zeolite, were employed in this study. The carbonaceous resins, Ambersorb 563 and Ambersorb 572, obtained from Rohm and Haas Company (Supelco, USA) were used. A mordenite type of zeolite (CBV 90A, Zeolyst International, USA) was chosen as one of adsorbents since the aperture size is comparable to the MTBE kinetic diameter. The SiO2/Al2O3 ratio of the mordenite used is 90. For comparison, the commercial F400 activated carbon from Calgon Carbon, USA was also tested. The surface area, pore volume and pore size distribution was measured by nitrogen adsorption method at 77K (ASAP 2010, Micromeritics, USA). ",
+    "term_A": "2-methoxy-2-methylpropane",
+    "term_B": "Zeolites",
+    "llm_generation": {
+        "summary": "In this context, 2-methoxy-2-methylpropane is indirectly related to zeolites through their roles as adsorbates and adsorbents in water treatment processes. The study mentions mordenite zeolite as an adsorbent with a suitable pore size for adsorbing compounds like MTBE, which may include 2-methoxy-2-methylpropane. However, there is no direct interaction or specific analysis of 2-methoxy-2-methylpropane's behavior with zeolites in the provided context.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are involved in the context of adsorption processes, but there is no detailed discussion of their specific relationship or interaction.",
+        "score": 2
+    }
+}

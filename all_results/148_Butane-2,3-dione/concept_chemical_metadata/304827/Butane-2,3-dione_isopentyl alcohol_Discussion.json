@@ -1,0 +1,10 @@
+{
+    "context": "Higher pH has been suggested to facilitate enzymatic reduction of hexanal to 1-hexanol in soy beans (Matoba et al., 1989). The reaction can be considered favorable in food because 1-hexanol has a lower odor threshold than hexanal. In conclusion, this study showed that P. phosphoreum can be predominating in bacterial communities of high-oxygen MAP raw pork at the time of spoilage. Production of acetoin, diacetyl and 3-methyl-1-butanol was associated with bacterial growth and sensory defects in pork samples with high and low proportion of P. phosphoreum in the bacterial community. However, P. phosphoreum also appeared to produce spoilage compounds not detected in this study. The following are the supplementary data related to this article. Supplementary Table 1 Instructions for sensory evaluation of fresh modified-atmosphere packaged meat. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "isopentyl alcohol",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione (also known as diacetyl) and isopentyl alcohol (3-methyl-1-butanol) are both mentioned as compounds produced by Pseudomonas phosphoreum during bacterial growth in pork spoilage. While both compounds are associated with sensory defects in food, the context does not provide a direct interaction or detailed relationship between them, merely indicating their co-occurrence in spoilage processes.",
+        "reason": "The score of 2 reflects an indirect connection, as both compounds are produced by the same bacterial species and are linked to spoilage, but there is no detailed discussion of their specific interactions or functional relationships.",
+        "score": 2
+    }
+}

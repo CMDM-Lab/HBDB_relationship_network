@@ -1,0 +1,10 @@
+{
+    "context": " [7] The apparent Km and Vmax were 2.0 microM and 1.9 nmol/mg protein/10 min for substrate concentrations ranging from 0.3 to 34 microM in the 10,000g fraction.  [8] The apparent Km and Vmax for the microsomal fraction were 4.17 microM and 8.0 nmol/mg protein/10 min, respectively.  [9] Linoleic acid concentrations of 10 microM and higher reduced TCE metabolism by the 10,000g fraction, whereas oleic acid concentrations of 50 microM and higher were required to inhibit TCE metabolism. [10] Isooctane and dimethylsulfoxide caused a significant decrease in TCE metabolism. [11] The vial equilibrium technique, as described herein, is relatively simple, rapid, and reliable, and may be applicable as a standard procedure for quantifying volatile organic chemical metabolism by different tissues of different species, including humans. Introduction Volatile organic compounds (VOC) have a high dissolving capacity for non-polar substances and some substantial technical advantages (simple recovery by means of distillation, high safety of burning and explosive accidents, low volatilisation temperature) and therefore open up a huge variety of uses. The most important fields of application are in metal surface degreasing, textile cleansing and food extraction. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "2,2,4-trimethylpentane",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) and 2,2,4-trimethylpentane are both mentioned as volatile organic compounds (VOCs) relevant to the study of chemical metabolism. However, there is no direct discussion of their relationship or interaction. The focus is primarily on the metabolism of TCE and the effects of various substances on its metabolism, without specific reference to 2,2,4-trimethylpentane.",
+        "reason": "The score of 1 reflects a lack of any meaningful relationship between 1,1,2-trichloroethene and 2,2,4-trimethylpentane, as they are mentioned in the same context but without any direct interaction or relevance to each other.",
+        "score": 1
+    }
+}

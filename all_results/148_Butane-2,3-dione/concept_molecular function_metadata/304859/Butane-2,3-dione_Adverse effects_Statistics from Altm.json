@@ -1,0 +1,10 @@
+{
+    "context": "[7] Differences in symptoms and lung function could not be explained by age, smoking status or employment at another flavouring plant. [1] Conclusions Symptoms and lung function findings were consistent with undiagnosed or subclinical obliterative bronchiolitis and associated with workplace exposures. [2] Further efforts to lower exposures to flavouring chemicals, including diacetyl substitutes, are warranted. [1] Efforts to address adverse respiratory effects of flavouring manufacture that focus solely on diacetyl exposure reduction are unlikely to be successful. [2] Until the safety of other flavouring chemicals is established, exposure reduction (such as through enhanced ventilation and use of respiratory protection) and medical surveillance are prudent. [1] Occupational exposure to the butter flavouring chemical diacetyl has been associated with obliterative bronchiolitis (also known as bronchiolitis obliterans) in the microwave popcorn, diacetyl manufacture and coffee processing industries. [2] Laboratory animal models have confirmed the respiratory toxicity of diacetyl and its substitute, 2,3-pentanedione. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "Adverse effects",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione (also known as diacetyl) is linked to adverse respiratory effects, particularly obliterative bronchiolitis, in workers exposed to flavoring chemicals. The text emphasizes that reducing exposure to diacetyl alone may not suffice to mitigate respiratory risks, indicating a broader concern for other flavoring agents and their potential adverse effects on lung function.",
+        "reason": "The score of 4 reflects a significant connection between Butane-2,3-dione and adverse effects, as the context discusses the respiratory toxicity associated with diacetyl exposure and the need for comprehensive safety measures against flavoring chemicals.",
+        "score": 4
+    }
+}

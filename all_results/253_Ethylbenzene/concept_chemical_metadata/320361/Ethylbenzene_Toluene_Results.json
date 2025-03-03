@@ -1,0 +1,10 @@
+{
+    "context": "[1] The mean (SD) heart rate (beats per minute) measured during the field experiment was significantly elevated compared with resting values (185.3 (3.2) vs 69.4 (4.5); p<0.001). [2] The average ventilation (l/min) during exercise was significantly elevated (86.2 (2.3) vs 8.7 (0.9); p<0.001). [3] Based on BTEX exposure levels (benzene was not detected), the cumulative inhaled mass over the period of exercise in the field was estimated at 92 \u00ce\u00bcg, 738 \u00ce\u00bcg and 138 \u00ce\u00bcg for toluene, ethylbenzene and xylenes, respectively. [4] The cumulative inhaled mass over the same period at rest was estimated at 9 \u00ce\u00bcg, 74 \u00ce\u00bcg and 14 \u00ce\u00bcg for toluene, ethylbenzene and xylenes, respectively. [5] The mean (SD) exercise intensity (%HRmax) was estimated at 93(2.3)%. [1] The BTEX environmental levels detected in this microenvironment were in general agreement with other international reports of traffic-related emissions. [2] Environmental BTEX levels associated with transport related pollution vary widely and depend on many factors including traffic density and the microenvironment. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both volatile organic compounds (VOCs) measured during a field experiment assessing BTEX exposure levels. The cumulative inhaled mass of both compounds was estimated during exercise and at rest, indicating their presence in the environment and potential health implications due to inhalation exposure. However, the context does not elaborate on any specific interactions or comparative effects between ethylbenzene and toluene beyond their co-occurrence in the exposure assessment.",
+        "reason": "The score of 3 reflects a moderate relevance, as both ethylbenzene and toluene are mentioned in relation to BTEX exposure levels, indicating they are part of the same environmental assessment. However, there is no detailed discussion of their specific interactions or effects.",
+        "score": 3
+    }
+}

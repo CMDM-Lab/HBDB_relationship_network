@@ -1,0 +1,10 @@
+{
+    "context": "Greenhouse gases (GHG), ammonia and volatile organic compounds (VOC) are the main gases emitted during SSF processes. Regarding GHG, biogenic CO2 is the main compound emitted although it is not normally accounted as GHG (Col\u00f3n et al., 2012). Also CH4 and N2O are often released, and present a global warming potential of 34 and 298kg CO2 eq., respectively (IPCC et al., 2013). On the other hand, the emission of VOC and ammonia has been associated to the generation of unpleasant odors and other environmental impacts such as acidification, eutrophication or the formation of photochemical oxidants. Terpenes, alcohols, ketones, sulfur-containing compounds and amines have been reported among the VOC emitted from waste handling and treatment processes described in literature (Komilis et al., 2004). The objective of this work is to study the emissions of VOC, CH4, N2O and NH3 during the production of different enzymes through SSF using specific wastes. Emission factors (amount of compound emitted per amount of waste treated) have been determined for the studied compounds, providing data to compare the different processes. ",
+    "term_A": "ammonia",
+    "term_B": "acidification",
+    "llm_generation": {
+        "summary": "In this context, ammonia is identified as a gas emitted during solid-state fermentation (SSF) processes, which is linked to environmental impacts such as acidification. The emission of ammonia contributes to the generation of unpleasant odors and is associated with acidification and eutrophication, indicating a significant relationship between ammonia emissions and the process of acidification in the environment.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and acidification, as ammonia emissions are explicitly mentioned as contributing to acidification and other environmental impacts. The context provides a clear link between the two terms, supported by the discussion of their environmental consequences.",
+        "score": 4
+    }
+}

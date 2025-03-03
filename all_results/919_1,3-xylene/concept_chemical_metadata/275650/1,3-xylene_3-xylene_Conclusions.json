@@ -1,0 +1,10 @@
+{
+    "context": "Results show that at a given temperature (e.g., 30\u00b0C), the actual permeation rates (APR) of model compounds (e.g., BTX) should change fairly systematically with varying flow rates. Increases in relative bias were recognized with increases in flow rates. The alternative equations derived emperically to predict the permeation rate (PPR) were proven to reduce biases in PT application considerably and thus can replace the permeation rate equations given by the manufacturer (MPR). According to our experiments, the size of bias can increase with the use of the manufacturer's guidance (MPR) such as 1.4\u201320% % for benzene (B), 21\u201349% for toluene (T), and 39\u201361% for m-xylene (X). However, employment of predicting equations (PPR) for these three compounds can reduce such biases substantially to 0.02\u20138.6, 0.05\u201310, and 0.09\u201315%, respectively. These findings suggest that end users should not rely on manufacturer supplied permeation rate (MPR) but should rather conduct a preliminary or ancillary experiment to derive the predictable values (PPR) of model compounds for each individual PT device. ",
+    "term_A": "1,3-xylene",
+    "term_B": "3-xylene",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene and 3-xylene are both mentioned as model compounds within a study focused on permeation rates of volatile organic compounds (VOCs). However, there is no specific discussion of their individual properties, interactions, or comparative significance. They are treated as part of a broader analysis of permeation rates without a direct relationship established between them.",
+        "reason": "The score of 1 reflects a very low relationship, as 1,3-xylene and 3-xylene are simply listed among other compounds in the context of permeation rates, with no detailed interaction or relevance discussed.",
+        "score": 1
+    }
+}

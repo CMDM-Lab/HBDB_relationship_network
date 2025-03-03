@@ -1,0 +1,10 @@
+{
+    "context": "[4] Fax: 34-985103157. [5] E-mail: parra{at}biosun.medicina.uniovi.es. [1] Mitochondria are confronted with low oxygen levels in the microenvironment within tissues; yet, isolated mitochondria are routinely studied under air-saturated conditions that are effectively hyperoxic, increase oxidative stress, and may impair mitochondrial function. [2] Under hypoxia, on the other hand, respiration and ATP supply are restricted. [3] Under these conditions of oxygen limitation, any compromise in the coupling of oxidative phosphorylation to oxygen consumption could accentuate ATP depletion, leading to metabolic failure. [4] To address this issue, we have developed the approach of oxygen-injection microcalorimetry and ADP-injection respirometry for evaluating mitochondrial function at limiting oxygen supply. [5] Whereas phosphorylation efficiency drops during ADP limitation at high oxygen levels, we show here that oxidative phosphorylation is more efficient at low oxygen than at air saturation, as indicated by higher ratios of ADP flux to total oxygen flux at identical submaximal rates of ATP synthesis. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Respiration",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is directly linked to respiration as it is produced during oxidative phosphorylation, a key metabolic process occurring in mitochondria. The study highlights how low oxygen levels can restrict respiration and ATP supply, leading to metabolic failure. It emphasizes the importance of efficient ATP synthesis under varying oxygen conditions, indicating that respiration is crucial for maintaining ATP levels, especially in hypoxic environments.",
+        "reason": "The score of 5 reflects a strong and direct relationship between ATP and respiration, as ATP is a product of the respiratory process in mitochondria. The context discusses how respiration impacts ATP supply under different oxygen conditions, underscoring their critical interdependence.",
+        "score": 5
+    }
+}

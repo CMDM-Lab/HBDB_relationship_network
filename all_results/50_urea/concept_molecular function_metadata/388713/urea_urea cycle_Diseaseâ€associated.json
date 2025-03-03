@@ -1,0 +1,10 @@
+{
+    "context": "[2] Many SNPs in this set of genes result in various manifestations of porphyria. [3] There is a range of severity and symptoms for a given enzyme and across the different enzymes in this gene set. [4] These variations may be attributable to the specific location of particular SNPs, the presence or absence of other SNPs across the genome, differential tissue expression, the specific metabolic by\u00e2\u20ac\u0090products that accumulate or diminish based on the specific reaction, or mitochondrial heteroplasmy. [1] A Type C co\u00e2\u20ac\u0090set is found in the urea cycle (Figure 2). [2] There is clinical coherence between SNPs in three of the four reactions in this set. [3] Type C co\u00e2\u20ac\u0090sets are perhaps the most interesting of the three classifications because they are the most non\u00e2\u20ac\u0090obvious; consequently, they may have the greatest effect on revising previous views of interactions and classifications of disease. [4] Another particularly interesting case is the citrulline/ornithine co\u00e2\u20ac\u0090set. ",
+    "term_A": "urea",
+    "term_B": "urea cycle",
+    "llm_generation": {
+        "summary": "In this context, urea is directly related to the urea cycle, which is a crucial metabolic pathway responsible for the conversion of ammonia to urea in the liver. The mention of the urea cycle indicates its role in processing nitrogenous waste, with specific enzymes involved in the cycle potentially affected by genetic variations (SNPs). The urea cycle's significance in metabolic processes highlights the importance of urea as a byproduct of this cycle, linking the two terms closely in the context of metabolic disorders.",
+        "reason": "The score of 5 reflects a direct and critical relationship between urea and the urea cycle, as urea is the end product of this metabolic pathway. The context emphasizes the urea cycle's role in nitrogen metabolism, establishing a strong connection between the two terms.",
+        "score": 5
+    }
+}

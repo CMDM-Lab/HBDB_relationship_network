@@ -1,0 +1,10 @@
+{
+    "context": " [1] To test this hypothesis, we measured systemic hydrogen peroxide production in leaves using a chemical staining method .  [2] We chose the second leaf for this analysis because we observed a severe decrease in the viability of second leaf in M202 at 7 d after submergence compared with M202(Sub1) .  [3] We monitored hydrogen peroxide production corresponding to red-brown colors in M202(Sub1) and M202 at 0, 1, 6, and 14 d after submergence (Supplemental Fig. S4).  [4] Results of the hydrogen peroxide measurement assays after short-term submergence (1 d) were similar between M202(Sub1) and M202 (Supplemental Fig. S4).  [5] However, the effect of prolonged submergence challenges (6 or 14 d) was detrimental to M202.  [6] Thus, hydrogen peroxide is higher in leaves of M202 at 6 d after submergence compared with M202(Sub1) (Supplemental Fig. S4).  [7] The effect is dependent on the duration of submergence (Supplemental Fig. S4). ",
+    "term_A": "Hydrogen peroxide",
+    "term_B": "Peroxides",
+    "llm_generation": {
+        "summary": "In this context, hydrogen peroxide is specifically measured as a systemic product in leaves, while peroxides refer to a broader class of compounds that includes hydrogen peroxide. The study highlights the production of hydrogen peroxide in response to submergence stress, indicating its role as a reactive oxygen species. However, the relationship is primarily focused on hydrogen peroxide without detailed exploration of other peroxides, suggesting a direct but limited connection.",
+        "reason": "The score of 3 reflects a moderate relevance, as hydrogen peroxide is a specific type of peroxide being studied in the context of plant stress responses. While they are related, the focus is mainly on hydrogen peroxide without extensive discussion of other peroxides.",
+        "score": 3
+    }
+}

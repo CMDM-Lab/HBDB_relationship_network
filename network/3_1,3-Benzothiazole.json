@@ -1,0 +1,1173 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "1,3-Benzothiazole",
+                    "label": "1,3-Benzothiazole",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-Benzothiazole",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-Benzothiazole",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-Benzothiazole",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-Benzothiazole",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-Benzothiazole",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-Benzothiazole",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-Benzothiazole",
+                        "label": "1,3-Benzothiazole",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-Benzothiazole",
+                        "label": "1,3-Benzothiazole",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "undecane",
+                        "label": "undecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "benzothiazole-2-sulfonic acid",
+                        "label": "benzothiazole-2-sulfonic acid",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-methylnaphthalene",
+                        "label": "2-methylnaphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "benzothiazole",
+                        "label": "benzothiazole",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Polycyclic Hydrocarbons, Aromatic",
+                        "label": "Polycyclic Hydrocarbons, Aromatic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Naphthalenes",
+                        "label": "Naphthalenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carbon Black",
+                        "label": "Carbon Black",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "asphalt",
+                        "label": "asphalt",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1-methylnaphthalene",
+                        "label": "1-methylnaphthalene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "Toluene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "undecane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "benzothiazole-2-sulfonic acid",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "Naphthalene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "2-methylnaphthalene",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "benzothiazole",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "Polycyclic Hydrocarbons, Aromatic",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "decane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "Naphthalenes",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "Carbon Black",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "octane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "asphalt",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "1-methylnaphthalene",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-Benzothiazole",
+                        "label": "1,3-Benzothiazole",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Irritation",
+                        "label": "Irritation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "volatile substances",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "Irritation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-Benzothiazole",
+                        "target": "Process",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-Benzothiazole",
+                        "label": "1,3-Benzothiazole",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-Benzothiazole",
+                        "label": "1,3-Benzothiazole",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-Benzothiazole",
+                        "label": "1,3-Benzothiazole",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286",
+                        "label": "Assessment of occupational health hazards in scrap-tire shredding facilities.\nYC. Chien, S. Ton, MH. Lee, T. Chia, HY. Shu, YS. Wu\nSci. Total Environ. 2003 Jun;309(1-3):35-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12798090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286_1,3-Benzothiazole_Toluene_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole and toluene are both mentioned as components of volatile organic compounds (VOCs) detected in air samples from a facility. While they are categorized together as air contaminants and industrial solvents, there is no direct discussion of their interaction or specific relationship beyond their presence in the same analytical study. The mention of both compounds highlights their relevance as environmental pollutants but does not establish a significant connection between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "2286",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "2286",
+                        "target": "2286_1,3-Benzothiazole_Toluene_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "undecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "undecane",
+                        "label": "undecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286",
+                        "label": "Assessment of occupational health hazards in scrap-tire shredding facilities.\nYC. Chien, S. Ton, MH. Lee, T. Chia, HY. Shu, YS. Wu\nSci. Total Environ. 2003 Jun;309(1-3):35-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12798090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286_1,3-Benzothiazole_undecane_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole and undecane are both mentioned as components of a broader analysis of volatile organic compounds (VOCs) found in air samples from a facility. While they are categorized together as air contaminants, there is no direct interaction or specific relationship discussed between them. Their presence is noted among various other chemicals, indicating they are part of a larger environmental assessment rather than having a significant connection to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "undecane",
+                        "target": "2286",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "2286",
+                        "target": "2286_1,3-Benzothiazole_undecane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "benzothiazole-2-sulfonic acid": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "benzothiazole-2-sulfonic acid",
+                        "label": "benzothiazole-2-sulfonic acid",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944",
+                        "label": "Characterization of substances released from crumb rubber material used on artificial turf fields.\nX. Li, W. Berger, C. Musante, MI. Mattina\nChemosphere 2010 Jun;80(3):279-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20435333"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944_1,3-Benzothiazole_benzothiazole-2-sulfonic acid_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole (BT) and benzothiazole-2-sulfonic acid (BTSA) are mentioned as part of a discussion on leachable benzothiazole derivatives in environmental samples. While BT levels were quantified, BTSA is noted as a major derivative detected at similar or higher levels. This suggests a potential relationship in terms of environmental impact and chemical behavior, but no direct interaction or transformation between the two compounds is explicitly described.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "benzothiazole-2-sulfonic acid",
+                        "target": "1944",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "1944",
+                        "target": "1944_1,3-Benzothiazole_benzothiazole-2-sulfonic acid_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Naphthalene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286",
+                        "label": "Assessment of occupational health hazards in scrap-tire shredding facilities.\nYC. Chien, S. Ton, MH. Lee, T. Chia, HY. Shu, YS. Wu\nSci. Total Environ. 2003 Jun;309(1-3):35-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12798090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286_1,3-Benzothiazole_Naphthalene_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole and naphthalene are both identified as components of volatile organic compounds (VOCs) present in the air samples analyzed from a facility. They are categorized under different classes of air contaminants, with benzothiazole being an organic sulfur donor used in rubber production, while naphthalene is a polycyclic aromatic hydrocarbon (PAH). However, there is no direct interaction or specific relationship discussed between the two compounds beyond their classification as VOCs.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944",
+                        "label": "Characterization of substances released from crumb rubber material used on artificial turf fields.\nX. Li, W. Berger, C. Musante, MI. Mattina\nChemosphere 2010 Jun;80(3):279-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20435333"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944_1,3-Benzothiazole_Naphthalene_Experimental.json",
+                        "label": "In this context, 1,3-Benzothiazole and naphthalene are both mentioned as volatile compounds analyzed in the vapor phase above CRM samples. However, the text does not provide any specific information about their interactions, chemical properties, or functional relationships. They are listed among other compounds used in the study, indicating they are part of a broader analysis of volatile organic compounds but without a direct connection between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Naphthalene",
+                        "target": "2286",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "2286",
+                        "target": "2286_1,3-Benzothiazole_Naphthalene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Naphthalene",
+                        "target": "1944",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "1944",
+                        "target": "1944_1,3-Benzothiazole_Naphthalene_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "2-methylnaphthalene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-methylnaphthalene",
+                        "label": "2-methylnaphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944",
+                        "label": "Characterization of substances released from crumb rubber material used on artificial turf fields.\nX. Li, W. Berger, C. Musante, MI. Mattina\nChemosphere 2010 Jun;80(3):279-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20435333"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944_1,3-Benzothiazole_2-methylnaphthalene_Experimental.json",
+                        "label": "In this context, 1,3-Benzothiazole and 2-methylnaphthalene are mentioned as part of a list of volatile compounds analyzed from CRM samples. However, there is no direct discussion of their relationship, interaction, or significance in the study. They are simply included among other standards for quantification without any specific connection or comparative analysis provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-methylnaphthalene",
+                        "target": "1944",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "1944",
+                        "target": "1944_1,3-Benzothiazole_2-methylnaphthalene_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "benzothiazole": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "benzothiazole",
+                        "label": "benzothiazole",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944",
+                        "label": "Characterization of substances released from crumb rubber material used on artificial turf fields.\nX. Li, W. Berger, C. Musante, MI. Mattina\nChemosphere 2010 Jun;80(3):279-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20435333"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944_1,3-Benzothiazole_benzothiazole_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole (BT) and benzothiazole are related as they are both part of the benzothiazole chemical family. The study discusses the leachability of BT in environmental samples, while benzothiazole is mentioned in relation to its derivatives and overall contribution to street runoff. However, the specific relationship between 1,3-Benzothiazole and benzothiazole is not elaborated upon, indicating a general connection rather than a detailed interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944_1,3-Benzothiazole_benzothiazole_Introduction.json",
+                        "label": "In this context, 1,3-Benzothiazole and benzothiazole are both mentioned as chemical compounds derived from tire wear particles, which are detected in environmental samples. While benzothiazole is noted as a ubiquitous compound in the environment, 1,3-Benzothiazole is not specifically discussed in terms of its relationship to benzothiazole or its environmental impact. The mention of both compounds suggests a general connection through their origin from tire materials, but no direct interaction or comparative analysis is provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "benzothiazole",
+                        "target": "1944",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "1944",
+                        "target": "1944_1,3-Benzothiazole_benzothiazole_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "1944",
+                        "target": "1944_1,3-Benzothiazole_benzothiazole_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Polycyclic Hydrocarbons, Aromatic": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Polycyclic Hydrocarbons, Aromatic",
+                        "label": "Polycyclic Hydrocarbons, Aromatic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286",
+                        "label": "Assessment of occupational health hazards in scrap-tire shredding facilities.\nYC. Chien, S. Ton, MH. Lee, T. Chia, HY. Shu, YS. Wu\nSci. Total Environ. 2003 Jun;309(1-3):35-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12798090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286_1,3-Benzothiazole_Polycyclic Hydrocarbons, Aromatic_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole and polycyclic aromatic hydrocarbons (PAHs) are both identified as categories of air contaminants found in the chemical analysis of volatile organic compounds. While they are mentioned together as part of a broader list of organic pollutants, there is no direct interaction or specific relationship discussed between them beyond their classification as contaminants in the environment.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Polycyclic Hydrocarbons, Aromatic",
+                        "target": "2286",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "2286",
+                        "target": "2286_1,3-Benzothiazole_Polycyclic Hydrocarbons, Aromatic_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "decane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286",
+                        "label": "Assessment of occupational health hazards in scrap-tire shredding facilities.\nYC. Chien, S. Ton, MH. Lee, T. Chia, HY. Shu, YS. Wu\nSci. Total Environ. 2003 Jun;309(1-3):35-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12798090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286_1,3-Benzothiazole_decane_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole and decane are both mentioned as components of air contaminants analyzed in a facility. They belong to different categories of volatile organic compounds, with benzothiazole being an aromatic compound and decane being an aliphatic hydrocarbon. However, there is no direct interaction or specific relationship discussed between them beyond their classification as contaminants in the air samples.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "2286",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "2286",
+                        "target": "2286_1,3-Benzothiazole_decane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Naphthalenes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Naphthalenes",
+                        "label": "Naphthalenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286",
+                        "label": "Assessment of occupational health hazards in scrap-tire shredding facilities.\nYC. Chien, S. Ton, MH. Lee, T. Chia, HY. Shu, YS. Wu\nSci. Total Environ. 2003 Jun;309(1-3):35-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12798090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286_1,3-Benzothiazole_Naphthalenes_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole and naphthalenes are both identified as components of volatile organic compounds (VOCs) present in air samples from a facility. They are categorized under different classes of air contaminants, with benzothiazole being a sulfur donor used in rubber production and naphthalenes being polycyclic aromatic hydrocarbons (PAHs). However, there is no direct interaction or specific relationship discussed between the two compounds beyond their classification as VOCs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Naphthalenes",
+                        "target": "2286",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "2286",
+                        "target": "2286_1,3-Benzothiazole_Naphthalenes_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Carbon Black": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carbon Black",
+                        "label": "Carbon Black",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944",
+                        "label": "Characterization of substances released from crumb rubber material used on artificial turf fields.\nX. Li, W. Berger, C. Musante, MI. Mattina\nChemosphere 2010 Jun;80(3):279-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20435333"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944_1,3-Benzothiazole_Carbon Black_Introduction.json",
+                        "label": "In this context, 1,3-Benzothiazole and Carbon Black are both components of crumb rubber material (CRM) derived from recycled tires. Carbon Black serves as a reinforcing agent in the rubber composition, while 1,3-Benzothiazole is mentioned as a vulcanization additive. Their relationship is primarily as constituents of the same material, contributing to the properties of CRM used in artificial turf installations. However, there is no detailed discussion of their interactions or specific roles beyond their inclusion in the rubber formulation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon Black",
+                        "target": "1944",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "1944",
+                        "target": "1944_1,3-Benzothiazole_Carbon Black_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "octane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286",
+                        "label": "Assessment of occupational health hazards in scrap-tire shredding facilities.\nYC. Chien, S. Ton, MH. Lee, T. Chia, HY. Shu, YS. Wu\nSci. Total Environ. 2003 Jun;309(1-3):35-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12798090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286_1,3-Benzothiazole_octane_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole and octane are both mentioned as components of a broader analysis of volatile organic compounds (VOCs) found in air samples from a facility. While they are categorized together as air contaminants, there is no direct interaction or specific relationship discussed between them. Their mention is primarily as part of a list of various organic compounds present in the environment, without any detailed examination of their individual properties or interactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "2286",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "2286",
+                        "target": "2286_1,3-Benzothiazole_octane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "asphalt": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "asphalt",
+                        "label": "asphalt",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286",
+                        "label": "Assessment of occupational health hazards in scrap-tire shredding facilities.\nYC. Chien, S. Ton, MH. Lee, T. Chia, HY. Shu, YS. Wu\nSci. Total Environ. 2003 Jun;309(1-3):35-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12798090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286_1,3-Benzothiazole_asphalt_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole is identified as a significant air contaminant released during the tire curing process, which involves asphalt. The chemical is linked to the production of asphalt fumes during highway paving, indicating a direct relationship where benzothiazole is a byproduct of asphalt-related activities. This suggests that 1,3-Benzothiazole is relevant in the context of environmental pollution associated with asphalt use.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "asphalt",
+                        "target": "2286",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "2286",
+                        "target": "2286_1,3-Benzothiazole_asphalt_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "1-methylnaphthalene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methylnaphthalene",
+                        "label": "1-methylnaphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944",
+                        "label": "Characterization of substances released from crumb rubber material used on artificial turf fields.\nX. Li, W. Berger, C. Musante, MI. Mattina\nChemosphere 2010 Jun;80(3):279-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20435333"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944_1,3-Benzothiazole_1-methylnaphthalene_Experimental.json",
+                        "label": "In this context, 1,3-Benzothiazole and 1-methylnaphthalene are both mentioned as individual standards purchased for analysis in a study examining volatile compounds from CRM samples. However, there is no direct discussion of their relationship, interaction, or significance in the context of the study. They are simply listed among other compounds without any specific connection or comparative analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "1-methylnaphthalene",
+                        "target": "1944",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "1944",
+                        "target": "1944_1,3-Benzothiazole_1-methylnaphthalene_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "volatile substances": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944",
+                        "label": "Characterization of substances released from crumb rubber material used on artificial turf fields.\nX. Li, W. Berger, C. Musante, MI. Mattina\nChemosphere 2010 Jun;80(3):279-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20435333"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944_1,3-Benzothiazole_volatile substances_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole is identified as a volatile compound that was concentrated and analyzed among other leachable chemicals from commercial CRM samples. The study highlights the presence of 1,3-Benzothiazole and its derivatives in the vapor phase, indicating its classification as a volatile substance. However, the relationship is primarily descriptive, focusing on detection rather than functional interactions or implications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "volatile substances",
+                        "target": "1944",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "1944",
+                        "target": "1944_1,3-Benzothiazole_volatile substances_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Irritation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Irritation",
+                        "label": "Irritation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286",
+                        "label": "Assessment of occupational health hazards in scrap-tire shredding facilities.\nYC. Chien, S. Ton, MH. Lee, T. Chia, HY. Shu, YS. Wu\nSci. Total Environ. 2003 Jun;309(1-3):35-46.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12798090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2286_1,3-Benzothiazole_Irritation_Results and discussi.json",
+                        "label": "In this context, 1,3-Benzothiazole is identified as a chemical that causes irritation to the eyes, skin, and respiratory system. The mention of its irritant properties highlights a direct relationship between the compound and the adverse health effects associated with exposure. This suggests that 1,3-Benzothiazole is a significant concern in terms of occupational health hazards, particularly in environments where it may be present, such as in rubber manufacturing.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Irritation",
+                        "target": "2286",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "2286",
+                        "target": "2286_1,3-Benzothiazole_Irritation_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944",
+                        "label": "Characterization of substances released from crumb rubber material used on artificial turf fields.\nX. Li, W. Berger, C. Musante, MI. Mattina\nChemosphere 2010 Jun;80(3):279-85.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20435333"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1944_1,3-Benzothiazole_Process_Introduction.json",
+                        "label": "In this context, 1,3-Benzothiazole is mentioned as a vulcanization additive in the production of crumb rubber material (CRM) derived from recycled tires. The process of creating CRM involves shredding tires and incorporating various chemical additives, including 1,3-Benzothiazole, to enhance the properties of the rubber. However, the context does not elaborate on the specific role or impact of 1,3-Benzothiazole within the overall production process or its potential environmental implications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "1944",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "1944",
+                        "target": "1944_1,3-Benzothiazole_Process_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        }
+    }
+}

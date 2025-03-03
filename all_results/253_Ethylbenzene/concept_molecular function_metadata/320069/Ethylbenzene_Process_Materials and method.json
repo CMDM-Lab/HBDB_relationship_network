@@ -1,0 +1,10 @@
+{
+    "context": "Ozonation procedure The ozone procedure was conducted in three sequential stages. In the first stage, the aqueous solution containing the dissolved VOC\u2019s was injected with oxygen. This procedure provokes the BTEX stripping from liquid phase enclosed in a continuous reactor (500\u00a0mL), which has a diffuser plate at its bottom for feeding the oxygen. Adsorption process was performed using an initial concentration of 200\u00a0mg\u00a0L\u22121 for benzene, toluene and xylene while ethylbenzene was 150\u00a0mg\u00a0L\u22121. The treatment process was initialized with the stripping process that was performed with an input flow of 0.5 and 0.2\u00a0L\u00a0min\u22121. The volume of aqueous solution was 250\u00a0mL for all samples. The liberated BTEX were adsorbed in granular activated carbon (GAC) (1.0\u00a0g). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is part of a treatment process involving ozonation and adsorption to remove volatile organic compounds (VOCs) from an aqueous solution. The process includes the stripping of BTEX compounds, including ethylbenzene, from the liquid phase, indicating its role in the overall treatment procedure. However, the specific interactions or mechanisms involving ethylbenzene within the process are not elaborated upon.",
+        "reason": "The score of 3 reflects a moderate relevance, as ethylbenzene is included in a specific treatment process for VOCs, indicating its significance in the procedure. However, the details of its interaction or specific role within the process are not thoroughly discussed.",
+        "score": 3
+    }
+}

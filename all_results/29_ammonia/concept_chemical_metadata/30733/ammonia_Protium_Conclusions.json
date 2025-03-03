@@ -1,0 +1,10 @@
+{
+    "context": "Vacuum thermal stripping of ammonia could be well simulated by the Lewis-Whitman model. The driving force to strip ammonia varies with both feed temperature and stripper vacuum. The optimum boiling point was at temperature 65\u00a0\u00b0C and vacuum pressure 25.1\u00a0kPa. At 65\u00a0\u00b0C and 25.1\u00a0kPa, more than 95% of ammonia could be stripped out of digestate in 1.5\u00a0h with an ammonia mass transfer coefficient as high as 37.3\u00a0mm/h. With an ammonia saturation concentration as low as 0\u201313\u00a0mg\u00a0N/L during vacuum thermal stripping at temperature above 65\u00a0\u00b0C, ammonia concentration in digestate could be decreased substantially. By controlling sulfuric acid concentration in the absorption solution, (NH4)2SO4 content in the harvested solid products could be up to 94.3\u2013106.8%. Although there are volatile organic compounds such as cyclohexene and 4-methylphenol in the final acid solutions, volatile organic compounds were left in the solutions and absent in the recovered crystals. ",
+    "term_A": "ammonia",
+    "term_B": "Protium",
+    "llm_generation": {
+        "summary": "In this context, ammonia is discussed in relation to its removal from digestate through vacuum thermal stripping, while Protium, a stable isotope of hydrogen, is not directly mentioned or related to the ammonia stripping process. The context focuses on the efficiency of ammonia removal and the conditions affecting it, without establishing any connection to Protium or its properties. Therefore, there is no relevant interaction or relationship between ammonia and Protium in this scenario.",
+        "reason": "The score of 1 reflects a lack of relationship between ammonia and Protium, as they are mentioned in the same context but without any direct or indirect connection or relevance to each other.",
+        "score": 1
+    }
+}

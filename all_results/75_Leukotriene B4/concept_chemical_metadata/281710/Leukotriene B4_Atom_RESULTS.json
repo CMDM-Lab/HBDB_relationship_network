@@ -1,0 +1,10 @@
+{
+    "context": " [5] *, different from 1 \u00ce\u00bcm LTB4 on cbv1-\u00ce\u00b21 (p < 0.05).  [6] B, computational docking of non-activating leukotrienes on the LTB4-sensing site in the BK \u00ce\u00b21 subunit.  [7] Representative docking pose of each non-activating leukotriene is superposed onto the model of LTB4 docking.  [8] The LTB4 molecule in space-filling format is shown in blue; the BK \u00ce\u00b21 transmembrane helix is shown in red; non-activating leukotriene molecular structures are presented as green sticks; oxygen atoms are given in red.  [9] Hydrogen bonds are highlighted by white dotted lines. [10] Error bars, S.E. [1] Regulation of ion channel function, of BK in particular, due to direct interaction between ion channel protein and physiologically relevant endogenous lipids represents a growing area of research . ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Atom",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is discussed in relation to its molecular structure and interactions with the BK \u03b21 subunit. The term 'atom' is mentioned in the context of representing the molecular structure of LTB4, specifically highlighting the oxygen atoms in red. However, there is no direct discussion of the relationship between LTB4 and the concept of an atom beyond this structural representation.",
+        "reason": "The score of 2 reflects an indirect connection, as LTB4 is described in terms of its molecular structure, which includes atoms. However, there is no detailed discussion of their relationship or functional significance beyond this basic representation.",
+        "score": 2
+    }
+}

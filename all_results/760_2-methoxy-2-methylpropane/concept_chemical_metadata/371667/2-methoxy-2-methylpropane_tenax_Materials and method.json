@@ -1,0 +1,10 @@
+{
+    "context": "The DAC was constructed from a steel frame covered with a 200\u00a0\u03bcm ETFE foil. It is 1.8\u00a0m in height and its volume accounts for around 10\u00a0m3. An adjustable air blower was operated at 400\u00a0\u00b1\u00a020\u00a0m3/h. Determination of benzene and MTBE air concentrations was performed using active sampling onto sorbent tubes (150\u00a0mg Tenax TA\u00ae plus 100\u00a0mg Chromosorb106\u00ae) according to EPA Method TO-17 (U.S. Environmental Protection Agency, 1999) at the inlet and outlet of the DAC. Duplicate samples were taken hourly with a sampling rate of 25\u00a0ml/min. The inflow and outflow groundwater contaminant concentrations were monitored simultaneously. More detailed information regarding design, setup and function of the dynamic air chamber will be presented in a separate manuscript (Reiche et\u00a0al., submitted for publication).Sampling procedure Groundwater at the inflow and effluent from the two systems was monitored periodically (2\u20134 times a month). ",
+    "term_A": "2-methoxy-2-methylpropane",
+    "term_B": "tenax",
+    "llm_generation": {
+        "summary": "In this context, 2-methoxy-2-methylpropane is not directly mentioned but is implied as a potential contaminant being monitored in the air alongside benzene and MTBE. Tenax TA\u00ae is used as a sorbent material for active sampling of volatile organic compounds (VOCs) like 2-methoxy-2-methylpropane. The relationship is based on Tenax's role in capturing and analyzing air samples for VOCs, including 2-methoxy-2-methylpropane, but no specific interaction or detailed discussion of their relationship is provided.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are related through the sampling process for VOCs, but there is no detailed discussion of their specific relationship or interaction.",
+        "score": 2
+    }
+}

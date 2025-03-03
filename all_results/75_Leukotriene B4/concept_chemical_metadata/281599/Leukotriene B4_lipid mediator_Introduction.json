@@ -1,0 +1,10 @@
+{
+    "context": "The production of monoclonal antibodies against conventional antigens is already standardized using the hybridoma technique. Monoclonal antibodies binding hapten molecules however can still be difficult to produce since haptens do not trigger an immune response themselves. Induction of immune responses requires conjugation of the haptens to immunogenic carrier proteins. The hapten Leukotriene B4 (LTB4) is a lipid mediator that belongs to the group of eicosanoids (bioactive, 20 carbon-containing compounds). It is biosynthesized from arachidonic acid which is mainly stored within membrane phospholipids. Upon cell activation arachidonic acid is released and converted into LTB4 with the help of two enzymes: 5-lipoxygenase and leukotriene A4 hydrolase. LTB4 plays an important role in different inflammatory processes. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "lipid mediator",
+    "llm_generation": {
+        "summary": "Leukotriene B4 (LTB4) is identified as a lipid mediator within the context of eicosanoids, which are bioactive compounds derived from arachidonic acid. The text explains that LTB4 is biosynthesized from arachidonic acid through specific enzymatic processes and highlights its significant role in various inflammatory responses. This establishes a direct and critical relationship between LTB4 and its classification as a lipid mediator.",
+        "reason": "The score of 5 reflects a strong relevance, as LTB4 is explicitly defined as a lipid mediator and is discussed in the context of its biosynthesis and role in inflammation, demonstrating a clear and critical relationship.",
+        "score": 5
+    }
+}

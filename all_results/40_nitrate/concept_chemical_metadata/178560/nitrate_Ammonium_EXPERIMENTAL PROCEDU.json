@@ -1,0 +1,10 @@
+{
+    "context": "[4] The histidine-tagged protein was purified on Ni2+-nitrilotriacetic acid resin  and used for raising antibodies in mice. [5] Immunoblotting analysis of the cytoplasmic membrane samples prepared from Synechococcus cells was performed as described previously , using the antiserum against the NrtC polypeptide. [1] Synechococcus cells were grown at 40\u00e2\u20ac\u2030\u00c2\u00b0C with ammonium as the nitrogen source. [2] Nitrate transport activity was induced by transfer of the ammonium-grown cells to nitrite-containing medium followed by incubation under the growth conditions for 15 h. [3] Accumulation of intracellular nitrate was measured at 40\u00e2\u20ac\u2030\u00c2\u00b0C in the light in the presence of 20 \u00ce\u00bcm KNO3 and 10 mm NaHCO3, using the silicone oil filtering centrifugation technique and HPLC determination of nitrate as described previously . [1] NR and NiR activities were determined at 30\u00e2\u20ac\u2030\u00c2\u00b0C, using toluene-permeabilized cells with dithionite-reduced methylviologen as the electron donor . [2] Nitrate and nitrite were determined with a flow injection analyzer (NOX-1000W, Tokyo Chemical Industry Co., Ltd.). ",
+    "term_A": "nitrate",
+    "term_B": "Ammonium",
+    "llm_generation": {
+        "summary": "In this context, nitrate and ammonium are related through their roles as nitrogen sources for Synechococcus cells. The study indicates that ammonium was used as the nitrogen source for growth, and upon transferring these cells to a nitrite-containing medium, nitrate transport activity was induced. This suggests a metabolic interplay where ammonium influences the utilization of nitrate in the cells.",
+        "reason": "The score of 4 reflects a significant connection between nitrate and ammonium, as the context describes how ammonium serves as a nitrogen source that triggers nitrate transport activity in Synechococcus cells, indicating a clear metabolic relationship.",
+        "score": 4
+    }
+}

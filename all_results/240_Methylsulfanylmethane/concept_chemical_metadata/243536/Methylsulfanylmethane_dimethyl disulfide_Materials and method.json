@@ -1,0 +1,10 @@
+{
+    "context": "Gas standard mixtures were also analyzed with GC\u2013MS and the retention times were confirmed. Known concentrations in the final gas mixture and the integration results based on peak heights were used for calibration. Samples were analyzed for methane thiol, ethane thiol, 2-propane thiol, dimethylsulfide, 2-butane thiol and dimethyldisulfide. But no methane thiol, ethane thiol and dimethyldisulfide could be detected in the air. Limits of detection for methane thiol and ethane thiol were 0.20 and 0.25 mgm\u22123, respectively. Detection limits for propane thiol and butane thiol were both 0.35 mgm\u22123. In gas chromatography a signal-to-noise ratio of 10 was used throughout the integrations. ",
+    "term_A": "Methylsulfanylmethane",
+    "term_B": "dimethyl disulfide",
+    "llm_generation": {
+        "summary": "In this context, methylsulfanylmethane and dimethyl disulfide are both mentioned as components analyzed in gas standard mixtures using gas chromatography-mass spectrometry (GC-MS). However, there is no direct discussion of their relationship or interaction. They are simply listed among other thiol compounds without any indication of how they may relate chemically or biologically.",
+        "reason": "The score of 1 reflects a very low relationship, as methylsulfanylmethane and dimethyl disulfide are mentioned in the same context but without any direct interaction or relevance to each other beyond their presence in the gas mixture analysis.",
+        "score": 1
+    }
+}

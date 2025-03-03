@@ -1,0 +1,10 @@
+{
+    "context": "[1] MR-proADM has high short- and long-term prognostic accuracy, and increases the accuracy of clinical scores. [2] The prognostic value of MR-proADM is not modified by different possible CAP aetiologies. [1] Community-acquired pneumonia (CAP) is a disease with a very wide range of possible outcomes. [2] Clinical severity scores, mainly the Pneumonia Severity Index (PSI) [] and CURB-65 score (confusion (abbreviated mental test score of \u00e2\u2030\u00a48), urea \u00e2\u2030\u00a57 mol\u00c2\u00b7L\u00e2\u02c6\u20191, respiratory rate \u00e2\u2030\u00a530 breaths\u00c2\u00b7min\u00e2\u02c6\u20191, blood pressure <90 mmHg systolic or <60 mmHg diastolic, and age \u00e2\u2030\u00a565 yrs) [], are useful tools for evaluating CAP-associated risk of mortality and, therefore, for making decisions about the most appropriate allocation of healthcare resources [\u00e2\u20ac\u201c]. [3] However, none of these tools is exempt from false-positive and -negative results. [4] Biomarkers may improve the diagnostic accuracy of both PSI and CURB-65. [1] In recent years, many studies involving biomarkers for CAP have been performed []. ",
+    "term_A": "urea",
+    "term_B": "Curb",
+    "llm_generation": {
+        "summary": "In this context, urea is a component of the CURB-65 score, which is a clinical tool used to assess the severity of community-acquired pneumonia (CAP) and predict mortality risk. The CURB-65 score includes urea levels (\u22657 mol\u00b7L\u22121) as one of its criteria, indicating that elevated urea can signify worse outcomes in CAP patients. This establishes a direct relationship between urea and the CURB-65 score in evaluating patient prognosis.",
+        "reason": "The score of 4 reflects a significant connection between urea and the CURB-65 score, as urea is explicitly included as a criterion for assessing the severity of community-acquired pneumonia, indicating its relevance in clinical decision-making.",
+        "score": 4
+    }
+}

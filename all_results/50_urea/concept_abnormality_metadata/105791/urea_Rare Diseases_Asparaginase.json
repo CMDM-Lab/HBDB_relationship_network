@@ -1,0 +1,10 @@
+{
+    "context": "Arginase-1 protein has been found in human liver, erythrocytes, granulocytes, kidney, brain, and gastrointestinal tract, whereas arginase-2 is detected in kidney, brain, gastrointestinal tract, and fibroblasts. Therefore, arginase-1 is the only isoenzyme found in liver and red blood cells while kidney, brain, and gastrointestinal tract express the two arginase isoproteins [67\u201369]. The human gene encoding arginase-1 has been mapped to chromosome 6q23. Mutations on this gene cause deficiency of arginase-1 activity and congenital argininemia, a rare autosomal recessive disorder that shows phenotypic variability, similarly to other urea cycle disorders. Most patients experience progressive mental impairment and neurologic manifestations such as spastic tetraplegia during childhood. Neonatal hyperammonemia is uncommon but metabolic crisis may occur later in life [71\u201373]. 3.3.7 Mitochondrial ornithine carrier (ORNT) In humans, the transport of ornithine from the cytosol to the mitochondrial matrix across the mitochondrial membrane is carried out by the mitochondrial ornithine transporter (ORNT). ",
+    "term_A": "urea",
+    "term_B": "Rare Diseases",
+    "llm_generation": {
+        "summary": "In this context, urea is indirectly related to rare diseases through the discussion of arginase-1 deficiency, which leads to congenital argininemia, a rare autosomal recessive disorder. This condition is part of a broader category of urea cycle disorders, highlighting the significance of urea metabolism in rare genetic diseases. The mention of urea is tied to the metabolic implications of arginase-1 mutations, which can result in severe neurological symptoms and other health issues.",
+        "reason": "The score of 3 reflects a moderate relevance, as urea is connected to rare diseases through its role in the urea cycle and the specific mention of arginase-1 deficiency, which is a rare disorder. However, the relationship is not extensively detailed beyond this connection.",
+        "score": 3
+    }
+}

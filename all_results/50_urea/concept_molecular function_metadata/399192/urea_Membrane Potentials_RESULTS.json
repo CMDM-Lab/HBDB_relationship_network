@@ -1,0 +1,10 @@
+{
+    "context": "[1] Effect of urea on membrane potential of otherHelicobacter spp. [2] Membrane potential was measured by using DiSC3(5) at pH 4.5 under pH clamp conditions as described in Materials and Methods. [3] Urea addition resulted in an increase in membrane potential in the gastric Helicobacterspecies H. pylori, H. mustelae, and H. nemestrinae. [4] Urea addition had no effect on the membrane potential of H. bilis, H. troguntum,H. [5] hepaticus, or H. muridarum  (n = 3,  \u00c2\u00b1SEM). [1] Western blot analysis of UreI.Western blot analysis with a mixture of antibodies against synthetic peptides of the putative external loops between transmembrane-spanning regions 2/3 and 4/5 was performed to determine whether UreI protein was expressed in both the gastric and nongastric Helicobacter species. [2] A single band corresponding to a molecular size of about 21 kDa was detected in the lanes containing membrane proteins from H. pylori ATCC 43504 and ATCC 49503 and from the gastric pathogen of the Macaquemonkey, H. nemestrinae (Fig.7). ",
+    "term_A": "urea",
+    "term_B": "Membrane Potentials",
+    "llm_generation": {
+        "summary": "In this context, urea is shown to influence the membrane potential of various Helicobacter species, specifically increasing the membrane potential in H. pylori, H. mustelae, and H. nemestrinae. This suggests a direct relationship where urea acts as a modulator of membrane potential, affecting the physiological state of these bacteria. However, no effect was observed in other Helicobacter species, indicating a selective interaction.",
+        "reason": "The score of 4 reflects a significant connection between urea and membrane potentials, as the study provides evidence of urea's effect on membrane potential in specific Helicobacter species, indicating a clear physiological interaction.",
+        "score": 4
+    }
+}

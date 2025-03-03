@@ -1,0 +1,10 @@
+{
+    "context": "[4] A similar weight gain was observed in all groups. [1] 3. Nitrogen absorption (76%, SD 4; n = 3) was not significantly different between groups. [2] Apparent urea balance was significantly increased and became positive in the group receiving the formula with the higher proportion of non-protein nitrogen and urea nitrogen. [3] Nitrogen retention, however, was significantly depressed in this group, indicating decreased efficiency of nitrogen utilization at this level of non-protein nitrogen despite an enhanced urea salvage. [1] 4. The enrichment of the 15N label in urinary urea at isotopic steady state was significantly reduced in infants receiving the highest urea-containing formula, presumably due to the dilution of 15N-labelled urea by dietary urea. [2] No difference, however, was found in the enrichment of the 15N label in urinary ammonia. [3] Rates of \u00ce\u00b1-amino nitrogen flux, protein synthesis and protein breakdown calculated from the ammonia labelling did not differ significantly between groups. ",
+    "term_A": "urea",
+    "term_B": "Non-protein nitrogen",
+    "llm_generation": {
+        "summary": "In this context, urea and non-protein nitrogen are related through their roles in nitrogen metabolism and retention in dietary formulations. The study indicates that a higher proportion of non-protein nitrogen and urea nitrogen in a formula led to increased urea balance, but decreased nitrogen utilization efficiency. This suggests a complex interaction where non-protein nitrogen influences urea dynamics and overall nitrogen retention in the body.",
+        "reason": "The score of 4 reflects a significant connection between urea and non-protein nitrogen, as the context discusses their interaction in dietary formulations and nitrogen metabolism, supported by quantitative data on nitrogen absorption and retention.",
+        "score": 4
+    }
+}

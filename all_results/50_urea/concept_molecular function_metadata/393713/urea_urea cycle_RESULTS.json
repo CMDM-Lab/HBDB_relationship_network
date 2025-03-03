@@ -1,0 +1,10 @@
+{
+    "context": "[2] The expression of OTC protein in liver was not significantly detected in H4LivKO mice (Fig.4). [3] This result is consistent with the result of Northern blot analysis (Fig. 3). [4] On the other hand, there was no significant difference in the expression of the other proteins (CPS I, ASS, ASL, and arginase I) between H4LivKO and H4Flox mice. [1] Western blot analysis of five urea cycle enzymes. [2] Liver total protein (30 \u00ce\u00bcg) was separated by SDS-PAGE (7%; CPS I, 10%; HNF4\u00ce\u00b1, OTC, ASS, ASL, arginase I, and actin) and transferred to a polyvinylidene difluoride membrane. [3] Goat or rabbit polyclonal antibodies (goat, HNF4\u00ce\u00b1 and actin; rabbit, CPS I, OTC, ASS, ASL, and arginase I) were used to assess protein expression. [1] To determine further whether OTC activity in liver is also reduced in H4LivKO mice, activity was measured using a mitochondrial fraction. ",
+    "term_A": "urea",
+    "term_B": "urea cycle",
+    "llm_generation": {
+        "summary": "In this context, urea is directly related to the urea cycle, which is a metabolic pathway responsible for converting ammonia into urea in the liver. The study focuses on the expression of various urea cycle enzymes, including OTC (ornithine transcarbamylase), indicating the importance of these enzymes in the urea cycle's function. The analysis of protein expression and activity in H4LivKO mice suggests a direct investigation into the urea cycle's efficiency and regulation, highlighting the critical role of urea as the end product of this metabolic pathway.",
+        "reason": "The score of 5 reflects a very strong relevance, as the context explicitly discusses the urea cycle and its enzymes, directly linking urea as the product of this essential metabolic process. The focus on enzyme expression and activity further emphasizes their interdependence.",
+        "score": 5
+    }
+}

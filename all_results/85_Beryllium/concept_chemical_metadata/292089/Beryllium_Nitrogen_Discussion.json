@@ -1,0 +1,10 @@
+{
+    "context": "To our knowledge, this pilot study is the first that analyzes exhaled biomarkers in active workers exposed to low atmospheric concentration of different poorly soluble Be species. Firstly, we found that the levels of NOx and TNF-\u03b1 in EBC of subjects currently exposed were slightly higher than those of controls but not statistically different. Secondly, we have shown a statistically significant relationship between cumulative exposure to beryllium and the level of TNF-\u03b1 in EBC. Finally, we have not found relationships between exposure to beryllium and nitrogen reactive species, for both volatile (FeNO) and nonvolatile (NOx in EBC) nitrogen intermediates. All exposed subjects of our study were employed in machining industries and were exposed to poorly soluble forms of beryllium. Machining beryllium releases a large amount of particles of small size \u2013 namely more than 50% of the particles in the breathing zone <10\u03bcm size and 30%<0.6\u03bcm \u2013 that are likely to result in increased lung deposition compared to greater particles (Martyny et al., 2000). ",
+    "term_A": "Beryllium",
+    "term_B": "Nitrogen",
+    "llm_generation": {
+        "summary": "In this context, beryllium and nitrogen are mentioned in relation to a study on exhaled biomarkers in workers exposed to beryllium. While the study found a significant relationship between cumulative beryllium exposure and TNF-\u03b1 levels, it did not establish any significant relationships between beryllium exposure and nitrogen reactive species, including both volatile and nonvolatile nitrogen intermediates. This indicates that while both terms are present, their direct relationship is weak and not supported by the findings.",
+        "reason": "The score of 2 reflects an indirect connection, as beryllium exposure is discussed in the context of nitrogen reactive species, but no significant relationship was found between them. They share a general context of exposure analysis but lack a detailed interaction.",
+        "score": 2
+    }
+}

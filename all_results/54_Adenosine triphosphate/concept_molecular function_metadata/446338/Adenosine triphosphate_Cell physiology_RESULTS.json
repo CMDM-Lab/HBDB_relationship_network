@@ -1,0 +1,10 @@
+{
+    "context": "[6] In support of this assumption, we found that IL-2 expression was significantly suppressed in T cells of panx1 knock-out mice (Fig. 8E). [7] The absence of panx1 channels and blockage of mitochondrial ATP production had similar effects on T cell activation. [8] Taken together, these findings show that mitochondrial ATP production, ATP release via panx1, and purinergic signaling are critical requirements for proper T cell function and a successful host defense.  [1] Proper T cell effector functions require mitochondrial ATP production.  [2] A, Jurkat cells were treated (red line) or not (black and blue line) with CCCP (1 \u00ce\u00bcm) for 10 min and stimulated or not (black line) for 30 min with anti-CD3/CD28 beads.  [3] The expression of the early T cell activation marker CD69 was analyzed by flow cytometry.  [4] Representative histograms are depicted in the left panel. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Cell physiology",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is highlighted as a crucial energy molecule necessary for T cell function and activation. The study indicates that mitochondrial ATP production and ATP release via panx1 channels are essential for effective T cell responses, linking ATP directly to cell physiology and immune function. This underscores the importance of ATP in maintaining cellular processes and signaling pathways critical for immune defense.",
+        "reason": "The score of 5 reflects a direct and critical relationship between ATP and cell physiology, particularly in T cell function. The context provides strong evidence of ATP's role in energy production and signaling, essential for proper immune responses.",
+        "score": 5
+    }
+}

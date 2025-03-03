@@ -1,0 +1,10 @@
+{
+    "context": "In view of its bronchodilator and anti-inflammatory effects in the lung, a decreased production of PGE2 has been proposed to contribute to the pathophysiology of asthma. 19 Our data do not support this hypothesis and indicate similar PGE2 levels in the EBC of children with asthma, as we have previously demonstrated in adults with asthma. 20 8-Isoprostane seems to be relatively resistant to ICS therapy, as indicated by the lack of difference in exhaled 8-isoprostane concentrations between steroid-nai\u00a8ve asthmatic children and children with asthma who were treated with these drugs. This hypothesis is supported further by a study 32 that showed no effect of pretreatment with high-dose inhaled budesonide (1,600 \u03bcg/d for 14 days) on exhaled 8-isoprostane increase following short-term ozone exposure (ie, 400 ppb for 2 h) in healthy adults. However, controlled studies are required to establish the effects of ICS therapy on 8-isoprostane levels in the EBC of children with asthma. EBC analysis cannot provide any information on the cellular origin of mediators. For this reason, we were unable to ascertain the cellular source of 8-isoprostane and PGE2 in EBC for which invasive studies, such as bronchial biopsies, are required. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha (8-isoprostane) is discussed in relation to exhaled breath condensate (EBC) analysis in children with asthma. The study indicates that 8-isoprostane levels remain unchanged regardless of inhaled corticosteroid (ICS) treatment, suggesting its potential role as a biomarker in asthma. However, the relationship is primarily observational, focusing on its presence in exhalation rather than a direct functional interaction.",
+        "reason": "The score of 3 reflects a moderate relevance, as 8-epi-PGF2alpha is analyzed in the context of exhalation through EBC, indicating its potential significance in asthma monitoring. However, the lack of direct functional interaction limits the strength of their relationship.",
+        "score": 3
+    }
+}

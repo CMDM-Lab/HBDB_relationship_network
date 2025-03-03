@@ -1,0 +1,10 @@
+{
+    "context": "Data obtained are reported in Table 2 . Most of the analysed Bcc strains display a methylamine MVIC of 20mM, while B. latens LMG 24064 is more resistant to the volatile molecule, as the methylamine MVIC is\u2009 >35mM, concentration at which the E. coli K12 growth is inhibited. It has been recently reported that several, in particular, trimethylamine (TMA), modify the antibiotic resistance profiles of different bacteria and that the TMA mode of action consists in a not specific transient alteration of antibiotic uptake due to pH increase in the environment of bacteria aerially exposed to the VOC. In order to evaluate if the Bcc growth inhibition by methylamine might be due to the alkalinisation of growth medium induced by methylamine aerial exposure, we used the strategy described in. We measured the pH of 1mL TYP liquid medium exposed to methylamine in the same conditions used for the MVIC test (Fig. 2). Before any methylamine treatment, the pH of liquid TYP was 6.7\u00b10.1. Aerial exposure to 10mM methylamine enhances TYP medium pH to 8.2\u00b10.2, while 20mM methylamine treatment increases medium final pH to 8.8\u00b10.2. ",
+    "term_A": "Methanamine",
+    "term_B": "Alkalinization",
+    "llm_generation": {
+        "summary": "In this context, methanamine is linked to the process of alkalinization of the growth medium. The study indicates that exposure to methanamine leads to an increase in the pH of the TYP liquid medium, suggesting that methanamine can induce alkalinization. This change in pH may influence the growth inhibition of certain bacteria, highlighting a significant relationship between methanamine exposure and the alkalinization effect on the medium.",
+        "reason": "The score of 4 reflects a strong connection between methanamine and alkalinization, as the data shows a clear increase in pH levels due to methanamine exposure, indicating a significant biochemical interaction that affects bacterial growth.",
+        "score": 4
+    }
+}

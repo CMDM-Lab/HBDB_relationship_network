@@ -1,0 +1,10 @@
+{
+    "context": "For the kestrels, there was no difference between control and exposed birds at the beginning of the trial (F 1,16=0.03; p=0.85). At the middle of the trial (day 10) CORT concentrations were significantly higher in exposed than control kestrels (F1,17_=5.02; p=0.04) ( Table 3).Immune responses: Immune function and structure The T cell immune response, as measured by the PHA skin test, was similar among the quail dosing groups (F 2,31 =1.62; p=0.21; Table 2) and between the control and exposed kestrels (F 1,16=3.6; p=0.07; Table 3). ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Immunologic function",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide exposure is assessed for its impact on immune function in kestrels and quails. While the study measures immune responses, such as T cell activity via the PHA skin test, the results indicate no significant differences in immune function between control and exposed groups. This suggests that sulfur dioxide may not have a direct or measurable effect on immunologic function in the tested birds.",
+        "reason": "The score of 2 reflects an indirect connection, as sulfur dioxide is mentioned in relation to immune function assessment, but the results show no significant impact on immune responses, indicating a lack of direct relevance.",
+        "score": 2
+    }
+}

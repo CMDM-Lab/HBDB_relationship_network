@@ -1,0 +1,10 @@
+{
+    "context": "[5] The data suggest that the translation intermediate, N6 with an attached ribosome, is located in a relatively hydrophilic environment. [6] Interestingly, the quantity of urea-soluble product is decreased by the addition of puromycin, which causes release of the polypeptide from the ribosome before urea extraction (lane 4). [7] LacY truncated at position 312 and lacking a stop codon which contains 9 transmembrane helices followed by a bound ribosome is no longer susceptible to urea extraction even before treatment with puromycin (lanes 5 and 6). [8] Thus, ribosome binding to LacY per se does not appear to affect susceptibility to urea extraction. [9] The data are consistent with the interpretation that the N-terminal half of LacY does not fully insert into the lipid bilayer before ribosome release or subsequent synthesis and insertion of two of the C-terminal six helices. [1] Urea extraction of in vitrosynthesized and inserted [35S] N6  without or with attached ribosomes. [2] In vitro synthesis and insertion was carried out for 30 min at 30\u00e2\u20ac\u2030\u00c2\u00b0C. ",
+    "term_A": "urea",
+    "term_B": "ribosome binding",
+    "llm_generation": {
+        "summary": "In this context, urea is mentioned in relation to its solubility and extraction from polypeptides that are bound to ribosomes. The addition of puromycin, which releases the polypeptide from the ribosome, decreases the quantity of urea-soluble product. However, ribosome binding itself does not seem to affect the susceptibility of the polypeptide to urea extraction, indicating a nuanced relationship where urea's role is more about solubility rather than direct interaction with ribosome binding.",
+        "reason": "The score of 3 reflects a moderate relevance, as urea's role in the context is linked to ribosome binding through the extraction process, but the relationship is not deeply explored beyond its effect on solubility and extraction.",
+        "score": 3
+    }
+}

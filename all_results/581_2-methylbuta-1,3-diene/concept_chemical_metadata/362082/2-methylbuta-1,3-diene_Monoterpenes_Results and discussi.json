@@ -1,0 +1,10 @@
+{
+    "context": "The result indicates that the total amount of BVOC reaches its maximum in the daytime due to the rapid increase of isoprene emission. On the other hand, monoterpenes are emitted constantly during night time as well because it is only dependent on temperature and not on light intensity. Fig. 13(b) shows the BVOC emissions potential in February. The amount is less than one tenth of August and the ratio of monoterpene emission to the total BVOC is higher than August due to the weakness of light intensity in winter and isoprene emission is dependent on light intensity. In addition, to estimate the isoprene emission more accurately, leaves in the shade can be taken into account by using LAI (leaf area index).Seasonal variation of BVOC emissions Seasonal variation of BVOC emissions has been measured before (Boissard et al., 2001; Hakola et al., 2003; Kim et al., 2005) and predicted that the amount of BVOC emissions tend to increase in summer. In this study, to estimate the seasonal variation of BVOC emission amount, not only temperature and light intensity but the amount of leaves in each season was taken into account. Fig. 14 shows the seasonal ratio of leaves compared with the maximum value in summer. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Monoterpenes",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene (isoprene) and monoterpenes are both classified as biogenic volatile organic compounds (BVOCs) emitted by vegetation. The text discusses their emission patterns, noting that isoprene emissions peak during the day due to light intensity, while monoterpenes are emitted consistently at night, influenced by temperature. Although both are BVOCs, their emission dynamics differ significantly based on environmental conditions.",
+        "reason": "The score of 3 reflects a moderate relevance, as both 2-methylbuta-1,3-diene and monoterpenes are discussed in the context of BVOC emissions, highlighting their differences in emission patterns. However, there is no direct interaction or functional relationship elaborated between the two compounds.",
+        "score": 3
+    }
+}

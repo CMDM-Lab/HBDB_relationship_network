@@ -1,0 +1,2064 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Heptane",
+                    "label": "Heptane",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Heptane",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Heptane",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Heptane",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Heptane",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Heptane",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Heptane",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heptane",
+                        "label": "Heptane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Rheumatoid Arthritis",
+                        "label": "Rheumatoid Arthritis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolic Diseases",
+                        "label": "Metabolic Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Vitamin E Deficiency",
+                        "label": "Vitamin E Deficiency",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Harley",
+                        "label": "Harley",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Rheumatoid Arthritis",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Metabolic Diseases",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Vitamin E Deficiency",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Harley",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heptane",
+                        "label": "Heptane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "sec-butylbenzene",
+                        "label": "sec-butylbenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-heptane",
+                        "label": "n-heptane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pentadecane",
+                        "label": "pentadecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Alkanes",
+                        "label": "Alkanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Heptanes",
+                        "label": "Heptanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cyclohexane",
+                        "label": "Cyclohexane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aromatic Compounds",
+                        "label": "Aromatic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "cumene",
+                        "label": "cumene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cycloparaffins",
+                        "label": "Cycloparaffins",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "sec-butylbenzene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "n-heptane",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "3-xylene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "pentadecane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Alkanes",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Toluene",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Heptanes",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Cyclohexane",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Naphthalene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "pentane",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Aromatic Compounds",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "cumene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "decane",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "octane",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Cycloparaffins",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Organic Chemicals",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "4-xylene",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heptane",
+                        "label": "Heptane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "VISUAL SENSORY",
+                        "label": "VISUAL SENSORY",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "volatile substances",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Exhalation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Analyte",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "VISUAL SENSORY",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Lipid Peroxidation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Heptane",
+                        "target": "Inflammation",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heptane",
+                        "label": "Heptane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heptane",
+                        "label": "Heptane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heptane",
+                        "label": "Heptane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Rheumatoid Arthritis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Rheumatoid Arthritis",
+                        "label": "Rheumatoid Arthritis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Rheumatoid Arthritis_Introduction.json",
+                        "label": "In this context, heptane is mentioned as one of the volatile organic compounds (VOCs) analyzed in breath samples, which serve as biomarkers for various metabolic disorders, including rheumatoid arthritis. The study highlights the potential of breath analysis using optical fiber sensors to detect these VOCs non-invasively, suggesting a link between heptane levels and the presence of rheumatoid arthritis among other conditions. However, the specific relationship between heptane and rheumatoid arthritis is not elaborated upon, indicating a general association rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Rheumatoid Arthritis",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Rheumatoid Arthritis_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Metabolic Diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolic Diseases",
+                        "label": "Metabolic Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Metabolic Diseases_Introduction.json",
+                        "label": "In this context, heptane is identified as one of the volatile organic compounds (VOCs) analyzed in exhaled breath, which serves as biomarkers for various metabolic disorders. The study highlights the potential of breath analysis using optical fiber sensors to detect VOCs, including heptane, that are associated with metabolic diseases such as vitamin E deficiency, lipid peroxidation, and oxidative stress. This suggests a direct relevance of heptane in the context of metabolic health monitoring.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolic Diseases",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Metabolic Diseases_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Vitamin E Deficiency": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Vitamin E Deficiency",
+                        "label": "Vitamin E Deficiency",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Vitamin E Deficiency_Introduction.json",
+                        "label": "In this context, heptane is identified as one of the volatile organic compounds (VOCs) that can serve as a breath biomarker for various metabolic disorders, including vitamin E deficiency. The study emphasizes the potential of optical fiber sensors for real-time analysis of these VOCs, suggesting a link between heptane levels in breath and the metabolic state associated with vitamin E deficiency, which is related to lipid peroxidation and oxidative stress.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Vitamin E Deficiency",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Vitamin E Deficiency_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Harley": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Harley",
+                        "label": "Harley",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Harley_Results and discussi.json",
+                        "label": "In this context, heptane is mentioned as one of the top volatile organic compounds (VOCs) found in gasoline vapor, while Harley refers to a study that reported VOC compositions in California reformulated gasoline vapor. The relationship between heptane and Harley is indirect, as both are associated with the analysis of gasoline vapor but do not interact directly or have a specific functional relationship discussed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Harley",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Harley_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "sec-butylbenzene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "sec-butylbenzene",
+                        "label": "sec-butylbenzene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_sec-butylbenzene_Results and discussi.json",
+                        "label": "In this context, heptane and sec-butylbenzene are both mentioned as components of volatile organic compounds (VOCs) found in diesel and biodiesel blends. However, their specific relationship is not detailed, and they are presented as part of a broader analysis of VOC composition in fuels. There is no direct interaction or functional relationship discussed between heptane and sec-butylbenzene.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "sec-butylbenzene",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_sec-butylbenzene_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "n-heptane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-heptane",
+                        "label": "n-heptane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_n-heptane_Conclusion.json",
+                        "label": "In this context, Heptane and n-heptane refer to the same chemical compound, with n-heptane being the systematic name for the straight-chain isomer of heptane. Both terms are used interchangeably to describe a volatile organic compound (VOC) found in gasoline and other fuels. The study highlights n-heptane as a dominant alkane in the vapor compositions of various fuels, indicating its significance in the analysis of VOCs in fuel emissions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_n-heptane_Results and discussi.json",
+                        "label": "In this context, Heptane and n-heptane refer to the same chemical compound, as 'n-heptane' is the systematic name for the straight-chain isomer of heptane. The discussion focuses on the vapor composition of various volatile organic compounds (VOCs) in fuels, where n-heptane is included among other alkanes. Their relationship is direct, as they are essentially synonymous in this chemical context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-heptane",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_n-heptane_Conclusion.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_n-heptane_Results and discussi.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "3-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_3-xylene_Results and discussi.json",
+                        "label": "In this context, heptane and 3-xylene are both mentioned as volatile organic compounds (VOCs) found in fuel compositions, specifically in the analysis of E85 and gasoline. However, their relationship is not explicitly detailed beyond their presence in the same category of compounds. The study focuses on the overall VOC composition rather than specific interactions or comparisons between heptane and 3-xylene.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_3-xylene_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "pentadecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pentadecane",
+                        "label": "pentadecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_pentadecane_Results and discussi.json",
+                        "label": "In this context, heptane and pentadecane are both mentioned as components of volatile organic compounds (VOCs) found in diesel and biodiesel blends. They are part of a broader analysis of the composition of ULSD and B20 fuels, indicating their presence in the fuel mixture. However, there is no specific discussion of their interactions or functional relationships beyond their classification as alkanes within the fuel composition.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentadecane",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_pentadecane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Alkanes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Alkanes",
+                        "label": "Alkanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Alkanes_Results and discussi.json",
+                        "label": "In this context, heptane is identified as one of the alkanes present in the vapor composition of fuels, specifically in the analysis of volatile organic compounds (VOCs) in liquid E85 and ULSD. Alkanes, including heptane, are categorized as saturated hydrocarbons, and their concentrations contribute significantly to the total volatile organic compounds (TTVOC) measured in the study. The relationship is clear as heptane is a specific example of an alkane, highlighting its role within this broader chemical category.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Alkanes_Conclusion.json",
+                        "label": "In this context, heptane is identified as a specific type of alkane present in motor vehicle fuels, particularly in gasoline and other fuel compositions. The study highlights that alkanes, including n-heptane, are dominant volatile organic compounds (VOCs) in these fuels. This establishes a clear categorization of heptane as a member of the broader alkane family, emphasizing its relevance in the analysis of fuel compositions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Alkanes",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Alkanes_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Alkanes_Conclusion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Toluene_Experimental.json",
+                        "label": "In this context, heptane and toluene are both mentioned as components of standard mixtures prepared for calibration experiments in a chemical analysis setup. They are included in a list of stock solutions alongside other hydrocarbons, indicating their use in analytical procedures. However, there is no discussion of their specific interactions or functional relationships within the context provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Toluene_Introduction.json",
+                        "label": "In this context, heptane and toluene are both mentioned as volatile organic compounds (VOCs) analyzed in breath samples for their potential as biomarkers for various metabolic disorders. The study aims to develop an optical fiber sensor for real-time monitoring of these VOCs, indicating their relevance in clinical diagnostics. However, the specific interactions or comparative significance between heptane and toluene are not detailed, as they are part of a broader analysis of multiple VOCs.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Toluene_Results and discussi.json",
+                        "label": "In this context, heptane and toluene are both analyzed as volatile compounds in breath samples using two different analytical methodologies: OF sensor and GC–MS. The study establishes a linear correlation between the results obtained for these compounds, indicating that both heptane and toluene can be reliably measured in breath analysis. However, the relationship is primarily statistical, focusing on their detection rather than any direct biochemical interaction or functional relevance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Toluene_Conclusion.json",
+                        "label": "In this context, heptane and toluene are both identified as volatile organic compounds (VOCs) present in various motor vehicle fuels. Heptane is categorized as an alkane, while toluene is an aromatic compound. They are mentioned together in the analysis of fuel compositions, indicating their coexistence in gasoline and other fuel types, but there is no direct interaction or functional relationship discussed between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Toluene_Results and discussi.json",
+                        "label": "In this context, heptane and toluene are both mentioned as volatile organic compounds (VOCs) present in the vapor composition of gasoline and E85 fuel. While they are part of the same category of compounds and are analyzed in relation to their concentrations in fuel vapors, there is no direct interaction or specific relationship discussed between heptane and toluene beyond their co-occurrence in the vapor samples.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Toluene_Experimental.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Toluene_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Toluene_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Toluene_Conclusion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Toluene_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Heptanes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heptanes",
+                        "label": "Heptanes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Heptanes_Introduction.json",
+                        "label": "In this context, heptane and heptanes are mentioned as volatile organic compounds (VOCs) analyzed in breath samples for their potential as biomarkers for various metabolic disorders. The study aims to develop an optical fiber sensor for real-time monitoring of these compounds, indicating that both terms refer to the same chemical substance in different forms, emphasizing their relevance in breath analysis for clinical diagnostics.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Heptanes_Results and discussi.json",
+                        "label": "In this context, heptane and heptanes are mentioned as part of a study comparing breath sample analysis methods. Heptane is one of the volatile compounds analyzed, and the results indicate a strong correlation between the two analytical methodologies for measuring heptane levels in breath samples. However, the terms are used interchangeably without a distinct discussion of their relationship beyond this analytical context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Heptanes_Experimental.json",
+                        "label": "In this context, heptane and heptanes are mentioned as part of a list of chemicals used to prepare standard mixtures for calibration experiments. They are both aliphatic hydrocarbons, but the text does not provide any specific interaction or functional relationship between them. Their mention is purely coincidental as part of a broader chemical analysis setup.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Heptanes",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Heptanes_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Heptanes_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Heptanes_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Cyclohexane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cyclohexane",
+                        "label": "Cyclohexane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Cyclohexane_Conclusion.json",
+                        "label": "In this context, heptane and cyclohexane are both identified as dominant volatile organic compounds (VOCs) present in conventional gasoline and E85 fuels. They are categorized as alkanes, indicating they share a similar chemical structure and classification. However, the context does not elaborate on any specific interactions or functional relationships between heptane and cyclohexane beyond their presence in the same fuel compositions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Cyclohexane_Results and discussi.json",
+                        "label": "In this context, heptane and cyclohexane are both identified as significant components of volatile organic compounds (VOCs) present in fuel mixtures, specifically in the headspace of liquid E85 and ULSD. They are categorized together as cycloalkanes and alkanes, contributing to the total volatile organic compound (TTVOC) composition. However, the context does not elaborate on any specific interactions or functional relationships between heptane and cyclohexane beyond their classification as components of VOCs in fuel.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cyclohexane",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Cyclohexane_Conclusion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Cyclohexane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Naphthalene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Naphthalene_Results and discussi.json",
+                        "label": "In this context, heptane and naphthalene are both mentioned as volatile organic compounds (VOCs) found in gasoline and E85 fuel compositions. While heptane is noted for its similar levels to Californian reformulated gasoline, naphthalene is highlighted for having a higher concentration compared to older fuel samples. However, there is no direct interaction or specific functional relationship discussed between heptane and naphthalene beyond their presence in fuel mixtures.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Naphthalene",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Naphthalene_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "pentane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_pentane_Results and discussi.json",
+                        "label": "In this context, heptane and pentane are both analyzed as volatile compounds in breath sample analysis using two different methodologies: OF sensor and GC–MS. The results indicate a strong linear correlation between the two methods for pentane (R² = 0.9998) and heptane (R² = 0.9925), suggesting that both compounds can be reliably measured and compared in breath analysis. However, the relationship is primarily statistical, focusing on their measurement rather than any direct chemical or biological interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_pentane_Introduction.json",
+                        "label": "In this context, heptane and pentane are both mentioned as volatile organic compounds (VOCs) analyzed in breath samples for their potential as biomarkers for various metabolic disorders. They are part of a broader study aimed at developing an optical fiber sensor for real-time monitoring of exhaled VOCs. However, the specific relationship or interaction between heptane and pentane is not detailed, indicating they are included in the same analytical framework without a direct connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_pentane_Experimental.json",
+                        "label": "In this context, heptane and pentane are both mentioned as components of stock solutions prepared for calibration experiments. They are part of a series of aliphatic hydrocarbons used in the study, but there is no specific discussion of their interactions, properties, or any functional relationship beyond their inclusion in the same experimental setup. Their mention is primarily for the purpose of standardization in chemical analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentane",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_pentane_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_pentane_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_pentane_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aromatic Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aromatic Compounds",
+                        "label": "Aromatic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Aromatic Compounds_Conclusion.json",
+                        "label": "In this context, heptane and aromatic compounds are both identified as significant components of motor vehicle fuels. Heptane, an alkane, is mentioned alongside various aromatic compounds such as toluene and xylene, which are dominant VOCs in gasoline. While they are part of the same fuel composition, the context does not elaborate on any direct interaction or functional relationship between heptane and aromatic compounds beyond their co-occurrence in fuel mixtures.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aromatic Compounds",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Aromatic Compounds_Conclusion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "cumene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "cumene",
+                        "label": "cumene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_cumene_Results and discussi.json",
+                        "label": "In this context, heptane and cumene are both mentioned as components of volatile organic compounds (VOCs) found in diesel and biodiesel blends. However, there is no direct discussion of their specific interactions or relationships. They are part of a broader analysis of VOC composition in fuels, indicating they share a category but lack detailed connection in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "cumene",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_cumene_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "decane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "decane",
+                        "label": "decane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_decane_Results and discussi.json",
+                        "label": "In this context, heptane and decane are both mentioned as volatile compounds analyzed in breath samples using two different analytical methodologies: OF sensor and GC–MS. The results indicate a strong linear correlation between the two methods for various volatile compounds, including heptane and decane, suggesting that both compounds can be reliably measured and compared in breath analysis. However, there is no specific discussion of their individual biological or chemical interactions beyond their inclusion in the same analytical study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_decane_Experimental.json",
+                        "label": "In this context, heptane and decane are both mentioned as components of standard mixtures prepared for calibration experiments in a chemical analysis setup. They are included in a list of aliphatic hydrocarbons used to create stock solutions for further dilution and analysis. However, there is no specific discussion of their interactions or functional relationships beyond their inclusion in the same experimental procedure.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_decane_Introduction.json",
+                        "label": "In this context, heptane and decane are both mentioned as volatile organic compounds (VOCs) analyzed in breath samples for their potential as biomarkers for various metabolic disorders. They are part of a broader study assessing the analytical capabilities of an optical fiber sensor for real-time monitoring of exhaled VOCs. However, there is no specific discussion of their individual roles or interactions within the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decane",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_decane_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_decane_Experimental.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_decane_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "octane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_octane_Introduction.json",
+                        "label": "In this context, heptane and octane are both mentioned as volatile organic compounds (VOCs) analyzed in breath samples for their potential as biomarkers for various metabolic disorders. They are part of a broader study aimed at developing an optical fiber sensor for real-time monitoring of exhaled VOCs, indicating their relevance in clinical diagnostics. However, the specific relationship or interaction between heptane and octane is not elaborated upon beyond their inclusion in the same analytical framework.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_octane_Results and discussi.json",
+                        "label": "In this context, heptane and octane are both analyzed as volatile compounds in breath samples using two different analytical methodologies: OF sensor and GC–MS. The results indicate a strong linear correlation between the two methods for both heptane and octane, suggesting that they behave similarly in breath analysis. However, the context does not delve into any specific biological or chemical interactions between heptane and octane beyond their analytical comparison.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_octane_Experimental.json",
+                        "label": "In this context, heptane and octane are mentioned as components of standard mixtures prepared for calibration experiments in a chemical analysis setup. Both are aliphatic hydrocarbons used in the preparation of stock solutions, but there is no discussion of their specific interactions, properties, or relevance beyond their inclusion in the same experimental procedure.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_octane_Results and discussi.json",
+                        "label": "In this context, heptane and octane are both mentioned as components of the vapor composition in liquid E85 and ULSD fuels. They are categorized as alkanes and are part of the top five target volatile organic compounds (VOCs) contributing to the total volatile organic compound (TTVOC) levels. However, the context does not provide specific details about their interactions or comparative significance beyond their presence in the same fuel mixtures.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_octane_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_octane_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_octane_Experimental.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_octane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Cycloparaffins": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cycloparaffins",
+                        "label": "Cycloparaffins",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_Cycloparaffins_Results and discussi.json",
+                        "label": "In this context, heptane and cycloparaffins are both mentioned as components of volatile organic compounds (VOCs) found in fuel compositions, specifically in the headspace of liquid E85 and ULSD. Heptane is categorized as an alkane, while cycloparaffins include compounds like cyclohexane and methylcyclohexane. They are grouped together in the analysis of VOCs, indicating a shared relevance in the study of fuel emissions, but no direct interaction or specific relationship between heptane and cycloparaffins is detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cycloparaffins",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_Cycloparaffins_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Organic Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Organic Chemicals_Introduction.json",
+                        "label": "In this context, heptane is identified as one of the volatile organic compounds (VOCs) analyzed in breath samples, which are categorized under organic chemicals. The study emphasizes the role of various VOCs, including heptane, as biomarkers for metabolic disorders. However, the relationship is primarily based on heptane's classification as an organic chemical without detailed exploration of its specific interactions or implications within the broader category of organic chemicals.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Organic Chemicals_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "4-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772",
+                        "label": "VOC composition of current motor vehicle fuels and vapors, and collinearity analyses for receptor modeling.\nJY. Chin, SA. Batterman\nChemosphere 2012 Mar;86(9):951-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22154341"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_4-xylene_Conclusion.json",
+                        "label": "In this context, heptane and 4-xylene are both mentioned as components of motor vehicle fuels, specifically within the characterization of volatile organic compounds (VOCs) present in different fuel types. Heptane is categorized as an alkane, while 4-xylene is an aromatic compound. However, there is no direct interaction or specific relationship discussed between the two compounds beyond their presence in the fuel composition.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260772_Heptane_4-xylene_Results and discussi.json",
+                        "label": "In this context, heptane and 4-xylene are both mentioned as components of volatile organic compounds (VOCs) found in gasoline vapor. However, their specific relationship is not detailed, as they are listed among other VOCs without any direct interaction or comparative analysis. The focus is on the overall composition of VOCs rather than on the individual roles or interactions of heptane and 4-xylene.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "260772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_4-xylene_Conclusion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260772",
+                        "target": "260772_Heptane_4-xylene_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "volatile substances": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_volatile substances_Results and discussi.json",
+                        "label": "In this context, heptane is identified as one of the volatile compounds analyzed in breath samples alongside other substances. The study demonstrates a strong correlation between the results obtained from two analytical methodologies (OF sensor and GC–MS) for heptane and other volatile substances, indicating that heptane is part of a broader category of volatile compounds relevant to breath analysis. However, the specific implications of heptane in relation to the overall analysis of volatile substances are not deeply explored beyond its inclusion in the dataset.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "volatile substances",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_volatile substances_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Exhalation_Results and discussi.json",
+                        "label": "In this context, heptane is analyzed as one of the volatile compounds present in breath samples. The study establishes a strong correlation between the levels of heptane in exhaled air and those reported in healthy subjects, indicating that breath analysis can effectively measure heptane concentrations. The statistical analysis supports the reliability of the results obtained through different analytical methodologies for breath analysis, highlighting the relevance of heptane in the context of exhalation and potential biomarkers for metabolic disorders.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Exhalation_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Analyte": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Analyte_Results and discussi.json",
+                        "label": "In this context, heptane is identified as one of the volatile compounds analyzed in breath samples, serving as an analyte in the study. The results indicate a strong linear correlation between the concentrations of heptane measured by two different analytical methods (OF sensor and GC–MS), suggesting that heptane is a reliable analyte for breath analysis. The statistical analysis confirms that the results from both methods are not significantly different, reinforcing the validity of heptane as a target analyte in clinical assessments of breath samples.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Analyte",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Analyte_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "VISUAL SENSORY": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "VISUAL SENSORY",
+                        "label": "VISUAL SENSORY",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_VISUAL SENSORY_Introduction.json",
+                        "label": "In this context, heptane is mentioned as one of the volatile organic compounds (VOCs) analyzed in breath samples for potential biomarkers related to various metabolic disorders. However, there is no direct discussion of its relationship with visual sensory functions. The focus is primarily on the analytical capabilities of optical fiber sensors for detecting VOCs, including heptane, without linking it to visual sensory processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "VISUAL SENSORY",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_VISUAL SENSORY_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Lipid Peroxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Lipid Peroxidation_Introduction.json",
+                        "label": "In this context, heptane is identified as one of the volatile organic compounds (VOCs) analyzed in exhaled breath, which serves as a biomarker for various metabolic disorders, including lipid peroxidation. The study highlights the potential of heptane measurement in breath analysis to indicate oxidative stress and related conditions, suggesting a significant relationship between heptane levels and lipid peroxidation processes in the body.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lipid Peroxidation",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Lipid Peroxidation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618",
+                        "label": "Breath analysis by optical fiber sensor for the determination of exhaled organic compounds with a view to diagnostics.\nLI. Silva, AC. Freitas, TA. Rocha-Santos, ME. Pereira, AC. Duarte\nTalanta 2011 Feb;83(5):1586-94.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21238756"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "239618_Heptane_Inflammation_Introduction.json",
+                        "label": "In this context, heptane is mentioned as one of the volatile organic compounds (VOCs) analyzed in breath samples, which serve as biomarkers for various metabolic disorders, including airway inflammation. The study aims to develop an optical fiber sensor for real-time analysis of these VOCs, indicating a potential link between heptane levels and inflammatory conditions. However, the specific relationship between heptane and inflammation is not deeply explored beyond its inclusion in the list of VOCs associated with metabolic disorders.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "239618",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "239618",
+                        "target": "239618_Heptane_Inflammation_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        }
+    }
+}

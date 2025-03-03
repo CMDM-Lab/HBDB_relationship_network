@@ -1,0 +1,10 @@
+{
+    "context": "Nitrogen was used as the carrier gas at a flow rate of 30 ml/min. Hydrogen flow rate for FID was 30 ml/min. The analytical conditions were optimised to get a proper resolution of the peaks of seven hydrocarbons, viz. n-hexane, heptane, benzene, toluene, p- and o-xylene and n-decane. For the analysis of blanks, nitrogen filled tedlar bags were taken to sampling sites, brought back and subjected to entire preconcentration procedure. The absence of any hydrocarbon indicated that the entire sampling and analysis line was free from contamination. Calibration was performed by preparing synthetic mixtures of C6\u2013C10 hydrocarbons in 0\u2013100 parts per billion (ppb) range in a tedlar bag using Supelco standards. ",
+    "term_A": "Decane",
+    "term_B": "decane",
+    "llm_generation": {
+        "summary": "In this context, decane is mentioned as one of the seven hydrocarbons analyzed using optimized analytical conditions for peak resolution. The focus is on the calibration and analysis of various hydrocarbons, including decane, but there is no specific discussion about its properties, interactions, or significance beyond its inclusion in the list of compounds being studied. The mention of decane is purely as a component of a mixture for analytical purposes.",
+        "reason": "The score of 1 reflects a very low relationship, as decane is simply listed among other hydrocarbons without any detailed discussion of its properties, interactions, or relevance in the context of the study.",
+        "score": 1
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "To speculate the complexity of pore structure, the tortuosity factor was used to determine the extent of the tortuous path and pore constrictions within the adsorbent. The tortuosity factor (\u03c4) can be given as: (4) \u03c4 = \u03b5 p D m D P where D m is molecular diffusivity. In this study, the molecular diffusivity of MTBE estimated from the Wilke\u2013Chang equation was 8.0\u00d710\u22126 cm2/s; relevant physical parameters of the adsorbents for the model input are listed in Table 1. For mordenite zeolite, the PDM may not be appropriate for describing the transport of MTBE in the small and uniform cylindrical aperture of the adsorbent particles. Instead, a micropore diffusion equation as described in Ruthven is used to qualitatively simulate the adsorption kinetics of MTBE in deionized water, STL groundwater and FS surface water. The transient diffusion equation of adsorbate molecules within spherical microporous adsorbents can be expressed as: (5) \u2202 q \u2202 t = 1 r 2 \u2202 \u2202 r r 2 D c \u2202 q \u2202 r where D c is the intracrystalline diffusivity of the adsorbate, q is the solid-phase concentration and t is the time. To solve the two diffusion models, the algorithm employed is modified from a numerical code BATCH developed by Tien. ",
+    "term_A": "2-methoxy-2-methylpropane",
+    "term_B": "Zeolites",
+    "llm_generation": {
+        "summary": "In this context, 2-methoxy-2-methylpropane is indirectly related to zeolites through the discussion of adsorption kinetics and molecular diffusivity within microporous adsorbents. While zeolites, such as mordenite, are mentioned as adsorbents for substances like MTBE, the specific interaction or relevance of 2-methoxy-2-methylpropane to zeolites is not explicitly detailed, indicating a general connection rather than a direct relationship.",
+        "reason": "The score of 2 reflects an indirect connection between 2-methoxy-2-methylpropane and zeolites, as both are involved in the context of adsorption processes. However, there is no detailed discussion of their specific interactions or significance, limiting the relevance.",
+        "score": 2
+    }
+}

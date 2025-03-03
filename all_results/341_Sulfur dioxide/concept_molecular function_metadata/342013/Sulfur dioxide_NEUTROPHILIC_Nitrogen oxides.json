@@ -1,0 +1,10 @@
+{
+    "context": " [8] A meta-analysis of 11 epidemiological studies suggested that the chance of infection in the lower respiratory tract may be 20% greater for children with prolonged exposure to NO2 at a concentration of 16 ppb.  [9] Asthmatics have been shown to experience significant increases in airway resistance with short term NO2 exposures of around 500 ppb. [10] Non-asthmatics experience the same changes at NO2 levels of about 1000 ppb. [11] Four daily sequential exposures to 2 ppm NO2 for four hours resulted in persistent neutrophilic inflammation in the airways of healthy non-smoking subjects. [12] Changes in pulmonary function attenuated with repeated exposures. [13] Potentially serious effects may occur, but it has generally been found that outdoor levels are low; there can be greater danger from some indoor environments such as gas heated homes and poorly ventilated residences inside which fires are lit such as are found in underdeveloped countries. [1] O3 forms in the atmosphere through very complex chemical interactions and equilibria between hundreds of different hydrocarbons and radicals and NO and NO2, all requiring photochemical energy. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "NEUTROPHILIC",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is not directly mentioned, but the discussion revolves around the effects of nitrogen dioxide (NO2) on neutrophilic inflammation in the airways. The mention of neutrophilic inflammation suggests a potential relationship with respiratory irritants like SO2, which can also contribute to airway inflammation. However, the specific connection between SO2 and neutrophilic responses is not explicitly established in the provided text.",
+        "reason": "The score of 2 reflects an indirect connection, as both sulfur dioxide and neutrophilic inflammation relate to respiratory health, but there is no direct evidence or discussion linking them specifically in the context provided.",
+        "score": 2
+    }
+}

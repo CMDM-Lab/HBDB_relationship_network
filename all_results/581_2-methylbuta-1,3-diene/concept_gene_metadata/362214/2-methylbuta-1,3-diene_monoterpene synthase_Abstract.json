@@ -1,0 +1,10 @@
+{
+    "context": "[2] Isoprene emission from plants is one of the most important sources of volatile organic compounds released to the atmosphere (; , ; ). [3] Isoprene emission has been hypothesized to provide leaves protection from heat damage , especially during short heatflecks , and to protect against ozone and other active oxygen species (; ; ). [4] Isoprene is made in chloroplasts from dimethylallyl diphosphate (DMAPP) by isoprene synthase (, ; ), an enzyme related to monoterpene synthases . [5] Monoterpene synthases have a high affinity for their substrate, geranyl diphosphate (Km in the micromolar range), but isoprene synthases examined to date have a much lower affinity (Kms in the millimolar range; ; ). [1] Isoprene is made mostly from carbon previously fixed by photosynthesis (; ; ). [2] A low but significant amount (10%\u00e2\u20ac\u201c30%) of the carbon in isoprene is not rapidly labeled when 13CO2 is fed to leaves, about the same proportion of carbon in phosphoglyceric acid that is not quickly labeled . [3] Current hypotheses are that this slowly labeling pool is pyruvate imported into the chloroplast to be joined with glyceraldehyde 3-phosphate (GAP) in the first step of the methyl erythritol 4-phosphate (MEP) pathway, which supplies carbon for isoprene synthesis (; ). ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "monoterpene synthase",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene, commonly known as isoprene, is synthesized in chloroplasts from dimethylallyl diphosphate (DMAPP) by isoprene synthase, an enzyme related to monoterpene synthases. While both enzymes are involved in the synthesis of terpenes, isoprene synthase has a significantly lower substrate affinity compared to monoterpene synthases, indicating a distinct functional relationship in terpene biosynthesis pathways.",
+        "reason": "The score of 4 reflects a significant connection between 2-methylbuta-1,3-diene and monoterpene synthase, as they are both involved in terpene biosynthesis, with specific distinctions in their enzymatic properties highlighted in the context.",
+        "score": 4
+    }
+}

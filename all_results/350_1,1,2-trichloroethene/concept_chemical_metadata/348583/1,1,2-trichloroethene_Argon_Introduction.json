@@ -1,0 +1,10 @@
+{
+    "context": "The plasma can operate over a wide range of flow rates and concentrations. In addition, due to its small size and high species diffusion, thermodynamic equilibrium between neutral species, ions and electrons is not achieved inside the plasma. In this work, the aforementioned plasma torch was operated with an air plasma at atmospheric pressure, and the destruction rate of the system in the elimination of trichloroethylene and carbon tetrachloride was evaluated. With an argon or helium plasma at atmospheric pressure, this system was proven to be effective at destroying carbon tetrachloride and trichloroethylene [21\u201323], and destruction rates greater than 99% were achieved. Using air as the main gas decreases the cost of the process because air can be obtained from the atmosphere, while argon and helium must be purchased. The output concentration of C2HCl3 and CCl4 was evaluated as a function of several variables affecting plasma development such as microwave power, gas flow rate and VOC concentration. Next, output byproducts were analysed by gas chromatography and GC/MS, while species present in the plasma during the destruction of C2HCl3 and CCl4 were determined by optical emission spectroscopy. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Argon",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (C2HCl3) is evaluated for its destruction rate in a plasma system, where argon is used as one of the gases to create the plasma. The study highlights the effectiveness of argon plasma in destroying volatile organic compounds like trichloroethene, achieving destruction rates greater than 99%. The relationship is significant as argon is a key component in the plasma process that facilitates the breakdown of the chemical, indicating its role in the treatment of hazardous substances.",
+        "reason": "The score of 4 reflects a strong connection between 1,1,2-trichloroethene and argon, as argon is utilized in the plasma system specifically for the destruction of trichloroethene, supported by quantitative destruction rate data.",
+        "score": 4
+    }
+}

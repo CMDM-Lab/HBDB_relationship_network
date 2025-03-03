@@ -1,0 +1,10 @@
+{
+    "context": "[6] The fact that the overall rate of isoprene emission changed very little until the endogenous isoprene was reduced nearly to zero indicates that the feedback loop is very effective. [7] Very high levels of DOX-d2 can overcome the regulation. [1] When leaves were heated, isoprene synthase, known to be highly temperature dependent (; ), increased in activity. [2] This would relieve the feedback on DXS, and so substantially more carbon was diverted to isoprene through DXS. [3] Heat also likely increased the activity of xylulose kinase and may have increased the rate of arrival of DOX-d2 through effects on transpiration. [4] However, these effects were much smaller than the relief of feedback inhibition on DXS, and so heat stimulated production of unlabeled isoprene more than of labeled isoprene. [5] However, following the heating, leaves had a net negative carbon balance and, presumably, GAP and pyruvate were in limited supply. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Feedback",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene, which is isoprene, is involved in a feedback loop regulating its own emission. The feedback mechanism is highlighted as effective, with changes in isoprene production linked to the activity of isoprene synthase and the regulation of DXS. The feedback loop plays a crucial role in controlling the carbon flow towards isoprene synthesis, particularly under varying temperature conditions.",
+        "reason": "The score of 4 reflects a significant connection between 2-methylbuta-1,3-diene and feedback mechanisms, as the context discusses how feedback regulation impacts isoprene emission rates and the metabolic pathways involved. This relationship is supported by evidence of enzymatic activity changes.",
+        "score": 4
+    }
+}

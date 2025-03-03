@@ -1,0 +1,10 @@
+{
+    "context": "The corresponding R 2 values for all the other VOCs were smaller than 0.31. All samples containing high levels (>200AU/g) of 3-methyl-1-butanol, acetoin or diacetyl had sensory defects. Accumulation of diacetyl, acetoin and 3-methyl-1-butanol above the background level of sterilized pork was observed in non-sterilized pork samples typically from 5 to 9days before the sensory spoilage (Fig. 4 ). Three non-sterile meat samples had sensory defects despite their low (<100AU/g) levels of acetoin, diacetyl and 3-methyl-1-butanol. Two of these samples were retail packages of pork collar slices with high concentrations of P. phosphoreum (samples F4 and F10, Table 1). The third sample was Collar W two days after packaging. At the time of spoilage (8days after packaging) Collar W had the highest content of Photobacterium of the four bulk samples of pork monitored (Fig. 2). ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "Sterility",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione (also known as diacetyl) is mentioned in relation to sensory defects in non-sterilized pork samples. The presence of diacetyl, along with other volatile organic compounds, is associated with spoilage in non-sterile conditions. However, the relationship between diacetyl and sterility is not explicitly detailed, as the focus is more on spoilage rather than a direct impact of diacetyl on sterility itself.",
+        "reason": "The score of 2 reflects an indirect connection, as Butane-2,3-dione is linked to sensory defects in non-sterilized pork, indicating a general association with spoilage but lacking a detailed discussion on its specific role in sterility.",
+        "score": 2
+    }
+}

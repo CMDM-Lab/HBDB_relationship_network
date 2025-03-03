@@ -1,0 +1,10 @@
+{
+    "context": "Plasma L-Arg is reported to be unchanged, increased 29 or decreased 30 in ESRD patients. In our patients, the pre-dialysis L-Arg level was higher than the concentration in controls. We also found that both pre- and post dialysis ADMA level were significantly higher than the control values. MacAllister, Whitley and Vallance showed that ADMA inhibits the NO synthesis and endothelium dependent relaxation of blood vessels at concentrations of a similar order to that occur in plasma of patients with ESRD 31 . Decreased L-Arg levels may become the major limiting factor in NO production, especially in conditions of increased ADMA/L-Arg ratio 31 . We did not find the ratio of L-Arg/ADMA to be different in the three study groups. The L-Arg/ADMA ratio increased post-dialysis, which may favor NO synthesis. ",
+    "term_A": "N,N-dimethylarginine",
+    "term_B": "End stage renal failure",
+    "llm_generation": {
+        "summary": "In this context, N,N-dimethylarginine (ADMA) is discussed in relation to end-stage renal failure (ESRD) patients, where elevated levels of ADMA were observed compared to controls. ADMA is known to inhibit nitric oxide (NO) synthesis, which is crucial for vascular function. The study highlights that increased ADMA levels in ESRD patients may contribute to impaired NO production, potentially exacerbating vascular complications associated with the disease.",
+        "reason": "The score of 4 reflects a significant connection between ADMA and end-stage renal failure, as the context provides evidence of elevated ADMA levels in ESRD patients and discusses its role in inhibiting NO synthesis, which is critical for vascular health.",
+        "score": 4
+    }
+}

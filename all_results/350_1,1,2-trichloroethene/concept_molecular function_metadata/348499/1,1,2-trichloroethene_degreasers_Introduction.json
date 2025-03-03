@@ -1,0 +1,10 @@
+{
+    "context": "Multivariate PLS analysis gave good results (r 2 =0.99) for the prediction of toluene in a mixture of toluene and ethanol in the range (0\u201320,000ppm). The prediction for ethanol was acceptable (r 2 =0.96) although the model prediction has a tendency to underestimate the concentration of ethanol in mixtures. Chlorinated volatile organic compounds (CVOCs) have been found in municipal and hazardous waste landfill sites and contaminated groundwater. Especially, trichloroethylene (TCE), known as a degreaser or solvent, is frequently detected in landfill leachate or groundwater. The International Agency for Research on Cancer distributed TCE to \u201cgroup 2A\u201d, which meant that TCE was suspected to be carcinogenic for humans. TCE also may have an adverse effect on kidneys, vessels, and the liver and so on if a human is exposed to TCE. Since the density of TCE is greater than that of water, TCE seeps down below the water table and causes widespread contamination of soils and underground aquifers. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "degreasers",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene is indirectly related to degreasers through its association with trichloroethylene (TCE), which is explicitly identified as a degreaser or solvent. TCE is frequently detected in contaminated sites and is known for its adverse health effects, including potential carcinogenicity. The mention of TCE as a degreaser highlights the functional role of chlorinated volatile organic compounds in industrial applications, particularly in cleaning and degreasing processes.",
+        "reason": "The score of 3 reflects a moderate relevance, as 1,1,2-trichloroethene is related to degreasers through its connection to TCE, which is explicitly identified as a degreaser. However, the context does not provide a direct discussion of 1,1,2-trichloroethene's specific role as a degreaser.",
+        "score": 3
+    }
+}

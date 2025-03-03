@@ -1,0 +1,10 @@
+{
+    "context": "[4] Our experiments clearly show, by different genetic and pharmacological approaches, that VEGF-induced AMPK activation is not related to the activation of eNOS or Akt. [5] AMPK mediates, however, the phosphorylation of ACC in response to VEGF, suggesting that an increased \u00ce\u00b2-oxidation of fatty acids and ATP generation may be the underlying mechanisms of the angiogenesis-promoting effect of AMPK. [1] The molecular signaling that underpins synapse loss in neuropathological conditions remains unknown. [2] Concomitant upregulation of the neuronal nitric oxide (NO) synthase (nNOS) in neurodegenerative processes places NO at the center of attention. [3] We found that de novo nNOS expression was sufficient to induce synapse loss from motoneurons at adult and neonatal stages. [4] In brainstem slices obtained from neonatal animals, this effect required prolonged activation of the soluble guanylyl cyclase (sGC)/protein kinase G (PKG) pathway and RhoA/Rho kinase (ROCK) signaling. [5] Synapse elimination involved paracrine/retrograde action of NO. ",
+    "term_A": "Nitric oxide",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, nitric oxide (NO) is implicated in the process of synapse loss during neurodegenerative conditions. The upregulation of neuronal nitric oxide synthase (nNOS) suggests that NO plays a critical role in mediating synaptic changes. The signaling pathways involved, including soluble guanylyl cyclase (sGC) and RhoA/Rho kinase (ROCK), indicate that NO is central to the processes leading to synapse elimination, highlighting its importance in neurobiology.",
+        "reason": "The score of 4 reflects a significant connection between nitric oxide and the process of synapse loss, supported by evidence of NO's role in signaling pathways that mediate this process. The context provides a clear relationship, although it does not delve into quantitative data.",
+        "score": 4
+    }
+}

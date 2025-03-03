@@ -1,0 +1,10 @@
+{
+    "context": "[2] Thus, bioavailability is relatively consistent from 0.1 to 5.0 mg/kg, but it doubles between 5 and 10 mg/kg (Fig. 2). [1] Percentage of bioavailability of TCE in S-D rats dosed orally by gavage with 0.1, 1.0, 5.0, and 10.0 mg TCE/kg as an aqueous emulsion. [2] n = 5 to 7. [1] The findings of the current investigation clearly demonstrate that presystemic elimination does not offer complete protection from potential adverse effects on extrahepatic tissues of rats upon ingestion of trace amounts of TCE. [2] Almost 3 decades ago,  hypothesized that the liver was capable of removing virtually all of an orally administered VOC with a high extraction ratio, if the dose was not high enough to saturate metabolism. [3] used physiologically based pharmacokinetic (PBPK) model-based algebraic formulas to calculate that 99.8% of low oral doses of TCE should be metabolized. [4] demonstrated empirically that hepatic first-pass elimination of TCE by male S-D rats was inversely related to exposure level, and that \u00e2\u02c6\u00bc60% of low oral bolus doses was removed. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Adverse effects",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is discussed in relation to its bioavailability and potential adverse effects on extrahepatic tissues in rats following oral ingestion. The study indicates that even low doses of TCE can lead to adverse effects, contradicting earlier assumptions about the liver's ability to eliminate VOCs effectively. This suggests a significant concern regarding the toxicological impact of TCE, particularly at trace amounts, highlighting its potential health risks.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2-trichloroethene and adverse effects, as the study provides evidence of TCE's impact on extrahepatic tissues and challenges previous assumptions about its metabolism. The findings indicate a clear health risk associated with TCE exposure.",
+        "score": 4
+    }
+}

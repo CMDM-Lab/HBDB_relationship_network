@@ -1,0 +1,10 @@
+{
+    "context": "A portable pH meter (HQ40d, Hach Company, Loveland, Colorado, USA) was used to measure pH. Samples were collected initially and every 30\u00a0min from the heated digestate during each batch. The samples were centrifuged at 2500\u00a0g for 20\u00a0min and centrate samples were analyzed for total ammonia concentration with a QuickChem 8500 series automatic flow injection analyzer (LaChat Instruments, Loveland, Colorado, USA), following the phenate method (APHA et\u00a0al., 2012). Free ammonia concentration was estimated with the measured pH, temperature, vacuum pressure, and total ammonia concentration, using Equations (2)\u2013(4). Equation (5) is an analytical solution to Equation (1). Ammonia mass transfer coefficient (K L ) and saturation concentration (C s ) were estimated simultaneously with the decreasing concentrations of remaining free ammonia over the individual batches using Excel Solver (Tao and Ukwuani, 2015). (5) ln ( C \u2212 C s C o \u2212 C s ) = \u2212 K L a t where C o\u00a0=\u00a0initial concentration of free ammonia in feed, mg/L; and K L , C s, and a are the same as those in Equation (1). ",
+    "term_A": "ammonia",
+    "term_B": "Pressure- physical agent",
+    "llm_generation": {
+        "summary": "In this context, ammonia is analyzed in relation to its concentration and behavior under varying physical conditions, including pressure. The study employs equations that incorporate pressure as a physical agent affecting the mass transfer and saturation concentration of ammonia in the digestate. This indicates a direct relationship where pressure influences ammonia dynamics during the analysis.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and pressure, as the context discusses how pressure affects ammonia concentration and mass transfer. The use of equations to estimate ammonia behavior under different pressures provides strong contextual support for their relationship.",
+        "score": 4
+    }
+}

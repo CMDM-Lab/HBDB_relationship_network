@@ -1,0 +1,10 @@
+{
+    "context": "[12] This compound quenched the peptide tryptophan fluorescence, indicating proximity of bis-ANS binding site to the peptide tryptophan moiety. [1] Inhibition of PrP (109\u00e2\u20ac\u201c149) aggregation by the hydrophobic probe bis-ANS. [2] Percentage of PrP (109\u00e2\u20ac\u201c149) 2.0 \u00ce\u00bcm aggregation according to bis-ANS concentration. [3] 100% aggregation corresponds to the higher light scattering value when the peptide is diluted in buffer (sodium acetate 50 mm NaCl 150 mm pH 5.0) without bis-ANS or urea addition. [1] Titration of PrP (109\u00e2\u20ac\u201c149) binding to bis-ANS (2.0 \u00ce\u00bcm). [2] Different concentrations of PrP (109\u00e2\u20ac\u201c149) unfolded in 6 m urea were diluted in 2.0 \u00ce\u00bcm bis-ANS in 50 mm NaAc pH 4.0. [3] A, fluorescence emission of bis-ANS (2.0 \u00ce\u00bcm) in the presence of different concentrations of the prion peptide. ",
+    "term_A": "urea",
+    "term_B": "LIGHT SCATTERING",
+    "llm_generation": {
+        "summary": "In this context, urea is mentioned as a component used to unfold the prion peptide PrP (109\u2013149) in a study examining its aggregation behavior. The relationship to light scattering is indirect, as light scattering values are used to measure the extent of peptide aggregation, which is influenced by the presence of urea. However, the specific role of urea in relation to light scattering is not elaborated upon, making the connection somewhat tenuous.",
+        "reason": "The score of 2 reflects an indirect relationship, as urea is involved in the unfolding of the peptide, which affects light scattering measurements. However, there is no detailed discussion of how urea specifically influences light scattering beyond its role in the experimental setup.",
+        "score": 2
+    }
+}

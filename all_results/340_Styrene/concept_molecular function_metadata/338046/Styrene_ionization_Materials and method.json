@@ -1,0 +1,10 @@
+{
+    "context": "The synthetic wastewater was stored in a feed tank prior to being pumped to the MBR. In order to avoid the escape of styrene to the gas phase of the tank, the tank was separated into two parts using a 2cm thick Teflon sheet; the bottom section was completely filled with the synthetic media, whereas a container full of styrene was placed in the upper part. Using a feed tank with this design ensured that the concentration of styrene in the inlet to MBR throughout the experiments did not deviate from the 50mg/L concentration by more than 0.1%. The operating conditions of the MBR system are described in Table 1 .Analytical methods The styrene concentrations were analyzed using a gas chromatograph (Younglin) equipped with a helium ionization detector and a 50m long capillary column. The oven temperature was maintained at 70\u00b0C for 1min and raised to 140\u00b0C at the rate of 10\u00b0Cmin\u22121. The temperatures of the injector and the detector were fixed at 200\u00b0C and 240\u00b0C, respectively. Styrene concentration in the liquid phase was estimated using the headspace method. ",
+    "term_A": "Styrene",
+    "term_B": "ionization",
+    "llm_generation": {
+        "summary": "In this context, styrene is analyzed using a gas chromatograph equipped with a helium ionization detector, indicating a direct relationship between styrene and the ionization process. The ionization detector is crucial for measuring the concentration of styrene in the synthetic wastewater, demonstrating how ionization is employed to quantify the presence of styrene in the liquid phase. This highlights the importance of ionization in the analytical methods used for styrene detection.",
+        "reason": "The score of 4 reflects a significant connection between styrene and ionization, as the context describes the use of ionization detection specifically for measuring styrene concentrations. The analytical method employed shows a clear relationship, although it does not delve into the chemical mechanisms of ionization itself.",
+        "score": 4
+    }
+}

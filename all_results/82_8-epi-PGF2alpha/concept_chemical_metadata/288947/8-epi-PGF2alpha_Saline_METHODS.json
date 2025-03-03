@@ -1,0 +1,10 @@
+{
+    "context": " [8] Identical aluminium tubes were coated internally with Tempcoat 1011F (Teflon) by Imbreglon BV.  [9] The polypropylene tubes were produced by Applikon BV (Schiedam, the Netherlands). [10] The outer surface of the inner cylinder was in direct contact with the counter current circulating ice water, while its inner surface was in direct contact with the exhaled breath or the volatile substances derived from the nebuliser and propelled by the ventilator. [11] The nebuliser was filled with a biomarker test solution (42\u00e2\u20ac\u2026pg\u00c2\u00b7mL-1 8-isoprostane or 0.1\u00e2\u20ac\u2026mg\u00c2\u00b7mL-1 albumin in a 22\u00e2\u20ac\u2026mL saline 0.9% solution), which was nebulised and propelled by a ventilator through the condenser system, simulating tidal breathing for 15\u00e2\u20ac\u2026min (ventilator settings: inspiration time 33%, respiratory frequency 20\u00c2\u00b7min-1, tidal volume 200\u00e2\u20ac\u2026mL). [12] The construction of the collection device only allowed contact between the propelled air/exhaled breath and one specific type of inner coating that was chosen at that moment (fig. [13] 1b\u00e2\u2021\u201c). [14] The condensate was collected at the open end of the condenser device directly into vials. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Saline",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha is used as a biomarker in a test solution that is nebulized with saline (0.9% solution) to simulate tidal breathing. The saline serves as a diluent for the biomarker, facilitating its delivery through the nebulizer and into the respiratory system for analysis. The relationship is primarily functional, as saline is essential for the preparation and administration of the biomarker solution.",
+        "reason": "The score of 4 reflects a significant connection between 8-epi-PGF2alpha and saline, as saline is crucial for the nebulization process of the biomarker solution, indicating a clear functional relationship in the experimental setup.",
+        "score": 4
+    }
+}

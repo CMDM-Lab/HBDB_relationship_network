@@ -1,0 +1,10 @@
+{
+    "context": "However, in general, 5-LO inhibitors decrease urinary LTE4 levels by 40% to 75%. 134,135 Levels increase in asthma exacerbations, as well as with aspirin and allergen challenge. 130,133 Corticosteroids have minimal effects on the levels. 131,136 Validity Urinary LTE4 is modestly associated with lung function measurements over time, as well as with a fall in FEV1 during aspirin challenge and the degree of airway obstruction during an asthma exacerbation. 130,133,141 While many people who have asthma have increased LTE4 during asthma exacerbations, the sensitivity and specificity of this measure across all patients with asthma is limited. Although 1 study in children suggested that urinary LTE4 levels predicted response to leukotriene receptor antagonists, previous studies in adults did not demonstrate such a predictive value. 142 Associations Increased basal levels of urinary LTE4 have been associated with aspirin-sensitive asthma, adult-onset asthma, lung function, and blood eosinophils. ",
+    "term_A": "Leukotriene E4",
+    "term_B": "Airway Obstruction",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene E4 (LTE4) is linked to airway obstruction, particularly in asthma exacerbations. Elevated urinary LTE4 levels correlate with decreased lung function and increased airway obstruction, as indicated by a fall in FEV1 during challenges. While LTE4 levels rise during asthma exacerbations, their predictive value for airway obstruction varies among patients, suggesting a complex relationship influenced by factors like aspirin sensitivity and eosinophil levels.",
+        "reason": "The score of 4 reflects a significant connection between LTE4 and airway obstruction, supported by evidence of their association during asthma exacerbations and lung function measurements. However, variability in predictive value across patients prevents a higher score.",
+        "score": 4
+    }
+}

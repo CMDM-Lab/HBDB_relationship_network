@@ -1,0 +1,10 @@
+{
+    "context": "Air was introduced into the system using a 5-horsepower air compressor and extracted at the same flow rate using a 3/4-horsepower vacuum pump. The air was humidified to greater than 95% RH prior to injection to prevent drying of the soil during the experiment. Humidification was performed by passing the air through a water tower consisting of schedule 40 PVC pipe (0.3m diameter, 1.8m length) containing wire mesh to increase mass transfer. TCE, CFM, and SF6 were contained in a high pressure gas cylinder custom-mixed with a balance of nitrogen to desired concentrations of approximately 25, 75, and 50ppmv, respectively (Spectra Gases, Alpha, NJ). Pure helium gas was introduced via a high pressure cylinder. Heptane was introduced to the lysimeter using a vapor saturator. Air from the compressor was passed through 4L of pure liquid heptane contained in schedule 40 PVC pipe (6in. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Pressure- physical agent",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as part of a gas mixture contained in a high-pressure gas cylinder, indicating that pressure is a physical agent used to maintain the desired concentrations of TCE and other gases. However, there is no detailed discussion of how pressure specifically affects TCE or its behavior in the system, making the relationship largely incidental.",
+        "reason": "The score of 2 reflects an indirect connection, as both TCE and pressure are involved in the same experimental setup, but their relationship lacks detailed exploration or significance beyond their coexistence in the context.",
+        "score": 2
+    }
+}

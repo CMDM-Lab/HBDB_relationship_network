@@ -1,0 +1,10 @@
+{
+    "context": "95th percentile concentrations were chosen as they provide an upper bounds while screening out low frequency disturbances/episodes not representative of typical conditions. Specific compound odour activity value and appearance frequency are presented in Table\u00a08 along with odorant priority rankings determined using the odorant prioritisation matrix (Table\u00a02). Based upon the assessment presented in Table\u00a08, VOCs were not generally identified as priority odorants. The exceptions were m,p-xylene and limonene for Sydney sites and toluene for Melbourne sites, which received a high priority rating (odorous at source concentrations and high appearance frequency). The highest priority odorants were VSCs (Table\u00a08). Methyl mercaptan and hydrogen sulfide were identified as key odorants for all three cities studied, with high odour activity values (>15,000). Ethyl mercaptan was a key odorant for the Perth sites, while it received a moderate priority rating elsewhere due to low appearance frequency. ",
+    "term_A": "Methylsulfanylmethane",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, Methylsulfanylmethane and toluene are both mentioned as volatile organic compounds (VOCs) assessed for their odor activity and frequency of appearance in different cities. However, the relationship between them is not explicitly discussed, and they are categorized separately in terms of their priority ratings as odorants. The focus is more on their individual characteristics rather than any direct interaction or comparison.",
+        "reason": "The score of 2 reflects a low relevance, as Methylsulfanylmethane and toluene are both identified as VOCs in the study, but their relationship is not detailed. They share a general category but lack a direct connection or interaction in the context provided.",
+        "score": 2
+    }
+}

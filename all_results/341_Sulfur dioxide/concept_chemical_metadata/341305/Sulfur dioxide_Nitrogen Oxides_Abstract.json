@@ -1,0 +1,10 @@
+{
+    "context": "[1] Over the past 35 yrs, the prevalence of asthma and allergies has increased considerably worldwide, particularly in industrialised countries . [2] This phenomenon is attributable to multiple factors. [3] Air pollution has also considerably changed over the last decades. [4] Since 1980, concentrations of SO2 and coarse particles, mainly emitted from industry, have significantly decreased in industrialised countries, while concentrations of traffic-related air pollutants (TAP) (nitrogen oxides (NOx), small particles and organic compounds) have increased steadily due to the growing number of motor vehicles, especially in urban areas where road traffic has become the main source of air pollutant emissions . [5] The evolution of the nature of the air pollution mix may have contributed to the epidemic of asthma and allergies . [1] Numerous epidemiological studies have demonstrated that short-term exposure to elevated concentrations of urban air pollutants can exacerbate pre-existing asthma , . [2] Nevertheless, adverse effects of long-term exposure are less clear. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Nitrogen Oxides",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) and nitrogen oxides (NOx) are both identified as significant air pollutants contributing to respiratory issues, particularly asthma and allergies. While SO2 levels have decreased due to industrial regulations, NOx levels have risen due to increased vehicular traffic. This shift in air pollution composition may have implications for public health, particularly in urban areas where these pollutants are prevalent.",
+        "reason": "The score of 4 reflects a significant connection between sulfur dioxide and nitrogen oxides, as both are recognized air pollutants linked to respiratory health issues. The context discusses their changing concentrations and potential health impacts, indicating a clear relationship in the context of air quality and asthma exacerbation.",
+        "score": 4
+    }
+}

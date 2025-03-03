@@ -1,0 +1,10 @@
+{
+    "context": "This sample emitted more than twice the TVOC of the sample with a 14cm joint edge. The TVOC in these samples decreased rapidly over a 5-day period and stabilized at approximately 180\u03bcg/m2 h. The TVOCs measured using the 20L chamber and FLEC method contained more unidentified VOCs than identified VOCs. Toluene, ethylbenzene and xylene were the main VOCs emitted from the laminate flooring tested. TVOC emission was tested using the 20L small chamber method and FLEC. Although the 20L small chamber method is the standard VOC emission test used in Korea, there is a need for a method that is faster than this chamber method which is why FLEC was used to test the laminate flooring, as shown in Fig. 12 . The correlation between the FLEC and 20L chamber can be described by the equation, Y =0.179X +11.151, with R 2 =0.72.Formaldehyde emission behavior of indoor heating systems (floor heating system and air circulation system) using FLEC Figs. 13 and 14 show the emission of formaldehyde from laminate flooring when using an air circulation system and floor heating system, respectively, which were obtained using the FLEC method. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are identified as the main volatile organic compounds (VOCs) emitted from laminate flooring samples. Both compounds are part of the total volatile organic compound (TVOC) emissions measured using the 20L chamber and FLEC methods. However, the context does not provide specific details on their individual interactions or comparative significance beyond their presence in the same emission profile.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and toluene are mentioned together as components of VOC emissions from laminate flooring. Their relationship is primarily based on their co-occurrence in the same context without detailed discussion of their interactions or specific roles.",
+        "score": 2
+    }
+}

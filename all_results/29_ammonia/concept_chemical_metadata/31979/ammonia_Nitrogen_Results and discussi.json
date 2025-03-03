@@ -1,0 +1,10 @@
+{
+    "context": "Values in Table S1 show considerable higher nitrogen content in HW compared with the other mixtures. Also, nitrogen contain in WR is higher than in OP (Table S1), where no ammonia emissions were detected (Table 1). However, WR emissions were lower than RS emissions due to the higher bioavailable C/N ratio (Puyuelo et al., 2011). To enhance the properties of the final product to be used as an organic amendment, it would be beneficial to reduce ammonia emissions retaining nitrogen in the solid phase. Further investigation on the strategies to reduce these significant nitrogen losses is necessary to assume the feasibility of a complete valorization process of the hair wastes, as it has been highlighted in other studies (Puyuelo et al., 2011). 3.2.4 VOC emissions Fig. 1d presents the evolution of VOC emissions. ",
+    "term_A": "ammonia",
+    "term_B": "Nitrogen",
+    "llm_generation": {
+        "summary": "In this context, ammonia and nitrogen are related through their roles in nitrogen content and emissions in various mixtures. The text discusses the higher nitrogen content in hair waste (HW) compared to other mixtures and emphasizes the need to manage ammonia emissions to retain nitrogen in solid form. This indicates a direct relationship where ammonia is a nitrogen-containing compound, and managing its emissions is crucial for nitrogen retention in organic amendments.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and nitrogen, as the context discusses their relationship in terms of nitrogen content and the impact of ammonia emissions on nitrogen retention. The emphasis on reducing ammonia to enhance nitrogen retention supports this connection.",
+        "score": 4
+    }
+}

@@ -1,0 +1,3860 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "8-epi-PGF2alpha",
+                    "label": "8-epi-PGF2alpha",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "8-epi-PGF2alpha",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "8-epi-PGF2alpha",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "8-epi-PGF2alpha",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "8-epi-PGF2alpha",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "8-epi-PGF2alpha",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "8-epi-PGF2alpha",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "8-epi-PGF2alpha",
+                        "label": "8-epi-PGF2alpha",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory Distress Syndrome, Adult",
+                        "label": "Respiratory Distress Syndrome, Adult",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory morbidity",
+                        "label": "Respiratory morbidity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration Disorders",
+                        "label": "Respiration Disorders",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Bronchitis",
+                        "label": "Bronchitis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Obesity",
+                        "label": "Obesity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cardiovascular Diseases",
+                        "label": "Cardiovascular Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Rhinitis",
+                        "label": "Rhinitis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chronic Obstructive Airway Disease",
+                        "label": "Chronic Obstructive Airway Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sleep Apnea Syndromes",
+                        "label": "Sleep Apnea Syndromes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cystic Fibrosis",
+                        "label": "Cystic Fibrosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Childhood asthma",
+                        "label": "Childhood asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lung Diseases, Interstitial",
+                        "label": "Lung Diseases, Interstitial",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Respiratory Distress Syndrome, Adult",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Respiratory morbidity",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Respiration Disorders",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Bronchitis",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Obesity",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Cardiovascular Diseases",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Asthma",
+                        "score": 40
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Rhinitis",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Chronic Obstructive Airway Disease",
+                        "score": 18
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Sleep Apnea Syndromes",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Cystic Fibrosis",
+                        "score": 21
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Childhood asthma",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Lung diseases",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Lung Diseases, Interstitial",
+                        "score": 8
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "8-epi-PGF2alpha",
+                        "label": "8-epi-PGF2alpha",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Saline",
+                        "label": "Saline",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Deuterium",
+                        "label": "Deuterium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aluminum",
+                        "label": "Aluminum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrate",
+                        "label": "Nitrate",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Carbon",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Chemicals",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Saline",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Deuterium",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Aluminum",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Nitrate",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "8-epi-PGF2alpha",
+                        "label": "8-epi-PGF2alpha",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Stimulus",
+                        "label": "Stimulus",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pulmonary function",
+                        "label": "pulmonary function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "DNA Methylation",
+                        "label": "DNA Methylation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "synergism",
+                        "label": "synergism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Apnea",
+                        "label": "Apnea",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Protective Agents",
+                        "label": "Protective Agents",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "cross reactivity",
+                        "label": "cross reactivity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Anabolism",
+                        "label": "Anabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Waking",
+                        "label": "Waking",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Atherogenesis",
+                        "label": "Atherogenesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hypoxia",
+                        "label": "Hypoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidants",
+                        "label": "Oxidants",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Complication",
+                        "label": "Complication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "peroxidation",
+                        "label": "peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hypersensitivity",
+                        "label": "Hypersensitivity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Obstruction",
+                        "label": "Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Stimulus",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "pulmonary function",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "DNA Methylation",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "synergism",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Drug Interactions",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Apnea",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Protective Agents",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Adjudication",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "cross reactivity",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Respiration",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Anabolism",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Exhalation",
+                        "score": 41
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Synthesis",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Waking",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Atherogenesis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Hypoxia",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Oxidants",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Complication",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Inspiration function",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "peroxidation",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Lipid Peroxidation",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Hypersensitivity",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Obstruction",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "8-epi-PGF2alpha",
+                        "target": "Respiratory physiology",
+                        "score": 11
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "8-epi-PGF2alpha",
+                        "label": "8-epi-PGF2alpha",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "8-epi-PGF2alpha",
+                        "label": "8-epi-PGF2alpha",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "8-epi-PGF2alpha",
+                        "label": "8-epi-PGF2alpha",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Respiratory Distress Syndrome, Adult": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory Distress Syndrome, Adult",
+                        "label": "Respiratory Distress Syndrome, Adult",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348",
+                        "label": "Exhaled 8-isoprostane as a new non-invasive biomarker of oxidative stress in cystic fibrosis.\nP. Montuschi, SA. Kharitonov, G. Ciabattoni, M. Corradi, L. van Rensen, DM. Geddes, ME. Hodson, PJ. Barnes\nThorax 2000 Mar;55(3):205-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10679539"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Respiratory Distress Syndrome, Adult_Abstract.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is mentioned in relation to oxidative stress and inflammation in respiratory conditions, including Adult Respiratory Distress Syndrome (ARDS). The text indicates that isoprostanes like 8-isoprostane are elevated in ARDS and other lung diseases, suggesting a potential role in the pathophysiology of these conditions. However, the specific relationship between 8-epi-PGF2alpha and ARDS is not directly detailed, indicating a broader association rather than a focused interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Respiratory Distress Syndrome, Adult_Statistics from Altm.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is highlighted as a reliable biomarker for lipid peroxidation and oxidative stress, with increased levels observed in various respiratory conditions, including Adult Respiratory Distress Syndrome (ARDS). The study indicates that elevated concentrations of 8-isoprostane are found in exhaled breath condensate of ARDS patients, suggesting a significant relationship between oxidative stress and the severity of respiratory distress. This connection underscores the potential of 8-epi-PGF2alpha as a non-invasive marker for assessing lung oxidative stress in ARDS.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory Distress Syndrome, Adult",
+                        "target": "289348",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Respiratory Distress Syndrome, Adult_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Respiratory Distress Syndrome, Adult_Statistics from Altm.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Respiratory morbidity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory morbidity",
+                        "label": "Respiratory morbidity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288493",
+                        "label": "Traffic-related air pollutants and exhaled markers of airway inflammation and oxidative stress in New York City adolescents.\nMM. Patel, SN. Chillrud, KC. Deepti, JM. Ross, PL. Kinney\nEnviron. Res. 2013 Feb;121:71-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23177171"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288493_8-epi-PGF2alpha_Respiratory morbidity_Introduction.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a marker of oxidative stress, is indirectly related to respiratory morbidity through its association with airway inflammation and oxidative stress indicators measured in exhaled breath condensate. The study investigates how short-term exposure to diesel exhaust particles affects these biomarkers, which may reflect respiratory health outcomes, particularly in asthmatic individuals. While 8-epi-PGF2alpha is not explicitly mentioned, its role as a biomarker for oxidative stress suggests a connection to respiratory morbidity in the context of diesel exposure and asthma exacerbation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory morbidity",
+                        "target": "288493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288493",
+                        "target": "288493_8-epi-PGF2alpha_Respiratory morbidity_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Respiration Disorders": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration Disorders",
+                        "label": "Respiration Disorders",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781",
+                        "label": "Impact of age on pH, 8-isoprostane, and nitrogen oxides in exhaled breath condensate.\nMJ. Cruz, S. Sánchez-Vidaurre, PV. Romero, F. Morell, X. Muñoz\nChest 2009 Feb;135(2):462-467.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19017879"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781_8-epi-PGF2alpha_Respiration Disorders_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is highlighted as a biomarker found in exhaled breath condensate (EBC) of patients with various respiratory disorders, including asthma, COPD, and cystic fibrosis. The study indicates that levels of 8-isoprostane are significantly elevated in these conditions, suggesting its potential role in the pathophysiology of respiratory diseases and its utility as a noninvasive marker for assessing respiratory health.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration Disorders",
+                        "target": "288781",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288781",
+                        "target": "288781_8-epi-PGF2alpha_Respiration Disorders_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Bronchitis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Bronchitis",
+                        "label": "Bronchitis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444",
+                        "label": "Oxidative stress in adolescent passive smokers living in urban and rural environments.\nR. Bono, V. Bellisario, V. Romanazzi, V. Pirro, P. Piccioni, M. Pazzi, M. Bugiani, M. Vincenti\nInt J Hyg Environ Health 2014 Mar;217(2-3):287-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23890683"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444_8-epi-PGF2alpha_Bronchitis_Methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha is analyzed as a dependent variable in relation to various respiratory symptoms, including bronchitis. The study employs general linear model (GLM) analysis to explore the relationship between 8-epi-PGF2alpha levels and lung function parameters, suggesting a potential link between oxidative stress markers and respiratory conditions like bronchitis. However, the specific interaction between 8-epi-PGF2alpha and bronchitis is not explicitly detailed, indicating a moderate connection rather than a direct causative relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Bronchitis",
+                        "target": "288444",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288444",
+                        "target": "288444_8-epi-PGF2alpha_Bronchitis_Methods.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Obesity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Obesity",
+                        "label": "Obesity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288461",
+                        "label": "Obesity and asthma: a coincidence or a causal relationship? A systematic review.\nZ. Ali, CS. Ulrik\nRespir Med 2013 Sep;107(9):1287-300.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23642708"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288461_8-epi-PGF2alpha_Obesity_.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is discussed in relation to oxidative stress levels associated with obesity. The study indicates that obesity is linked to increased exhaled 8-isoprostane levels, suggesting a relationship between obesity and airway oxidative stress. However, the lack of correlation between exhaled and plasma levels complicates the understanding of this relationship, indicating that while obesity may influence oxidative stress, the exact role of 8-epi-PGF2alpha in this context remains unclear.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Obesity_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is linked to obesity through its correlation with neck circumference in patients with obstructive sleep apnea (OSA). The study suggests that elevated levels of this oxidative stress marker in exhaled breath may indicate a higher risk of developing OSA in obese individuals. This relationship highlights the potential role of oxidative stress in the pathophysiology of obesity-related complications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Obesity",
+                        "target": "288461",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288461",
+                        "target": "288461_8-epi-PGF2alpha_Obesity_.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Obesity",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Obesity_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Cardiovascular Diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cardiovascular Diseases",
+                        "label": "Cardiovascular Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Cardiovascular Diseases_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a marker of oxidative stress, is linked to cardiovascular diseases through its elevated levels in patients with obstructive sleep apnea (OSA). The study suggests that increased oxidative stress, indicated by 8-isoprostane levels, may contribute to the heightened risk of cardiovascular diseases in these patients. Monitoring 8-epi-PGF2alpha could help identify individuals at greater risk for cardiovascular complications associated with OSA.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cardiovascular Diseases",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Cardiovascular Diseases_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205",
+                        "label": "Ozone-induced increase in exhaled 8-isoprostane in healthy subjects is resistant to inhaled budesonide.\nP. Montuschi, JA. Nightingale, SA. Kharitonov, PJ. Barnes\nFree Radic. Biol. Med. 2002 Nov;33(10):1403-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12419472"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha is discussed as a marker of oxidative stress and airway inflammation in asthma patients. The study highlights the differential effects of corticosteroids like budesonide on 8-isoprostane levels in response to various inflammatory stimuli, suggesting that while corticosteroids may reduce 8-isoprostane production in allergen-induced asthma, they do not have the same effect in ozone-induced inflammation. This indicates a complex relationship between 8-epi-PGF2alpha and asthma, particularly in the context of inflammatory responses and treatment efficacy.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205_8-epi-PGF2alpha_Asthma_Introduction.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is linked to asthma through its increased levels in exhaled breath condensate (EBC) of patients with inflammatory airway diseases, including asthma. The study suggests that measuring 8-isoprostane could serve as a noninvasive marker for oxidative stress in asthma, particularly in response to ozone exposure. Additionally, the effects of inhaled corticosteroids on 8-isoprostane levels in asthma patients are explored, indicating a potential relationship between oxidative stress and asthma management.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288947",
+                        "label": "Breath condenser coatings affect measurement of biomarkers in exhaled breath condensate.\nPP. Rosias, CM. Robroeks, HJ. Niemarkt, AD. Kester, JH. Vernooy, J. Suykerbuyk, J. Teunissen, J. Heynens, HJ. Hendriks, Q. Jöbsis, E. Dompeling\nEur. Respir. J. 2006 Nov;28(5):1036-41.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16870660"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288947_8-epi-PGF2alpha_Asthma_DISCUSSION.json",
+                        "label": "In this context, 8-epi-PGF2alpha is indirectly related to asthma through the discussion of exhaled breath condensate (EBC) collection methods. The text mentions that subjects with asthma are more likely to show positive albumin detection in EBC, suggesting a potential link between inflammatory markers like 8-epi-PGF2alpha and asthma. However, the specific role of 8-epi-PGF2alpha in asthma is not elaborated upon, limiting the depth of the relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348",
+                        "label": "Exhaled 8-isoprostane as a new non-invasive biomarker of oxidative stress in cystic fibrosis.\nP. Montuschi, SA. Kharitonov, G. Ciabattoni, M. Corradi, L. van Rensen, DM. Geddes, ME. Hodson, PJ. Barnes\nThorax 2000 Mar;55(3):205-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10679539"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Asthma_Abstract.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is mentioned in relation to oxidative stress and inflammation in the airways, which are significant factors in asthma. The increase of isoprostanes, including 8-epi-PGF2alpha, is noted in conditions like asthma, indicating a potential role in the disease's pathophysiology. However, the specific relationship between 8-epi-PGF2alpha and asthma is not deeply explored, focusing instead on its general association with airway inflammation and oxidative stress.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Asthma_Statistics from Altm.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is highlighted as a biomarker for oxidative stress, with increased concentrations found in the exhaled breath condensate of asthma patients. This suggests a significant relationship between elevated levels of 8-epi-PGF2alpha and the pathophysiology of asthma, indicating that oxidative stress may play a role in the disease's progression and severity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781",
+                        "label": "Impact of age on pH, 8-isoprostane, and nitrogen oxides in exhaled breath condensate.\nMJ. Cruz, S. Sánchez-Vidaurre, PV. Romero, F. Morell, X. Muñoz\nChest 2009 Feb;135(2):462-467.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19017879"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, also referred to as 8-isoprostane, is highlighted as a biomarker found in exhaled breath condensate (EBC) of patients with asthma and other respiratory diseases. The study indicates that levels of 8-isoprostane are elevated in individuals with asthma, suggesting its potential role in the inflammatory processes associated with the disease. The findings imply that measuring 8-isoprostane could provide insights into asthma pathology and severity, particularly as levels vary with age among patients.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288493",
+                        "label": "Traffic-related air pollutants and exhaled markers of airway inflammation and oxidative stress in New York City adolescents.\nMM. Patel, SN. Chillrud, KC. Deepti, JM. Ross, PL. Kinney\nEnviron. Res. 2013 Feb;121:71-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23177171"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288493_8-epi-PGF2alpha_Asthma_Introduction.json",
+                        "label": "In this context, 8-epi-PGF2alpha is indirectly related to asthma through its role as a biomarker of oxidative stress, which is measured in exhaled breath condensate. The study investigates how indicators of airway inflammation and oxidative stress, including 8-isoprostane, differ between asthmatic and nonasthmatic individuals, particularly in response to diesel exhaust exposure. While 8-epi-PGF2alpha is not explicitly mentioned, its association with oxidative stress suggests relevance to asthma exacerbations and inflammation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is highlighted as a reliable biomarker for oxidative stress, which has been linked to various pulmonary diseases, including asthma. Increased levels of 8-isoprostane have been found in the exhaled breath condensates of asthma patients, indicating its potential role in reflecting local oxidative stress in the airways. This suggests a significant relationship between oxidative stress, as indicated by 8-epi-PGF2alpha levels, and the pathophysiology of asthma.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163",
+                        "label": "Increased exhaled 8-isoprostane in childhood asthma.\nE. Baraldi, L. Ghiro, V. Piovan, S. Carraro, G. Ciabattoni, PJ. Barnes, P. Montuschi\nChest 2003 Jul;124(1):25-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12853498"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is highlighted as a marker of oxidative stress in children with mild-to-moderate persistent asthma. The study indicates that increased levels of 8-isoprostane in exhaled breath condensate (EBC) correlate with oxidative stress in asthmatic patients, suggesting its potential role as a noninvasive biomarker for assessing asthma severity and inflammation. This relationship underscores the relevance of oxidative stress in asthma pathology.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288357",
+                        "label": "Domestic airborne black carbon levels and 8-isoprostane in exhaled breath condensate among children in New York City.\nMJ. Rosa, B. Yan, SN. Chillrud, LM. Acosta, A. Divjan, JS. Jacobson, RL. Miller, IF. Goldstein, MS. Perzanowski\nEnviron. Res. 2014 Nov;135:105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25262082"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288357_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is investigated in relation to airborne pollutants and their impact on respiratory health, particularly in asthmatic children. While the study indicates associations between PM2.5 exposure and pulmonary function, it does not find a significant correlation between 8-isoprostane levels and asthma, suggesting that while oxidative stress markers like 8-isoprostane are relevant, their direct relationship with asthma severity or exacerbation remains unclear.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288359",
+                        "label": "Airway oxidative stress and inflammation markers in exhaled breath from children are linked with exposure to black carbon.\nS. De Prins, E. Dons, M. Van Poppel, L. Int Panis, E. Van de Mieroop, V. Nelen, B. Cox, TS. Nawrot, C. Teughels, G. Schoeters, G. Koppen\nEnviron Int 2014 Dec;73:440-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25244707"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288359_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is linked to asthma through its increased levels in exhaled breath condensate (EBC) following exposure to cigarette smoke. The studies mentioned indicate that both asthmatic and healthy individuals show elevated 8-isoprostane levels after smoke exposure, suggesting its potential role as a biomarker for oxidative stress in asthma. However, the relationship is not fully established, as some studies did not find a correlation between 8-isoprostane and particulate matter in asthmatic children.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "289205",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289205",
+                        "target": "289205_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289205",
+                        "target": "289205_8-epi-PGF2alpha_Asthma_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "288947",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288947",
+                        "target": "288947_8-epi-PGF2alpha_Asthma_DISCUSSION.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "289348",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Asthma_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Asthma_Statistics from Altm.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "288781",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288781",
+                        "target": "288781_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "288493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288493",
+                        "target": "288493_8-epi-PGF2alpha_Asthma_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "289163",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289163",
+                        "target": "289163_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "288357",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288357",
+                        "target": "288357_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "288359",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288359",
+                        "target": "288359_8-epi-PGF2alpha_Asthma_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Rhinitis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Rhinitis",
+                        "label": "Rhinitis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288815",
+                        "label": "Leukotrienes and 8-isoprostane in exhaled breath condensate in bronchoprovocation tests with occupational allergens.\nP. Klusackova, J. Lebedova, P. Kacer, M. Kuzma, M. Brabec, D. Pelclova, Z. Fenclova, T. Navratil\nProstaglandins Leukot. Essent. Fatty Acids 2008 Apr-May;78(4-5):281-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18513935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288815_8-epi-PGF2alpha_Rhinitis_Introduction.json",
+                        "label": "In this context, 8-epi-PGF2alpha is investigated alongside leukotrienes in exhaled breath condensate (EBC) to monitor changes in patients with suspected occupational asthma and/or rhinitis. The study aims to assess the relationship between these biomarkers and allergic responses triggered by workplace allergens, indicating a potential link between 8-epi-PGF2alpha levels and rhinitis symptoms in affected individuals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444",
+                        "label": "Oxidative stress in adolescent passive smokers living in urban and rural environments.\nR. Bono, V. Bellisario, V. Romanazzi, V. Pirro, P. Piccioni, M. Pazzi, M. Bugiani, M. Vincenti\nInt J Hyg Environ Health 2014 Mar;217(2-3):287-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23890683"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444_8-epi-PGF2alpha_Rhinitis_Methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha is analyzed in relation to various respiratory symptoms, including rhinitis, as part of a study examining the effects of different variables on lung function and inflammatory markers. While rhinitis is mentioned among the respiratory symptoms, the specific relationship between 8-epi-PGF2alpha and rhinitis is not directly explored, indicating a potential but unclear connection in the context of respiratory health.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Rhinitis",
+                        "target": "288815",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288815",
+                        "target": "288815_8-epi-PGF2alpha_Rhinitis_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Rhinitis",
+                        "target": "288444",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288444",
+                        "target": "288444_8-epi-PGF2alpha_Rhinitis_Methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chronic Obstructive Airway Disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chronic Obstructive Airway Disease",
+                        "label": "Chronic Obstructive Airway Disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348",
+                        "label": "Exhaled 8-isoprostane as a new non-invasive biomarker of oxidative stress in cystic fibrosis.\nP. Montuschi, SA. Kharitonov, G. Ciabattoni, M. Corradi, L. van Rensen, DM. Geddes, ME. Hodson, PJ. Barnes\nThorax 2000 Mar;55(3):205-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10679539"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Statistics from Altm.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is highlighted as a reliable biomarker for lipid peroxidation and oxidative stress. Its levels are reported to be increased in patients with chronic obstructive pulmonary disease (COPD), indicating a potential link between oxidative stress and the pathophysiology of COPD. The study suggests that measuring 8-epi-PGF2alpha concentrations in biological fluids could provide insights into the oxidative stress present in patients with this disease.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Abstract.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is mentioned in relation to oxidative stress and inflammation in chronic obstructive pulmonary disease (COPD) and other respiratory conditions. The increase of isoprostanes like 8-isoprostane in diseases such as COPD indicates a potential role in the pathophysiology of airway inflammation. However, the specific relationship between 8-epi-PGF2alpha and COPD is not directly detailed, suggesting a broader connection rather than a focused interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781",
+                        "label": "Impact of age on pH, 8-isoprostane, and nitrogen oxides in exhaled breath condensate.\nMJ. Cruz, S. Sánchez-Vidaurre, PV. Romero, F. Morell, X. Muñoz\nChest 2009 Feb;135(2):462-467.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19017879"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is highlighted as a biomarker found in exhaled breath condensate (EBC) of patients with Chronic Obstructive Airway Disease (COPD) among other respiratory diseases. The study indicates that levels of 8-isoprostane are elevated in patients with COPD, suggesting its potential role in reflecting oxidative stress or inflammation associated with the disease. The findings imply a significant relationship between 8-epi-PGF2alpha levels and the presence of COPD, particularly as they vary with age in the studied population.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is highlighted as a reliable biomarker for oxidative stress, which is relevant in various pulmonary diseases, including Chronic Obstructive Airway Disease (COPD). Increased levels of 8-isoprostane have been observed in the urine of COPD patients, indicating its potential role in reflecting oxidative stress and lipid peroxidation in the disease's pathophysiology. This suggests a significant relationship between 8-epi-PGF2alpha and COPD, as it may serve as a useful marker for monitoring oxidative stress in affected individuals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289088",
+                        "label": "Exhaled Interleukine-6 and 8-isoprostane in chronic obstructive pulmonary disease: effect of carbocysteine lysine salt monohydrate (SCMC-Lys).\nGE. Carpagnano, O. Resta, MP. Foschino-Barbaro, A. Spanevello, A. Stefano, G. Di Gioia, G. Serviddio, E. Gramiccioni\nEur. J. Pharmacol. 2004 Nov;505(1-3):169-75.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15556150"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289088_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is mentioned as a marker of oxidative stress in the airways of patients with Chronic Obstructive Airway Disease (COPD). The study highlights the role of oxidative stress and inflammation in COPD exacerbations, suggesting that exhaled markers like 8-isoprostane could be useful in clinical management. However, the specific relationship between 8-epi-PGF2alpha and COPD is not deeply explored, indicating a need for further research to clarify its role as a biomarker in this disease.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic Obstructive Airway Disease",
+                        "target": "289348",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Statistics from Altm.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic Obstructive Airway Disease",
+                        "target": "288781",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288781",
+                        "target": "288781_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic Obstructive Airway Disease",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic Obstructive Airway Disease",
+                        "target": "289088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289088",
+                        "target": "289088_8-epi-PGF2alpha_Chronic Obstructive Airway Disease_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Sleep Apnea Syndromes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sleep Apnea Syndromes",
+                        "label": "Sleep Apnea Syndromes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Sleep Apnea Syndromes_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is positively correlated with oxidative stress in patients with obstructive sleep apnea (OSA). The study indicates that elevated levels of 8-isoprostane in exhaled breath condensate and plasma are associated with inflammation and potential cardiovascular complications linked to OSA. This suggests that measuring 8-isoprostane could be useful for screening and monitoring OSA progression, highlighting its relevance in understanding the oxidative stress mechanisms involved in this syndrome.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sleep Apnea Syndromes",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Sleep Apnea Syndromes_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Cystic Fibrosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cystic Fibrosis",
+                        "label": "Cystic Fibrosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348",
+                        "label": "Exhaled 8-isoprostane as a new non-invasive biomarker of oxidative stress in cystic fibrosis.\nP. Montuschi, SA. Kharitonov, G. Ciabattoni, M. Corradi, L. van Rensen, DM. Geddes, ME. Hodson, PJ. Barnes\nThorax 2000 Mar;55(3):205-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10679539"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Cystic Fibrosis_Results.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referenced as 8-isoprostane, is correlated with lung function in cystic fibrosis patients. The study indicates a significant negative correlation between 8-isoprostane levels in breath condensate and forced expiratory volume (FEV1), suggesting that higher oxidative stress, indicated by increased 8-isoprostane, may be associated with poorer lung function in cystic fibrosis. Additionally, a positive correlation with carbon monoxide levels further emphasizes the role of oxidative stress in this disease.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Cystic Fibrosis_Abstract.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is significantly elevated in the breath condensate of patients with stable cystic fibrosis compared to normal subjects. This increase suggests a link between oxidative stress and inflammation in cystic fibrosis, indicating that 8-epi-PGF2alpha may serve as a potential biomarker for disease severity and airway inflammation in these patients.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Cystic Fibrosis_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, also referred to as 8-isoprostane, is implicated in the oxidative stress associated with cystic fibrosis (CF). The study indicates that increased levels of 8-isoprostane in breath condensate reflect heightened lipid peroxidation and oxidative damage in CF patients. This suggests a potential role for 8-isoprostane as a biomarker for oxidative stress and a target for antioxidant therapies in CF management.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781",
+                        "label": "Impact of age on pH, 8-isoprostane, and nitrogen oxides in exhaled breath condensate.\nMJ. Cruz, S. Sánchez-Vidaurre, PV. Romero, F. Morell, X. Muñoz\nChest 2009 Feb;135(2):462-467.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19017879"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781_8-epi-PGF2alpha_Cystic Fibrosis_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is highlighted as a biomarker found in exhaled breath condensate (EBC) of patients with cystic fibrosis, among other respiratory diseases. The study indicates that levels of 8-isoprostane are significantly increased in cystic fibrosis patients, suggesting its potential role in monitoring inflammation or oxidative stress associated with the disease. The findings also note variations in 8-isoprostane levels across different age groups, indicating its relevance in the disease's progression.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Cystic Fibrosis_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is highlighted as a reliable biomarker for oxidative stress, which has been shown to be elevated in patients with cystic fibrosis. The measurement of 8-isoprostane levels in biological fluids, including plasma, is associated with systemic oxidative stress, indicating its potential role in monitoring the oxidative stress-related pathophysiology of cystic fibrosis. This suggests a significant relationship between oxidative stress, as indicated by 8-epi-PGF2alpha levels, and the disease state in cystic fibrosis patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cystic Fibrosis",
+                        "target": "289348",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Cystic Fibrosis_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Cystic Fibrosis_Abstract.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Cystic Fibrosis_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cystic Fibrosis",
+                        "target": "288781",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288781",
+                        "target": "288781_8-epi-PGF2alpha_Cystic Fibrosis_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cystic Fibrosis",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Cystic Fibrosis_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Childhood asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Childhood asthma",
+                        "label": "Childhood asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163",
+                        "label": "Increased exhaled 8-isoprostane in childhood asthma.\nE. Baraldi, L. Ghiro, V. Piovan, S. Carraro, G. Ciabattoni, PJ. Barnes, P. Montuschi\nChest 2003 Jul;124(1):25-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12853498"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163_8-epi-PGF2alpha_Childhood asthma_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a marker of oxidative stress, is linked to childhood asthma through its increased concentrations in exhaled breath condensate (EBC) of children with mild-to-moderate persistent asthma. The study suggests that elevated levels of this eicosanoid may indicate oxidative stress in asthmatic children, supporting the potential for antioxidants in treatment. Thus, 8-epi-PGF2alpha serves as a noninvasive biomarker for assessing oxidative stress in childhood asthma.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Childhood asthma",
+                        "target": "289163",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289163",
+                        "target": "289163_8-epi-PGF2alpha_Childhood asthma_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Lung diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444",
+                        "label": "Oxidative stress in adolescent passive smokers living in urban and rural environments.\nR. Bono, V. Bellisario, V. Romanazzi, V. Pirro, P. Piccioni, M. Pazzi, M. Bugiani, M. Vincenti\nInt J Hyg Environ Health 2014 Mar;217(2-3):287-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23890683"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444_8-epi-PGF2alpha_Lung diseases_Methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha is analyzed in relation to various respiratory symptoms and lung function parameters, indicating its potential role as a biomarker for lung diseases. The study employs statistical models to assess the relationship between 8-epi-PGF2alpha levels and lung function, suggesting that elevated levels may correlate with respiratory issues. However, the specific mechanisms linking 8-epi-PGF2alpha to lung diseases are not detailed in the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lung diseases",
+                        "target": "288444",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288444",
+                        "target": "288444_8-epi-PGF2alpha_Lung diseases_Methods.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Lung Diseases, Interstitial": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lung Diseases, Interstitial",
+                        "label": "Lung Diseases, Interstitial",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348",
+                        "label": "Exhaled 8-isoprostane as a new non-invasive biomarker of oxidative stress in cystic fibrosis.\nP. Montuschi, SA. Kharitonov, G. Ciabattoni, M. Corradi, L. van Rensen, DM. Geddes, ME. Hodson, PJ. Barnes\nThorax 2000 Mar;55(3):205-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10679539"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Lung Diseases, Interstitial_Abstract.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is associated with oxidative stress and inflammation in various lung diseases, including interstitial lung diseases and cystic fibrosis. The study highlights the increased levels of 8-isoprostane in patients with these conditions, suggesting its potential role as a biomarker for oxidative stress and inflammation in lung pathology. However, the specific relationship between 8-epi-PGF2alpha and interstitial lung diseases is not deeply explored beyond its mention as a relevant isoprostane in the context of oxidative stress.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Lung Diseases, Interstitial_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is highlighted as a reliable biomarker for oxidative stress, which has been linked to various lung diseases, including interstitial lung disease. Increased levels of 8-isoprostane have been observed in the bronchoalveolar lavage (BAL) fluid of patients with interstitial lung disease, indicating its potential role in monitoring oxidative stress and related pathophysiological changes in the lungs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lung Diseases, Interstitial",
+                        "target": "289348",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Lung Diseases, Interstitial_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lung Diseases, Interstitial",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Lung Diseases, Interstitial_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Carbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288493",
+                        "label": "Traffic-related air pollutants and exhaled markers of airway inflammation and oxidative stress in New York City adolescents.\nMM. Patel, SN. Chillrud, KC. Deepti, JM. Ross, PL. Kinney\nEnviron. Res. 2013 Feb;121:71-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23177171"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288493_8-epi-PGF2alpha_Carbon_Introduction.json",
+                        "label": "In this context, 8-epi-PGF2alpha is mentioned as a biomarker related to oxidative stress in exhaled breath condensate, while carbon, specifically black carbon, is linked to diesel exhaust particles that may exacerbate airway inflammation. The study aims to explore the relationship between black carbon exposure and changes in biomarkers like 8-isoprostane, which is related to oxidative stress. Although both terms are involved in the study of respiratory health, their direct relationship is not explicitly detailed, focusing instead on the broader context of air quality and its effects on asthma.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon",
+                        "target": "288493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288493",
+                        "target": "288493_8-epi-PGF2alpha_Carbon_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288364",
+                        "label": "8-Isoprostane in exhaled breath condensate of patients with non-small cell lung cancer: the effect of chemotherapy.\nD. Stathopoulos, S. Loukides, K. Syrigos\nAnticancer Res. 2014 Sep;34(9):5143-5.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25202105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288364_8-epi-PGF2alpha_Chemicals_Patients and Methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha is mentioned as a specific biomarker measured in exhaled breath condensate (EBC) using an enzyme immunoassay kit. While it is categorized under chemicals due to its biochemical nature, the relationship is primarily focused on its role as a marker rather than a direct interaction with other chemicals. The context does not elaborate on how 8-epi-PGF2alpha interacts with other chemicals or its broader implications in the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781",
+                        "label": "Impact of age on pH, 8-isoprostane, and nitrogen oxides in exhaled breath condensate.\nMJ. Cruz, S. Sánchez-Vidaurre, PV. Romero, F. Morell, X. Muñoz\nChest 2009 Feb;135(2):462-467.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19017879"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781_8-epi-PGF2alpha_Chemicals_Materials and Method.json",
+                        "label": "In this context, 8-epi-PGF2alpha is mentioned as a biomarker related to the measurement of various chemicals, specifically nitrate and nitrite concentrations, in exhaled breath condensate (EBC). The study employs colorimetric assays and enzyme immunoassays to quantify these chemicals, indicating that 8-epi-PGF2alpha may be part of a broader analysis involving chemical measurements, but no direct relationship or interaction between 8-epi-PGF2alpha and the chemicals is established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288815",
+                        "label": "Leukotrienes and 8-isoprostane in exhaled breath condensate in bronchoprovocation tests with occupational allergens.\nP. Klusackova, J. Lebedova, P. Kacer, M. Kuzma, M. Brabec, D. Pelclova, Z. Fenclova, T. Navratil\nProstaglandins Leukot. Essent. Fatty Acids 2008 Apr-May;78(4-5):281-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18513935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288815_8-epi-PGF2alpha_Chemicals_Patients and methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha is analyzed as part of breath condensate samples collected for testing, which involves various chemicals used in the immunoseparation process. The mention of 'chemicals' refers broadly to the reagents and standards utilized in the analysis, but there is no specific discussion of how 8-epi-PGF2alpha interacts with or relates to these chemicals beyond its role as a target for measurement in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "288364",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288364",
+                        "target": "288364_8-epi-PGF2alpha_Chemicals_Patients and Methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "288781",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288781",
+                        "target": "288781_8-epi-PGF2alpha_Chemicals_Materials and Method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "288815",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288815",
+                        "target": "288815_8-epi-PGF2alpha_Chemicals_Patients and methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Saline": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Saline",
+                        "label": "Saline",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288947",
+                        "label": "Breath condenser coatings affect measurement of biomarkers in exhaled breath condensate.\nPP. Rosias, CM. Robroeks, HJ. Niemarkt, AD. Kester, JH. Vernooy, J. Suykerbuyk, J. Teunissen, J. Heynens, HJ. Hendriks, Q. Jöbsis, E. Dompeling\nEur. Respir. J. 2006 Nov;28(5):1036-41.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16870660"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288947_8-epi-PGF2alpha_Saline_METHODS.json",
+                        "label": "In this context, 8-epi-PGF2alpha is used as a biomarker in a test solution that is nebulized with saline (0.9% solution) to simulate tidal breathing. The saline serves as a diluent for the biomarker, facilitating its delivery through the nebulizer and into the respiratory system for analysis. The relationship is primarily functional, as saline is essential for the preparation and administration of the biomarker solution.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Saline",
+                        "target": "288947",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288947",
+                        "target": "288947_8-epi-PGF2alpha_Saline_METHODS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Deuterium": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Deuterium",
+                        "label": "Deuterium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288815",
+                        "label": "Leukotrienes and 8-isoprostane in exhaled breath condensate in bronchoprovocation tests with occupational allergens.\nP. Klusackova, J. Lebedova, P. Kacer, M. Kuzma, M. Brabec, D. Pelclova, Z. Fenclova, T. Navratil\nProstaglandins Leukot. Essent. Fatty Acids 2008 Apr-May;78(4-5):281-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18513935"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288815_8-epi-PGF2alpha_Deuterium_Patients and methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha is analyzed in breath condensate samples, where deuterium-labeled standards are used as internal controls during the immunoseparation process. The use of deuterium-labeled compounds helps in quantifying the levels of 8-epi-PGF2alpha accurately in the samples, indicating a methodological relationship where deuterium serves as a tracer in the analysis of this biomarker.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Deuterium",
+                        "target": "288815",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288815",
+                        "target": "288815_8-epi-PGF2alpha_Deuterium_Patients and methods.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Aluminum": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aluminum",
+                        "label": "Aluminum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288947",
+                        "label": "Breath condenser coatings affect measurement of biomarkers in exhaled breath condensate.\nPP. Rosias, CM. Robroeks, HJ. Niemarkt, AD. Kester, JH. Vernooy, J. Suykerbuyk, J. Teunissen, J. Heynens, HJ. Hendriks, Q. Jöbsis, E. Dompeling\nEur. Respir. J. 2006 Nov;28(5):1036-41.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16870660"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288947_8-epi-PGF2alpha_Aluminum_DISCUSSION.json",
+                        "label": "In this context, 8-epi-PGF2alpha is mentioned as a biomarker that can be measured in exhaled breath condensate (EBC), while aluminum is referenced in relation to the efficiency of different condenser coatings for collecting EBC. The study suggests that aluminum coatings are less effective compared to silicone or glass coatings for recovering biomarkers like 8-epi-PGF2alpha, indicating a potential negative impact of aluminum on the measurement accuracy of this biomarker.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288947_8-epi-PGF2alpha_Aluminum_Abstract.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is measured in exhaled breath condensate (EBC) using various condenser coatings, including aluminum. The study indicates that aluminum coating results in significantly lower concentrations of 8-isoprostane compared to silicone and glass coatings. This suggests that the choice of material for the condenser can affect the recovery of this biomarker, highlighting a potential limitation of using aluminum in such measurements.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aluminum",
+                        "target": "288947",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288947",
+                        "target": "288947_8-epi-PGF2alpha_Aluminum_DISCUSSION.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288947",
+                        "target": "288947_8-epi-PGF2alpha_Aluminum_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Nitrate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrate",
+                        "label": "Nitrate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781",
+                        "label": "Impact of age on pH, 8-isoprostane, and nitrogen oxides in exhaled breath condensate.\nMJ. Cruz, S. Sánchez-Vidaurre, PV. Romero, F. Morell, X. Muñoz\nChest 2009 Feb;135(2):462-467.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19017879"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288781_8-epi-PGF2alpha_Nitrate_Materials and Method.json",
+                        "label": "In this context, 8-epi-PGF2alpha and nitrate are both measured as part of a biochemical analysis involving exhaled breath condensate (EBC). While nitrate is quantified using a colorimetric assay, 8-epi-PGF2alpha is assessed through a competitive enzyme immunoassay. However, the relationship between these two compounds is not explicitly discussed, indicating they are part of a broader analysis of biomarkers without direct interaction or significance highlighted in the context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrate",
+                        "target": "288781",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288781",
+                        "target": "288781_8-epi-PGF2alpha_Nitrate_Materials and Method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Stimulus": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Stimulus",
+                        "label": "Stimulus",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289088",
+                        "label": "Exhaled Interleukine-6 and 8-isoprostane in chronic obstructive pulmonary disease: effect of carbocysteine lysine salt monohydrate (SCMC-Lys).\nGE. Carpagnano, O. Resta, MP. Foschino-Barbaro, A. Spanevello, A. Stefano, G. Di Gioia, G. Serviddio, E. Gramiccioni\nEur. J. Pharmacol. 2004 Nov;505(1-3):169-75.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15556150"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289088_8-epi-PGF2alpha_Stimulus_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha is identified as a predominant isoprostane used as a quantitative index of oxidative stress in patients with chronic obstructive pulmonary disease (COPD). It is measured in breath condensate, which reflects airway inflammation and oxidative stress in response to various inflammatory stimuli, such as interleukin-6. The relationship indicates that 8-epi-PGF2alpha levels can serve as a biomarker for oxidative stress triggered by inflammatory stimuli in COPD patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Stimulus",
+                        "target": "289088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289088",
+                        "target": "289088_8-epi-PGF2alpha_Stimulus_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "pulmonary function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pulmonary function",
+                        "label": "pulmonary function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288357",
+                        "label": "Domestic airborne black carbon levels and 8-isoprostane in exhaled breath condensate among children in New York City.\nMJ. Rosa, B. Yan, SN. Chillrud, LM. Acosta, A. Divjan, JS. Jacobson, RL. Miller, IF. Goldstein, MS. Perzanowski\nEnviron. Res. 2014 Nov;135:105-10.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25262082"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288357_8-epi-PGF2alpha_pulmonary function_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is investigated as a potential biomarker for oxidative stress in relation to airborne pollutant exposure. While some studies indicate associations between particulate matter (PM2.5) and decreased pulmonary function, the direct relationship between 8-epi-PGF2alpha levels and pulmonary function measures is not clearly established. The evidence suggests that while 8-epi-PGF2alpha may reflect oxidative stress, its correlation with pulmonary function remains inconclusive, as some studies did not find significant associations.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pulmonary function",
+                        "target": "288357",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288357",
+                        "target": "288357_8-epi-PGF2alpha_pulmonary function_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "DNA Methylation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "DNA Methylation",
+                        "label": "DNA Methylation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288211",
+                        "label": "Global DNA methylation and oxidative stress biomarkers in workers exposed to metal oxide nanoparticles.\nSH. Liou, WT. Wu, HY. Liao, CY. Chen, CY. Tsai, WT. Jung, HL. Lee\nJ. Hazard. Mater. 2017 Jun;331:329-335.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28273583"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288211_8-epi-PGF2alpha_DNA Methylation_Conclusions.json",
+                        "label": "In this context, 8-epi-PGF2alpha is indirectly related to DNA methylation through the assessment of oxidative stress markers and their impact on global DNA methylation levels. The study highlights a significant negative correlation between oxidative stress (indicated by 8-OHdG) and DNA methylation in leukocytes, suggesting that increased oxidative damage may lead to alterations in DNA methylation patterns. However, 8-epi-PGF2alpha is not explicitly mentioned as a direct factor influencing DNA methylation, limiting the strength of their relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "DNA Methylation",
+                        "target": "288211",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288211",
+                        "target": "288211_8-epi-PGF2alpha_DNA Methylation_Conclusions.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "synergism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "synergism",
+                        "label": "synergism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288461",
+                        "label": "Obesity and asthma: a coincidence or a causal relationship? A systematic review.\nZ. Ali, CS. Ulrik\nRespir Med 2013 Sep;107(9):1287-300.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23642708"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288461_8-epi-PGF2alpha_synergism_Results.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a marker of oxidative stress, is discussed in relation to obesity and asthma. The study indicates that while obesity increases airway oxidative stress, there is no synergism observed between plasma and exhaled levels of 8-isoprostanes. This suggests that the relationship between oxidative stress and asthma severity may not be straightforward, indicating a lack of direct interaction or enhancement between these factors.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "synergism",
+                        "target": "288461",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288461",
+                        "target": "288461_8-epi-PGF2alpha_synergism_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Drug Interactions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288207",
+                        "label": "Post-prandial systemic 8-isoprostane increases after consumption of moderate and high-fat meals in insufficiently active males.\nSP. Kurti, SR. Emerson, SK. Rosenkranz, CS. Teeman, EM. Emerson, BJ. Cull, JR. Smith, CA. Harms\nNutr Res 2017 Mar;39:61-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28385290"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288207_8-epi-PGF2alpha_Drug Interactions_Results.json",
+                        "label": "In this context, 8-epi-PGF2alpha is analyzed in relation to triglyceride levels and their changes over time following high-fat meals (HFM) and mixed-fat meals (MFM). While the study explores associations between 8-isoprostane (a marker related to 8-epi-PGF2alpha) and triglycerides, it does not directly address drug interactions. The focus is primarily on metabolic responses rather than pharmacological interactions, indicating a limited connection between 8-epi-PGF2alpha and drug interactions in this specific analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Drug Interactions",
+                        "target": "288207",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288207",
+                        "target": "288207_8-epi-PGF2alpha_Drug Interactions_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Apnea": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Apnea",
+                        "label": "Apnea",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Apnea_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is linked to apnea through its role as a biomarker for oxidative stress in patients with obstructive sleep apnea (OSA). The study indicates that levels of 8-isoprostane increase after episodes of nocturnal apnea and decrease with CPAP therapy, suggesting a relationship between oxidative stress and the physiological effects of apnea. This connection highlights the potential of measuring 8-epi-PGF2alpha as a means to assess cardiovascular risk in OSA patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Apnea",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Apnea_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Protective Agents": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Protective Agents",
+                        "label": "Protective Agents",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205",
+                        "label": "Ozone-induced increase in exhaled 8-isoprostane in healthy subjects is resistant to inhaled budesonide.\nP. Montuschi, JA. Nightingale, SA. Kharitonov, PJ. Barnes\nFree Radic. Biol. Med. 2002 Nov;33(10):1403-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12419472"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205_8-epi-PGF2alpha_Protective Agents_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha is mentioned as a marker of oxidative stress and airway inflammation, particularly in response to ozone exposure. Protective agents, such as inhaled corticosteroids like budesonide and beclomethasone, are discussed in relation to their effects on 8-isoprostane levels, which are related to 8-epi-PGF2alpha. The study indicates that while some corticosteroids may have protective effects against inflammatory responses, the specific impact on 8-epi-PGF2alpha levels remains unclear, suggesting a complex interaction between these agents and oxidative stress markers in the airways.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Protective Agents",
+                        "target": "289205",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289205",
+                        "target": "289205_8-epi-PGF2alpha_Protective Agents_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288211",
+                        "label": "Global DNA methylation and oxidative stress biomarkers in workers exposed to metal oxide nanoparticles.\nSH. Liou, WT. Wu, HY. Liao, CY. Chen, CY. Tsai, WT. Jung, HL. Lee\nJ. Hazard. Mater. 2017 Jun;331:329-335.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28273583"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288211_8-epi-PGF2alpha_Adjudication_Materials and method.json",
+                        "label": "In this context, 8-epi-PGF2alpha is mentioned as a biomarker analyzed in the study, while adjudication refers to the process of evaluating and interpreting the data collected. However, there is no direct relationship or interaction discussed between 8-epi-PGF2alpha and adjudication. The focus is on the analysis of chemical levels in DNA and other biomarkers without linking them to a decision-making process or criteria for adjudication.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "288211",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288211",
+                        "target": "288211_8-epi-PGF2alpha_Adjudication_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "cross reactivity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "cross reactivity",
+                        "label": "cross reactivity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205",
+                        "label": "Ozone-induced increase in exhaled 8-isoprostane in healthy subjects is resistant to inhaled budesonide.\nP. Montuschi, JA. Nightingale, SA. Kharitonov, PJ. Barnes\nFree Radic. Biol. Med. 2002 Nov;33(10):1403-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12419472"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205_8-epi-PGF2alpha_cross reactivity_Methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha is indirectly related to cross-reactivity through the measurement of 8-isoprostane in exhaled breath condensate (EBC) using a specific enzyme immunoassay (EIA). The assay demonstrates 100% cross-reactivity with 8-isoprostane, indicating that the assay can accurately measure this compound without interference from prostaglandin analogues. This relationship highlights the specificity of the assay in detecting 8-epi-PGF2alpha and its analogues in biological samples.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163",
+                        "label": "Increased exhaled 8-isoprostane in childhood asthma.\nE. Baraldi, L. Ghiro, V. Piovan, S. Carraro, G. Ciabattoni, PJ. Barnes, P. Montuschi\nChest 2003 Jul;124(1):25-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12853498"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163_8-epi-PGF2alpha_cross reactivity_Materials and Method.json",
+                        "label": "In this context, 8-epi-PGF2alpha is indirectly related to cross-reactivity through the analysis of immunoreactive materials in exhaled breath condensate (EBC). The study assesses the specificity of anti-8-isoprostane and anti-PGE2 sera, indicating that both 8-epi-PGF2alpha and PGE2 may exhibit similar immunologic profiles, which could lead to cross-reactivity in assays. However, the relationship is primarily focused on the specificity of the antibodies rather than a direct interaction between 8-epi-PGF2alpha and cross-reactivity itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "cross reactivity",
+                        "target": "289205",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289205",
+                        "target": "289205_8-epi-PGF2alpha_cross reactivity_Methods.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "cross reactivity",
+                        "target": "289163",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289163",
+                        "target": "289163_8-epi-PGF2alpha_cross reactivity_Materials and Method.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288947",
+                        "label": "Breath condenser coatings affect measurement of biomarkers in exhaled breath condensate.\nPP. Rosias, CM. Robroeks, HJ. Niemarkt, AD. Kester, JH. Vernooy, J. Suykerbuyk, J. Teunissen, J. Heynens, HJ. Hendriks, Q. Jöbsis, E. Dompeling\nEur. Respir. J. 2006 Nov;28(5):1036-41.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16870660"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288947_8-epi-PGF2alpha_Respiration_METHODS.json",
+                        "label": "In this context, 8-epi-PGF2alpha is mentioned as a biomarker test solution that is nebulized and propelled through a ventilator, simulating tidal breathing. This process involves the exhaled breath, indicating a direct relationship between the measurement of 8-epi-PGF2alpha and respiration. The study aims to analyze volatile substances derived from exhaled breath, highlighting the significance of respiration in the assessment of this biomarker.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "288947",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288947",
+                        "target": "288947_8-epi-PGF2alpha_Respiration_METHODS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Anabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Anabolism",
+                        "label": "Anabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444",
+                        "label": "Oxidative stress in adolescent passive smokers living in urban and rural environments.\nR. Bono, V. Bellisario, V. Romanazzi, V. Pirro, P. Piccioni, M. Pazzi, M. Bugiani, M. Vincenti\nInt J Hyg Environ Health 2014 Mar;217(2-3):287-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23890683"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444_8-epi-PGF2alpha_Anabolism_Introduction.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a type of F2-isoprostane, is discussed in relation to oxidative stress and inflammation, but there is no direct mention of its role in anabolism. While F2-isoprostanes are implicated in various diseases and oxidative stress responses, the connection to anabolic processes is not established or explored in the provided text. Thus, the relationship between 8-epi-PGF2alpha and anabolism remains unclear and indirect.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Anabolism",
+                        "target": "288444",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288444",
+                        "target": "288444_8-epi-PGF2alpha_Anabolism_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205",
+                        "label": "Ozone-induced increase in exhaled 8-isoprostane in healthy subjects is resistant to inhaled budesonide.\nP. Montuschi, JA. Nightingale, SA. Kharitonov, PJ. Barnes\nFree Radic. Biol. Med. 2002 Nov;33(10):1403-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12419472"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205_8-epi-PGF2alpha_Exhalation_Methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is measured in exhaled breath condensate (EBC) samples. The study highlights the collection and quantification of this biomarker in exhalation, indicating its relevance as a potential indicator of oxidative stress or inflammation in respiratory conditions. The method used for measurement ensures high accuracy and specificity for 8-isoprostane, linking it directly to exhalation as a noninvasive diagnostic approach.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205_8-epi-PGF2alpha_Exhalation_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is measured in exhaled breath condensate (EBC) to assess airway inflammation following ozone exposure. The study compares the levels of exhaled 8-isoprostane between groups treated with inhaled corticosteroids and a placebo, indicating that exhalation is a method for evaluating the effects of these treatments on inflammatory markers in the respiratory system. However, the relationship is primarily focused on measurement rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348",
+                        "label": "Exhaled 8-isoprostane as a new non-invasive biomarker of oxidative stress in cystic fibrosis.\nP. Montuschi, SA. Kharitonov, G. Ciabattoni, M. Corradi, L. van Rensen, DM. Geddes, ME. Hodson, PJ. Barnes\nThorax 2000 Mar;55(3):205-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10679539"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Exhalation_Statistics from Altm.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is highlighted as a reliable biomarker for lipid peroxidation and oxidative stress, which can be measured in exhaled breath condensate. The study aims to compare 8-isoprostane levels in the breath of cystic fibrosis patients versus normal subjects, indicating a direct relationship between the measurement of this biomarker and the method of exhalation for assessing lung oxidative stress.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288207",
+                        "label": "Post-prandial systemic 8-isoprostane increases after consumption of moderate and high-fat meals in insufficiently active males.\nSP. Kurti, SR. Emerson, SK. Rosenkranz, CS. Teeman, EM. Emerson, BJ. Cull, JR. Smith, CA. Harms\nNutr Res 2017 Mar;39:61-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/28385290"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288207_8-epi-PGF2alpha_Exhalation_Methods and material.json",
+                        "label": "In this context, 8-epi-PGF2alpha is measured in exhaled breath condensate (EBC) as a biomarker for oxidative stress and inflammation. Participants performed tidal breathing to collect EBC, which was then analyzed for 8-isoprostane, a specific type of 8-epi-PGF2alpha. This indicates a direct relationship where exhalation serves as the method for sampling and quantifying 8-epi-PGF2alpha levels in the respiratory system.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288493",
+                        "label": "Traffic-related air pollutants and exhaled markers of airway inflammation and oxidative stress in New York City adolescents.\nMM. Patel, SN. Chillrud, KC. Deepti, JM. Ross, PL. Kinney\nEnviron. Res. 2013 Feb;121:71-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23177171"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288493_8-epi-PGF2alpha_Exhalation_Introduction.json",
+                        "label": "In this context, 8-epi-PGF2alpha is indirectly related to exhalation through its role as a biomarker of oxidative stress measured in exhaled breath condensate. The study investigates how indicators of airway inflammation and oxidative stress, including 8-isoprostane (a type of isoprostane like 8-epi-PGF2alpha), change in response to diesel exhaust exposure in asthmatic and nonasthmatic individuals. This suggests that exhalation can serve as a noninvasive method to assess lung responses to environmental stressors.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288461",
+                        "label": "Obesity and asthma: a coincidence or a causal relationship? A systematic review.\nZ. Ali, CS. Ulrik\nRespir Med 2013 Sep;107(9):1287-300.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23642708"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288461_8-epi-PGF2alpha_Exhalation_Results.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is measured in exhaled breath samples of asthmatic patients to assess oxidative stress levels. The study indicates that while obesity is linked to increased exhaled 8-isoprostane levels, asthma itself raises plasma levels without a correlation to exhaled levels. This suggests that exhalation of 8-epi-PGF2alpha may serve as a noninvasive marker for oxidative stress in asthma, but the relationship is complex and influenced by obesity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Exhalation_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a marker of oxidative stress, is measured in the exhaled breath condensate of patients with obstructive sleep apnea (OSA). The study highlights that elevated levels of 8-epi-PGF2alpha correlate with oxidative stress in the airways and plasma, suggesting that exhalation analysis of this compound could help identify patients at higher risk for cardiovascular diseases associated with OSA.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Exhalation_Results.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically measured as 8-isoprostane, is analyzed in relation to exhalation in patients with obstructive sleep apnea (OSA). The study finds a positive correlation between morning levels of exhaled 8-isoprostane and plasma levels, indicating that exhalation can serve as a noninvasive method to assess oxidative stress in OSA patients. However, no significant differences in exhaled levels were found between OSA patients and healthy controls, suggesting that while exhalation is relevant for measuring 8-epi-PGF2alpha, its diagnostic utility may be limited in this context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163",
+                        "label": "Increased exhaled 8-isoprostane in childhood asthma.\nE. Baraldi, L. Ghiro, V. Piovan, S. Carraro, G. Ciabattoni, PJ. Barnes, P. Montuschi\nChest 2003 Jul;124(1):25-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12853498"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163_8-epi-PGF2alpha_Exhalation_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is discussed in relation to exhaled breath condensate (EBC) analysis in children with asthma. The study indicates that 8-isoprostane levels remain unchanged regardless of inhaled corticosteroid (ICS) treatment, suggesting its potential role as a biomarker in asthma. However, the relationship is primarily observational, focusing on its presence in exhalation rather than a direct functional interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289088",
+                        "label": "Exhaled Interleukine-6 and 8-isoprostane in chronic obstructive pulmonary disease: effect of carbocysteine lysine salt monohydrate (SCMC-Lys).\nGE. Carpagnano, O. Resta, MP. Foschino-Barbaro, A. Spanevello, A. Stefano, G. Di Gioia, G. Serviddio, E. Gramiccioni\nEur. J. Pharmacol. 2004 Nov;505(1-3):169-75.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15556150"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289088_8-epi-PGF2alpha_Exhalation_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a marker of oxidative stress, is indirectly related to exhalation as it is mentioned alongside exhaled markers like Interleukin-6 in the assessment of inflammation and oxidative stress in COPD patients. The study suggests that exhaled markers can be useful in clinical management, indicating that 8-epi-PGF2alpha may be measured in exhaled breath to evaluate oxidative stress in respiratory diseases, although its specific role in exhalation is not detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289088_8-epi-PGF2alpha_Exhalation_Results.json",
+                        "label": "In this context, 8-epi-PGF2alpha (also known as 8-isoprostane) is mentioned in relation to exhalation as a biomarker. The study indicates a positive correlation between exhaled Interleukin-6 and exhaled 8-isoprostane levels in COPD patients, suggesting that 8-epi-PGF2alpha may serve as a relevant indicator of inflammatory processes in exhaled breath. This highlights its potential role in assessing respiratory conditions through breath analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "289205",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289205",
+                        "target": "289205_8-epi-PGF2alpha_Exhalation_Methods.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289205",
+                        "target": "289205_8-epi-PGF2alpha_Exhalation_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "289348",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Exhalation_Statistics from Altm.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "288207",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288207",
+                        "target": "288207_8-epi-PGF2alpha_Exhalation_Methods and material.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "288493",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288493",
+                        "target": "288493_8-epi-PGF2alpha_Exhalation_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "288461",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288461",
+                        "target": "288461_8-epi-PGF2alpha_Exhalation_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Exhalation_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Exhalation_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "289163",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289163",
+                        "target": "289163_8-epi-PGF2alpha_Exhalation_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "289088",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289088",
+                        "target": "289088_8-epi-PGF2alpha_Exhalation_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289088",
+                        "target": "289088_8-epi-PGF2alpha_Exhalation_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Synthesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444",
+                        "label": "Oxidative stress in adolescent passive smokers living in urban and rural environments.\nR. Bono, V. Bellisario, V. Romanazzi, V. Pirro, P. Piccioni, M. Pazzi, M. Bugiani, M. Vincenti\nInt J Hyg Environ Health 2014 Mar;217(2-3):287-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23890683"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444_8-epi-PGF2alpha_Synthesis_Discussion and concl.json",
+                        "label": "In this context, 8-epi-PGF2alpha is mentioned as a biomarker potentially related to oxidative stress and lung function, but the synthesis of this compound is not directly discussed. The text suggests that factors like diet and environmental exposure may influence the formation of 15-F2t-isoP, a related compound, rather than providing specific details on the synthesis of 8-epi-PGF2alpha itself. Thus, while there is an implied connection between oxidative stress and the synthesis of related compounds, the direct relationship between 8-epi-PGF2alpha and synthesis remains unclear.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Synthesis",
+                        "target": "288444",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288444",
+                        "target": "288444_8-epi-PGF2alpha_Synthesis_Discussion and concl.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Waking": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Waking",
+                        "label": "Waking",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Waking_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a marker of oxidative stress, is measured in exhaled breath of patients with obstructive sleep apnea (OSA) at two time points: before sleeping and upon waking. The study finds higher levels of this marker in the morning, suggesting that oxidative stress may be influenced by sleep patterns and the severity of OSA. The reduction of 8-epi-PGF2alpha after waking indicates a potential link between sleep duration and oxidative stress levels, highlighting the importance of monitoring this marker in relation to sleep health.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Waking",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Waking_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Atherogenesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Atherogenesis",
+                        "label": "Atherogenesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Atherogenesis_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, represented as 8-isoprostane, is linked to oxidative stress and inflammation, which are suggested to contribute to atherogenesis. The study indicates a positive correlation between 8-isoprostane levels in exhaled breath and plasma in patients with obstructive sleep apnea (OSA), highlighting its potential role as a biomarker for oxidative stress that may lead to cardiovascular complications associated with atherogenesis. The findings suggest that elevated oxidative stress markers like 8-isoprostane could be indicative of increased risk for atherogenic processes in OSA patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Atherogenesis",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Atherogenesis_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hypoxia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hypoxia",
+                        "label": "Hypoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Hypoxia_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is examined as a marker of oxidative stress in patients with obstructive sleep apnea (OSA), where hypoxia is a contributing factor due to repeated oxygen desaturation episodes. The study suggests that while hypoxia may not directly correlate with 8-isoprostane levels, it could influence oxidative stress through the frequency of desaturation events. The findings indicate that CPAP therapy reduces oxidative stress, highlighting a potential indirect relationship between 8-epi-PGF2alpha and hypoxia in the context of OSA.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hypoxia",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Hypoxia_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Oxidants": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidants",
+                        "label": "Oxidants",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348",
+                        "label": "Exhaled 8-isoprostane as a new non-invasive biomarker of oxidative stress in cystic fibrosis.\nP. Montuschi, SA. Kharitonov, G. Ciabattoni, M. Corradi, L. van Rensen, DM. Geddes, ME. Hodson, PJ. Barnes\nThorax 2000 Mar;55(3):205-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10679539"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289348_8-epi-PGF2alpha_Oxidants_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is discussed as a potential mediator of oxidative stress, particularly in relation to cystic fibrosis. The increased levels of 8-isoprostane in breath condensate indicate lipid peroxidation and oxidative damage, suggesting a direct relationship with oxidants. This highlights the role of 8-isoprostane in the pathophysiology of oxidative stress and its potential as a biomarker for antioxidant treatment efficacy in clinical trials.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Oxidants_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is discussed as a marker of oxidative stress, with its concentrations positively correlating with the presence of oxidants in patients with obstructive sleep apnea (OSA). The study suggests that an imbalance between oxidants and antioxidants may contribute to cardiovascular complications associated with OSA, indicating a significant relationship between 8-epi-PGF2alpha and oxidants in the context of inflammation and oxidative stress in these patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidants",
+                        "target": "289348",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289348",
+                        "target": "289348_8-epi-PGF2alpha_Oxidants_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidants",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Oxidants_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Complication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Complication",
+                        "label": "Complication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Complication_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, represented by 8-isoprostane, is linked to oxidative stress and inflammation in patients with obstructive sleep apnea (OSA). The study indicates a positive correlation between 8-isoprostane levels in exhaled breath and plasma, suggesting that elevated oxidative stress may contribute to chronic cardiovascular complications associated with OSA. This relationship highlights the potential of 8-isoprostane as a biomarker for monitoring complications in OSA patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Complication",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Complication_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205",
+                        "label": "Ozone-induced increase in exhaled 8-isoprostane in healthy subjects is resistant to inhaled budesonide.\nP. Montuschi, JA. Nightingale, SA. Kharitonov, PJ. Barnes\nFree Radic. Biol. Med. 2002 Nov;33(10):1403-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12419472"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205_8-epi-PGF2alpha_Inspiration function_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha is mentioned as a marker of oxidative stress in the lungs following ozone exposure, but there is no direct discussion of its relationship with inspiration function. The study focuses on inflammatory responses and cellular changes in the lungs, without establishing how 8-epi-PGF2alpha levels might influence or correlate with the mechanics of inspiration or lung function. Thus, while both terms are relevant to respiratory health, their connection is not explicitly defined.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "289205",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289205",
+                        "target": "289205_8-epi-PGF2alpha_Inspiration function_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "peroxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "peroxidation",
+                        "label": "peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163",
+                        "label": "Increased exhaled 8-isoprostane in childhood asthma.\nE. Baraldi, L. Ghiro, V. Piovan, S. Carraro, G. Ciabattoni, PJ. Barnes, P. Montuschi\nChest 2003 Jul;124(1):25-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12853498"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163_8-epi-PGF2alpha_peroxidation_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is directly linked to peroxidation as it is produced through free radical-induced peroxidation of arachidonic acid on plasma membrane phospholipids. The study highlights that oxidative stress, indicated by increased levels of 8-isoprostane, is present in children with asthma, suggesting a significant relationship between oxidative processes and the production of this eicosanoid.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "peroxidation",
+                        "target": "289163",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289163",
+                        "target": "289163_8-epi-PGF2alpha_peroxidation_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Lipid Peroxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288364",
+                        "label": "8-Isoprostane in exhaled breath condensate of patients with non-small cell lung cancer: the effect of chemotherapy.\nD. Stathopoulos, S. Loukides, K. Syrigos\nAnticancer Res. 2014 Sep;34(9):5143-5.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25202105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288364_8-epi-PGF2alpha_Lipid Peroxidation_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha is identified as a specific product of lipid peroxidation, particularly of arachidonic acid, which occurs due to oxidative stress. The text highlights that isoprostanes, including 8-isoprostane, serve as reliable markers for lipid peroxidation, linking them directly to oxidative damage and potential cancer pathogenesis. This establishes a clear relationship between 8-epi-PGF2alpha and lipid peroxidation, emphasizing its role as a biomarker in oxidative stress-related conditions, such as lung cancer.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Lipid Peroxidation_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is highlighted as a biomarker for oxidative stress, which is closely linked to lipid peroxidation processes. The measurement of 8-isoprostane levels in biological fluids serves as an indicator of oxidative stress and reflects local lipid peroxidation in the airways, particularly in patients with various pulmonary diseases. This suggests a direct relationship where increased levels of 8-isoprostane indicate heightened lipid peroxidation, emphasizing its role in assessing oxidative damage in respiratory conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lipid Peroxidation",
+                        "target": "288364",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288364",
+                        "target": "288364_8-epi-PGF2alpha_Lipid Peroxidation_Discussion.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lipid Peroxidation",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Lipid Peroxidation_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Hypersensitivity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hypersensitivity",
+                        "label": "Hypersensitivity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444",
+                        "label": "Oxidative stress in adolescent passive smokers living in urban and rural environments.\nR. Bono, V. Bellisario, V. Romanazzi, V. Pirro, P. Piccioni, M. Pazzi, M. Bugiani, M. Vincenti\nInt J Hyg Environ Health 2014 Mar;217(2-3):287-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23890683"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444_8-epi-PGF2alpha_Hypersensitivity_Methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha is analyzed as a dependent variable in relation to various respiratory symptoms and lung function parameters. While hypersensitivity is not explicitly mentioned, the respiratory symptoms assessed (such as cough and shortness of breath) could be indicative of hypersensitivity reactions. However, the direct relationship between 8-epi-PGF2alpha and hypersensitivity is not clearly established, making the connection more suggestive than definitive.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hypersensitivity",
+                        "target": "288444",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288444",
+                        "target": "288444_8-epi-PGF2alpha_Hypersensitivity_Methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Obstruction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Obstruction",
+                        "label": "Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148",
+                        "label": "8-Isoprostane, a marker of oxidative stress, is increased in exhaled breath condensate of patients with obstructive sleep apnea after night and is reduced by continuous positive airway pressure therapy.\nGE. Carpagnano, SA. Kharitonov, O. Resta, MP. Foschino-Barbaro, E. Gramiccioni, PJ. Barnes\nChest 2003 Oct;124(4):1386-92.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14555570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289148_8-epi-PGF2alpha_Obstruction_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is discussed as a marker of oxidative stress in patients with obstructive sleep apnea (OSA), where mechanical obstruction leads to repeated hypoxia. The study suggests that the increase in 8-isoprostane levels may be linked to episodes of oxygen desaturation caused by airway obstruction during sleep. The findings indicate that the oxidative stress associated with OSA is potentially driven by the mechanical obstruction and subsequent hypoxic events, highlighting a significant relationship between 8-epi-PGF2alpha and obstruction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Obstruction",
+                        "target": "289148",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289148",
+                        "target": "289148_8-epi-PGF2alpha_Obstruction_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Respiratory physiology": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205",
+                        "label": "Ozone-induced increase in exhaled 8-isoprostane in healthy subjects is resistant to inhaled budesonide.\nP. Montuschi, JA. Nightingale, SA. Kharitonov, PJ. Barnes\nFree Radic. Biol. Med. 2002 Nov;33(10):1403-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12419472"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289205_8-epi-PGF2alpha_Respiratory physiology_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha (8-isoprostane) is discussed as a potential biomarker for oxidative stress in the airways following ozone exposure, which relates to respiratory physiology. The study indicates that while lung function metrics like FEV1 and FVC return to baseline after ozone exposure, levels of 8-isoprostane remain elevated, suggesting a persistent oxidative stress response that may impact respiratory health. This highlights the relevance of 8-epi-PGF2alpha in understanding airway inflammation and oxidative damage in respiratory physiology.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163",
+                        "label": "Increased exhaled 8-isoprostane in childhood asthma.\nE. Baraldi, L. Ghiro, V. Piovan, S. Carraro, G. Ciabattoni, PJ. Barnes, P. Montuschi\nChest 2003 Jul;124(1):25-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12853498"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "289163_8-epi-PGF2alpha_Respiratory physiology_Discussion.json",
+                        "label": "In this context, 8-epi-PGF2alpha, a marker of oxidative stress, is examined in relation to respiratory physiology, particularly in children with asthma. The study highlights that while 8-epi-PGF2alpha levels in exhaled breath condensate (EBC) do not correlate with lung function tests, they indicate ongoing oxidative stress and inflammation in asthmatic children. This suggests that 8-epi-PGF2alpha may play a role in understanding respiratory physiology and the pathophysiology of asthma, particularly in assessing lung inflammation and treatment responses.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444",
+                        "label": "Oxidative stress in adolescent passive smokers living in urban and rural environments.\nR. Bono, V. Bellisario, V. Romanazzi, V. Pirro, P. Piccioni, M. Pazzi, M. Bugiani, M. Vincenti\nInt J Hyg Environ Health 2014 Mar;217(2-3):287-93.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23890683"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "288444_8-epi-PGF2alpha_Respiratory physiology_Methods.json",
+                        "label": "In this context, 8-epi-PGF2alpha is analyzed in relation to respiratory physiology through its association with lung function parameters and respiratory symptoms. The study employs statistical models to explore how 8-epi-PGF2alpha levels correlate with various independent variables, including lung function metrics like FEV1 and FEF, indicating its potential role as a biomarker in respiratory health. However, the specific physiological mechanisms linking 8-epi-PGF2alpha to respiratory conditions are not detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory physiology",
+                        "target": "289205",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289205",
+                        "target": "289205_8-epi-PGF2alpha_Respiratory physiology_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory physiology",
+                        "target": "289163",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "289163",
+                        "target": "289163_8-epi-PGF2alpha_Respiratory physiology_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory physiology",
+                        "target": "288444",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "288444",
+                        "target": "288444_8-epi-PGF2alpha_Respiratory physiology_Methods.json",
+                        "score": 3
+                    }
+                }
+            ]
+        }
+    }
+}

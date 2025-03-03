@@ -1,0 +1,10 @@
+{
+    "context": "Higher laser wavelengths are beneficial in analysis of biological samples due to the potential lower fluorescence interference of the unwanted matrix compounds. In this article, we describe the use of 515nm green laser module and CE\u2013LIF for sensitive determination of GSH in various biological samples: exhaled breath condensate (EBC) and saliva. Eosin-5-maleimide (EMA) is used as a fluorescent tag for GSH derivatization. This novel reagent that has not been previously used in CE\u2013LIF studies of GSH has a maximum of the excitation spectra exactly at 515nm matching the employed laser module, and thus, yielding limits of detection in the subnanomolar range. We demonstrate, for the first time, that GSH can be quantified in as little as 20\u03bcl of EBC sample. Apparatus Electrophoretic system. A laboratory-built CE instrument was employed for all electrophoretic separations. ",
+    "term_A": "glutathione",
+    "term_B": "Laser-generated electromagnetic radiation",
+    "llm_generation": {
+        "summary": "In this context, glutathione (GSH) is analyzed using a 515nm green laser module in a capillary electrophoresis-laser-induced fluorescence (CE\u2013LIF) setup. The laser's wavelength is specifically chosen to match the excitation spectra of eosin-5-maleimide, a fluorescent tag used for GSH derivatization, allowing for sensitive detection of GSH in biological samples like exhaled breath condensate and saliva. This demonstrates a direct application of laser-generated electromagnetic radiation in the quantification of glutathione.",
+        "reason": "The score of 4 reflects a significant connection between glutathione and laser-generated electromagnetic radiation, as the laser's specific wavelength is crucial for the sensitive detection of GSH, indicating a clear functional relationship in the context of biochemical analysis.",
+        "score": 4
+    }
+}

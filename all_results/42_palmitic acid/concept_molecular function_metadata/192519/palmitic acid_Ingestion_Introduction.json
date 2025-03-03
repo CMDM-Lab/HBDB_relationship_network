@@ -1,0 +1,10 @@
+{
+    "context": "[1] Deuterium-labeled palmitic acid has been validated against acetate-corrected 13C-labeled palmitic acid during rest in humans by Votruba, Zeddun, and Schoeller , who dosed subjects at rest with 13C- and d31-labeled palmitic acid and demonstrated that the cumulative recoveries for both tracers were highly correlated (y = 1.045x \u00e2\u02c6\u2019 0.47; r 2 = 0.88; P < 0.0002). [2] More importantly, the mean difference in percentage recovery of the labels was 0.5 \u00c2\u00b1 2.8% when 13C data were corrected for acetate fixation. [3] This method raises interesting possibilities for use under free-living conditions; however, this method has not been validated under nonresting conditions. [4] Herein, we compared the metabolic fate of orally ingested d31-palmitate and [1-13C] palmitate during physical exercise of varying durations at moderate intensity. [5] The objective was to ensure the validity of 2H-labeled fatty acids as an accurate tool to measure dietary fat oxidation under a range of free-living conditions. [1] Labeled fatty acids were obtained from Cambridge Isotope Laboratories (Andover, MA). [2] [1-13C]palmitic acid and Na salt of [1-13C]acetate were 99 atom% 13C. ",
+    "term_A": "palmitic acid",
+    "term_B": "Ingestion",
+    "llm_generation": {
+        "summary": "In this context, palmitic acid is discussed in relation to its ingestion and metabolic fate during physical exercise. The study compares the metabolic outcomes of orally ingested d31-palmitate and [1-13C] palmitate, highlighting the importance of accurately measuring dietary fat oxidation. This indicates a direct relationship between palmitic acid and its ingestion, particularly in the context of metabolic studies during exercise.",
+        "reason": "The score of 4 reflects a significant connection between palmitic acid and ingestion, as the study focuses on the metabolic effects of ingested palmitic acid during exercise, supported by experimental data. However, the context does not delve deeply into the physiological implications of this relationship.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "This could explain why Taiwan EPA tended to strongly encourage 4T engine in place of 2T engine for new environmental regulations.Overall toxicity comparison The ranking of toxicity tolerance (slope B) for various pollutants are No. 3 PAHs(G) (2.194)>No. 1 PAHs(S) (1.879)>xylene (1.675)>benzene (1.456)>2T engine (1.364)>4T engine (1.349)>No. 2 PAHs(S) (1.042)>1.0>No. 3 PAHs(S) (0.906)>toluene (0.880)>ethyl benzene (0.730). In addition, the toxicity series based on EC50 (in mg/L) are No. 1 PAHs(S) (0.0313)>No. 3 PAHs(G)(0.0516)>2T engine (0.487)>No. 2 PAHs(S) (0.499)>4T engine (2.09)>No. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both mentioned as pollutants in a toxicity comparison related to environmental regulations in Taiwan. The ranking indicates that toluene has a higher toxicity tolerance (0.880) compared to ethylbenzene (0.730), suggesting that toluene is considered more toxic in this specific assessment. However, the relationship is primarily based on their comparative toxicity rather than a direct interaction or shared biological function.",
+        "reason": "The score of 3 reflects a moderate relevance, as both ethylbenzene and toluene are evaluated in terms of their toxicity levels, indicating a comparative relationship. However, there is no detailed discussion of their interactions or shared biological significance.",
+        "score": 3
+    }
+}

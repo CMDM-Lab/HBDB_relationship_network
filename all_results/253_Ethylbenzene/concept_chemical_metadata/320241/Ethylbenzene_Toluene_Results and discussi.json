@@ -1,0 +1,10 @@
+{
+    "context": "The cumulative levels are also clearly lower than those found in the Arren\u00e6s plant. Some of the investigated pesticides, e.g., simazine and atrazine, are currently banned in the EU; however, their presence in both surface and ground water is continuously reported in the literature (Barth et al., 2007; Kuster et al., 2008a,b; Postigo et al., 2010). VOCs were only detected in samples from D\u00f6sebacka in Sweden (see Table 4 ). In all cases, benzene, toluene, ethylbenzene, and TCE were found to be present at levels lower than 0.04\u03bcgL\u22121 in the water from the extraction wells. These values are far from any of their respective odor and taste thresholds, which are in the mgL\u22121 range, or even from the benzene and TCE 5\u03bcgL\u22121 health-based guideline value set by the US EPA for drinking water. No gasoline oxygenates were found in this study above their limit of detection (0.01\u03bcgL\u22121). This fact really confirms the high quality of the source water, especially since MTBE has been found to be ubiquitous in the worldwide environment (Rosell et al., 2006). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both mentioned as volatile organic compounds (VOCs) detected in water samples from D\u00f6sebacka, Sweden. They are listed alongside benzene and trichloroethylene (TCE) as contaminants found at low levels. However, there is no detailed discussion of their specific interactions or comparative significance in the context provided, indicating a general association as VOCs rather than a direct relationship.",
+        "reason": "The score of 2 reflects a low relevance, as ethylbenzene and toluene are both identified as VOCs present in the same environmental study, but their relationship is not elaborated upon beyond their co-occurrence in the water samples.",
+        "score": 2
+    }
+}

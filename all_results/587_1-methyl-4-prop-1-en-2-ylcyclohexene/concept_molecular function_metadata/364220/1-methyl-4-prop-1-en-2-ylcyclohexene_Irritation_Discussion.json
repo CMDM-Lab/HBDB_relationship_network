@@ -1,0 +1,10 @@
+{
+    "context": "However, isoprene/ozone reaction products, generated from 1ppm isoprene and 3ppm ozone, caused a cumulative effect on the airflow limitation in mice exposed for 3h/day for 4 consecutive days (Rohr et al., 2003). The sensory irritation effect (respiratory rate decreased >60% in BALB/c mice) indicates that the mixture was extremely irritating and thus, this study may be suitable for hazard evaluation, but not for evaluation of indoor air effects. Lung function parameters were not affected in the above mentioned study in humans (Fiedler et al., 2005). This supports results from our study that prevention of LOP induced sensory irritation may also prevent airflow limitation.Alveolar level effects of repeated exposures to limonene/ozone reaction products It is less clear whether LOP have affected the alveolar level (Tables 1 and 2). The observed decrease in TP at all ozone admixing levels could be part of a rapid shallow breathing response, which also should decrease VT. However, this was only observed at the highest ozone level after 51\u201360min of exposure. A rapid shallow breathing response would decrease TI and increase f, but the opposite was observed. ",
+    "term_A": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "term_B": "Irritation",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is implicated in the generation of isoprene/ozone reaction products that caused significant sensory irritation in mice, evidenced by a more than 60% decrease in respiratory rate. This indicates a direct relationship between the chemical and the irritation effect, highlighting its potential as a hazard in air quality evaluations.",
+        "reason": "The score of 4 reflects a significant connection between 1-methyl-4-prop-1-en-2-ylcyclohexene and irritation, supported by evidence of respiratory effects in an animal model. The irritation caused by the reaction products indicates a clear relationship, although the context does not provide extensive quantitative data.",
+        "score": 4
+    }
+}

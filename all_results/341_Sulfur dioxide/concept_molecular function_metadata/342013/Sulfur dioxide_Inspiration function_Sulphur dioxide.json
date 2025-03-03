@@ -1,0 +1,10 @@
+{
+    "context": "[3] A significant correlation has also been shown between number of training hours and blood lead accumulation. [4] It would seem therefore that runners and cyclists experience increased exposure to lead. [5] Could it be that personal exposure to other toxic compounds associated with PM10 is also increased?  [1] The effects of SO2 have been clearly documented elsewhere., ,  The gas readily dissolves in water and tends to be removed from the inspired air stream by the moist surfaces of the upper airways, especially the nasal mucosa.  [2] The threshold level for the effects of SO2 on lung function lies between 1000 and 2000 ppb in normal healthy adults.  [3] Above the threshold, resting subjects exposed to SO2 experience bronchospasm.  [4] During exercise, as oral breathing replaces nasal breathing, a corresponding increase in penetration of SO2 into the intrathoracic airways exacerbates the effect. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Inspiration function",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is discussed in relation to its effects on lung function, particularly during inspiration. The gas can cause bronchospasm when inhaled at concentrations above 1000-2000 ppb, with increased penetration into the lungs during exercise due to a shift from nasal to oral breathing. This highlights the detrimental impact of SO2 on respiratory function, especially during physical activity, indicating a direct relationship between SO2 exposure and inspiration function.",
+        "reason": "The score of 4 reflects a significant connection between sulfur dioxide and inspiration function, as the context provides evidence of SO2's adverse effects on lung function and bronchospasm, particularly during exercise. This relationship is well-supported by the documented threshold levels and physiological responses.",
+        "score": 4
+    }
+}

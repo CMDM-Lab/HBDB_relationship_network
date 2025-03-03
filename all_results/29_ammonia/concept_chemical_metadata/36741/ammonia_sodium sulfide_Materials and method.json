@@ -1,0 +1,10 @@
+{
+    "context": "After 5 d, final pH was measured and data were collected. All experiments were performed twice and an average error of 0.27mg O2 l\u22121 with reference to 1g of material was calculated between these two data series. In the first step, a saccharose solution (1gl\u22121) was introduced as substrate to check that formulated materials did not inhibit microorganism metabolism. In the second step, an ammonia solution (100mgl\u22121) and a sodium sulfide solution (100mgl\u22121) were used alternately to simulate the treatment of ammonia and hydrogen sulfide, as these are target compounds in further experiments under real biofiltration conditions. Non-consumed ammonia and sulfide were measured by spectrophotometry using the Merck Spectroquant kits 1.14752 (Berthelot\u2019s reaction) and 1.14779.0001, respectively. Experiments were also carried out without biomass inoculation to evaluate the adsorbed quantities of substrate onto the packing materials. ",
+    "term_A": "ammonia",
+    "term_B": "sodium sulfide",
+    "llm_generation": {
+        "summary": "In this context, ammonia and sodium sulfide are both used as target compounds in experiments designed to simulate conditions for biofiltration. They are introduced alternately to assess their non-consumption levels, indicating their relevance in the treatment of these compounds in microbial metabolism. The study aims to evaluate the effectiveness of biofiltration processes in removing these specific pollutants.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and sodium sulfide, as both are treated as target compounds in the same experimental setup. Their alternating use in the study highlights their relevance in the context of biofiltration, supported by the methodology described.",
+        "score": 4
+    }
+}

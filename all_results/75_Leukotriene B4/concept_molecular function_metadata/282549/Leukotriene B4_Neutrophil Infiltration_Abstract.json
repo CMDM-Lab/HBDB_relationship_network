@@ -1,0 +1,10 @@
+{
+    "context": "[2] This structural similarity is also reflected pharmacologically, as several compounds initially described as H3 receptor-selective agonists or antagonists turned out to interact with H4 receptor in a similar fashion. [3] The apparent expression profile of H3 and H4 receptor, however, allows for the use of those pharmacological tools to investigate H3 and H4 receptor-mediated functions separately. [4] In an attempt to elucidate the role of H4 receptor in vivo, we studied two acute models of neutrophilia evoked by the inflammatory stimuli zymosan and carrageenan, respectively, and tested the H3/4 receptor antagonist thioperamide for its potential modulation of neutrophil influx and mediator release. [5] Experimental evidence for mast cell-driven, H4 receptor-dependent leukotriene B4 release and neutrophil recruitment is presented. [1] Chemicals. [2] Histamine, thioperamide, pyrilamine, cimetidine, and zymosan were purchased from Sigma-Aldrich (St. Louis, MO). [3] Carrageenan was purchased from Wako Pure Chemicals (Osaka, Japan). ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Neutrophil Infiltration",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 is implicated in the process of neutrophil infiltration during inflammatory responses. The study highlights that the release of Leukotriene B4, driven by mast cells and mediated through the H4 receptor, plays a significant role in recruiting neutrophils to sites of inflammation. This suggests a direct relationship where Leukotriene B4 acts as a key mediator in promoting neutrophil influx in response to inflammatory stimuli such as zymosan and carrageenan.",
+        "reason": "The score of 5 reflects a strong and direct relationship between Leukotriene B4 and neutrophil infiltration, as the context explicitly discusses the role of Leukotriene B4 in mediating neutrophil recruitment during inflammation, supported by experimental evidence.",
+        "score": 5
+    }
+}

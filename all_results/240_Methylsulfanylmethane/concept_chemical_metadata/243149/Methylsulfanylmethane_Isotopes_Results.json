@@ -1,0 +1,10 @@
+{
+    "context": "Even though m/z 60 was found in the spectra of some of these pure compounds, in none of the spectra it was a major fragment. In addition, the main fragments for each of these compounds did not show any significant difference in emission rates between infested and non-infested roots in the experiments. This leaves three potential glucosinolate breakdown compounds as candidates for the parent mass of m/z 60: ethyl TC, ethyl ITC and allyl ITC. These pure compounds all yielded a main fragment at m/z 60, and the natural isotopic ratio m/z 62/m/z 60 supports the hypothesis that this m/z 60 originates from HCNS. However, neither ethyl TC nor ethyl ITC was detected in the GC\u2013MS analyses. Allyl ITC, on the other hand, was measured with GC\u2013MS. Moreover, the glucosinolate giving rise to allyl ITC, sinigrin, is one of the major glucosinolates in B. nigra roots (van Dam and Raaijmakers, 2006). ",
+    "term_A": "Methylsulfanylmethane",
+    "term_B": "Isotopes",
+    "llm_generation": {
+        "summary": "In this context, Methylsulfanylmethane is indirectly related to isotopes through the discussion of mass spectrometry (GC\u2013MS) and the natural isotopic ratio observed in the breakdown products of glucosinolates. The mention of m/z 60 and its isotopic ratio suggests a potential link to the isotopic composition of the compounds analyzed, but there is no direct interaction or significant relevance established between Methylsulfanylmethane and isotopes themselves.",
+        "reason": "The score of 2 reflects an indirect connection, as Methylsulfanylmethane is part of a broader discussion involving isotopes in the context of mass spectrometry, but lacks a detailed or significant relationship.",
+        "score": 2
+    }
+}

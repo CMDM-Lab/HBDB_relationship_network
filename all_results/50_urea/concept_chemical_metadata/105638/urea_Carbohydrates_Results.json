@@ -1,0 +1,10 @@
+{
+    "context": "The measured data were statistically analyzed using the Student's t-test. All biopsies (n=15 duodenum, n=6 colon) were incubated with maltose ureide, lactose ureide, glucose ureide, mannose ureide, cellobiose ureide and arabinose ureide (all 0.05 M in maleate buffer) for up to 2 h at 37\u00b0C. The dilutions of the homogenates were varied between 1:20 to 1:1000, the pH was changed from pH 6 to pH 9. However, no free urea could be measured under these various experimental conditions, suggesting that the molecular bond between the carbohydrate moieties and urea was not split by human intestinal enzymes. Overall, no allantoicase-like activity was observed, neither in the duodenum nor in the colon of humans. In contrast, the disaccharide conjugation of glycosyl ureides was hydrolysed after incubation with homogenates of duodenal specimen (dilutions: 1:1000 for maltase activity and 1:100 for lactase activity): maltose ureide was hydrolysed by maltase into glucose and glucose ureide whereas lactose ureide was hydrolysed by lactase into galactose and glucose ureide. Incubation for 15, 30 and 45 min at 37\u00b0C showed a linear increase of the amount of free glucose/galactose. ",
+    "term_A": "urea",
+    "term_B": "Carbohydrates",
+    "llm_generation": {
+        "summary": "In this context, urea and carbohydrates are mentioned in relation to the hydrolysis of glycosyl ureides in human intestinal enzymes. The study indicates that while carbohydrates like maltose and lactose can be hydrolyzed into free sugars, no free urea was detected, suggesting that the bond between urea and carbohydrate moieties remains intact under the tested conditions. This highlights a lack of interaction between urea and carbohydrates in the digestive process.",
+        "reason": "The score of 2 reflects an indirect connection, as both urea and carbohydrates are involved in the study of glycosyl ureides, but their relationship is not explicitly detailed or significant beyond their co-occurrence in the context of enzymatic activity.",
+        "score": 2
+    }
+}

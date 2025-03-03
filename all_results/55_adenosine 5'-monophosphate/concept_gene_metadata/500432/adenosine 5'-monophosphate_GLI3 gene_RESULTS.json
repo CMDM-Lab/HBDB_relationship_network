@@ -1,0 +1,10 @@
+{
+    "context": "[3] When measured at 0, 1, 5, and 10 minutes after exposure to NO donor, cGMP levels in mouse colon were (in nM): 0.13 (0.01), 0.09 (0.01), 0.16 (0.04), and 0.10 (0.01), respectively. [4] Levels of cGMP in T84 cells were (in nM): 8.74 (2.92), 9.00 (3.43), 7.50 (2.32), and 8.00 (2.31) at the same time points.  [1] Adenylate cyclase activity, as measured by generation of cAMP in the presence of a phosphodiesterase inhibitor, was decreased in mouse colon and T84 cells following treatment with nitric oxide (NO) donors.  [2] (A) Segments of mouse colon were incubated with 50 mM sodium nitroprusside (SNP), 30 mM 1-propyl-1\u00e2\u20ac\u00b2-(aminopropyl)-2-hydroxy-2-nitrohydraxine (PAPA), or vehicle (control) before adenylate cyclase activity was stimulated with forskolin.  [3] The amount of cAMP is expressed as the concentration per ml of homogenate, normalised to the mass of the tissue sampled.  [4] (B) T84 cells were incubated with 50 mM SNP or vehicle (control) before addition of 10 \u00ce\u00bcM forskolin.  [5] The amount of cAMP is expressed as the concentration in the medium in which the cells were suspended. ",
+    "term_A": "adenosine 5'-monophosphate",
+    "term_B": "GLI3 gene",
+    "llm_generation": {
+        "summary": "In this context, adenosine 5'-monophosphate (AMP) and the GLI3 gene are not directly related. The focus is on the effects of nitric oxide (NO) donors on cGMP and cAMP levels in mouse colon and T84 cells, with no mention of the GLI3 gene or its functions. While AMP is involved in cellular signaling, the GLI3 gene is primarily associated with developmental processes and signaling pathways, particularly in the context of hedgehog signaling. Thus, their relationship is not established in this context.",
+        "reason": "The score of 1 reflects a lack of any direct or indirect relationship between adenosine 5'-monophosphate and the GLI3 gene in the provided context. They are mentioned in separate discussions without any connection.",
+        "score": 1
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": " [2] There is no evidence of nitrate malabsorption in CF.  [3] Approximately 75% of ingested nitrate is excreted via the kidneys, with the remainder concentrated in the oral gland and subsequently reduced to nitrite by tongue anaerobes.  [4] This nitrite is swallowed and then further reduced to NO under suitable conditions within the airway, stomach, and endothelium.  [5] After nitrate ingestion, salivary/plasma nitrate levels increase rapidly (~15 m), peaking at 90\u00e2\u20ac\u201c120 m.  [6] The levels remain high for several hours following ingestion, after which they slowly decline, remaining elevated from baseline for ~24 hours.  [7] This is why we measured FeNO before and 1.5 hours after each of two beverages.  [8] Further, we measured total exhaled NO. ",
+    "term_A": "nitrate",
+    "term_B": "Ingestion",
+    "llm_generation": {
+        "summary": "In this context, nitrate is discussed in relation to its ingestion and subsequent metabolic processes. Approximately 75% of ingested nitrate is excreted via the kidneys, while the remainder is converted to nitrite by oral bacteria. This nitrite can then be further reduced to nitric oxide (NO) in various body systems. The study highlights the rapid increase in salivary and plasma nitrate levels following ingestion, peaking at 90-120 minutes, indicating a direct relationship between nitrate ingestion and its physiological effects.",
+        "reason": "The score of 4 reflects a significant connection between nitrate and ingestion, as the context provides detailed information on the metabolic fate of ingested nitrate and its physiological implications, supported by quantitative data on nitrate levels post-ingestion.",
+        "score": 4
+    }
+}

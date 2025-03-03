@@ -1,0 +1,10 @@
+{
+    "context": "The ingestion of crude oil by free-ranging waterfowl immediately, or several years after an oil spill produced increased liver CYP 450 activity (Peakall et al., 1989; Trust et al., 2000; Velando et al., 2010). Similarly, benzene, toluene, ethylbenzene and xylenes induce hepatic CYP 450 activity in mammals (Tamie and Rui-Sheng 1994; Valentine et al., 1996; Villard et al., 1994). In contrast, contaminants can suppress CYP 450 activity (Treinen-Moslen 2003). Exposure to inhaled SO2 (20ppm) in rats decreased hepatic and lung EROD activities (Qin and Meng 2005, 2006), and nitric oxide (NO) inhibited the catalytic activity of hepatic CYP 450 (Minamiyama et al., 1997; Wink et al., 1993); however, we found no reports of similar inhibition from inhaled NO2. It is not possible from the present study to determine if EROD induction in kestrels was due to the mixture or to one or more of the individual compounds. EROD activity is usually measured in liver (Melancon et al., 2006), and requires euthanasia of the study subjects. Researchers successfully measured EROD activity in yellow-legged gulls (Laurus michahellis) exposed to crude oil from liver samples obtained by liver biopsy (Velando et al., 2010). ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Inspiration function",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is discussed in relation to its inhalation effects on hepatic and lung enzyme activities, specifically CYP 450. While the study highlights the impact of SO2 on enzyme function, it does not directly address its relationship with inspiration function. The focus is primarily on biochemical responses rather than respiratory mechanics or inspiration function itself.",
+        "reason": "The score of 2 reflects an indirect connection, as sulfur dioxide is mentioned in the context of inhalation and its effects on enzyme activity, but there is no detailed discussion on how it specifically affects inspiration function.",
+        "score": 2
+    }
+}

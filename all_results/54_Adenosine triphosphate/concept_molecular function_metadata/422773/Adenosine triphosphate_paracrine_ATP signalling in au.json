@@ -1,0 +1,10 @@
+{
+    "context": "A subpopulation of inhibitory motoneurons in the myenteric plexus of the ENS release NANC neurotransmitters at neuromuscular junctions. ATP, nitric oxide (NO) and vasoactive intestinal polypeptide (VIP) are three key transmitters released from enteric inhibitory motoneurons, although their proportions vary considerably in different regions of the gut and in different species. ATP, which evokes fast inhibitory junction potentials, is more prominent in non-sphincteric regions of the intestine. Many non-excitable cells that express purinoceptors are activated by ATP released locally in an autocrine or paracrine manner. However, there are several examples in which these non-neural, non-muscle cells can also be activated by ATP released as a cotransmitter from autonomic nerves [18\u201321]. The autonomic neuroeffector junction is not a fixed structure. Rather, neurotransmission occurs when multiple varicosities actively migrate along extensively ramifying autonomic nerve fibres in close contact with effector cells and release cotransmitters within striking distance of the receptors expressed for the transmitters on the effector cells. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "paracrine",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is described as a key neurotransmitter released by inhibitory motoneurons in the enteric nervous system (ENS). It acts in a paracrine manner, meaning ATP can influence nearby non-excitable cells that express purinoceptors, facilitating local signaling and modulation of gut functions. This highlights the role of ATP not only as a neurotransmitter but also as a signaling molecule that operates through paracrine mechanisms to affect adjacent cells.",
+        "reason": "The score of 4 reflects a significant connection between ATP and paracrine signaling, as ATP is explicitly mentioned as a transmitter that activates nearby cells in a paracrine manner, supported by the context's detailed description of its role in the ENS.",
+        "score": 4
+    }
+}

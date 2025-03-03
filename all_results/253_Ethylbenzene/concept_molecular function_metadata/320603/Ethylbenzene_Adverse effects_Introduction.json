@@ -1,0 +1,10 @@
+{
+    "context": "The presence of MTBE in fuel is also associated with increased emissions of its by-products, especially formaldehyde. In Taiwan, MTBE is blended into gasoline in ratio of up to 11% by volume to improve the oxygen content. MTBE is added to gasoline in Taiwan not because of clean air related laws, but rather to increase octane values. Other common VOCs, including aromatic hydrocarbons such as benzene, toluene, ethylbenzene, m,p-xylene and o-xylene (BTEX), are widely used in industry and exert serious adverse effects on environmental air quality. BTEX are frequently produced from industrial sources, including printing and laminating facilities, foundries, electronics, and paint manufacturing units. Especially, BTEX frequently occur together at hazardous waste sites. Public health risks from exposure to either MTBE or BTEX are best assessed via an approach that considers both the mechanism and toxic consequences of the joint action of the whole mixture, particularly the presence or absence of interactions that affect the responses of the critical target-organs. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Adverse effects",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is categorized as one of the volatile organic compounds (VOCs) within the BTEX group, which are known to exert serious adverse effects on environmental air quality. The text highlights the public health risks associated with exposure to BTEX, including ethylbenzene, emphasizing the need to assess the toxic consequences of their combined presence, particularly regarding critical target organs. This indicates a direct relationship between ethylbenzene and adverse health effects due to its classification as a harmful VOC.",
+        "reason": "The score of 4 reflects a significant connection between ethylbenzene and adverse effects, as the context discusses the serious health risks posed by BTEX compounds, including ethylbenzene, in relation to environmental air quality and public health.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The miscellaneous \u201cother\u201d microenvironments were assigned the same concentration distributions as the outdoors. Table\u00a01 shows the selected references with information on study location, sampling method, sampling duration, sample size, microenvironment and the types of pollutants. Sixteen HAPs with high abundance in different microenvironments were considered, covering the most high-risk pollutants as listed by Payne-Sturges et al. (2004) and Sax et al. (2006). These were formaldehyde, acetaldehyde, 1,3-butadiene, 1,4-dichlorobenzene, benzene, carbon tetrachloride, chloroform, ethylbenzene, styrene, tetrachloroethene, trichloroethene, toluene, m,p-xylene, o-xylene and 1,2,4-trimethylbenzene. As raw data, namely the concentrations of individual compounds in individual samples collected during each study were not available for most studies; the reported statistics were used for analyses. To properly weight statistics from individual studies of a given city, we first compared each study's parameters, including percentiles, arithmetic mean, standard deviation, median, min, and max. We weighted equally the studies for each city/geographic region as per Loh et al. (2007). ",
+    "term_A": "1,4-dichlorobenzene",
+    "term_B": "Acetaldehyde",
+    "llm_generation": {
+        "summary": "In this context, 1,4-dichlorobenzene and acetaldehyde are both listed as hazardous air pollutants (HAPs) considered in a study of various microenvironments. They are mentioned alongside other pollutants, indicating their relevance in environmental health assessments. However, there is no direct discussion of their interactions or specific relationships, limiting the depth of their connection.",
+        "reason": "The score of 2 reflects an indirect connection, as both compounds are categorized as HAPs in the same study context, but there is no detailed exploration of their relationship or interactions.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "In smoking subjects, 8-isoprostane was increased rapidly after acute exposure to cigarette smoke both in healthy controls (Montuschi et al., 2000) and in asthmatics (Papaioannou et al., 2010). Recently, 8-isoprostane in EBC from both asthmatic and healthy children was associated with BC exposure up to five days prior to sampling (Patel et al., 2013). Moreover, EC and OC exposures averaged over four days before sampling were linked with EBC 8-isoprostane in healthy adults (Huang et al., 2012). In contrast, a link between EBC 8-isoprostane and PM2.5 in asthmatic children was not observed (Liu et al., 2009). A strength of our study is that by using EBC we could specifically look at markers in the airways. EBC is easy to collect during tidal breathing and can be sampled outside a clinical setting. It is a non-invasive way to study the respiratory system and non-volatile compounds in EBC originate from the airway lining fluid (Effros et al., 2012). ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is linked to asthma through its increased levels in exhaled breath condensate (EBC) following exposure to cigarette smoke. The studies mentioned indicate that both asthmatic and healthy individuals show elevated 8-isoprostane levels after smoke exposure, suggesting its potential role as a biomarker for oxidative stress in asthma. However, the relationship is not fully established, as some studies did not find a correlation between 8-isoprostane and particulate matter in asthmatic children.",
+        "reason": "The score of 4 reflects a significant connection between 8-epi-PGF2alpha and asthma, supported by evidence of increased levels in asthmatic subjects after smoke exposure. However, the lack of consistent findings across studies prevents a higher score.",
+        "score": 4
+    }
+}

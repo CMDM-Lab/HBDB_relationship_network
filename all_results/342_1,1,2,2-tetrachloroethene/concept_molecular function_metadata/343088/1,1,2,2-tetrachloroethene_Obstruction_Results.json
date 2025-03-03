@@ -1,0 +1,10 @@
+{
+    "context": "[2] Solvent effects in the presence and absence of GVIA were analyzed by a two-factor ANOVA followed by step-down ANOVAs for comparisons between two treatment groups. [3] Effects were considered significant when p < 0.05.  [1] Effects of VOCs on the Amplitude and Kinetics of ICa.  [2] TOL (857 \u00ce\u00bcM), TCE (827 \u00ce\u00bcM), and PERC (152 \u00ce\u00bcM) rapidly and reversibly blocked ICa in NGF-differentiated PC12 cells (Figs. 1 and 2).  [3] Leak and capacitive currents were not altered by any of the VOCs (data not shown).  [4] To confirm that effects of VOCs were not due to solubilization of unknown compounds from the delivery system tubing , separate experiments were conducted wherein extracellular solution containing each VOC was added manually via glass pipette directly to the recording chamber (i.e., there was no contact of the VOC containing solution with polyethylene tubing).  [5] Using this exposure method, effects of TOL, TCE, and PERC were identical to those observed when VOCs were delivered via tubing (data not shown). ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "Obstruction",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene (TCE) is mentioned as a volatile organic compound (VOC) that affects ion currents (ICa) in NGF-differentiated PC12 cells. However, there is no direct mention or discussion of 'obstruction' in relation to TCE or its effects on cellular functions. The term 'obstruction' does not appear to be relevant to the described effects of TCE on ion currents, indicating a lack of connection between the two terms.",
+        "reason": "The score of 1 reflects that while both terms are present, there is no discussion or evidence of a relationship between 1,1,2,2-tetrachloroethene and obstruction in the provided context.",
+        "score": 1
+    }
+}

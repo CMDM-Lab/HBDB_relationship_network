@@ -1,0 +1,10 @@
+{
+    "context": "Although it is generally accepted that noble metal catalysts are more active than metal oxides, their susceptibility to poisoning, high cost and limited availability have been encouraging their replacement by low cost transition metals. These catalysts present sufficient activity, although they are in general less active than noble metals at low temperatures. Nevertheless, in some cases, these catalysts show performances as high or higher than supported noble metal catalysts. Among the transition metals, chromium is an interesting metal to be applied in catalytic oxidation reactions because of its multiple oxidation states. Chromium catalysts have been extensively studied in the oxidation of many pollutants namely propene, ethyl acetate and methylene chloride. It is well known that supports strongly affect the catalytic activity, particularly in oxidation reactions. The type of support used has a significant influence on metal dispersion. ",
+    "term_A": "Chromium",
+    "term_B": "Metals",
+    "llm_generation": {
+        "summary": "In this context, chromium is identified as a transition metal that is being explored for its catalytic properties in oxidation reactions. The discussion highlights chromium's multiple oxidation states and its application in catalytic processes, positioning it within the broader category of metals. The text emphasizes the comparative performance of chromium catalysts against noble metals, indicating its relevance in the field of catalysis involving various metals.",
+        "reason": "The score of 4 reflects a significant connection between chromium and metals, as chromium is specifically categorized as a transition metal and is discussed in the context of its catalytic applications. The context provides evidence of chromium's role in oxidation reactions, showcasing its importance among metals used in catalysis.",
+        "score": 4
+    }
+}

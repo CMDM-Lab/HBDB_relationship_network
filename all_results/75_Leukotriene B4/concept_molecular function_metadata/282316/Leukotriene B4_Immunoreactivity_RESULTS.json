@@ -1,0 +1,10 @@
+{
+    "context": "[3] Immunoreactive LTB4, as well as \u00ce\u00b1-amylase activity, were measured as previously described. [1] Data are expressed as median (range), unless otherwise stated. [2] Statistical calculations were performed using the Spearman rank test. [1] EBCs (n\u00e2\u20ac\u0160=\u00e2\u20ac\u0160102) from 34 subjects examined on three occasions, i.e. before and after exposure in a swine house and after LPS provocation (in a crossover study), were examined for LTB4 immunoreactivity. [2] Irrespective of when they were collected, only four out of the 102 EBC samples tested showed immunoreactive LTB4 levels above the detection limit (3.9\u00e2\u20ac\u2026pg\u00c2\u00b7mL-1), with levels ranging 28\u00e2\u02c6\u2019100\u00e2\u20ac\u2026pg\u00c2\u00b7mL-1 (median 46.5). [3] \u00ce\u00b1-amylase activity was detected in only five of 102 samples: the four samples with detectable LTB4 and in an additional sample (low \u00ce\u00b1-amylase activity) with LTB4 below the detection limit (fig. [4] 2\u00e2\u2021\u201c). ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Immunoreactivity",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is assessed for its immunoreactivity in exhaled breath condensates (EBCs) from subjects exposed to a swine house and LPS provocation. The study measures LTB4 levels, indicating its presence and potential role as a biomarker in inflammatory responses. However, only a small fraction of samples showed detectable LTB4 immunoreactivity, suggesting limited expression under the conditions tested.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and immunoreactivity, as the study specifically measures LTB4 levels and their detection in EBCs, indicating its relevance as a potential biomarker for inflammation. The quantitative data supports this relationship.",
+        "score": 4
+    }
+}

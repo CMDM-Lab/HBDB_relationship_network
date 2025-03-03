@@ -1,0 +1,10 @@
+{
+    "context": "[1] Based on our findings, we propose a yinyang-like mechanism whereby mitochondria integrate purinergic and Ca2+ signaling at the IS (Fig. 9). [2] TCR stimulation initially triggers an increase in mitochondrial Ca2+ levels that is followed by rapid ATP production and the release of ATP into the extracellular space via panx1 channels and probably additional release mechanisms . [3] ATP in the IS then stimulates P2X receptors that function as ATP-gated Ca2+ channels and facilitate Ca2+ influx. [4] These inside-out/outside-in feedback loops escalate mitochondrial ATP production, thereby amplifying TCR/CD28 signaling and sustaining Ca2+ influx through P2X receptors. [1] Proposed model of the regulation of Ca2+ and purinergic signaling by mitochondrial firing. [2] TCR/CD28 stimulation triggers Ca2+ release from intracellular stores, resulting in mitochondrial Ca2+ firing and ATP production that feeds autocrine purinergic signaling and prolonged Ca2+ influx via P2X1 and P2X4 receptors at the immune synapse. [1] Impairments of these interconnected signaling processes can inhibit T cell function and cause immunosuppression . ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Feedback",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) plays a crucial role in feedback mechanisms at the immune synapse. Following T cell receptor (TCR) stimulation, ATP is produced and released, which activates P2X receptors, facilitating calcium influx. This creates feedback loops that enhance mitochondrial ATP production and sustain signaling pathways, thereby amplifying TCR/CD28 signaling. The interplay between ATP and feedback mechanisms is essential for maintaining T cell function and preventing immunosuppression.",
+        "reason": "The score of 5 reflects a strong relevance, as ATP is directly involved in feedback loops that regulate calcium signaling and T cell activation, highlighting its critical role in the physiological processes described.",
+        "score": 5
+    }
+}

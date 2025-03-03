@@ -1,0 +1,10 @@
+{
+    "context": " [7] Sequence analysis revealed the presence of two putative HNF4\u00ce\u00b1-binding sites in the mouse OTC promoter region.  [8] By using transient transfection analysis, it was established that high levels of promoter activity were dependent on both HNF4\u00ce\u00b1-binding sites and the expression of HNF4\u00ce\u00b1.  [9] Furthermore, the proximal HNF4\u00ce\u00b1-binding site was found to be more important than the distal one for transactivating OTC promoter. [10] These data demonstrate that HNF4\u00ce\u00b1 is critical for urea homeostasis by direct regulation of the OTC gene in vivo. [1] The liver plays an important role in the metabolism of carbohydrates, proteins, lipids, vitamins, and hormones, the synthesis and excretion of bile acids, the production of blood coagulation factors and plasma proteins, and the detoxification of various xenobiotics. [2] Most of these functions are achieved by hepatocytes that account for over 60% of the liver mass. [3] The expression of genes preferentially expressed in liver is controlled by liver-enriched transcription factors (LETF)1in the HNF1, HNF3, HNF4, and C/EBP families . ",
+    "term_A": "urea",
+    "term_B": "OTC gene",
+    "llm_generation": {
+        "summary": "In this context, urea is linked to the OTC gene through the regulation of urea homeostasis by the transcription factor HNF4\u03b1. The study indicates that HNF4\u03b1 directly regulates the OTC gene, which is crucial for the urea cycle, thereby highlighting the importance of this gene in maintaining proper urea levels in the body. This relationship underscores the role of genetic regulation in metabolic processes related to urea synthesis and excretion.",
+        "reason": "The score of 5 reflects a strong relevance, as the context explicitly states that HNF4\u03b1 is critical for urea homeostasis by directly regulating the OTC gene, establishing a clear and significant relationship between urea and the OTC gene.",
+        "score": 5
+    }
+}

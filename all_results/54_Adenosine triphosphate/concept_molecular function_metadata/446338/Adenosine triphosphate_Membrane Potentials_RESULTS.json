@@ -1,0 +1,10 @@
+{
+    "context": "[5] Taken together, these findings suggest that mitochondrial translocation has an important role in shaping the spatiotemporal patterns of ATP release at the IS during T cell activation.  [1] The findings above suggest that ATP release is not merely a function of panx1 channel opening, but rather associated with rapid activation of mitochondrial ATP production.  [2] Mitochondrial ATP production is driven by oxidative phosphorylation, which requires the maintenance of an electrochemical gradient across the inner mitochondrial membrane that is sustained by the electron transport chain of mitochondria.  [3] The mitochondrial membrane potential (\u00ce\u201d\u00cf\u02c6m) is therefore an important parameter related to the capacity of cells to produce ATP with the help of their mitochondria.  [4] To study the functional response of mitochondria during T cell stimulation, we investigated whether T cell stimulation affects \u00ce\u201d\u00cf\u02c6m.  [5] Cells were stained with JC-1 and analyzed by flow cytometry.  [6] JC-1 is a fluorescent mitochondrial probe that allows monitoring of \u00ce\u201d\u00cf\u02c6m based on changes in its green and red fluorescence properties. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Membrane Potentials",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) production is closely linked to membrane potentials, particularly the mitochondrial membrane potential (\u0394\u03c8m). The maintenance of \u0394\u03c8m is crucial for oxidative phosphorylation, which drives ATP synthesis in mitochondria. The study highlights how T cell activation influences \u0394\u03c8m, thereby affecting ATP release and cellular energy dynamics during immune responses.",
+        "reason": "The score of 5 reflects a direct and critical relationship between ATP and membrane potentials, as the context emphasizes the dependence of ATP production on the electrochemical gradient maintained by the mitochondrial membrane potential, particularly during T cell activation.",
+        "score": 5
+    }
+}

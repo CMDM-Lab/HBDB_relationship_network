@@ -1,0 +1,10 @@
+{
+    "context": "The resulting scores plots are shown in Fig. 6 . Fig. 6 shows each indicator of transfer station distributed on a two-dimensional coordinate system combining with Principal Component 1 and 2. For the HL transfer station, Principal Component 1 extracts 41.9% of the total information and Principal Component 2 extracts 20.8%. Temperature, pH and BOD5 were proximal surrounding by the small ellipse, so was COD and TN in wastewater (Fig.\u00a06a). However, the humidity was on the opposite site of the origo to ammonia nitrogen, H2S and NH3 on the component 2, which indicated negative correlation among these factors. No correlation between gaseous pollutants was found. It confirms high temperature promoted the organic degradation, and COD and TN could originate from the same source, probably from the protein substances in the wastewater (Zhang et al., 2010; Chen et al., 2010). For the XP transfer station, Principal Component 1 extracts 38.4% of the total information and Principal Component 2 extracts 20.6%. ",
+    "term_A": "ammonia",
+    "term_B": "Ammonia nitrogen",
+    "llm_generation": {
+        "summary": "In this context, ammonia and ammonia nitrogen are related as indicators of wastewater quality. Ammonia nitrogen is a specific form of nitrogen that includes ammonia, and both are analyzed in relation to other wastewater parameters like temperature, pH, and biochemical oxygen demand (BOD5). The negative correlation between ammonia nitrogen and other factors suggests their interdependence in the context of organic degradation processes in wastewater treatment.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and ammonia nitrogen, as they are both critical components in assessing wastewater quality. The context discusses their relationship in terms of correlation with other parameters, indicating a clear relevance in the analysis of wastewater.",
+        "score": 4
+    }
+}

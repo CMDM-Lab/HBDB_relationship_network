@@ -1,0 +1,10 @@
+{
+    "context": "ATP signalling and sensory transduction There is a vast literature on the distribution of the receptors and the effects of ATP on sensory neurons. The function and expression profile for native P2X receptors are characterized for sensory neurons from dorsal root, trigeminal, nodose and petrosal ganglia. All P2X receptor subtypes (except P2X7) and some P2Y receptors are expressed by sensory neurons, although the P2X3 and P2X2 receptor subunits have the highest level of expression. These subunits form homomeric P2X3 and P2X2 and heteromeric P2X2/3 receptors; when present on sensory fibres and terminals, these receptors sense changes in local concentrations of ATP released in response to an appropriate physiological stimulus or in pathological conditions. ATP is proposed to be a common mediator of several distinct sensory modalities, such as nociception [31\u201333], mechanosensitivity, thermal sensitivity, taste sensitivity, and oxygen and carbon dioxide chemosensitivities [39\u201341]. ATP-mediated chemosensory transduction in the carotid body is a prominent example of its role in transmitting afferent information (Figure 2 ). In adult mammals the specialized neurosecretory glomus cells of the carotid body are the primary functional peripheral O2, CO2 and pH chemosensors. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Stimulus",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is highlighted as a crucial signaling molecule involved in sensory transduction, particularly in response to physiological stimuli. ATP is released by sensory neurons in reaction to various stimuli, activating P2X and P2Y receptors that mediate sensory modalities such as nociception and chemosensitivity. This indicates a direct relationship where ATP acts as a mediator for sensory responses to stimuli.",
+        "reason": "The score of 5 reflects a strong relevance, as ATP is directly implicated in sensory transduction mechanisms triggered by physiological stimuli, establishing it as a critical mediator in the relationship between ATP and sensory responses.",
+        "score": 5
+    }
+}

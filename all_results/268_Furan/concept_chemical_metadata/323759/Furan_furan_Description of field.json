@@ -1,0 +1,10 @@
+{
+    "context": "This investigation produced 45 discrete data for catalytic oxidizers and 12 more for thermal oxidizers. In the first group 12 tests concerned a Degussa \u2018HDC\u2019 catalyst (0.15%Pt+0.15%Pd on alumina), 13 tests were with Pt/alumina catalysts, and in 20 tests a Wheelabrator 12%Cr2O3 +2%CrO3 on alumina catalyst was employed. The catalyst inlet temperatures ranged from 293 to 573 \u00b0C. Further details are available on request, including the oxidation unit type, site location and date of test, operating temperature, TEQ values and concentrations of the 17 dioxin and furan congeners. The thermal oxidizer operating temperatures (post-flame) are from 773 to 927 \u00b0C. The gas flow rates in the oxidizers are 6\u201357 standard m3/s. Residence times in the catalyst are approximately 0.5 s, and are 0.5\u20131 s for the thermal oxidizers. ",
+    "term_A": "Furan",
+    "term_B": "furan",
+    "llm_generation": {
+        "summary": "In this context, 'Furan' and 'furan' refer to the same chemical compound, which is mentioned in relation to the testing of catalytic and thermal oxidizers. The context discusses the testing of various catalysts and the conditions under which furan and its congeners are analyzed, indicating its relevance in the study of dioxin and furan emissions. However, there is no detailed exploration of its specific role or significance in the oxidation processes described.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as 'Furan' and 'furan' are essentially the same compound mentioned in the context of testing oxidizers, but their relationship lacks detailed discussion or specific functional interactions.",
+        "score": 2
+    }
+}

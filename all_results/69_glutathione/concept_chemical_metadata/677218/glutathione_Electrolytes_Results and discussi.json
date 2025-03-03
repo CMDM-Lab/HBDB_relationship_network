@@ -1,0 +1,10 @@
+{
+    "context": "For derivatization, the EMA reagent was freshly diluted to the required concentration (typically 10\u03bcM) from a 1mM stock solution in DMF. To a 20\u03bcl of the sample (EBC or saliva) 1\u03bcl of the diluted EMA solution was added. The reaction mixture was vortexed for 1min and then let react in the refrigerator at 8\u00b0C. Choice of the separation electrolyte GSH is a tripeptide that does not fluoresce in its native form and its other physicochemical properties, such as conductivity or absorbance do not provide adequate sensitivity for detection in the concentration range of interest (below nM). GSH can be derivatized through the\u2013SH group on the cysteine residue, thus leading to a significantly larger, fluorescing molecule that can be detected by LIF. In this work, EMA was used as a fluorescing dye to label GSH to form a negatively charged conjugate. The reaction of thiols with maleimide-type reagents is usually performed at neutral pH, because hydrolysis of the maleimide to an unreactive product can occur at alkaline pH. ",
+    "term_A": "glutathione",
+    "term_B": "Electrolytes",
+    "llm_generation": {
+        "summary": "In this context, glutathione (GSH) is discussed in relation to its derivatization for detection purposes, particularly focusing on its thiol group. While electrolytes are not directly mentioned in terms of their interaction with glutathione, the context implies that GSH's properties, such as conductivity, are relevant to its detection. However, there is no explicit connection established between glutathione and electrolytes, limiting the depth of their relationship.",
+        "reason": "The score of 2 reflects an indirect connection, as glutathione's properties may relate to electrolytes in terms of conductivity, but there is no detailed discussion of their interaction or significance together in the context provided.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[6] Multiplication by the experimental ADP/O ratio (\u00c3\u20142) yields the steady-state ADP level. [7] Results obtained by this approach were verified by HPLC analysis of samples obtained during steady-state ADP injection.  [1] Under nonlimiting oxygen conditions, mitochondrial respiration in the absence of ADP proceeds at a resting rate that maintains a high mitochondrial membrane potential under nonphosphorylating conditions (\u00e2\u20ac\u201c).  [2] To test whether or not ATP production is even possible at oxygen fluxes below this maintenance level, oxygen supply was set at 20\u00e2\u20ac\u201c30% of the minimum aerobic rate by continuous injection of air-saturated medium into a suspension of anoxic mitochondria.  [3] At steady state, this rate-limiting oxygen supply served as a direct measure of respiration rate at a constant low oxygen level.  [4] Simultaneously, the phosphorylation rate was evaluated by microcalorimetry.  [5] Fig. 2 depicts the heat flow of hypoxic mitochondria measured during oxygen injection before and after chemical uncoupling. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Anoxia",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) production is evaluated under conditions of anoxia, where oxygen supply is limited to 20-30% of the minimum aerobic rate. The study investigates mitochondrial respiration and phosphorylation rates in anoxic mitochondria, highlighting the challenges of ATP synthesis when oxygen levels are critically low. This relationship underscores the importance of oxygen in ATP generation and the metabolic adaptations of mitochondria in low-oxygen environments.",
+        "reason": "The score of 4 reflects a significant connection between ATP and anoxia, as the context discusses the impact of low oxygen levels on ATP production and mitochondrial function, supported by experimental observations.",
+        "score": 4
+    }
+}

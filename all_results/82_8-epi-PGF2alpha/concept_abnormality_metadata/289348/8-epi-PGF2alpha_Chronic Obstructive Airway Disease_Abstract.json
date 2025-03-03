@@ -1,0 +1,10 @@
+{
+    "context": "However, further studies are required to elucidate the exact mechanism responsible for the decrease of the inflammation and the oxidative stress mediated by SCMC-Lys. [1] BACKGROUND Cystic fibrosis is characterised by oxidative stress in the airways. [2] Isoprostanes are prostaglandin isomers formed by free radical catalysed peroxidation of arachidonic acid. [3] 8-Isoprostane is increased in interstitial lung diseases, asthma, chronic obstructive pulmonary disease, and adult respiratory distress syndrome. [4] Exhaled nitric oxide (NO) and carbon monoxide (CO) are biomarkers of inflammation and oxidative stress in the airways, respectively. [1] METHODS Concentrations of 8-isoprostane in the breath condensate of 10 normal subjects and 19 patients with stable cystic fibrosis were measured using an enzyme immunoassay (EIA). [2] Breath condensate is a non-invasive method of collecting airway secretions. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Chronic Obstructive Airway Disease",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is mentioned in relation to oxidative stress and inflammation in chronic obstructive pulmonary disease (COPD) and other respiratory conditions. The increase of isoprostanes like 8-isoprostane in diseases such as COPD indicates a potential role in the pathophysiology of airway inflammation. However, the specific relationship between 8-epi-PGF2alpha and COPD is not directly detailed, suggesting a broader connection rather than a focused interaction.",
+        "reason": "The score of 3 reflects a moderate relevance, as 8-epi-PGF2alpha is part of the isoprostane family linked to oxidative stress in COPD, but the context does not provide a detailed exploration of their specific relationship.",
+        "score": 3
+    }
+}

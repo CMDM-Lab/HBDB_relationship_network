@@ -1,0 +1,10 @@
+{
+    "context": " [5] As little as 5 mM urea significantly carbonylates proteins in mIMCD3 cells within 15 min (Fig. 2C ).  [6] The amount of carbonylation apparently peaks at 20 mM.  [7] However, oxidation may be even greater at higher urea concentration.  [8] Carbonylation at higher urea concentrations may decrease because the carbonyl groups are susceptible to further oxidation to carboxylic acids.  [9] For example, initial oxidation of glutamine synthetase converts an arginine residue to the carbonyl-bearing derivative, \u00ce\u00b3-glutamyl semialdehyde, but this derivative can be further oxidized to glutamic acid. [10] Of note, 5 mM urea is a normal plasma concentration, and the range in uremia is 20\u00e2\u20ac\u201c80 mM. [11] Thus, the level of urea normally present in blood can cause protein carbonylation, and the higher urea in renal failure can account for the increased carbonylation observed in that condition . ",
+    "term_A": "urea",
+    "term_B": "carbonyl group",
+    "llm_generation": {
+        "summary": "In this context, urea is shown to induce protein carbonylation in mIMCD3 cells, with the carbonylation process being influenced by urea concentration. The study indicates that even normal plasma levels of urea (5 mM) can lead to significant carbonylation, which peaks at 20 mM. Higher concentrations may lead to further oxidation of carbonyl groups to carboxylic acids, suggesting a direct relationship between urea levels and the formation of carbonyl groups in proteins, particularly in conditions of renal failure where urea levels are elevated.",
+        "reason": "The score of 4 reflects a significant connection between urea and carbonyl groups, supported by experimental data showing urea's role in protein carbonylation. The context provides quantitative insights into how varying urea concentrations affect carbonylation, indicating a clear biochemical interaction.",
+        "score": 4
+    }
+}

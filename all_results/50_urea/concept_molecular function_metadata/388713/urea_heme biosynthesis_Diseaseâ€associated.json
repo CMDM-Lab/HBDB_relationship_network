@@ -1,0 +1,10 @@
+{
+    "context": "[3] A series of SNPs in the different subunits of SDH have been found to have similar phenotypic consequences. [1] Map of mitochondrial metabolism with SNP\u00e2\u20ac\u0090associated co\u00e2\u20ac\u0090sets. [2] The co\u00e2\u20ac\u0090sets are color\u00e2\u20ac\u0090coded according to the legend at the bottom of the figure. [3] An example of each type of co\u00e2\u20ac\u0090set (Type A: TCA cycle; Type B: Heme biosynthesis; Type C: Urea cycle) has a summary chart that includes the following information: gene abbreviation, gene IDs, MIMs, and SNP\u00e2\u20ac\u0090associated signs or symptoms, respectively column\u00e2\u20ac\u0090wise. [1] The genes that encode the enzymes leading to heme biosynthesis constitute a Type B co\u00e2\u20ac\u0090set (Figure 2). [2] Many SNPs in this set of genes result in various manifestations of porphyria. [3] There is a range of severity and symptoms for a given enzyme and across the different enzymes in this gene set. ",
+    "term_A": "urea",
+    "term_B": "heme biosynthesis",
+    "llm_generation": {
+        "summary": "In this context, urea and heme biosynthesis are mentioned as part of distinct metabolic pathways, specifically categorized into Type C (Urea cycle) and Type B (Heme biosynthesis) co-sets. While both are essential metabolic processes, the context does not provide a direct relationship or interaction between urea and heme biosynthesis, merely indicating their classification within mitochondrial metabolism and the impact of SNPs on heme biosynthesis enzymes.",
+        "reason": "The score of 2 reflects an indirect connection, as both urea and heme biosynthesis are part of broader metabolic pathways, but there is no detailed discussion of their interaction or functional relationship in the context provided.",
+        "score": 2
+    }
+}

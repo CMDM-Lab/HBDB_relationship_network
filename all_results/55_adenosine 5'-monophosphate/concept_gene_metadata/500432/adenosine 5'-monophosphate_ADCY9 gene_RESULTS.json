@@ -1,0 +1,10 @@
+{
+    "context": "[6] Samples were negative when assayed for contamination by genomic DNA (data not shown). [7] AC5/6 immunoreactivity was located specifically within epithelial cells of the mouse colonic mucosa, with the most intense staining in the crypt region (fig 2). [8] Positive immunoreactivity for AC5/6 was also observed in T84 cells (fig 3). [1] Distribution of adenylate cyclase isoforms 1\u00e2\u20ac\u201c9 (AC1\u00e2\u20ac\u201c9) in intestinal epithelium was identified by reverse transcription-polymerase chain reaction. [2] cDNA from total RNA was amplified for 40 cycles by polymerase chain reaction. [3] (A) Adenylate cyclase isoform mRNA expression in human biopsy samples (n\u00e2\u20ac\u0160=\u00e2\u20ac\u01602). [4] (B) Adenylate cyclase isoforms in cultured intestinal T84 epithelial cells (n\u00e2\u20ac\u0160=\u00e2\u20ac\u01604). ",
+    "term_A": "adenosine 5'-monophosphate",
+    "term_B": "ADCY9 gene",
+    "llm_generation": {
+        "summary": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to the ADCY9 gene through the discussion of adenylate cyclase isoforms, which are enzymes that convert ATP to cyclic AMP (cAMP). The ADCY9 gene encodes one of these isoforms, suggesting a role in the regulation of AMP levels via cAMP signaling pathways. However, the specific interaction between AMP and ADCY9 is not explicitly detailed in the provided context.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses adenylate cyclase isoforms, including ADCY9, in relation to AMP signaling pathways. While there is a connection, the details of their interaction are not thoroughly explored.",
+        "score": 3
+    }
+}

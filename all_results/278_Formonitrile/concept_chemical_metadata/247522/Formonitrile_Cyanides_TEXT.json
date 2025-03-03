@@ -1,0 +1,10 @@
+{
+    "context": "[13] It is also possible that the BCC cultures are producing a compound that chelates the HCN, preventing its release into the gas phase. [1] In summary we did not identify elevated HCN concentrations in the headspace of BCC samples cultured under planktonic or biofilm condition or in the breath of patients chronically infected with BCC. [2] We conclude that HCN is not an in vitro or in vivo marker of BCC infection. [3] Further work is needed to investigate the discrepancy between the in vitro production of cyanide ions and gaseous HCN by BCC. Introduction Microbial resistance to antibiotics has spread dramatically in the last 50 years, leading to an increasing number of deaths due to infectious diseases. The massive and often inappropriate use of antibiotics in hospitals and in livestock industries led to the development of a group of multi-drug Resistant (MDR) microorganisms, which represent a major global health issue. Hence, there is an urgent need to identify novel antibiotics to counteract these hazardous microorganisms. ",
+    "term_A": "Formonitrile",
+    "term_B": "Cyanides",
+    "llm_generation": {
+        "summary": "In this context, formonitrile and cyanides are related through the discussion of hydrogen cyanide (HCN) production by bacterial cultures. While formonitrile is a nitrile compound, cyanides refer to a broader class of compounds that include HCN. The text suggests that the bacterial cultures may produce compounds that interact with HCN, but it does not provide a direct relationship between formonitrile and cyanides beyond this general connection to cyanide production.",
+        "reason": "The score of 2 reflects an indirect connection, as formonitrile and cyanides are mentioned in the context of HCN production, but their specific relationship is not elaborated upon, indicating a general association rather than a detailed interaction.",
+        "score": 2
+    }
+}

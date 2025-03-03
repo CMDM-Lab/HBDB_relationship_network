@@ -1,0 +1,1015 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                    "label": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "label": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pneumonia",
+                        "label": "Pneumonia",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Pneumonia",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "label": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ozone",
+                        "label": "Ozone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "geraniol",
+                        "label": "geraniol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Ozone",
+                        "score": 14
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Carbon",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Aldehydes",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "geraniol",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Chemicals",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "label": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Irritation",
+                        "label": "Irritation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Blinking",
+                        "label": "Blinking",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Transcriptional Activation",
+                        "label": "Transcriptional Activation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Oxidation",
+                        "score": 13
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Irritation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Blinking",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Transcriptional Activation",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "target": "Inflammation",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "label": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "label": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "label": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Pneumonia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pneumonia",
+                        "label": "Pneumonia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Pneumonia_Discussion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is mentioned as a volatile organic compound (VOC) that may contribute to airway inflammation when reacting with ozone. However, the studies referenced do not establish a direct link between this compound and pneumonia. Instead, they focus on inflammatory markers in lung cells and the absence of significant inflammatory responses in human subjects exposed to VOC mixtures, indicating a lack of clear evidence connecting this compound to pneumonia specifically.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pneumonia",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Pneumonia_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Ozone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ozone",
+                        "label": "Ozone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Conclusion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone are mentioned in relation to air pollution and its effects on respiratory health, particularly among the elderly. However, the text does not provide a direct interaction or specific relationship between the two compounds. Instead, it discusses general exposure effects and the lack of observed inflammation from their interaction, indicating a limited connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Introduction.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is indirectly related to ozone through the discussion of ozone-initiated reactions with terpenes, including limonene. While the study mentions the effects of ozone on eye irritation and the generation of various reaction products, it does not provide a direct relationship or specific interaction between 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone. The focus is more on the broader implications of ozone's role in reactions with volatile organic compounds (VOCs).",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Materials and method.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone are mentioned in relation to exposure studies involving limonene and ozone mixtures. While the study discusses the effects of ozone on various parameters during exposure, it does not provide a direct relationship or interaction between 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone. Their mention is more about their presence in the same experimental setup rather than a specific interaction or effect.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Results.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone are both involved in a study examining the effects of ozone exposure on respiratory parameters. The results indicate that ozone levels influence various respiratory metrics, such as tidal volume (VT) and total inspiratory (TI) response, but there is no direct interaction or specific relationship established between the two compounds. The study primarily focuses on ozone's effects rather than the chemical interactions with 1-methyl-4-prop-1-en-2-ylcyclohexene.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Discussion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone are indirectly related through their involvement in airway inflammation studies. The reaction products of limonene (a VOC) and ozone were shown to upregulate inflammatory markers in lung cells during acute exposure in rats. However, there is no direct mention of 1-methyl-4-prop-1-en-2-ylcyclohexene's specific interaction with ozone or its effects on inflammation in the provided studies, indicating a lack of detailed connection between the two compounds.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364411",
+                        "label": "Pulmonary effects of inhaled limonene ozone reaction products in elderly rats.\nVR. Sunil, RJ. Laumbach, KJ. Patel, BJ. Turpin, HJ. Lim, HM. Kipen, JD. Laskin, DL. Laskin\nToxicol. Appl. Pharmacol. 2007 Jul;222(2):211-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17610924"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364411_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Methods.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene (d-limonene) is discussed in relation to its reaction with ozone. The study assumes a pseudo-first order reaction between d-limonene and ozone, indicating that the presence of ozone influences the oxidation process of d-limonene. The measured and predicted ozone concentrations suggest a significant interaction, as the reaction leads to changes in particle number concentrations within the exposure chamber.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ozone",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Conclusion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ozone",
+                        "target": "364411",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364411",
+                        "target": "364411_1-methyl-4-prop-1-en-2-ylcyclohexene_Ozone_Methods.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Carbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Carbon_Introduction.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene, a volatile organic compound (VOC) related to limonene, is indirectly associated with carbon as it is a carbon-containing compound. The discussion focuses on the behavior of VOCs in indoor environments, particularly their reactions and oxidation products, which include various carbon-based compounds. However, there is no direct interaction or specific relevance established between 1-methyl-4-prop-1-en-2-ylcyclohexene and carbon beyond their chemical composition.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Carbon_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aldehydes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Aldehydes_Introduction.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene, commonly known as limonene, is discussed in relation to its oxidation products, which include various aldehydes such as formaldehyde and acrolein. The oxidation of limonene in the presence of ozone leads to the formation of these aldehydes, indicating a direct chemical relationship where limonene contributes to the generation of aldehydes as indoor air pollutants. This highlights the potential health implications of limonene exposure in indoor environments.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aldehydes",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Aldehydes_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "geraniol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "geraniol",
+                        "label": "geraniol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_geraniol_Discussion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene and geraniol are both mentioned as volatile organic compounds (VOCs) that may be present in indoor air mixtures. However, the text primarily discusses the reactions of ozone with various unsaturated VOCs, including geraniol, without establishing a direct relationship or interaction between 1-methyl-4-prop-1-en-2-ylcyclohexene and geraniol. Their mention is more about their classification as VOCs rather than any specific functional or chemical relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "geraniol",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_geraniol_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Chemicals_Materials and method.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is mentioned as a specific chemical compound, while 'Chemicals' refers to a broader category that includes various substances. The context does not provide any detailed interaction or relationship between 1-methyl-4-prop-1-en-2-ylcyclohexene and the general category of chemicals, as it primarily lists the compound among others without elaborating on its significance or function.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Chemicals_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Oxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Oxidation_Conclusion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is indirectly related to oxidation through its mention alongside limonene and ozone, which are known to undergo oxidation reactions. The study discusses the sensory irritation caused by limonene oxidation products, suggesting that oxidation processes are relevant to the effects observed in the study. However, the specific relationship between 1-methyl-4-prop-1-en-2-ylcyclohexene and oxidation is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Oxidation_Introduction.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene, commonly known as limonene, is discussed in relation to its oxidation processes when exposed to ozone. The oxidation of limonene leads to the formation of various products, including aldehydes and secondary organic aerosols, which are significant indoor air pollutants. This highlights the chemical transformation of limonene through oxidation and its implications for indoor air quality and health.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Oxidation_Discussion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is part of a volatile organic compound (VOC) mixture that undergoes oxidation when exposed to ozone. The study highlights the sensory irritation effects of ozone-initiated oxidation products of limonene, suggesting that similar reactions may occur with other unsaturated VOCs like 1-methyl-4-prop-1-en-2-ylcyclohexene. However, the specific oxidation pathways or products related to this compound are not detailed in the provided context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364411",
+                        "label": "Pulmonary effects of inhaled limonene ozone reaction products in elderly rats.\nVR. Sunil, RJ. Laumbach, KJ. Patel, BJ. Turpin, HJ. Lim, HM. Kipen, JD. Laskin, DL. Laskin\nToxicol. Appl. Pharmacol. 2007 Jul;222(2):211-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17610924"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364411_1-methyl-4-prop-1-en-2-ylcyclohexene_Oxidation_Methods.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene (d-limonene) is discussed in relation to its oxidation by ozone. The study assumes a pseudo-first order reaction between d-limonene and ozone, indicating that oxidation is a significant process affecting d-limonene levels in the exposure chamber. The rate constant for this oxidation reaction is provided, suggesting a clear relationship between the compound and the oxidation process it undergoes when exposed to ozone.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Oxidation_Conclusion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Oxidation_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Oxidation_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "364411",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364411",
+                        "target": "364411_1-methyl-4-prop-1-en-2-ylcyclohexene_Oxidation_Methods.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Irritation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Irritation",
+                        "label": "Irritation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Irritation_Discussion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is implicated in the generation of isoprene/ozone reaction products that caused significant sensory irritation in mice, evidenced by a more than 60% decrease in respiratory rate. This indicates a direct relationship between the chemical and the irritation effect, highlighting its potential as a hazard in air quality evaluations.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Irritation",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Irritation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Blinking": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Blinking",
+                        "label": "Blinking",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Blinking_Discussion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene, commonly known as limonene, is associated with increased eye blinking frequency in humans when exposed to specific concentrations of limonene and ozone. The studies indicate that exposure to limonene can lead to weak eye irritation, prompting a physiological response such as increased blinking. However, the relationship is primarily focused on the effects of limonene rather than a direct interaction with blinking itself.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Blinking_Introduction.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene (a component of limonene) is indirectly related to blinking through its role in generating LOP (light-activated ozone products) when mixed with ozone. The study indicates that exposure to LOP significantly increases eye blink frequency, suggesting a physiological response to eye irritation caused by these compounds. However, the specific role of 1-methyl-4-prop-1-en-2-ylcyclohexene in this response is not detailed, making the connection more about the broader category of compounds involved rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Blinking",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Blinking_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Blinking_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Transcriptional Activation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Transcriptional Activation",
+                        "label": "Transcriptional Activation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Transcriptional Activation_Discussion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is mentioned in relation to airway inflammation and the effects of volatile organic compounds (VOCs) on lung cells. However, there is no direct discussion of transcriptional activation linked to this compound. The focus is primarily on inflammatory markers and cellular responses rather than on transcriptional mechanisms, indicating a lack of clear connection between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Transcriptional Activation",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Transcriptional Activation_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220",
+                        "label": "Airway effects of repeated exposures to ozone-initiated limonene oxidation products as model of indoor air mixtures.\nP. Wolkoff, PA. Clausen, ST. Larsen, M. Hammer, GD. Nielsen\nToxicol. Lett. 2012 Mar;209(2):166-72.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22212438"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Inflammation_Discussion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene is mentioned in relation to airway inflammation caused by volatile organic compounds (VOCs) and their reaction products with ozone. While the study indicates that acute exposure to a mixture containing limonene and ozone resulted in upregulation of inflammatory markers in lung cells, it does not provide direct evidence linking 1-methyl-4-prop-1-en-2-ylcyclohexene specifically to inflammation. The lack of clear association limits the strength of their relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Inflammation_Conclusion.json",
+                        "label": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene (a compound related to limonene) is mentioned in relation to air pollution and its potential health effects, particularly in the elderly. However, the study specifically notes that inflammation of the respiratory tract was not observed in response to limonene or its reaction products. This indicates that while the compound is relevant to discussions of air quality, it does not have a direct relationship with inflammation based on the findings presented.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "364220",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Inflammation_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "364220",
+                        "target": "364220_1-methyl-4-prop-1-en-2-ylcyclohexene_Inflammation_Conclusion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        }
+    }
+}

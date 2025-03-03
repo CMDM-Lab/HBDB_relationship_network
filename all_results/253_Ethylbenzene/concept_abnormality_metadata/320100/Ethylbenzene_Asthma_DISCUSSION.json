@@ -1,0 +1,10 @@
+{
+    "context": "[1] Benzene, toluene and ethylbenzene were the VOCs associated with lung function deterioration and airway inflammation. [2] Toluene is a known cause of occupational asthma [], where exposure to higher levels is common. [3] Low levels of VOCs seem to increase the risk of childhood [] and adult [] asthma symptoms but associations with lung function have been more difficult to find []. [4] Ethylbenzene has also been suggested as a significant risk factor for asthma [], a fact that is in accordance with the airways changes found in our study. [1] To our knowledge, this is the first time that associations between individual's exposure to air pollution, using both indoor and outdoor air pollution monitoring and modelling techniques, and various respiratory outcomes were observed simultaneously. [2] Our final results are in agreement with most previous epidemiological evidence on either outdoor or indoor measurements. [3] Other panel studies with asthmatic children looked for associations between air pollutants and airways changes through a comprehensive assessment that included spirometry, FeNO and EBC analysis [, ]. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is identified as a significant risk factor for asthma, with associations drawn between exposure to this volatile organic compound (VOC) and airway inflammation and lung function deterioration. The study highlights that both low and high levels of VOCs, including ethylbenzene, may contribute to asthma symptoms, reinforcing its relevance in respiratory health outcomes.",
+        "reason": "The score of 4 reflects a strong connection between ethylbenzene and asthma, supported by evidence of its role in airway inflammation and lung function deterioration. The context indicates a clear association, although it does not provide extensive quantitative data.",
+        "score": 4
+    }
+}

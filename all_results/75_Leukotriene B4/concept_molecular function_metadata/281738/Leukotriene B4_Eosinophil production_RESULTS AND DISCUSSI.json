@@ -1,0 +1,10 @@
+{
+    "context": "[3] Because LTB4 is a chemoattractant for eosinophils in vitro , we tested whether our eosinophil preparations migrated toward LTB4 or the cysLTs in Transwell assays. [4] We confirmed robust migration toward LTB4, as well toward CCL11, but there was no detectable response to LTC4, LTD4, or LTE4 (Fig. 4 A). [5] When we activated eosinophils with ionomycin, there was \u00e2\u02c6\u00bc10-fold more LTB4 than LTE4 in the supernatant (Fig. 4 B). [6] Furthermore, mixing of eosinophils with C. elegans stimulated eosinophil LTB4 production, which was completely inhibited by MK886 (Fig. 4 C). [7] In contrast, there was no detectable production of LTE4 by eosinophils in response to worms. [8] Finally, Ltb4r1\u00e2\u02c6\u2019/\u00e2\u02c6\u2019 eosinophils exhibited a >90% reduction in accumulation around worms (Fig. 4 D), establishing that LTB4 signaling is required for Alox5-dependent migration and accumulation.  [1] Involvement of LTB4 in collective eosinophil migration. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Eosinophil production",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is identified as a potent chemoattractant for eosinophils, demonstrating a direct relationship between LTB4 and eosinophil migration. The study shows that eosinophils migrate robustly towards LTB4, indicating that LTB4 plays a critical role in eosinophil production and accumulation, particularly in response to stimuli such as C. elegans. The requirement of LTB4 signaling for eosinophil migration further underscores its significance in eosinophil biology.",
+        "reason": "The score of 5 reflects a strong and direct relationship between LTB4 and eosinophil production, as the context provides clear evidence of LTB4's role in eosinophil migration and accumulation, supported by experimental data.",
+        "score": 5
+    }
+}

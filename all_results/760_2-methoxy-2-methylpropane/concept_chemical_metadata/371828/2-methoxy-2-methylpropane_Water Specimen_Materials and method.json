@@ -1,0 +1,10 @@
+{
+    "context": "MTBE-contaminated water was prepared by adding pre-determined amount of reagent-grade MTBE (Janssen Chimica, Belgium) into deionized water or natural water. For analysis, a standard solution of 2000mg/L MTBE from Supelco, USA was diluted for establishing the analytical calibration curve. Water samples were analyzed for MTBE concentration by the solid-phase micro extraction/gas chromatograph (SPME/GC) method. In the SPME process, a 75\u03bcm PDMS/Carboxen commercial fiber (Supelco, USA) was immersed into the water samples to extract MTBE. During the extraction, the temperature was controlled at 18\u00b0C. The sample volume was 1.6mL with addition of 25% (w/v) sodium chloride, and the extraction time was set at 60min. The extracted fiber was injected into a GC (6890 Plus, Agilent, USA) equipped with a flame ionization detector for the determination of MTBE concentration. ",
+    "term_A": "2-methoxy-2-methylpropane",
+    "term_B": "Water Specimen",
+    "llm_generation": {
+        "summary": "In this context, 2-methoxy-2-methylpropane (MTBE) is mentioned as a contaminant in water samples prepared for analysis. The study focuses on the methods used to analyze MTBE concentration in both deionized and natural water specimens. However, there is no direct interaction or functional relationship discussed between MTBE and the water specimens beyond the contamination aspect.",
+        "reason": "The score of 2 reflects an indirect connection, as 2-methoxy-2-methylpropane is analyzed in water samples, indicating a general relationship of contamination, but lacking detailed discussion of their interaction or significance.",
+        "score": 2
+    }
+}

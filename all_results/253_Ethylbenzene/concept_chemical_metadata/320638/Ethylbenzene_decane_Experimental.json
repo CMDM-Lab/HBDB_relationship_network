@@ -1,0 +1,10 @@
+{
+    "context": "In this manuscript, the concept of the in-needle trap was applied to develop a sorbent packed NT device. Also, different approaches were carefully evaluated for the transfer of enriched components in to the analytical instrument. In addition, applications of the NT device for exhaustive extraction and passive TWA sampling are discussed. Chemicals and materials The n-alkanes (n-octane, n-nonane, n-decane and n-undecane) and BTEX (benzene, toluene, ethylbenzene and o-xylene) were obtained from Sigma-Aldrich (Mississauga, Canada). Needles and syringes were obtained from Hamilton (Reno, NV, USA). SPME fibre coatings, narrow-neck liners and gas-sampling bulb (1L) were purchased from Supelco (Mississauga, Canada). Segmental needle trap filled with polydimethylsiloxane (PDMS), divinylbenzene (DVB) and Carboxen particles was from Restek (Bellefonte, PA, USA). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "decane",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and decane are both mentioned as components of a list of chemicals obtained for use in developing a sorbent packed needle trap (NT) device. However, there is no discussion of their specific interactions, functions, or relevance to each other beyond their inclusion in the same category of chemicals (BTEX and n-alkanes).",
+        "reason": "The score of 2 reflects a low relevance, as ethylbenzene and decane are grouped together as chemicals used in the study, but there is no detailed discussion of their relationship or interactions within the context provided.",
+        "score": 2
+    }
+}

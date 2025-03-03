@@ -1,0 +1,10 @@
+{
+    "context": "2.1.3 Press-fit caps Fused-silica caps were made from 2-cm pieces of deactivated fused-silica capillary of 0.32 mm I.D. One end of every piece was closed by fusion on a butane\u2013oxygen micro-flame. After in-tube samplings, performed with several capillary extractors, press-fit caps were applied finger-tight to the ends of the extractors, which were stored as such (full of liquid and capped) for the required time.BTEX sample preparation 2.2.1 Pure BTEX mix Benzene (Rudi Pont, purity >99.5%), toluene (redistilled, high purity, single peak by GC analysis), ethylbenzene (Fluka, >99%), and ortho-, meta-, and para-xylenes (from Aldrich, purities >99%) were used as primary substances. A BTEX stock standard mixture (six compounds) was prepared by mixing 2.00 ml of each component, and was stored at room temperature in a screw-closed glass bottle. 2.2.2 Aqueous BTEX standards The BTEX solution was prepared by adding 1 \u03bcl of the above BTEX stock mix to 1.14 l of Milli-Q water matrix subjected to moderate magnetic stirring. The resulting concentration of each aromatic compound was 146 ppb (v/v).In-tube SPME sampling of aqueous BTEX Every capillary extractor was charged with BTEX by fast-squeeze extraction using 1.00 ml of the aqueous sample. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both components of a BTEX (Benzene, Toluene, Ethylbenzene, and Xylenes) mixture used for analytical purposes. They are mentioned as part of a standard mixture prepared for sampling and analysis, indicating their co-occurrence in environmental studies. However, there is no detailed discussion of their specific interactions or functional relationships beyond their inclusion in the same mixture.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and toluene are both part of the BTEX mixture used in the study, but their relationship is not explored in detail, indicating a general connection rather than a significant interaction.",
+        "score": 2
+    }
+}

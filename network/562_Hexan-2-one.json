@@ -1,0 +1,1678 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Hexan-2-one",
+                    "label": "Hexan-2-one",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hexan-2-one",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hexan-2-one",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hexan-2-one",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hexan-2-one",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hexan-2-one",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Hexan-2-one",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hexan-2-one",
+                        "label": "Hexan-2-one",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Infestation",
+                        "label": "Infestation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Leishmaniasis",
+                        "label": "Leishmaniasis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tick Infestations",
+                        "label": "Tick Infestations",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Zoonoses",
+                        "label": "Zoonoses",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "Infestation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "Leishmaniasis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "Tick Infestations",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "Zoonoses",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hexan-2-one",
+                        "label": "Hexan-2-one",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "carbonyl compound",
+                        "label": "carbonyl compound",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-octenal",
+                        "label": "2-octenal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pentadecane",
+                        "label": "pentadecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hexanones",
+                        "label": "Hexanones",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "decanaldehyde",
+                        "label": "decanaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-dodecane",
+                        "label": "n-dodecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "nonadecane",
+                        "label": "nonadecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "eicosane",
+                        "label": "eicosane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "caprylic aldehyde",
+                        "label": "caprylic aldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-tetradecane",
+                        "label": "n-tetradecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "nonanal",
+                        "label": "nonanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-heptenal",
+                        "label": "2-heptenal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-octanone",
+                        "label": "2-octanone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "benzaldehyde",
+                        "label": "benzaldehyde",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "n-hexanal",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "carbonyl compound",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "2-octenal",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "pentadecane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "Hexanones",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "decanaldehyde",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "n-dodecane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "nonadecane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "eicosane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "Chemicals",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "caprylic aldehyde",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "n-tetradecane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "nonanal",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "2-heptenal",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "Hydrocarbons",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "2-octanone",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "benzaldehyde",
+                        "score": 15
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hexan-2-one",
+                        "label": "Hexan-2-one",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Hexan-2-one",
+                        "target": "Adjudication",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hexan-2-one",
+                        "label": "Hexan-2-one",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hexan-2-one",
+                        "label": "Hexan-2-one",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hexan-2-one",
+                        "label": "Hexan-2-one",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Infestation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Infestation",
+                        "label": "Infestation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828",
+                        "label": "Quantification of brown dog tick repellents, 2-hexanone and benzaldehyde, and release from tick-resistant beagles, Canis lupus familiaris.\nJG. de Oliveira Filho, ALF. Sarria, LL. Ferreira, JC. Caulfield, SJ. Powers, JA. Pickett, AAP. de León, MA. Birkett, LMF. Borges\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2016 Jun;1022:64-69.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27085013"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_Infestation_Discussion.json",
+                        "label": "In this context, Hexan-2-one is mentioned as part of a formulation combined with benzaldehyde aimed at protecting dogs from infestation by the brown dog tick, R. sanguineus s. l. The study suggests that this formulation could enhance the effectiveness of anti-tick vaccines, thereby reducing tick infestations and the transmission of tick-borne diseases. The relationship is significant as it highlights the potential role of Hexan-2-one in pest management strategies.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Infestation",
+                        "target": "262828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_Infestation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Leishmaniasis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Leishmaniasis",
+                        "label": "Leishmaniasis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_Leishmaniasis_Results and discussi.json",
+                        "label": "In this context, Hexan-2-one is identified as one of the volatile organic compounds (VOCs) that contribute to the discrimination between leishmaniasis-infected and non-infected dogs. The study highlights the significance of various VOCs, including Hexan-2-one, in odor modifications associated with infections, suggesting that these changes may play a role in the survival strategies of parasites by attracting disease-transmitting vectors. Thus, Hexan-2-one is relevant in the context of leishmaniasis as a potential biomarker for infection status in dogs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Leishmaniasis",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_Leishmaniasis_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Tick Infestations": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Tick Infestations",
+                        "label": "Tick Infestations",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828",
+                        "label": "Quantification of brown dog tick repellents, 2-hexanone and benzaldehyde, and release from tick-resistant beagles, Canis lupus familiaris.\nJG. de Oliveira Filho, ALF. Sarria, LL. Ferreira, JC. Caulfield, SJ. Powers, JA. Pickett, AAP. de León, MA. Birkett, LMF. Borges\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2016 Jun;1022:64-69.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27085013"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_Tick Infestations_Discussion.json",
+                        "label": "In this context, Hexan-2-one is mentioned as part of a formulation combined with benzaldehyde aimed at protecting dogs from infestations by the brown dog tick, R. sanguineus s. l. The study suggests that this formulation could enhance the effectiveness of anti-tick vaccines, thereby providing a dual approach to managing tick infestations and the diseases they transmit. The relationship indicates that Hexan-2-one may play a role in repelling ticks, contributing to the overall strategy for tick management.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Tick Infestations",
+                        "target": "262828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_Tick Infestations_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Zoonoses": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Zoonoses",
+                        "label": "Zoonoses",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828",
+                        "label": "Quantification of brown dog tick repellents, 2-hexanone and benzaldehyde, and release from tick-resistant beagles, Canis lupus familiaris.\nJG. de Oliveira Filho, ALF. Sarria, LL. Ferreira, JC. Caulfield, SJ. Powers, JA. Pickett, AAP. de León, MA. Birkett, LMF. Borges\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2016 Jun;1022:64-69.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27085013"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_Zoonoses_Discussion.json",
+                        "label": "In this context, Hexan-2-one is mentioned as part of a formulation combined with benzaldehyde aimed at protecting dogs from tick infestations and the zoonotic diseases transmitted by ticks, specifically R. sanguineus s. l. The relationship highlights the potential of using this chemical in integrated strategies to mitigate tick-borne zoonoses, thereby benefiting both canine and human health.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Zoonoses",
+                        "target": "262828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_Zoonoses_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "n-hexanal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_n-hexanal_Results and discussi.json",
+                        "label": "In this context, Hexan-2-one and n-hexanal are both mentioned as volatile organic compounds (VOCs) relevant to the attraction of hematophagous mosquitoes, which are vectors for various diseases. While both compounds are recognized for their significance in the orientation of disease-transmitting vectors, the context does not provide a direct comparison or interaction between Hexan-2-one and n-hexanal, limiting the depth of their relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_n-hexanal_Materials and method.json",
+                        "label": "In this context, Hexan-2-one and n-hexanal are both mentioned as part of a standard solution of hydrocarbons and carbonyl compounds used in the analysis of volatile organic compounds (VOCs) extracted from canine hair samples. However, there is no direct discussion of their relationship or interaction, as they are simply listed among other compounds without any specific functional or chemical connection highlighted in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-hexanal",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_n-hexanal_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_n-hexanal_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "carbonyl compound": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "carbonyl compound",
+                        "label": "carbonyl compound",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_carbonyl compound_Materials and method.json",
+                        "label": "In this context, Hexan-2-one is mentioned as a specific example of a carbonyl compound among a list of other carbonyls used in the study. The context discusses the extraction of volatile organic compounds (VOCs) from hair samples, indicating that Hexan-2-one is part of a broader category of carbonyl compounds relevant to the analysis. However, there is no detailed discussion of its specific properties or interactions beyond its classification as a carbonyl compound.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "carbonyl compound",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_carbonyl compound_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "2-octenal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-octenal",
+                        "label": "2-octenal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_2-octenal_Results and discussi.json",
+                        "label": "In this context, Hexan-2-one and 2-octenal are both identified as volatile organic compounds (VOCs) detected in canine hair samples through gas chromatography-mass spectrometry (GC-MS). They are part of a larger analysis aimed at identifying various VOCs, but there is no specific discussion of their interactions or functional relationships within the study. Their mention is primarily as components of a chromatographic analysis rather than indicating any direct relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-octenal",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_2-octenal_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "pentadecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pentadecane",
+                        "label": "pentadecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_pentadecane_Results and discussi.json",
+                        "label": "In this context, hexan-2-one and pentadecane are both identified as volatile organic compounds (VOCs) detected in canine hair samples through gas chromatography-mass spectrometry (GC-MS). However, their relationship is not elaborated upon beyond their identification in the same chromatographic analysis. There is no discussion of their interactions, functions, or significance in relation to each other within the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentadecane",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_pentadecane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hexanones": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hexanones",
+                        "label": "Hexanones",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828",
+                        "label": "Quantification of brown dog tick repellents, 2-hexanone and benzaldehyde, and release from tick-resistant beagles, Canis lupus familiaris.\nJG. de Oliveira Filho, ALF. Sarria, LL. Ferreira, JC. Caulfield, SJ. Powers, JA. Pickett, AAP. de León, MA. Birkett, LMF. Borges\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2016 Jun;1022:64-69.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27085013"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_Hexanones_Discussion.json",
+                        "label": "In this context, Hexan-2-one (2-hexanone) is specifically mentioned as a volatile organic compound (VOC) analyzed in the odour of beagles, alongside benzaldehyde. Hexanones, as a broader category, include Hexan-2-one, indicating that the study focuses on the repellent properties of these compounds. The relationship is established through the analysis of their concentrations and their role in host odour, which is linked to tick repellency. However, the context does not delve deeply into the chemical interactions or specific functional relationships between Hexan-2-one and other hexanones beyond their classification as VOCs.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_Hexanones_Material and methods.json",
+                        "label": "In this context, Hexan-2-one is a specific type of hexanone, and both terms are related as Hexan-2-one is one of the compounds being analyzed in the study. The research focuses on the calibration and analysis of 2-hexanone concentrations using gas chromatography, indicating that Hexan-2-one is a member of the broader category of hexanones. However, the context does not elaborate on any distinct properties or interactions between Hexan-2-one and other hexanones beyond their classification.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_Hexanones_Results.json",
+                        "label": "In this context, Hexan-2-one is specifically mentioned as a compound being analyzed, while Hexanones refers to a broader class of compounds that includes Hexan-2-one. The statistical analysis focuses on the behavior and production of 2-hexanone, indicating that it is a specific instance within the hexanone category. However, there is no detailed discussion of their relationship beyond this classification.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hexanones",
+                        "target": "262828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_Hexanones_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_Hexanones_Material and methods.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_Hexanones_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "decanaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "decanaldehyde",
+                        "label": "decanaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_decanaldehyde_Results and discussi.json",
+                        "label": "In this context, hexan-2-one and decanaldehyde are both identified as volatile organic compounds (VOCs) detected in canine hair samples through gas chromatography-mass spectrometry (GC-MS). However, the context does not provide any specific information about their interactions, functions, or significance in relation to each other, merely listing them among other identified VOCs without further elaboration on their relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_decanaldehyde_Materials and method.json",
+                        "label": "In this context, Hexan-2-one and decanaldehyde are both mentioned as part of a standard solution of carbonyl compounds used in the analysis of volatile organic compounds (VOCs) extracted from canine hair samples. However, there is no direct discussion of their relationship or interaction, as they are simply listed among other carbonyl compounds without any specific functional or chemical connection highlighted in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decanaldehyde",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_decanaldehyde_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_decanaldehyde_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "n-dodecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-dodecane",
+                        "label": "n-dodecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_n-dodecane_Results and discussi.json",
+                        "label": "In this context, Hexan-2-one and n-dodecane are both identified as volatile organic compounds (VOCs) detected in canine hair samples through gas chromatography-mass spectrometry (GC-MS). However, there is no specific discussion of their interactions or functional relationships; they are simply part of a larger analysis of VOCs without further elaboration on their significance or comparative roles in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-dodecane",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_n-dodecane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "nonadecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "nonadecane",
+                        "label": "nonadecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_nonadecane_Results and discussi.json",
+                        "label": "In this context, hexan-2-one and nonadecane are both identified as volatile organic compounds (VOCs) detected in canine hair samples through gas chromatography-mass spectrometry (GC-MS). However, there is no specific discussion of their relationship or interaction beyond their presence in the same analytical study. They are part of a larger set of VOCs analyzed for potential associations with leishmaniasis in dogs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "nonadecane",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_nonadecane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "eicosane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "eicosane",
+                        "label": "eicosane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_eicosane_Results and discussi.json",
+                        "label": "In this context, Hexan-2-one and eicosane are both identified as volatile organic compounds (VOCs) detected in canine hair samples through gas chromatography-mass spectrometry (GC-MS). However, there is no specific discussion of their interactions or functional relationships; they are simply part of a larger analysis of VOCs without any direct relevance to each other beyond their presence in the same study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "eicosane",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_eicosane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828",
+                        "label": "Quantification of brown dog tick repellents, 2-hexanone and benzaldehyde, and release from tick-resistant beagles, Canis lupus familiaris.\nJG. de Oliveira Filho, ALF. Sarria, LL. Ferreira, JC. Caulfield, SJ. Powers, JA. Pickett, AAP. de León, MA. Birkett, LMF. Borges\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2016 Jun;1022:64-69.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27085013"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_Chemicals_Material and methods.json",
+                        "label": "In this context, Hexan-2-one (2-hexanone) is mentioned as a chemical being quantified alongside benzaldehyde in dog odour extracts. The focus is on the analytical methods used for determining the concentration of these specific chemicals, indicating that Hexan-2-one is part of a broader category of chemicals being analyzed. However, there is no detailed discussion of its specific properties or interactions with other chemicals beyond its inclusion in the quantification process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "262828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_Chemicals_Material and methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "caprylic aldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "caprylic aldehyde",
+                        "label": "caprylic aldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_caprylic aldehyde_Materials and method.json",
+                        "label": "In this context, Hexan-2-one and caprylic aldehyde are both mentioned as part of a broader study involving the extraction of volatile organic compounds (VOCs) from canine hair samples. However, there is no direct discussion of their relationship, interaction, or significance in the context of the study. They are simply listed among other carbonyl compounds and hydrocarbons used in the analysis, indicating they are part of the same experimental framework without further elaboration on their specific roles or connections.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_caprylic aldehyde_Results and discussi.json",
+                        "label": "In this context, hexan-2-one and caprylic aldehyde are both mentioned as volatile organic compounds (VOCs) identified in canine hair samples through gas chromatography-mass spectrometry (GC-MS). However, there is no direct discussion of their relationship, interaction, or significance in the study, as they are simply listed among other identified VOCs without further elaboration on their roles or connections.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "caprylic aldehyde",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_caprylic aldehyde_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_caprylic aldehyde_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "n-tetradecane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-tetradecane",
+                        "label": "n-tetradecane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_n-tetradecane_Results and discussi.json",
+                        "label": "In this context, Hexan-2-one and n-tetradecane are both identified as volatile organic compounds (VOCs) detected in canine hair samples through gas chromatography-mass spectrometry (GC-MS). However, there is no direct discussion of their relationship or interaction; they are simply part of a larger analysis of VOCs without specific functional connections highlighted between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-tetradecane",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_n-tetradecane_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "nonanal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "nonanal",
+                        "label": "nonanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_nonanal_Results and discussi.json",
+                        "label": "In this context, hexan-2-one and nonanal are both mentioned as volatile organic compounds (VOCs) that have been studied for their attractiveness to disease-transmitting vectors, particularly mosquitoes. Nonanal is specifically noted for its electrophysiological and behavioral effects on Culex quinquefasciatus, while hexan-2-one is listed among other compounds relevant to vector orientation. However, their direct relationship or interaction is not elaborated upon, indicating a more general association within the study of VOCs and vector attraction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_nonanal_Materials and method.json",
+                        "label": "In this context, Hexan-2-one and nonanal are both mentioned as carbonyl compounds included in a standard solution of hydrocarbons used for the analysis of volatile organic compounds (VOCs) extracted from canine hair samples. However, there is no direct discussion of their relationship or interaction, as they are simply listed among other compounds without any specific functional or chemical connection highlighted in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "nonanal",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_nonanal_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_nonanal_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "2-heptenal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-heptenal",
+                        "label": "2-heptenal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_2-heptenal_Results and discussi.json",
+                        "label": "In this context, Hexan-2-one and 2-heptenal are both identified as volatile organic compounds (VOCs) detected in canine hair samples through gas chromatography-mass spectrometry (GC-MS). They are part of a larger analysis aimed at identifying various VOCs, but there is no specific discussion of their relationship or interaction beyond their presence in the same chromatographic analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-heptenal",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_2-heptenal_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_Hydrocarbons_Materials and method.json",
+                        "label": "In this context, Hexan-2-one is mentioned as one of the carbonyl compounds alongside a standard solution of hydrocarbons (C9–C24). While both terms relate to organic compounds, Hexan-2-one is a specific ketone, whereas hydrocarbons refer to a broader category of organic compounds consisting solely of hydrogen and carbon. The relationship is primarily categorical, with no detailed interaction or functional significance discussed between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_Hydrocarbons_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "2-octanone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-octanone",
+                        "label": "2-octanone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_2-octanone_Materials and method.json",
+                        "label": "In this context, Hexan-2-one and 2-octanone are mentioned as part of a standard solution of carbonyl compounds used in the analysis of volatile organic compounds (VOCs) extracted from canine hair samples. However, there is no direct discussion of their specific interactions, functions, or relevance to the study's objectives, indicating they are simply part of a broader list of compounds used for analysis.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_2-octanone_Results and discussi.json",
+                        "label": "In this context, Hexan-2-one and 2-octanone are both identified as volatile organic compounds (VOCs) detected in canine hair samples through gas chromatography-mass spectrometry (GC-MS). They are part of a larger analysis aimed at identifying various VOCs, but there is no specific discussion of their relationship or interaction beyond their presence in the chromatogram. Thus, their connection is limited to being part of the same analytical study without further elaboration on their significance or functional relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-octanone",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_2-octanone_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_2-octanone_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "benzaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "benzaldehyde",
+                        "label": "benzaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522",
+                        "label": "Headspace solid phase microextraction/gas chromatography-mass spectrometry combined to chemometric analysis for volatile organic compounds determination in canine hair: a new tool to detect dog contamination by visceral leishmaniasis.\nLS. de Oliveira, Fde M. Rodrigues, FS. de Oliveira, PR. Mesquita, DC. Leal, AC. Alcântara, BM. Souza, CR. Franke, PA. Pereira, JB. de Andrade\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2008 Nov;875(2):392-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18945650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_benzaldehyde_Results and discussi.json",
+                        "label": "In this context, hexan-2-one and benzaldehyde are mentioned as volatile organic compounds (VOCs) that play a role in the attraction of hematophagous mosquitoes, which are vectors for various diseases. Both compounds are identified as significant in the orientation of the sand fly Lutzomyia longipalpis, indicating their potential importance in vector attraction. However, the context does not provide detailed interactions or comparative significance between hexan-2-one and benzaldehyde beyond their shared role in attracting disease vectors.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262522_Hexan-2-one_benzaldehyde_Materials and method.json",
+                        "label": "In this context, hexan-2-one and benzaldehyde are both mentioned as carbonyl compounds included in a standard solution for the analysis of volatile organic compounds (VOCs) extracted from canine hair samples. However, there is no direct discussion of their relationship or interaction, as they are simply listed among other compounds used in the study without any specific functional or chemical connection highlighted.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828",
+                        "label": "Quantification of brown dog tick repellents, 2-hexanone and benzaldehyde, and release from tick-resistant beagles, Canis lupus familiaris.\nJG. de Oliveira Filho, ALF. Sarria, LL. Ferreira, JC. Caulfield, SJ. Powers, JA. Pickett, AAP. de León, MA. Birkett, LMF. Borges\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2016 Jun;1022:64-69.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27085013"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_benzaldehyde_Discussion.json",
+                        "label": "In this context, Hexan-2-one and benzaldehyde are mentioned as components of a formulation aimed at protecting dogs from tick infestations caused by R. sanguineus s. l. The study suggests that combining these two compounds may enhance the effectiveness of anti-tick strategies, indicating a synergistic relationship in their application as repellents against ticks and the pathogens they transmit.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_benzaldehyde_Introduction.json",
+                        "label": "In this context, Hexan-2-one and benzaldehyde are analyzed as components of odour released by beagle dogs. The study aims to quantify the release rates and ratios of these compounds, suggesting that their combination may influence the perception of chemical signals to parasites. However, the specific interactions or effects of these compounds on each other are not detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_benzaldehyde_Results.json",
+                        "label": "In this context, hexan-2-one and benzaldehyde are both volatile organic compounds (VOCs) analyzed for their presence in the odour of beagles. The study focuses on validating an analytical method to quantify these compounds, highlighting their relative concentrations and the natural ratio of benzaldehyde to hexan-2-one in the beagle odour samples. However, the specific interactions or functional relationships between the two compounds are not discussed in detail.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_benzaldehyde_Material and methods.json",
+                        "label": "In this context, hexan-2-one and benzaldehyde are analyzed as part of a study measuring their concentrations in samples collected from dogs. The relationship is quantified through the calculation of ratios between the two compounds, indicating a comparative analysis of their presence. However, the context does not provide specific details on their chemical interactions or biological significance, focusing instead on statistical methods for assessing concentration differences.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "benzaldehyde",
+                        "target": "262522",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_benzaldehyde_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262522",
+                        "target": "262522_Hexan-2-one_benzaldehyde_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "benzaldehyde",
+                        "target": "262828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_benzaldehyde_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_benzaldehyde_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_benzaldehyde_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_benzaldehyde_Material and methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828",
+                        "label": "Quantification of brown dog tick repellents, 2-hexanone and benzaldehyde, and release from tick-resistant beagles, Canis lupus familiaris.\nJG. de Oliveira Filho, ALF. Sarria, LL. Ferreira, JC. Caulfield, SJ. Powers, JA. Pickett, AAP. de León, MA. Birkett, LMF. Borges\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2016 Jun;1022:64-69.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27085013"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "262828_Hexan-2-one_Adjudication_Material and methods.json",
+                        "label": "In this context, Hexan-2-one (2-hexanone) is mentioned as a compound quantified in dog odour extracts using gas chromatography, while 'adjudication' does not appear to have a direct connection to the chemical analysis or the compounds discussed. The term 'adjudication' seems out of place, as it typically refers to a legal process rather than a chemical or biological interaction, indicating no relevant relationship between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "262828",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "262828",
+                        "target": "262828_Hexan-2-one_Adjudication_Material and methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

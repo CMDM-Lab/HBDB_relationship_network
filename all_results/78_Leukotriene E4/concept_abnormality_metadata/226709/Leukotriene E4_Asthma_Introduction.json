@@ -1,0 +1,10 @@
+{
+    "context": "Prevalence of AERD in the general population is estimated 0.5%, whereas 10\u201315% of asthmatics have the syndrome. Bronchoconstriction in AERD develops following an ingestion of aspirin or other non-steroidal anti-inflammatory drugs. This asthmatic attack is triggered by a pharmacological inhibition of COX-1 isoenzyme, and is followed by a release of potent pro-inflammatory lipid mediators, including cysteinyl leukotrienes (cys-LTs) [10\u201312]. Urinary leukotriene E4 (uLTE4) is the most reliable biochemical biomarker of AERD and estimates the systemic overproduction of cys-LTs, also elevated in clinically stable asthmatics. We previously reported on urinary metabolites of PGE2: 13,14\u2013dihydro-15keto-PGE2 and tetranor-PGE-M in AERD, contrasted with aspirin-tolerant asthmatics (ATA), after oral aspirin administration. Despite a similar systemic production of both PGE2 metabolites at baseline, no decline in urinary PGE2 metabolites was found following COX-1 inhibition exclusively in AERD subjects during the bronchoconstriction. However, a similar challenge decreased urinary excretion of PGE2 metabolites in ATA subjects with negative outcome of the challenge. ",
+    "term_A": "Leukotriene E4",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene E4 (uLTE4) is identified as a significant biomarker for aspirin-exacerbated respiratory disease (AERD), which affects a subset of asthmatics. The release of cysteinyl leukotrienes, including uLTE4, is linked to bronchoconstriction triggered by aspirin ingestion. Elevated levels of uLTE4 are also observed in clinically stable asthmatics, indicating its relevance in asthma pathology and management.",
+        "reason": "The score of 5 reflects a strong and direct relationship between Leukotriene E4 and asthma, particularly in the context of AERD, where uLTE4 serves as a reliable biomarker for the disease's inflammatory processes and bronchoconstriction responses.",
+        "score": 5
+    }
+}

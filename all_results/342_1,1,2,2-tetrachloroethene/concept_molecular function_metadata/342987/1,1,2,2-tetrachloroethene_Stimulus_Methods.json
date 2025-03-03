@@ -1,0 +1,10 @@
+{
+    "context": "lx. All illumination in the chambers was measured using a photometer with cosine probe attachment (models DR2000 and D2000, respectively, EG&G, Inc., Salem MA). The cosine probe was mounted in the center of the chamber floor prior to taking measurements. MED PC software (Med Associates, St. Albans, VT) controlled all behavioral testing, signal stimuli, and vapor concentration monitoring (see below).Apparatus \u2014 perchloroethylene exposures Perchloroethylene (PCE, 99.9% purity, Sigma-Aldrich Chemical Co., St. Louis, MO) vapor was generated within each operant-inhalation chamber and monitored as previously described. Inlet air was cleaned with carbon and HEPA filters and conditioned to 22\u00b12\u00a0\u00b0C and 50\u00b110% relative humidity; air flow rates through these exposure chambers were approximately 20\u00a0L/min. The rise time (t 95) of PCE vapor concentrations was 6\u00a0min. Each rat was always tested and exposed in the same chamber. ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "Stimulus",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene is not directly mentioned, but the study focuses on perchloroethylene (PCE) vapor exposure in operant-inhalation chambers, which may serve as a stimulus for behavioral testing in rats. The relationship between PCE and the stimulus is implied through the controlled exposure conditions, but there is no explicit connection to 1,1,2,2-tetrachloroethene or its effects as a stimulus.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms relate to the context of chemical exposure and behavioral testing, but there is no detailed discussion of their relationship or specific interactions.",
+        "score": 2
+    }
+}

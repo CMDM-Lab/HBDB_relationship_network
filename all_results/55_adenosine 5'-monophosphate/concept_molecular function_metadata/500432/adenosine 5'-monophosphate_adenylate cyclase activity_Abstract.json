@@ -1,0 +1,10 @@
+{
+    "context": "[3] Also, cAMP, cGMP, and ATP levels were measured. [1] Results: RT-PCR, immunocytochemistry, and immunohistochemistry showed that adenylate cyclase 5 was expressed in mouse colon, and isoforms 5 and 6 were expressed in human biopsies and intestinal epithelium. [2] Pharmacological studies showed that these isoforms are functionally important in chloride secretion. [3] NO mediated hyporesponsiveness to secretagogues is primarily a result of decreased adenylate cyclase activity, and not Gi activation or decreased cellular ATP levels. [1] Rapidly developing and persistent intestinal epithelial barrier defects are characteristic of abdominopelvic exposure to therapeutic doses of ionising radiation and may limit successful cancer treatment and contribute to chronic radiation enteropathy. [2] Several studies have linked a luminal factor with the development of radiation enteritis, as well as inflammatory bowel disease, suggesting that breaches in the intestinal barrier trigger immune mediated inflammatory responses in genetically susceptible individuals. [3] Studies in rats show that bacterial translocation from the lumen to the lamina propria occurs following exposure to ionising radiation. ",
+    "term_A": "adenosine 5'-monophosphate",
+    "term_B": "adenylate cyclase activity",
+    "llm_generation": {
+        "summary": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate cyclase activity through the discussion of cAMP levels and the functional importance of adenylate cyclase isoforms in chloride secretion. The text indicates that decreased adenylate cyclase activity is a key factor in hyporesponsiveness to secretagogues, suggesting that AMP may play a role in modulating this activity, although the direct relationship is not explicitly detailed.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses adenylate cyclase activity in relation to cAMP levels, which are influenced by AMP. However, the specific interaction between AMP and adenylate cyclase is not thoroughly explored.",
+        "score": 3
+    }
+}

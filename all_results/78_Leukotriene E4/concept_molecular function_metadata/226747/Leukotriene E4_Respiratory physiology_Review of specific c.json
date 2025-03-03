@@ -1,0 +1,10 @@
+{
+    "context": "131,136 Validity Urinary LTE4 is modestly associated with lung function measurements over time, as well as with a fall in FEV1 during aspirin challenge and the degree of airway obstruction during an asthma exacerbation. 130,133,141 While many people who have asthma have increased LTE4 during asthma exacerbations, the sensitivity and specificity of this measure across all patients with asthma is limited. Although 1 study in children suggested that urinary LTE4 levels predicted response to leukotriene receptor antagonists, previous studies in adults did not demonstrate such a predictive value. 142 Associations Increased basal levels of urinary LTE4 have been associated with aspirin-sensitive asthma, adult-onset asthma, lung function, and blood eosinophils. 137,141,143,144 However, the associations are not very strong, so LTE4 cannot be considered a surrogate for these other measures. Practicality and risk Whereas collection of urine is simple and of no risk to study participants, the measurement of LTE4 is not simple. Special equipment and training are required to conduct the recommended measurement approach of mass spectroscopy. ",
+    "term_A": "Leukotriene E4",
+    "term_B": "Respiratory physiology",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene E4 (LTE4) is discussed in relation to respiratory physiology, particularly in the context of asthma. Elevated urinary LTE4 levels are associated with lung function metrics, airway obstruction during asthma exacerbations, and specific asthma phenotypes. However, the associations are not robust enough to establish LTE4 as a reliable surrogate marker for lung function or asthma severity, indicating a complex relationship with respiratory physiology that requires further investigation.",
+        "reason": "The score of 4 reflects a significant connection between LTE4 and respiratory physiology, supported by associations with lung function and asthma exacerbations. However, the limitations in predictive value and the strength of these associations prevent a higher score.",
+        "score": 4
+    }
+}

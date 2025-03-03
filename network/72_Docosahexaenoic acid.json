@@ -1,0 +1,241 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Docosahexaenoic acid",
+                    "label": "Docosahexaenoic acid",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Docosahexaenoic acid",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Docosahexaenoic acid",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Docosahexaenoic acid",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Docosahexaenoic acid",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Docosahexaenoic acid",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Docosahexaenoic acid",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Docosahexaenoic acid",
+                        "label": "Docosahexaenoic acid",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Docosahexaenoic acid",
+                        "target": "Asthma",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Docosahexaenoic acid",
+                        "label": "Docosahexaenoic acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Docosahexaenoic acid",
+                        "label": "Docosahexaenoic acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Docosahexaenoic acid",
+                        "label": "Docosahexaenoic acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Docosahexaenoic acid",
+                        "label": "Docosahexaenoic acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Docosahexaenoic acid",
+                        "label": "Docosahexaenoic acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "769859",
+                        "label": "Protectin D1 is generated in asthma and dampens airway inflammation and hyperresponsiveness.\nBD. Levy, P. Kohli, K. Gotlinger, O. Haworth, S. Hong, S. Kazani, E. Israel, KJ. Haley, CN. Serhan\nJ. Immunol. 2007 Jan;178(1):496-502.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17182589"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "769859_Docosahexaenoic acid_Asthma_Abstract.json",
+                        "label": "In this context, docosahexaenoic acid (DHA) is linked to asthma through its role in the formation of protectin D1 (PD1), a mediator that counteracts inflammation in allergic airway conditions. The study indicates that PD1, derived from DHA, is present in lower levels in exhaled breath condensates of asthma patients during exacerbations, suggesting a potential protective role of DHA in managing asthma-related inflammation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "769859",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "769859",
+                        "target": "769859_Docosahexaenoic acid_Asthma_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Ammonia was not detected in the experimental set-up used to characterise the leachate, probably due to excessive moisture in the atmosphere, especially during the night. Therefore, this excess water in Ogawa passive samplers could have prevented the ammonia from being retained in the filter, because ammonia is very soluble in water. In any case, NH3 emissions would be small because the leachate has a pH of around 7, and taking into account the ammonium/ammonia equilibrium, NH4 + prevails under acid conditions and remains in the liquid phase. A specific experiment was conducted to determine ammonia emissions from a more alkaline leachate (pH ca. 8), by using the MX6 Ibrid portable detector in a small vessel. The ammonia concentration was one quarter that of hydrogen sulphide (NH3: 8ppmv; H2S: 32ppmv). Under warm temperature conditions in a recent leachate, the ammonia emitted by this leachate was half that of hydrogen sulphide (NH3: 6ppmv; H2S: 12ppmv). ",
+    "term_A": "ammonia",
+    "term_B": "Alkalies",
+    "llm_generation": {
+        "summary": "In this context, ammonia is discussed in relation to its solubility and behavior in leachate with varying pH levels. The mention of alkalies is implied through the reference to a more alkaline leachate (pH ca. 8), which affects the equilibrium between ammonia and ammonium ions. The relationship indicates that higher pH (alkaline conditions) can influence ammonia emissions, but the connection is not deeply explored beyond this observation.",
+        "reason": "The score of 3 reflects a moderate relevance, as ammonia's behavior is influenced by the pH of the leachate, which is related to alkalies. However, the context does not provide extensive details on their interaction, limiting the depth of the relationship.",
+        "score": 3
+    }
+}

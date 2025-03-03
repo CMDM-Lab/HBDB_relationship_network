@@ -1,0 +1,10 @@
+{
+    "context": " [4] Each bar is obtained from no fewer than three membrane patches, each excised from a different oocyte.  [5] *, different from 1 \u00ce\u00bcm LTB4 on cbv1-\u00ce\u00b21 (p < 0.05).  [6] B, computational docking of non-activating leukotrienes on the LTB4-sensing site in the BK \u00ce\u00b21 subunit.  [7] Representative docking pose of each non-activating leukotriene is superposed onto the model of LTB4 docking.  [8] The LTB4 molecule in space-filling format is shown in blue; the BK \u00ce\u00b21 transmembrane helix is shown in red; non-activating leukotriene molecular structures are presented as green sticks; oxygen atoms are given in red.  [9] Hydrogen bonds are highlighted by white dotted lines. [10] Error bars, S.E. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Docking",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is involved in computational docking studies to understand its interaction with the BK \u03b21 subunit. The docking analysis focuses on how non-activating leukotrienes bind to the LTB4-sensing site, providing insights into the molecular interactions and structural conformations relevant to LTB4's biological functions. The study highlights the significance of docking in elucidating the binding characteristics of leukotrienes, particularly LTB4, in a biological system.",
+        "reason": "The score of 4 reflects a significant connection between Leukotriene B4 and docking, as the context discusses specific computational docking studies that analyze LTB4's interactions with a receptor. This relationship is supported by detailed descriptions of molecular structures and binding poses, indicating a clear relevance in the context of biochemistry.",
+        "score": 4
+    }
+}

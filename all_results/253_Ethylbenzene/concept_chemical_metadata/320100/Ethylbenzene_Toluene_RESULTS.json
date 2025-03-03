@@ -1,0 +1,10 @@
+{
+    "context": "[2] PM10: particles with a 50% cut-off aerodynamic diameter of 10 \u00c2\u00b5m. [1] Exhaled breath condensate (EBC) pH changes and 95% confidence intervals (whiskers) for 10-\u00ce\u00bcg\u00c2\u00b7m\u00e2\u02c6\u20193\u00c2\u00b7week\u00e2\u02c6\u20191 increments of air pollutant, after adjustment. [2] PM10: particles with a 50% cut-off aerodynamic diameter of 10 \u00c2\u00b5m. [1] Benzene, toluene and ethylbenzene were the VOC for which we found a significant association between increasing exposure and airway changes (table 5 and fig. [2] 1), with all three being related to a deterioration of lung function. [3] For benzene, we found a decrease of FEV1 (regression coefficients -4.33, 95% CI -7.13\u00e2\u20ac\u201c -1.53), FEV1/FVC (-1.71, 95% CI -3.24\u00e2\u20ac\u201c -0.18) and FEF25\u00e2\u20ac\u201c75% (-5.89, 95% CI -10.16\u00e2\u20ac\u201c -1.62) and an increase of \u00ce\u201dFEV1 (2.79, 95% CI 0.92\u00e2\u20ac\u201c4.65). [4] For toluene, we found a decrease of FEV1 (-1.10, 95% CI -1.97\u00e2\u20ac\u201c -0.23) and an increase of \u00ce\u201dFEV1 (0.97, 95% CI 0.44\u00e2\u20ac\u201c1.50). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both identified as volatile organic compounds (VOCs) associated with adverse effects on lung function. The study highlights a significant correlation between increasing exposure to these compounds and deterioration in respiratory metrics, such as FEV1. Both compounds are implicated in similar airway changes, indicating a shared impact on respiratory health.",
+        "reason": "The score of 4 reflects a strong connection between ethylbenzene and toluene, as both are linked to lung function deterioration in the study. The evidence provided shows a clear relationship in terms of their effects on respiratory health, supported by statistical data.",
+        "score": 4
+    }
+}

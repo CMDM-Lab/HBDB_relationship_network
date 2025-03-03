@@ -1,0 +1,10 @@
+{
+    "context": "[6] ethylbenzene (p=0.0003), [7] m/p-xylene (p=0.004) and o-xylene (p=0.002), [8] but no change was observed for benzene. [1] Solid-phase microextraction gas chromatography\u00e2\u20ac\u201cmass spectrometry (SPME-GC-MS) chromatogram of solid-phase microextraction derived blood sample from an exercising subject (upper chromatogram) with benzene at 1.6 ng/ml, toluene at 3.4 ng/ml, ethylbenzene at 2.3 ng/ml, m/p-xylene at 8.5 ng/ml and o-xylene at 3.8 ng/ml. [2] Deuterated standards are shown in the lower chromatogram. [1] The mean (SD) heart rate (beats per minute) measured during the field experiment was significantly elevated compared with resting values (185.3 (3.2) vs 69.4 (4.5); p<0.001). [2] The average ventilation (l/min) during exercise was significantly elevated (86.2 (2.3) vs 8.7 (0.9); p<0.001). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "4-xylene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and 4-xylene are both mentioned as volatile organic compounds (VOCs) detected in blood samples from an exercising subject. The study provides statistical significance for ethylbenzene (p=0.0003) and includes 4-xylene in the broader analysis of VOCs, but does not detail any specific interaction or functional relationship between the two compounds beyond their presence in the same analytical context.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and 4-xylene are both identified as VOCs in the same study, but their relationship is not explicitly discussed or analyzed beyond their co-occurrence in the blood samples.",
+        "score": 2
+    }
+}

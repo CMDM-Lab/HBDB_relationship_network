@@ -1,0 +1,10 @@
+{
+    "context": "In addition, our findings further implied the potential utilization of CsA against toxic effects of CS2 in clinical treatment. [1] AIMS--To determine the concentrations of pentane (a marker of lipid peroxidation) and other volatile organic compounds in the breath of patients with schizophrenia. [2] METHODS--Volatile organic compounds were assayed by gas chromatography/mass spectroscopy (GC/MS) in 88 subjects--25 with acute schizophrenic psychosis, 26 with psychiatric disorders other than schizophrenia, and 37 normal volunteers. [3] RESULTS--The mean alveolar gradients of pentane and carbon disulfide (CS2) were significantly higher in the patients with schizophrenia than in the control groups. [4] CONCLUSIONS--Schizophrenia may be accompanied by accelerated lipid peroxidation in cell membranes, as well as increased manufacture of CS2, a known neurotoxin.  [1] We have determined the concentrations of carbonyl sulfide (OCS), dimethylsulfide, and carbon disulfide (CS2) in the breath of a group of cystic fibrosis (CF) patients and one of healthy controls.  [2] At the detection sensitivity in these experiments, room air always contained measurable quantities of these three gases. ",
+    "term_A": "Methanedithione",
+    "term_B": "pentane",
+    "llm_generation": {
+        "summary": "In this context, Methanedithione is not directly mentioned in relation to pentane, which is identified as a marker of lipid peroxidation in the breath of patients with schizophrenia. The study focuses on the concentrations of pentane and other volatile organic compounds, suggesting a potential link between lipid peroxidation and schizophrenia, but does not establish a clear relationship with Methanedithione. Therefore, while both terms are part of the broader discussion on volatile organic compounds, their specific interaction is not addressed.",
+        "reason": "The score of 2 reflects an indirect connection, as both Methanedithione and pentane are mentioned in the context of volatile organic compounds, but there is no detailed discussion of their relationship or interaction.",
+        "score": 2
+    }
+}

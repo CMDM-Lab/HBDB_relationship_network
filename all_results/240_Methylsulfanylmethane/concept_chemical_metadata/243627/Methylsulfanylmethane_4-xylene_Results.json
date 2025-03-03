@@ -1,0 +1,10 @@
+{
+    "context": "95th percentile concentrations were chosen as they provide an upper bounds while screening out low frequency disturbances/episodes not representative of typical conditions. Specific compound odour activity value and appearance frequency are presented in Table\u00a08 along with odorant priority rankings determined using the odorant prioritisation matrix (Table\u00a02). Based upon the assessment presented in Table\u00a08, VOCs were not generally identified as priority odorants. The exceptions were m,p-xylene and limonene for Sydney sites and toluene for Melbourne sites, which received a high priority rating (odorous at source concentrations and high appearance frequency). The highest priority odorants were VSCs (Table\u00a08). Methyl mercaptan and hydrogen sulfide were identified as key odorants for all three cities studied, with high odour activity values (>15,000). Ethyl mercaptan was a key odorant for the Perth sites, while it received a moderate priority rating elsewhere due to low appearance frequency. ",
+    "term_A": "Methylsulfanylmethane",
+    "term_B": "4-xylene",
+    "llm_generation": {
+        "summary": "In this context, Methylsulfanylmethane and 4-xylene are both mentioned as volatile organic compounds (VOCs) in a study assessing odorant priority rankings across different cities. However, there is no direct discussion of their relationship or interaction. The focus is primarily on other key odorants, with 4-xylene not highlighted as a priority odorant in the same way as others like toluene or methyl mercaptan.",
+        "reason": "The score of 1 reflects a lack of any meaningful relationship between Methylsulfanylmethane and 4-xylene, as they are merely listed among VOCs without any specific interaction or relevance discussed in the context.",
+        "score": 1
+    }
+}

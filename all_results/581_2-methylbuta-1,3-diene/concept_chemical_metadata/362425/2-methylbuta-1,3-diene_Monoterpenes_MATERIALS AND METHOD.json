@@ -1,0 +1,10 @@
+{
+    "context": "[2] Every 20 min, the inlet air of the chambers was measured. [3] From the difference between the outlet and inlet [CO2]/[water] of each subchamber, the whole plant (canopy) NEE and evapotranspiration were calculated according to the equation of . [4] These fluxes of CO2 and water were then normalized to LA units using the canopy LA estimation of every given day (see above). [1] Online determination of isoprene (m69), MeOH (m33), m71, LOX products (m99 and m101), and monoterpenes and sesquiterpenes (m137 and m205, respectively) was conducted simultaneously to the gas-exchange measurements using a high-sensitivity PTR-QMS (Ionicon Analytik) at a sampling flow rate of 200 mL min\u00e2\u02c6\u20191. [2] The PTR-QMS switched between the two infrared gas analyzers every 2 d. [3] The details of the PTR-QMS operating parameters and the calibration procedures are given elsewhere (; ). [4] In addition, the sum of the isoprene oxidation products MVK and MACR was calculated at m71, after subtracting the amount of isoprene occurring as stable 13C isotope (i.e. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Monoterpenes",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene, commonly known as isoprene, is mentioned alongside monoterpenes as part of a study measuring volatile organic compounds (VOCs) emitted from plants. Both compounds are classified as terpenes, which are significant in plant physiology and atmospheric chemistry. However, the specific relationship or interaction between isoprene and monoterpenes is not elaborated upon in the provided context.",
+        "reason": "The score of 2 reflects an indirect connection, as both 2-methylbuta-1,3-diene and monoterpenes are categorized under terpenes and are measured in the same study. However, there is no detailed discussion of their specific interactions or functional relationships.",
+        "score": 2
+    }
+}

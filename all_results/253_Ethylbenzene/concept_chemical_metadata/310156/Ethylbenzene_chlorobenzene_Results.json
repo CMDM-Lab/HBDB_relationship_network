@@ -1,0 +1,10 @@
+{
+    "context": "Among BTEX, benzene was found to be the less cytotoxic as a significant decrease of proliferation rate was induced for doses higher than 1 mM and the NOEC was 500 \u03bcM. Toluene toxicity appeared at about five times lower doses (NOEC=100 \u03bcM). Xylene and ethylbenzene showed a NOEC of 50 \u03bcM and induced almost complete arrest of cell growth at 1 mM. The NOEC of monochlorobenzene (mono-ClB) was found to be similar to that of xylene and ethylbenzene. Conversely, the toxicity of others chlorobenzenes was higher than that of BTEX and increased as a function of the number of Cl, as shown in Fig. 1 and Table 2 . Indeed, cell growth-NOEC decreased from benzene to mono-ClB, 1,3-ClB, 1,2,3-ClB and 1,2,3,4-ClB. Surprisingly, the 1,2-ClB showed a toxicity similar to that of 1,2,3-ClB (NOEC\u22455 \u03bcM) and higher than that of 1,3-ClB (NOEC\u224510 \u03bcM), suggesting that Cl in position 2 was more toxic than in position 3. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "chlorobenzene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and chlorobenzene are both discussed in relation to their cytotoxic effects on cell proliferation. Ethylbenzene has a NOEC of 50 \u03bcM, indicating significant toxicity, while chlorobenzenes, particularly those with multiple chlorine substitutions, exhibit even higher toxicity levels. The comparison highlights the varying degrees of cytotoxicity among these compounds, suggesting that chlorobenzenes are generally more toxic than ethylbenzene.",
+        "reason": "The score of 4 reflects a significant connection between ethylbenzene and chlorobenzene, as both are evaluated for their cytotoxic effects, with quantitative data provided on their NOEC values. This indicates a clear relationship in terms of toxicity within the context of the study.",
+        "score": 4
+    }
+}

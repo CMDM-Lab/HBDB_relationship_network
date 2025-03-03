@@ -1,0 +1,10 @@
+{
+    "context": "[2] VF can be partitioned into intraperitoneal and extraperitoneal compartments using anatomical reference points such as the kidneys and ascending and descending colon . [3] The release of free fatty acids (FFAs) from the intraperitoneal depot drains into the portal system, interfering with hepatic glucose metabolism , leading to hyperinsulinemia and insulin resistance. [4] Extraperitoneal fat, on the other hand, drains into the systemic circulation and thus is not directly involved in hepatic glucose metabolism . [1] Absolute quantification of fat mass is achieved by MRI, whereas tissue-specific glucose metabolism can be noninvasively assessed using positron emission tomography (PET) with [18F]-fluorodeoxyglucose ([18F]-FDG) . [2] Combined PET/MRI thus provides anatomical and functional information on specific tissue compartments. [3] Bariatric surgery leads to major, sustained weight loss and improves metabolic and lipid profiles in obese individuals with or without T2D . [4] We hypothesized that bariatric surgery may have differential effects on metabolism in different adipose tissue compartments in severely obese patients. ",
+    "term_A": "D-Glucose",
+    "term_B": "glucose metabolism",
+    "llm_generation": {
+        "summary": "In this context, D-Glucose is indirectly related to glucose metabolism as the text discusses how free fatty acids (FFAs) from intraperitoneal fat affect hepatic glucose metabolism, leading to conditions like hyperinsulinemia and insulin resistance. While D-Glucose is not explicitly mentioned as a substrate in this metabolic process, its role as a primary energy source in glucose metabolism is implied through the discussion of metabolic disturbances caused by fat distribution.",
+        "reason": "The score of 3 reflects a moderate relevance, as D-Glucose is part of the broader discussion on glucose metabolism, particularly in the context of how fat distribution affects metabolic processes. However, the relationship is not deeply explored or quantified.",
+        "score": 3
+    }
+}

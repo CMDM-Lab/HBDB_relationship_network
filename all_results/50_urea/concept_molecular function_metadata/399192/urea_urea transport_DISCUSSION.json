@@ -1,0 +1,10 @@
+{
+    "context": " [8] Here, this extracytoplasmic loop region in H. pyloricontains two adjacent histidine residues which have a presumed pKa of \u00e2\u02c6\u00bc6.0, about the same pH that activates the cytoplasmic urease.  [9] In addition, there is a pair of carboxylic acids in this loop. [10] These four amino acids are predicted to be the major immunogenic determinants in this region. [11] Protonation of these histidines could result in hydrogen bonding with the carboxylic acids enabling urea transport across the membrane domain. [12] Substitution of one or the other of these particular amino acids might result in the loss of immunoreactivity. [13] If this has occurred in H. mustelae, it may explain the difference in the urease activation pH. Cloning and sequencing of the ureIgene of H. mustelae would be able to support this hypothesis. [14] Failure to generate a ureI PCR product fromH. ",
+    "term_A": "urea",
+    "term_B": "urea transport",
+    "llm_generation": {
+        "summary": "In this context, urea is linked to urea transport through the discussion of histidine residues and carboxylic acids that facilitate urea's movement across the membrane. The protonation of histidines is suggested to enable hydrogen bonding with carboxylic acids, which is crucial for effective urea transport. This indicates a direct biochemical relationship where the structure of specific amino acids influences the transport mechanism of urea.",
+        "reason": "The score of 4 reflects a significant connection between urea and urea transport, as the context provides evidence of how specific amino acid interactions facilitate urea's movement across membranes, indicating a clear biochemical relationship.",
+        "score": 4
+    }
+}

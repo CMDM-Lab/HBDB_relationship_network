@@ -1,0 +1,10 @@
+{
+    "context": "Statistical significance was accepted at  P <5 . Results Ethane exhalation in the control subjects ranged from 0 to 10.54ppb, median 1.9ppb, and 26% of the control subjects were smokers. Ethane exhalation in the lung cancer patients ranged from 0\u20137.6ppb, median 0.7ppb, and 42% of cancer patients were smokers. Ethane exhalation among the non-lung cancer patients presenting for investigation of respiratory disease was 0\u201325ppb, median 1.45ppb, and 38% of these patients were smokers (Fig. 3 ). There was no significant difference between ethane exhalation among the control subjects (Group 3), patients presenting at the respiratory clinic (Group 1) or lung cancer patients (Group 2). Similarly, there was no significant difference between ethane exhalation in lung cancer patients and age-matched subjects paired from the control group (Group 4). Interestingly, there was no significant correlation between age and ethane exhalation. ",
+    "term_A": "Ethane",
+    "term_B": "Respiration Disorders",
+    "llm_generation": {
+        "summary": "In this context, ethane is measured in the exhalation of subjects, including lung cancer patients and individuals with respiratory disorders. However, the study finds no significant differences in ethane levels between control subjects and those with respiratory issues or lung cancer. This suggests that ethane exhalation may not be a reliable biomarker for respiratory disorders, indicating a weak relationship between ethane and these conditions.",
+        "reason": "The score of 2 reflects an indirect connection, as ethane is mentioned in relation to respiratory disorders, but the lack of significant differences in exhalation levels indicates that ethane does not have a strong or direct relevance to these disorders.",
+        "score": 2
+    }
+}

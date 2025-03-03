@@ -1,0 +1,10 @@
+{
+    "context": "At the end of the sampling period, samples were immediately transported to the laboratory and refrigerated in the glass storage tube at 4\u00b0C until analysis (Violante et al., 2006). Two spot urine samples were collected: (1) during the week before the personal air monitoring (pre-shift), and (2) immediately following end of the air sampling (post-shift). Urine samples were collected in disposable polyurethane bottles and were stored at 4\u00b0C at the oil distribution facility. These biological samples were transported to the laboratory within 12h of collection and stored at \u2212 20\u00b0C, and analyzed within 60 days.Chemicals Benzene, toluene, ethylbenzene, and xylene (BTEX, purity 99%), benzene-d6, carbon disulfide (99.9 + %), sodium chloride (NaCl) and methanol were purchased from Sigma Aldrich (USA). All solid phase microextraction (SPME) supplies were obtained from Supelco Inc (USA). A polydimethylsiloxane (PDMS) fiber (100\u00b5m) was applied for sampling BTEX from urine headspace. All standards were used without further purification.Exposure assessment of BTEX in ambient air Analysis of passive sampler data was conducted within 4 weeks of collection, according to the manufacturer's instruction. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Chemicals",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is mentioned as one of the chemicals in the BTEX group (benzene, toluene, ethylbenzene, and xylene) that were purchased for analysis. The relationship is primarily that ethylbenzene is categorized as a chemical of interest in the study, but there is no detailed discussion of its specific interactions or significance beyond its inclusion in the list of chemicals used for sampling and analysis.",
+        "reason": "The score of 2 reflects a low relevance, as ethylbenzene is simply listed among other chemicals without any specific interaction or functional relationship discussed in the context. They share a general category but lack detailed connections.",
+        "score": 2
+    }
+}

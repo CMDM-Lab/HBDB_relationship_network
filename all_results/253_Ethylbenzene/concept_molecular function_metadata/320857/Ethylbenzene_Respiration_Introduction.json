@@ -1,0 +1,10 @@
+{
+    "context": "Consumer products that contain ethylbenzene include gasoline, paints and inks, pesticides, carpet glues, varnishes and paints, tobacco products, and automobile products. Ethylbenzene can move from water and soil to air and soil contaminated with ethylbenzene may contaminate groundwater. Sources of exposure to ethylbenzene include air, water, soil, workplace air, and consumer products. Breathing ethylbenzene from air can enter the body via lungs. If the source of exposure to benzene is food or water, it can pass through digestive tract. It may also enter the body by skin contact. Short term exposure to high levels of ethylbenzene may cause irritation of eye and throat. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Respiration",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is highlighted as a volatile organic compound that can be inhaled, entering the body through the lungs during respiration. The passage discusses various exposure routes to ethylbenzene, emphasizing that breathing contaminated air is a significant pathway for its entry into the human body. Short-term exposure can lead to respiratory irritation, linking ethylbenzene directly to respiratory health concerns.",
+        "reason": "The score of 4 reflects a significant connection between ethylbenzene and respiration, as the inhalation of ethylbenzene is a primary exposure route, and the context mentions potential respiratory irritation from exposure. This indicates a clear relationship within the context of health effects.",
+        "score": 4
+    }
+}

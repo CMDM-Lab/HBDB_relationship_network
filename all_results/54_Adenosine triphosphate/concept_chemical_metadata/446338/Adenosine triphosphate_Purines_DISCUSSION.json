@@ -1,0 +1,10 @@
+{
+    "context": "[10] However, our data also show that the rapid increase in cellular ATP production during T cell activation requires additional mechanisms that provide the ADP that mitochondria phosphorylate to ATP. [11] It is likely that purine salvage pathways are involved in these mechanisms . [12] Several immune dysfunctions, including SCID, are caused by deficiencies of key enzymes involved in purine salvage pathways . [13] However, it is also possible that de novo purine synthesis and creatine kinases are involved in the formation of ADP that can be phosphorylated and converted to ATP in mitochondria . [14] Further studies are needed to delineate these mechanisms. [1] Our novel finding that mitochondria provide ATP for autocrine purinergic signaling at the IS is supported by previous reports that suggest a direct involvement of mitochondria in T cell activation. [2] For example, mitochondria were shown to accumulate at the IS and to regulate store-operated Ca2+ signaling by buffering inflowing Ca2+ ions, thus preventing termination of Ca2+ signaling . ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Purines",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) and purines are interconnected through the mechanisms of cellular energy production and metabolism during T cell activation. The rapid increase in ATP production is linked to purine salvage pathways, which recycle purines to generate adenosine diphosphate (ADP) that is subsequently phosphorylated to ATP in mitochondria. This highlights the critical role of purines in supporting ATP synthesis, particularly in immune responses.",
+        "reason": "The score of 4 reflects a significant connection between ATP and purines, as the context discusses their roles in T cell activation and energy metabolism, supported by the mention of purine salvage pathways and their importance in ATP production.",
+        "score": 4
+    }
+}

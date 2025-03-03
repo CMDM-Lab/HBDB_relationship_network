@@ -1,0 +1,10 @@
+{
+    "context": "To predict class 3 sensory assessments using VOC data, we did a PLSR analysis including relative concentrations of all the 48 VOCs detected in the pork samples. Thirty-three bulk and retail samples of pork were included. The lowest root mean squared error of prediction (0.205) was obtained using two latent variables. The VOCs with the highest loadings on the two latent variables were diacetyl, 3-methylbutanal, 2-methyl-1-butanol, acetoin, hexanal and 1-hexanol. The cross-validated predictions obtained by the model incorporating the two latent variables explained only 62% of the Y-variance, indicating that accurate prediction of sensory spoilage with the VOC data was not achieved. Relationships between levels of VOC (log AU/g) and levels of bacteria (log CFU/g) were also determined by linear correlation of the dataset containing bulk, retail and sterilized samples of pork (n =43). Of the VOCs detected, the levels of diacetyl showed the strongest correlation with levels of aerobic bacteria (R 2 0.65), lactic acid bacteria (R 2 0.65) and B. thermosphacta (R 2 0.65). ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "isovalerylaldehyde",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione (diacetyl) and isovalerylaldehyde are both volatile organic compounds (VOCs) analyzed in relation to sensory assessments of pork samples. However, the context primarily focuses on diacetyl's correlation with bacterial levels, without establishing a direct relationship or interaction between Butane-2,3-dione and isovalerylaldehyde. Their mention is more about their presence in the same analysis rather than a specific functional or chemical relationship.",
+        "reason": "The score of 2 reflects an indirect connection, as both compounds are part of the VOC analysis in pork samples, but there is no detailed discussion of their interaction or specific relevance to each other.",
+        "score": 2
+    }
+}

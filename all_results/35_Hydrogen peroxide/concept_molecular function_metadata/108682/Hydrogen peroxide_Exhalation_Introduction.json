@@ -1,0 +1,10 @@
+{
+    "context": "An excess of ROS can directly damage lung cells by oxidation of lipid membranes, proteins and DNA. Besides, abundant ROS cause inactivation of \u03b1 1-antiprotease. 16 The level of oxidative stress may be used as an indirect marker of airway inflammation. It can be determined by measuring hydrogen peroxide (H2O2) in exhaled breath condensate, a simple and non-invasive procedure. 17\u201324 Several investigators found significant increased H2O2 levels in patients with stable COPD compared to healthy non-smoking and an additional increase in COPD patients with an acute exacerbation. 18,19,23,24 Our study aimed to investigate H2O2 in exhaled air, IL-8 and the soluble cell adhesion molecules sICAM-1 and sE-selectin in serum as suitable markers for monitoring chronic obstructive pulmonary disease during treatment of an exacerbation with prednisolone. Patients and methods Patients Fourteen patients with a moderate to severe COPD (FEV1<70% predicted, FEV1/FVC<70% and reversibility to bronchodilators less than 10% of the predicted value), admitted to the St. Antonius Hospital because of an exacerbation, participated the study. ",
+    "term_A": "Hydrogen peroxide",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, hydrogen peroxide (H2O2) is measured in exhaled breath condensate as a non-invasive marker of oxidative stress and airway inflammation in patients with chronic obstructive pulmonary disease (COPD). Elevated levels of H2O2 in exhaled air correlate with disease severity and exacerbations, indicating its relevance in monitoring lung health and inflammation.",
+        "reason": "The score of 5 reflects a direct and critical relationship between hydrogen peroxide and exhalation, as H2O2 levels in exhaled breath are used to assess oxidative stress and inflammation in COPD, supported by significant findings in the study.",
+        "score": 5
+    }
+}

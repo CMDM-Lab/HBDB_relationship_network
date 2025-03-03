@@ -1,0 +1,10 @@
+{
+    "context": "[2] Isoprostanes are prostaglandin isomers formed by free radical catalysed peroxidation of arachidonic acid. [3] 8-Isoprostane is increased in interstitial lung diseases, asthma, chronic obstructive pulmonary disease, and adult respiratory distress syndrome. [4] Exhaled nitric oxide (NO) and carbon monoxide (CO) are biomarkers of inflammation and oxidative stress in the airways, respectively. [1] METHODS Concentrations of 8-isoprostane in the breath condensate of 10 normal subjects and 19 patients with stable cystic fibrosis were measured using an enzyme immunoassay (EIA). [2] Breath condensate is a non-invasive method of collecting airway secretions. [3] Exhaled nitric oxide (NO) and carbon monoxide (CO) levels were measured by a chemiluminescence analyser. [1] RESULTS Concentrations of 8-isoprostane in the breath condensate of patients with stable cystic fibrosis were increased about threefold compared with normal subjects (42.7 (4.5)\u00e2\u20ac\u2030pg/ml vs 15.2 (1.7)\u00e2\u20ac\u2030pg/ml; p<0.005, 95% CI 14.6 to 40.9). ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Cystic Fibrosis",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha, a type of isoprostane, is significantly elevated in the breath condensate of patients with stable cystic fibrosis compared to normal subjects. This increase suggests a link between oxidative stress and inflammation in cystic fibrosis, indicating that 8-epi-PGF2alpha may serve as a potential biomarker for disease severity and airway inflammation in these patients.",
+        "reason": "The score of 5 reflects a strong relevance, as the study provides quantitative evidence showing that 8-epi-PGF2alpha levels are significantly higher in cystic fibrosis patients, indicating a direct relationship between this biomarker and the disease's inflammatory processes.",
+        "score": 5
+    }
+}

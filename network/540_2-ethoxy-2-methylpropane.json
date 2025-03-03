@@ -1,0 +1,2527 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "2-ethoxy-2-methylpropane",
+                    "label": "2-ethoxy-2-methylpropane",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethoxy-2-methylpropane",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethoxy-2-methylpropane",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethoxy-2-methylpropane",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethoxy-2-methylpropane",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethoxy-2-methylpropane",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "2-ethoxy-2-methylpropane",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethoxy-2-methylpropane",
+                        "label": "2-ethoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Autoimmune Syndrome Type II, Polyglandular",
+                        "label": "Autoimmune Syndrome Type II, Polyglandular",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Autoimmune Syndrome Type II, Polyglandular",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethoxy-2-methylpropane",
+                        "label": "2-ethoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "acetonitrile",
+                        "label": "acetonitrile",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pyrroles",
+                        "label": "Pyrroles",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ethyl tert-butyl ether",
+                        "label": "ethyl tert-butyl ether",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Esters",
+                        "label": "Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "isobutyraldehyde",
+                        "label": "isobutyraldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "isovalerylaldehyde",
+                        "label": "isovalerylaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pyrazole",
+                        "label": "pyrazole",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "2-pentanone",
+                        "label": "2-pentanone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Deuterium",
+                        "label": "Deuterium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "tertiary-amyl methyl ether",
+                        "label": "tertiary-amyl methyl ether",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ketones",
+                        "label": "Ketones",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "acetonitrile",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "n-hexanal",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Pyrroles",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "ethyl tert-butyl ether",
+                        "score": 32
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Esters",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "isobutyraldehyde",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Toluene",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Aldehydes",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "isovalerylaldehyde",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "pyrazole",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "2-pentanone",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Deuterium",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "octane",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Acetaldehyde",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "tertiary-amyl methyl ether",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Ketones",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Hydrocarbons",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "4-xylene",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethoxy-2-methylpropane",
+                        "label": "2-ethoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pulmonary Excretion",
+                        "label": "Pulmonary Excretion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hypertrophy",
+                        "label": "Hypertrophy",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pressure- physical agent",
+                        "label": "Pressure- physical agent",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Degenerative abnormality",
+                        "label": "Degenerative abnormality",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cell Proliferation",
+                        "label": "Cell Proliferation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Esthesia",
+                        "label": "Esthesia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Excretory function",
+                        "label": "Excretory function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cell Respiration",
+                        "label": "Cell Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Mitosis",
+                        "label": "Mitosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "neuromuscular function",
+                        "label": "neuromuscular function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Vapour pressure",
+                        "label": "Vapour pressure",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Pulmonary Excretion",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Hypertrophy",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Pressure- physical agent",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Drug Interactions",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Degenerative abnormality",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Cell Proliferation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Esthesia",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Excretory function",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Cell Respiration",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Mitosis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "neuromuscular function",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Vapour pressure",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Inspiration function",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethoxy-2-methylpropane",
+                        "label": "2-ethoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Orthologous Gene",
+                        "label": "Orthologous Gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "2-ethoxy-2-methylpropane",
+                        "target": "Orthologous Gene",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethoxy-2-methylpropane",
+                        "label": "2-ethoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-ethoxy-2-methylpropane",
+                        "label": "2-ethoxy-2-methylpropane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Autoimmune Syndrome Type II, Polyglandular": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Autoimmune Syndrome Type II, Polyglandular",
+                        "label": "Autoimmune Syndrome Type II, Polyglandular",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633",
+                        "label": "Inverse temperature dependence of Henry's law coefficients for volatile organic compounds in supercooled water.\nK. Sieg, E. Starokozhev, MU. Schmidt, W. Püttmann\nChemosphere 2009 Sep;77(1):8-14.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19604535"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633_2-ethoxy-2-methylpropane_Autoimmune Syndrome Type II, Polyglandular_Results.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane is mentioned in relation to studies on air-water partitioning and equilibration times for various organic compounds, including MTBE and ETBE. However, there is no direct connection or discussion regarding Autoimmune Syndrome Type II, Polyglandular, indicating that these terms are unrelated within the provided context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633_2-ethoxy-2-methylpropane_Autoimmune Syndrome Type II, Polyglandular_Materials and method.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and Autoimmune Syndrome Type II, Polyglandular are mentioned without any direct relationship or interaction. The text primarily discusses partitioning coefficients of volatile organic compounds (VOCs) and does not provide any information linking 2-ethoxy-2-methylpropane to autoimmune syndromes or their mechanisms. Thus, their mention appears coincidental rather than relevant.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Autoimmune Syndrome Type II, Polyglandular",
+                        "target": "260633",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260633",
+                        "target": "260633_2-ethoxy-2-methylpropane_Autoimmune Syndrome Type II, Polyglandular_Results.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260633",
+                        "target": "260633_2-ethoxy-2-methylpropane_Autoimmune Syndrome Type II, Polyglandular_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "acetonitrile": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "acetonitrile",
+                        "label": "acetonitrile",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_acetonitrile_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and acetonitrile are both mentioned as volatile organic compounds (VOCs) analyzed in the study of lung cancer cell lines. However, their specific relationship is not detailed, as the focus is on the release of various hydrocarbons and the decline of certain aldehydes and acetonitrile in the context of cancer cell metabolism. There is no direct interaction or functional relationship established between the two compounds.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_acetonitrile_Discussion.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and acetonitrile are both mentioned as organic compounds involved in the degradation processes by different cell lines, particularly in cancer research. However, their specific interactions or relationships are not detailed, and they are primarily noted for their roles in the degradation of various volatile organic compounds (VOCs) by different cell types. The mention of acetonitrile in relation to cancer cells suggests a potential area of study, but no direct connection to 2-ethoxy-2-methylpropane is established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "acetonitrile",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_acetonitrile_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_acetonitrile_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "n-hexanal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_n-hexanal_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and n-hexanal are both mentioned as volatile organic compounds (VOCs) analyzed in the study of lung cancer cell lines. However, there is no direct interaction or relationship discussed between these two compounds. While they are part of the broader investigation into cancer-derived VOCs, their specific roles or connections are not elaborated upon, indicating a lack of direct relevance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-hexanal",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_n-hexanal_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Pyrroles": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pyrroles",
+                        "label": "Pyrroles",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_Pyrroles_Discussion.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and pyrroles are mentioned in relation to the degradation capabilities of different cell lines, particularly cancer cells. While 2-ethoxy-2-methylpropane is not directly linked to pyrroles, the context indicates that cancer cells can degrade nitrogen-containing compounds like pyrroles, suggesting a potential area of interaction in the study of volatile organic compound (VOC) metabolism. However, the specific relationship between these two compounds is not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pyrroles",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_Pyrroles_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "ethyl tert-butyl ether": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ethyl tert-butyl ether",
+                        "label": "ethyl tert-butyl ether",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667",
+                        "label": "Leachability of volatile fuel compounds from contaminated soils and the effect of plant exudates: A comparison of column and batch leaching tests.\nM. Balseiro-Romero, PS. Kidd, C. Monterroso\nJ. Hazard. Mater. 2016 Mar;304:481-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26619047"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Conclusions.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned as volatile organic compounds (VOCs) relevant to soil contamination and leachability studies. However, the text does not provide a direct relationship or interaction between these two compounds. Instead, it discusses their behavior in the context of soil profiles and leaching rates, indicating that both are part of a broader discussion on VOCs without specific connections to each other.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Results and discussi.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether are both mentioned as organic compounds, but their specific relationship is not discussed. The context focuses on the effects of various organic compounds on contaminant desorption and retention in soil systems, without detailing any direct interaction or comparison between these two compounds. They are part of a broader discussion on the behavior of organic contaminants in environmental systems, but no significant connection is established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned as volatile compounds that can contaminate groundwater. The discussion focuses on the behavior of these compounds in the environment, particularly regarding their mobility and leachability when interacting with soil. However, there is no direct interaction or specific relationship detailed between the two compounds beyond their shared context as contaminants.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Materials and method.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned as chemical compounds with specified purities. However, there is no discussion of their interactions, properties, or relevance to each other beyond their listing as contaminants. They are part of a broader context involving various organic compounds, but no direct relationship is established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Conclusions.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned as non-oxygenated fuel alternatives. However, the discussion primarily focuses on the economic and toxicological comparisons of various fuel additives, including ETBE and MTBE, without a direct examination of the relationship between 2-ethoxy-2-methylpropane and ETBE. Their mention suggests they belong to the same category of fuel additives, but no specific interactions or comparative analysis is provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned as types of ether compounds used as fuel oxygenates. However, the context primarily focuses on methyl tert-butyl ether (MTBE) and its properties, with ETBE listed among other ethers without a detailed discussion of its relationship with 2-ethoxy-2-methylpropane. Their connection lies in their classification as ethers, but no specific interactions or comparative analysis is provided.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (TAME) and ethyl tert-butyl ether (ETBE) are both discussed in relation to their toxicological effects in rat inhalation studies. While TAME is noted for causing CNS depression and increased liver weight, ETBE is mentioned as a comparative substance. However, the specific interactions or metabolic pathways between TAME and ETBE are not detailed, indicating a general connection through their classification as ethers and their studied effects on liver weight and CNS function.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_MTBE.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned in relation to their metabolism in the liver, particularly involving the P450 enzyme system. While the focus is primarily on the metabolism of MTBE, the mention of ETBE indicates a shared metabolic pathway involving CYP2A6. However, the specific relationship between 2-ethoxy-2-methylpropane and ETBE is not elaborated upon, suggesting a general connection rather than a detailed interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633",
+                        "label": "Inverse temperature dependence of Henry's law coefficients for volatile organic compounds in supercooled water.\nK. Sieg, E. Starokozhev, MU. Schmidt, W. Püttmann\nChemosphere 2009 Sep;77(1):8-14.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19604535"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned as part of a study investigating the partitioning of volatile organic compounds (VOCs) between supercooled water/ice and the gas phase. However, there is no direct discussion of their specific interactions or comparative significance within the study, as the focus is primarily on BTEX compounds and ethers in general rather than on the relationship between these two specific compounds.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Materials and method.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether are both mentioned in relation to partitioning coefficients and their behavior as volatile organic compounds (VOCs) under varying temperature conditions. However, there is no direct discussion of their specific interactions or comparative significance, as the focus is primarily on the methodology for calculating partitioning coefficients rather than on the compounds themselves.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Discussion.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned in relation to their behavior in the gas phase and their solubility characteristics compared to BTEX compounds. However, there is no direct discussion of their specific interactions or functional relationships. The focus is primarily on the comparative solubility and phase behavior of these compounds rather than a detailed connection between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Results.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned as organic compounds analyzed under the framework of Henry's law coefficients in relation to gas chromatography (GC) responses. However, there is no direct discussion of their specific interactions or comparative significance within the study, indicating they are part of a broader analysis of various compounds without a focused relationship between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether are both mentioned as volatile organic compounds (VOCs) analyzed in relation to cancer-derived emissions from lung cancer cell lines. However, there is no direct discussion of their specific interactions or comparative significance within the study, indicating a general association rather than a detailed relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Discussion.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether are both mentioned as organic compounds, but their specific relationship is not detailed. The context discusses the degradation of various compounds by different cell lines, including ethyl tert-butyl ether, but does not provide a direct connection or interaction between the two ethers. They are part of a broader discussion on volatile organic compounds (VOCs) and their behavior in biological systems, but no significant interaction is established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Abstract.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether are both mentioned as volatile organic compounds (VOCs) detected in the headspace of cell cultures. However, the context does not provide any specific information about their interactions, metabolic pathways, or comparative significance in the studied cell lines. They are simply listed among other compounds without a detailed relationship established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Results.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether are both mentioned as volatile organic compounds (VOCs) released by HBEpC cells. However, the context does not provide specific details about their interactions or comparative significance. They are part of a broader analysis of VOCs emitted from cells, indicating a shared category but lacking a direct relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ethyl tert-butyl ether",
+                        "target": "260667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260667",
+                        "target": "260667_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260667",
+                        "target": "260667_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260667",
+                        "target": "260667_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260667",
+                        "target": "260667_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ethyl tert-butyl ether",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Other aliphatic ethe.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_MTBE.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ethyl tert-butyl ether",
+                        "target": "260633",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260633",
+                        "target": "260633_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260633",
+                        "target": "260633_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260633",
+                        "target": "260633_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260633",
+                        "target": "260633_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ethyl tert-butyl ether",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Abstract.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_ethyl tert-butyl ether_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Esters": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Esters",
+                        "label": "Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_Esters_Discussion.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane is mentioned alongside various organic compounds, including esters like n-butyl acetate. However, the relationship between 2-ethoxy-2-methylpropane and esters is not explicitly detailed. The context primarily discusses the degradation of different volatile organic compounds (VOCs) by various cell lines, without a direct connection or interaction between 2-ethoxy-2-methylpropane and esters being established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Esters",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_Esters_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "isobutyraldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "isobutyraldehyde",
+                        "label": "isobutyraldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_isobutyraldehyde_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and isobutyraldehyde are both mentioned in relation to the analysis of volatile organic compounds (VOCs) released from lung cancer cell lines. However, there is no direct discussion of their relationship or interaction. They are part of a broader investigation into cancer-derived VOCs, but their specific roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "isobutyraldehyde",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_isobutyraldehyde_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667",
+                        "label": "Leachability of volatile fuel compounds from contaminated soils and the effect of plant exudates: A comparison of column and batch leaching tests.\nM. Balseiro-Romero, PS. Kidd, C. Monterroso\nJ. Hazard. Mater. 2016 Mar;304:481-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26619047"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667_2-ethoxy-2-methylpropane_Toluene_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and toluene are both mentioned as components of gasoline and fuel oxygenates, specifically in relation to their volatility and potential environmental impact. However, there is no direct discussion of their interaction or specific relationship beyond their classification as volatile organic compounds (VOCs) that can contaminate groundwater. The focus is more on the broader implications of these compounds in fuel systems rather than a specific connection between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667_2-ethoxy-2-methylpropane_Toluene_Results and discussi.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and toluene are both mentioned as contaminants whose leaching rates were analyzed in soil samples. The study compares the leaching kinetics of various contaminants, including toluene, but does not provide specific interactions or relationships between 2-ethoxy-2-methylpropane and toluene beyond their inclusion in the same analysis of leaching behavior. Their relationship is primarily based on their presence in the same experimental context rather than a direct interaction or functional relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633",
+                        "label": "Inverse temperature dependence of Henry's law coefficients for volatile organic compounds in supercooled water.\nK. Sieg, E. Starokozhev, MU. Schmidt, W. Püttmann\nChemosphere 2009 Sep;77(1):8-14.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19604535"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633_2-ethoxy-2-methylpropane_Toluene_Results.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and toluene are both mentioned as organic compounds analyzed under the framework of Henry's law, which relates the solubility of gases in liquids to their partial pressures. However, the context does not provide specific interactions or comparisons between the two compounds, focusing instead on their individual gas chromatography (GC) responses and correlations with temperature changes. Thus, while they are part of the same study, their relationship is not explicitly defined.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "260667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260667",
+                        "target": "260667_2-ethoxy-2-methylpropane_Toluene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260667",
+                        "target": "260667_2-ethoxy-2-methylpropane_Toluene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "260633",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260633",
+                        "target": "260633_2-ethoxy-2-methylpropane_Toluene_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aldehydes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_Aldehydes_Discussion.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane is mentioned alongside aldehydes in a discussion about the degradation of various volatile organic compounds (VOCs) by different cell lines. While aldehydes are noted as compounds that nontransformed cells can degrade, the specific relationship between 2-ethoxy-2-methylpropane and aldehydes is not elaborated upon. The context suggests a broader investigation into VOC degradation without a direct interaction or significant relevance between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aldehydes",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_Aldehydes_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "isovalerylaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "isovalerylaldehyde",
+                        "label": "isovalerylaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_isovalerylaldehyde_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and isovalerylaldehyde are both mentioned in relation to the analysis of volatile organic compounds (VOCs) released from lung cancer cell lines. However, there is no direct discussion of their relationship or interaction. They are part of a broader investigation into cancer-derived VOCs, but their specific roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "isovalerylaldehyde",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_isovalerylaldehyde_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "pyrazole": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pyrazole",
+                        "label": "pyrazole",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_pyrazole_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (ETBE) and pyrazole are related through their involvement in the oxidative metabolism of ethers in various species, including rats. Pyrazole is mentioned as a treatment that enhances the activity of certain P450 isoforms, which are crucial for the dealkylation of ETBE. The study indicates that pyrazole-treated microsomes showed increased Vmax for ETBE metabolism, suggesting that pyrazole plays a role in modulating the enzymatic activity responsible for the metabolism of 2-ethoxy-2-methylpropane.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pyrazole",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_pyrazole_Other aliphatic ethe.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "2-pentanone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "2-pentanone",
+                        "label": "2-pentanone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_2-pentanone_Results.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and 2-pentanone are both mentioned as volatile organic compounds (VOCs) released by HBEpC cells. However, the relationship between them is not explicitly discussed, and they are simply listed among other compounds analyzed in the headspace of the cells. There is no indication of interaction or comparative significance between the two compounds in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "2-pentanone",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_2-pentanone_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Deuterium": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Deuterium",
+                        "label": "Deuterium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Deuterium_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane is discussed in relation to its metabolism in rat liver microsomes and other tissues, but there is no mention of deuterium or its relevance to the metabolism of this ether. Deuterium, a stable isotope of hydrogen, is not directly connected to the metabolic pathways or kinetics of 2-ethoxy-2-methylpropane as described in the provided studies. Therefore, their relationship appears coincidental without any specific interaction or relevance highlighted in the context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Deuterium",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Deuterium_Other aliphatic ethe.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "octane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "octane",
+                        "label": "octane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_octane_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (TAME) and octane are both discussed in relation to their properties as fuel components and their metabolic pathways. TAME is noted for its slightly lower octane content compared to other ethers, which affects its performance as an oxygenate in fuels. However, the context does not provide a direct interaction or significant relationship between TAME and octane beyond their roles in fuel chemistry.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633",
+                        "label": "Inverse temperature dependence of Henry's law coefficients for volatile organic compounds in supercooled water.\nK. Sieg, E. Starokozhev, MU. Schmidt, W. Püttmann\nChemosphere 2009 Sep;77(1):8-14.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19604535"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260633_2-ethoxy-2-methylpropane_octane_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and octane are both mentioned as components related to the atmospheric presence of volatile organic compounds (VOCs) and their implications in environmental pollution. However, there is no direct interaction or specific relationship discussed between the two compounds. They are part of a broader discussion on VOCs, particularly in relation to gasoline and its combustion products, but their individual roles or interactions are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_octane_Other aliphatic ethe.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "octane",
+                        "target": "260633",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260633",
+                        "target": "260633_2-ethoxy-2-methylpropane_octane_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Acetaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_Acetaldehyde_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and acetaldehyde are both mentioned as volatile organic compounds (VOCs) analyzed in the study of lung cancer cell lines. However, the relationship between them is not explicitly discussed. Acetaldehyde concentrations were noted to decline in certain cell lines, but there is no direct interaction or functional relationship established between 2-ethoxy-2-methylpropane and acetaldehyde in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acetaldehyde",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_Acetaldehyde_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "tertiary-amyl methyl ether": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "tertiary-amyl methyl ether",
+                        "label": "tertiary-amyl methyl ether",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_tertiary-amyl methyl ether_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and tertiary-amyl methyl ether (TAME) are both mentioned as types of ether compounds used as fuel oxygenates. However, the context primarily focuses on methyl tert-butyl ether (MTBE) and its properties, with only a brief mention of TAME among other ethers. There is no detailed discussion of the specific relationship or comparison between 2-ethoxy-2-methylpropane and TAME, indicating a general category connection rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "tertiary-amyl methyl ether",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_tertiary-amyl methyl ether_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Ketones": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ketones",
+                        "label": "Ketones",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_Ketones_Discussion.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane is mentioned alongside various compounds, including ketones like acetone. The focus is on the degradation of different volatile organic compounds (VOCs) by cancer cell lines, with ketones being part of the compounds that cancer cells can degrade. However, the specific relationship between 2-ethoxy-2-methylpropane and ketones is not elaborated upon, indicating a general association rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ketones",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_Ketones_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630",
+                        "label": "TD-GC-MS analysis of volatile metabolites of human lung cancer and normal cells in vitro.\nW. Filipiak, A. Sponring, A. Filipiak, C. Ager, J. Schubert, W. Miekisch, A. Amann, J. Troppmair\nCancer Epidemiol. Biomarkers Prev. 2010 Jan;19(1):182-95.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20056637"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260630_2-ethoxy-2-methylpropane_Hydrocarbons_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane is mentioned alongside various branched hydrocarbons released from lung cancer cell lines. While 2-ethoxy-2-methylpropane is an ether and not a hydrocarbon itself, it is included in a broader discussion of volatile organic compounds (VOCs) and their relationship to cancer-derived emissions. The mention of hydrocarbons indicates a general category that includes various compounds released from the cells, but the specific relationship between 2-ethoxy-2-methylpropane and hydrocarbons is not directly established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons",
+                        "target": "260630",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260630",
+                        "target": "260630_2-ethoxy-2-methylpropane_Hydrocarbons_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "4-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "4-xylene",
+                        "label": "4-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667",
+                        "label": "Leachability of volatile fuel compounds from contaminated soils and the effect of plant exudates: A comparison of column and batch leaching tests.\nM. Balseiro-Romero, PS. Kidd, C. Monterroso\nJ. Hazard. Mater. 2016 Mar;304:481-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26619047"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667_2-ethoxy-2-methylpropane_4-xylene_Materials and method.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and 4-xylene are both mentioned as chemical compounds with specified purities, but there is no discussion of their interactions, properties, or relevance to each other. They are listed among other chemicals without any indication of a functional or chemical relationship, suggesting they are simply part of a broader inventory of substances.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667_2-ethoxy-2-methylpropane_4-xylene_Results and discussi.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane and 4-xylene are mentioned as contaminants whose leaching rates were analyzed in soil samples. However, there is no direct discussion of their specific interactions or relationships. They are part of a broader study on the leaching kinetics of various contaminants, but their individual roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4-xylene",
+                        "target": "260667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260667",
+                        "target": "260667_2-ethoxy-2-methylpropane_4-xylene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260667",
+                        "target": "260667_2-ethoxy-2-methylpropane_4-xylene_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Pulmonary Excretion": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pulmonary Excretion",
+                        "label": "Pulmonary Excretion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Pulmonary Excretion_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (ETBE) is discussed in relation to its metabolic byproducts, particularly TBA, which is excreted through pulmonary routes. The study highlights that a small percentage of absorbed ETBE is excreted via the lungs, indicating a connection between ETBE metabolism and pulmonary excretion. However, the focus is primarily on TBA rather than a direct examination of ETBE's relationship with pulmonary excretion.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pulmonary Excretion",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Pulmonary Excretion_Other aliphatic ethe.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Hypertrophy": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hypertrophy",
+                        "label": "Hypertrophy",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Hypertrophy_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (ETBE) is associated with hepatocyte hypertrophy observed in mice exposed to high concentrations (5000 ppm). The study indicates that ETBE exposure leads to increased rates of hepatocyte cell proliferation and centrilobular hypertrophy, suggesting a mitogenic response in the liver. This relationship highlights the potential toxicological effects of ETBE on liver tissue, linking it to hypertrophy as a response to chemical exposure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hypertrophy",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Hypertrophy_Other aliphatic ethe.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Pressure- physical agent": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pressure- physical agent",
+                        "label": "Pressure- physical agent",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Pressure- physical agent_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane is mentioned as a potential oxygenate for reformulated gasoline, similar to MTBE, ETBE, and TAME. The relationship to pressure as a physical agent is implied through the discussion of TAME having lower pressure than MTBE, which results in lower separation emissions. However, the direct connection between 2-ethoxy-2-methylpropane and pressure is not explicitly detailed, making the relationship somewhat indirect.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pressure- physical agent",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Pressure- physical agent_Other aliphatic ethe.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Drug Interactions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667",
+                        "label": "Leachability of volatile fuel compounds from contaminated soils and the effect of plant exudates: A comparison of column and batch leaching tests.\nM. Balseiro-Romero, PS. Kidd, C. Monterroso\nJ. Hazard. Mater. 2016 Mar;304:481-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26619047"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260667_2-ethoxy-2-methylpropane_Drug Interactions_Introduction.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane is mentioned as a volatile compound that can contaminate groundwater, but there is no direct discussion of its relationship to drug interactions. The focus is on the environmental impact of volatile compounds and their behavior in soil and groundwater, rather than any pharmacological interactions or effects related to drug metabolism or efficacy.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Drug Interactions",
+                        "target": "260667",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260667",
+                        "target": "260667_2-ethoxy-2-methylpropane_Drug Interactions_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Degenerative abnormality": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Degenerative abnormality",
+                        "label": "Degenerative abnormality",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Degenerative abnormality_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (ETBE) is associated with degenerative abnormalities observed in male rats following inhalation exposure. Specifically, degenerative changes in testicular seminiferous tubules were noted at higher doses, indicating a potential toxic effect of ETBE. Additionally, other organ-specific changes, such as liver hypertrophy and renal cell proliferation, suggest that ETBE exposure may lead to various degenerative abnormalities in multiple organ systems.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Degenerative abnormality",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Degenerative abnormality_Other aliphatic ethe.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Cell Proliferation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cell Proliferation",
+                        "label": "Cell Proliferation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Cell Proliferation_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (ETBE) is associated with cell proliferation, particularly in the kidneys and liver of male rats and mice exposed to high concentrations. The study indicates that exposure to ETBE leads to increased labeling indices in renal tubule cells and hepatocyte hypertrophy, suggesting a mitogenic response and potential for promoting cell proliferation in these tissues. This relationship highlights the toxicological effects of ETBE and its implications for cellular growth in response to chemical exposure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cell Proliferation",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Cell Proliferation_Other aliphatic ethe.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Esthesia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Esthesia",
+                        "label": "Esthesia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Esthesia_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (TAME) is discussed in relation to its effects on the central nervous system (CNS), specifically noting that it caused significant CNS depression and transient changes in sensory perception during inhalation studies in rats. However, the term 'Esthesia' is not explicitly defined or elaborated upon in the context, making the relationship between TAME and sensory perception unclear. The mention of sensory perception suggests a potential link, but it lacks detailed exploration.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Esthesia",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Esthesia_Other aliphatic ethe.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Excretory function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Excretory function",
+                        "label": "Excretory function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Excretory function_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (ETBE) is discussed in relation to its metabolic and excretory kinetics in humans. The urinary excretion of ETBE and its metabolite TBA is noted to be low, indicating that the body metabolizes ETBE further before elimination. This suggests a connection between ETBE metabolism and the excretory function, as the body processes and eliminates these compounds through urine, although the specific mechanisms of excretion are not detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Excretory function",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Excretory function_Other aliphatic ethe.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Cell Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cell Respiration",
+                        "label": "Cell Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Cell Respiration_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (ETBE) is studied for its effects on various biological systems, including cell proliferation and oxidative metabolism in rats and mice. The study indicates that exposure to ETBE leads to degenerative changes in testicular cells and increased cell proliferation in the kidneys and liver, suggesting a potential impact on cellular respiration processes. However, the direct relationship between ETBE and cell respiration is not explicitly detailed, focusing more on the metabolic effects and cellular responses to exposure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cell Respiration",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Cell Respiration_Other aliphatic ethe.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Mitosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Mitosis",
+                        "label": "Mitosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Mitosis_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (ETBE) is associated with mitosis through its effects on cell proliferation in various tissues, particularly in male rats. The study indicates that exposure to ETBE leads to increased labeling indices in renal tubule cells and hepatocyte hypertrophy, suggesting a mitogenic response. This implies that ETBE may influence cellular processes related to mitosis, particularly in the context of toxicological effects observed in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Mitosis",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Mitosis_Other aliphatic ethe.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "neuromuscular function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "neuromuscular function",
+                        "label": "neuromuscular function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_neuromuscular function_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (TAME) is associated with transient changes in neuromuscular functions as observed in a rat inhalation study. The study indicates that TAME exposure resulted in central nervous system (CNS) depression and affected neuromuscular function, although it did not lead to significant long-term functional changes or histopathological effects. This suggests a potential impact of TAME on neuromuscular function, albeit transient and not fully characterized.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "neuromuscular function",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_neuromuscular function_Other aliphatic ethe.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Vapour pressure": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Vapour pressure",
+                        "label": "Vapour pressure",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Vapour pressure_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (ETBE) is discussed in relation to its physical properties, including vapor pressure, which is highlighted as a favorable characteristic compared to other ethers. The mention of vapor pressure indicates its relevance in evaluating ETBE's potential as an oxygenate, suggesting that vapor pressure is a critical factor in its application and performance in various chemical processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Vapour pressure",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Vapour pressure_Other aliphatic ethe.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Inspiration function_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane (TAME) is discussed primarily in relation to its toxicological effects observed in animal studies, particularly regarding central nervous system (CNS) depression and liver weight changes. However, there is no direct mention or analysis of its impact on inspiration function or respiratory physiology. The focus remains on metabolic and toxicological outcomes rather than respiratory effects.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Inspiration function_Other aliphatic ethe.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Orthologous Gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Orthologous Gene",
+                        "label": "Orthologous Gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660",
+                        "label": "Toxicology and human health effects following exposure to oxygenated or reformulated gasoline.\nFE. Ahmed\nToxicol. Lett. 2001 Sep;123(2-3):89-113.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11641038"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "260660_2-ethoxy-2-methylpropane_Orthologous Gene_Other aliphatic ethe.json",
+                        "label": "In this context, 2-ethoxy-2-methylpropane is discussed in relation to its metabolic pathways involving cytochrome P450 enzymes, particularly 2B1 and 2E1. The mention of 'orthologous gene' refers to the absence of the 2B enzyme in monkey microsomes, indicating a comparative analysis of metabolic functions across species. However, the relationship between 2-ethoxy-2-methylpropane and orthologous genes is not explicitly detailed, focusing more on enzyme activity rather than a direct connection to gene orthology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Orthologous Gene",
+                        "target": "260660",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "260660",
+                        "target": "260660_2-ethoxy-2-methylpropane_Orthologous Gene_Other aliphatic ethe.json",
+                        "score": 2
+                    }
+                }
+            ]
+        }
+    }
+}

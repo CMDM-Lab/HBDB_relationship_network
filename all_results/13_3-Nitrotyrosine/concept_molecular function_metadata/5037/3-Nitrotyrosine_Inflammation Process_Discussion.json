@@ -1,0 +1,10 @@
+{
+    "context": "Because tyrosine could partly be nitrated under strong acid conditions and in the presence of nitrite but not under conditions of pH 3\u20135, extreme acid conditions were not used in our method. Using a worst-case simulated solution of tyrosine, nitrite and nitrate no additional amounts of nitrotyrosine were formed during the procedure. As seen in the chromatogram the qualifier mass reaction of 3-nitrotyrosine could be used for concentration of about of 100pg/mL and higher, which provides a favoured possibility for the verification of increased NT levels. Since nitrotyrosine was assumed to be a biological marker for inflammatory processes, several methods for the quantification of free and protein-bonded 3-nitrotyrosine in biological materials have been developed. Most applications were performed for the analysis of nitrotyrosine in plasma. The studies published in the last decade regarding this application, indicate an increase of sensitivity and specificity of the methods. With regard to the limit of detection (LOD), the highest sensitivity was reached by using tandem mass spectrometry (Table 5 ). ",
+    "term_A": "3-Nitrotyrosine",
+    "term_B": "Inflammation Process",
+    "llm_generation": {
+        "summary": "In this context, 3-nitrotyrosine is identified as a biological marker for inflammatory processes. The text discusses methods for quantifying both free and protein-bound 3-nitrotyrosine in biological materials, particularly in plasma, indicating its relevance in assessing inflammation. The increased sensitivity and specificity of detection methods further support its role in monitoring inflammatory conditions.",
+        "reason": "The score of 4 reflects a significant connection between 3-nitrotyrosine and the inflammation process, as it is explicitly described as a biological marker for inflammation, supported by advancements in quantification methods.",
+        "score": 4
+    }
+}

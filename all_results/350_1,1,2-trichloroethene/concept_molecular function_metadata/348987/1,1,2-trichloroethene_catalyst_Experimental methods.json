@@ -1,0 +1,10 @@
+{
+    "context": "The main objective was indeed to compare the performance of the catalyst on the basis of these two parameters. Generally, higher conversion and carbon dioxide yield could be easily achieved if the GHSV were reduced, if the feed Cl-VOC concentration were increased or if the reactor was operated at higher temperature. In order to prepare aged Cr1.0Cu0.5/SiCl4-Z catalyst samples, feeds containing 35,000ppm of DCM, TCM or TCE were passed through the reactor at a reaction temperature of 400\u00b0C and a GHSV of 3800h\u22121 for different reaction times of up to 12h. After the desired reaction time was reached, the aged catalyst samples were taken out for activity determination and characterization. The reaction rate over the catalyst was determined by operating the reactor in a differential mode at a GHSV of 78,900h\u22121 at 400\u00b0C using respective Cl-VOC at 2500ppm as feed. The reaction rate was defined as, (1) reaction rate , \u2009 \u2212 r \u2032 = F v , in \u2212 F v , out W cat \u2009 mol / ( s \u2009 g cat ) where F v,in , F v,out is the molar flow rate of Cl-VOC in the feed and product gases and W cat is the weight of catalyst used. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "catalyst",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as a chlorinated volatile organic compound (Cl-VOC) used in a catalytic reaction process. The catalyst's performance is evaluated based on its ability to convert TCE and other Cl-VOCs into products, with parameters such as conversion rates and carbon dioxide yield being assessed. The relationship is primarily focused on the catalyst's effectiveness in facilitating the reaction involving TCE, indicating a direct functional connection between the two.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2-trichloroethene and the catalyst, as the context discusses the catalyst's performance in converting TCE and other Cl-VOCs, supported by quantitative measures of reaction rates and yields.",
+        "score": 4
+    }
+}

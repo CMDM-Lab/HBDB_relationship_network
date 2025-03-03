@@ -1,0 +1,10 @@
+{
+    "context": "[3] Representative histograms after 20 min stimulation are shown in A. CCCP (10 \u00ce\u00bcm) was added as a control for maximal depolarization. [4] Data are means \u00c2\u00b1 S.D. of n = 3\u00e2\u20ac\u201c4 independent experiments. [1] The decrease in \u00ce\u201d\u00cf\u02c6m in stimulated T cells described above is consistent with increased mitochondrial activity and ATP production . [2] Enhanced TCA cycle activity that energizes the electron transport chain not only increases the capability of mitochondria to produce ATP but also to form reactive oxygen species (ROS) as byproducts of ATP production. [3] In T cells, ROS are almost exclusively generated in mitochondria and ROS formation can therefore serve as a read-out of mitochondrial activity. [4] Using the cell-permeable fluorogenic probe dihydrorhodamine 123 (DHR) for the monitoring of ROS formation, we found that T cell stimulation increased mitochondrial ROS production (Fig. 6). [5] When studying ROS formation with flow cytometry, we found that mitochondrial activity peaked instantly after cell stimulation. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Citric Acid Cycle",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is produced as a result of enhanced activity in the citric acid cycle (TCA cycle), which energizes the electron transport chain. The increased mitochondrial activity and ATP production in stimulated T cells are linked to the TCA cycle's role in generating ATP and reactive oxygen species (ROS) as byproducts. This highlights the critical relationship between ATP production and the TCA cycle in cellular metabolism.",
+        "reason": "The score of 5 reflects a direct and strong relevance between ATP and the citric acid cycle, as the context explicitly describes how TCA cycle activity is essential for ATP production in mitochondria, demonstrating a critical metabolic relationship.",
+        "score": 5
+    }
+}

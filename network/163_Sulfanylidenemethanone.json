@@ -1,0 +1,360 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Sulfanylidenemethanone",
+                    "label": "Sulfanylidenemethanone",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Sulfanylidenemethanone",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Sulfanylidenemethanone",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Sulfanylidenemethanone",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Sulfanylidenemethanone",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Sulfanylidenemethanone",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Sulfanylidenemethanone",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfanylidenemethanone",
+                        "label": "Sulfanylidenemethanone",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cystic Fibrosis",
+                        "label": "Cystic Fibrosis",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Sulfanylidenemethanone",
+                        "target": "Cystic Fibrosis",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfanylidenemethanone",
+                        "label": "Sulfanylidenemethanone",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "carbonyl sulfide",
+                        "label": "carbonyl sulfide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "dimethyl sulfide",
+                        "label": "dimethyl sulfide",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Sulfanylidenemethanone",
+                        "target": "carbonyl sulfide",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Sulfanylidenemethanone",
+                        "target": "dimethyl sulfide",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfanylidenemethanone",
+                        "label": "Sulfanylidenemethanone",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfanylidenemethanone",
+                        "label": "Sulfanylidenemethanone",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfanylidenemethanone",
+                        "label": "Sulfanylidenemethanone",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfanylidenemethanone",
+                        "label": "Sulfanylidenemethanone",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Cystic Fibrosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cystic Fibrosis",
+                        "label": "Cystic Fibrosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "234291",
+                        "label": "Breath sulfides and pulmonary function in cystic fibrosis.\nMA. Kamboures, DR. Blake, DM. Cooper, RL. Newcomb, M. Barker, JK. Larson, S. Meinardi, E. Nussbaum, FS. Rowland\nProc. Natl. Acad. Sci. U.S.A. 2005 Nov;102(44):15762-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16247007"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "234291_Sulfanylidenemethanone_Cystic Fibrosis_Abstract.json",
+                        "label": "In this context, sulfanylidenemethanone is indirectly related to cystic fibrosis (CF) through the analysis of volatile organic compounds (VOCs) in the breath of CF patients. The study measures concentrations of various sulfur-containing gases, including carbonyl sulfide (OCS), in CF patients compared to healthy controls. While sulfanylidenemethanone is not explicitly mentioned as being measured, the focus on sulfur compounds suggests a potential relevance to the biochemical processes in CF, particularly regarding breath analysis as a diagnostic tool.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cystic Fibrosis",
+                        "target": "234291",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "234291",
+                        "target": "234291_Sulfanylidenemethanone_Cystic Fibrosis_Abstract.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "carbonyl sulfide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "carbonyl sulfide",
+                        "label": "carbonyl sulfide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "234291",
+                        "label": "Breath sulfides and pulmonary function in cystic fibrosis.\nMA. Kamboures, DR. Blake, DM. Cooper, RL. Newcomb, M. Barker, JK. Larson, S. Meinardi, E. Nussbaum, FS. Rowland\nProc. Natl. Acad. Sci. U.S.A. 2005 Nov;102(44):15762-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16247007"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "234291_Sulfanylidenemethanone_carbonyl sulfide_Abstract.json",
+                        "label": "In this context, sulfanylidenemethanone and carbonyl sulfide are both mentioned as trace gases potentially produced by bacteria in the breath of cystic fibrosis (CF) patients. The study investigates the concentrations of carbonyl sulfide, among other sulfides, in the breath samples of CF patients and healthy controls. However, the specific relationship between sulfanylidenemethanone and carbonyl sulfide is not directly addressed, as they are listed among other compounds without detailed interaction or comparison.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "carbonyl sulfide",
+                        "target": "234291",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "234291",
+                        "target": "234291_Sulfanylidenemethanone_carbonyl sulfide_Abstract.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "dimethyl sulfide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "dimethyl sulfide",
+                        "label": "dimethyl sulfide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "234291",
+                        "label": "Breath sulfides and pulmonary function in cystic fibrosis.\nMA. Kamboures, DR. Blake, DM. Cooper, RL. Newcomb, M. Barker, JK. Larson, S. Meinardi, E. Nussbaum, FS. Rowland\nProc. Natl. Acad. Sci. U.S.A. 2005 Nov;102(44):15762-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16247007"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "234291_Sulfanylidenemethanone_dimethyl sulfide_Abstract.json",
+                        "label": "In this context, sulfanylidenemethanone and dimethyl sulfide (DMS) are both mentioned as trace gases potentially produced by bacteria in the breath of cystic fibrosis (CF) patients. The study aims to measure concentrations of various sulfides, including DMS, in the breath of CF patients and healthy controls. However, the specific relationship between sulfanylidenemethanone and DMS is not directly explored, as they are listed among other sulfides without detailed interaction or comparison.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "dimethyl sulfide",
+                        "target": "234291",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "234291",
+                        "target": "234291_Sulfanylidenemethanone_dimethyl sulfide_Abstract.json",
+                        "score": 2
+                    }
+                }
+            ]
+        }
+    }
+}

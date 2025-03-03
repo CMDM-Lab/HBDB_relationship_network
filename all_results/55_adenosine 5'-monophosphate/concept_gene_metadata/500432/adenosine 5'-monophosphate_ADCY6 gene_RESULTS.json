@@ -1,0 +1,10 @@
+{
+    "context": "[6] Some AC5/6 immunoreactivity was also observed in the submucosa. [7] Scale bar 10 \u00ce\u00bcm. [8] Representative picture from a group of five. [1] Immunoreactivity of adenylate cyclase isoforms AC5/6 was observed in a human intestinal epithelial cell line. [2] T84 cells were fixed in methanol and stained for AC5/6 immunoreactivity. [3] Cells were counterstained with haematoxylin. [4] A red colour was indicative of positive staining for adenylate cyclase. ",
+    "term_A": "adenosine 5'-monophosphate",
+    "term_B": "ADCY6 gene",
+    "llm_generation": {
+        "summary": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to the ADCY6 gene through the study of adenylate cyclase isoforms AC5/6, which are involved in the conversion of AMP to cyclic AMP (cAMP). The immunoreactivity of AC5/6 in human intestinal epithelial cells suggests a functional role in cellular signaling pathways that may be influenced by the ADCY6 gene, although the specific relationship between AMP and ADCY6 is not explicitly detailed in the provided context.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses adenylate cyclase isoforms related to AMP metabolism and their immunoreactivity, indicating a connection to the ADCY6 gene, but lacks detailed exploration of their direct interaction.",
+        "score": 3
+    }
+}

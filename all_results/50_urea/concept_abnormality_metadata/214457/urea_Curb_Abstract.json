@@ -1,0 +1,10 @@
+{
+    "context": "[2] The proportion of younger patients (aged <65 yrs) was 52.3% (18 to <30 yrs 6.4%; <40 yrs 17.1%; <50 yrs 29.4%). [3] Comorbidity was present in only half of the younger patients (46.6% versus 88.2%). [4] Fever and chest pain were more common. [5] Most younger patients presented with mild CAP (74.0% had a CURB-65 score of 0 (confusion of new onset, urea >7 mmol\u00c2\u00b7L\u00e2\u02c6\u20191, respiratory rate of \u00e2\u2030\u00a530 breaths\u00c2\u00b7min\u00e2\u02c6\u20191, blood pressure <90 mmHg or diastolic blood pressure \u00e2\u2030\u00a460 mmHg, age \u00e2\u2030\u00a565 yrs)). [6] Overall, Streptococcus pneumoniae and Mycoplasma pneumoniae were the most frequent pathogens in the younger patients. [7] Short-term mortality was very low (1.7% versus 8.2%) and even lower in patients without comorbidity (0.3% versus 2.4%). [8] Long-term mortality was 3.2% versus 15.9%, also lower in patients without comorbidity (0.8% versus 6.1%). ",
+    "term_A": "urea",
+    "term_B": "Curb",
+    "llm_generation": {
+        "summary": "In this context, urea is a component of the CURB-65 scoring system, which is used to assess the severity of community-acquired pneumonia (CAP) in patients. Specifically, a urea level greater than 7 mmol\u00b7L\u22121 is one of the criteria for determining the CURB-65 score, which helps in evaluating the need for hospitalization and predicting mortality risk. The relationship highlights the importance of urea as a clinical marker in the CURB-65 assessment for younger patients with CAP.",
+        "reason": "The score of 4 reflects a significant connection between urea and the CURB-65 score, as urea is a critical component of the scoring criteria used to evaluate pneumonia severity. The context provides clear evidence of this relationship in clinical assessment.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Benzene is a representative compound of BTEX and has been classified as carcinogenic compound to humans and animals. The inhalation of toluene and xylenes in concentrations of 0.4mg/L causes headache, dizziness and irritation of the mucous membranes. Long term exposure to toluene and xylenes can cause brain damage. Inhalation of ethylbenzene has shown to induce neurotoxicity and ototoxicity in rats. Although the toxicological effects of inhalation of individual and mixture of BTEX have been well studied in different mammalian models in the past decades, there are very few studies on their effects on aquatic microorganisms. A study using fresh water alga Selenastrum capricornutum showed toxicity of BTEX with EC50 of 41.0mg/L for benzene, 9.4mg/L for toluene, 4.8mg/L for ethylbenzene and between 3.9 and 4.4mg/L for xylenes with additive effects for these compounds. Euglena gracilis (E. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Ototoxicity",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is identified as a compound that can induce neurotoxicity and ototoxicity in rats upon inhalation. The mention of ethylbenzene's ototoxic effects highlights its potential to cause damage to the auditory system, linking it directly to the concept of ototoxicity. This relationship is part of a broader discussion on the toxicological impacts of BTEX compounds, including ethylbenzene.",
+        "reason": "The score of 4 reflects a significant connection between ethylbenzene and ototoxicity, as the context explicitly states that ethylbenzene induces ototoxic effects in animal models, supported by toxicological studies. This indicates a clear and relevant relationship within the context of neurotoxic effects.",
+        "score": 4
+    }
+}

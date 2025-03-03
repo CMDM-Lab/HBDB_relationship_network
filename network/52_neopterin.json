@@ -1,0 +1,949 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "neopterin",
+                    "label": "neopterin",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "neopterin",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "neopterin",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "neopterin",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "neopterin",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "neopterin",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "neopterin",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "neopterin",
+                        "label": "neopterin",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Central obesity",
+                        "label": "Central obesity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "chronic stable angina",
+                        "label": "chronic stable angina",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acute myocardial infarction",
+                        "label": "Acute myocardial infarction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Obesity",
+                        "label": "Obesity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Senile Plaques",
+                        "label": "Senile Plaques",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cardiovascular morbidity",
+                        "label": "Cardiovascular morbidity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cardiovascular Diseases",
+                        "label": "Cardiovascular Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Autoimmune Diseases",
+                        "label": "Autoimmune Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acute coronary syndrome",
+                        "label": "Acute coronary syndrome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Atherosclerosis",
+                        "label": "Atherosclerosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Kidney Failure",
+                        "label": "Kidney Failure",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Systemic infection",
+                        "label": "Systemic infection",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Unstable angina",
+                        "label": "Unstable angina",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Central obesity",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "chronic stable angina",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Acute myocardial infarction",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Obesity",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Senile Plaques",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Cardiovascular morbidity",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Cardiovascular Diseases",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Autoimmune Diseases",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Acute coronary syndrome",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Atherosclerosis",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Kidney Failure",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Systemic infection",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "neopterin",
+                        "target": "Unstable angina",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "neopterin",
+                        "label": "neopterin",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "neopterin",
+                        "label": "neopterin",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "neopterin",
+                        "label": "neopterin",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "neopterin",
+                        "label": "neopterin",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "neopterin",
+                        "label": "neopterin",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Central obesity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Central obesity",
+                        "label": "Central obesity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Central obesity_Discussion.json",
+                        "label": "In this context, neopterin levels are discussed in relation to central obesity, specifically waist circumference and BMI. The study indicates that higher neopterin levels are associated with increased measures of central obesity, suggesting a potential link between obesity and inflammatory processes reflected by neopterin. However, the study also notes that the association between sleep-disordered breathing (SDB) severity and neopterin levels remains significant even after adjusting for obesity metrics, indicating that while central obesity may influence neopterin levels, other factors may also play a role.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Central obesity",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Central obesity_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "chronic stable angina": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "chronic stable angina",
+                        "label": "chronic stable angina",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_chronic stable angina_Discussion.json",
+                        "label": "In this context, neopterin is highlighted as a significant biomarker associated with chronic stable angina and cardiovascular disease. Elevated neopterin levels have been linked to a higher incidence of adverse cardiac events, including myocardial infarction and unstable angina. The study suggests that neopterin may provide better prognostic value than traditional markers like CRP, indicating its role in assessing risk in patients with chronic stable angina and atherosclerotic lesions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "chronic stable angina",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_chronic stable angina_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Acute myocardial infarction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acute myocardial infarction",
+                        "label": "Acute myocardial infarction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Acute myocardial infarction_Discussion.json",
+                        "label": "In this context, neopterin is highlighted as a significant biomarker associated with cell-mediated immunity and is linked to various pathological conditions, including cardiovascular diseases. Elevated levels of neopterin have been correlated with an increased incidence of acute myocardial infarction and other serious cardiac events, suggesting its potential utility in risk stratification for patients with acute coronary syndromes. The relationship is further supported by evidence indicating that neopterin levels may provide better predictive value for cardiovascular outcomes compared to traditional markers like CRP.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acute myocardial infarction",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Acute myocardial infarction_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Obesity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Obesity",
+                        "label": "Obesity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Obesity_Discussion.json",
+                        "label": "In this context, neopterin is associated with systemic inflammation linked to sleep-disordered breathing (SDB), which is influenced by obesity. The study indicates that serum neopterin levels remain elevated despite adjustments for obesity measures, suggesting a potential role of neopterin as a marker for inflammation in obese patients with SDB. This relationship highlights the importance of neopterin in understanding the inflammatory processes that may be exacerbated by obesity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Obesity",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Obesity_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Senile Plaques": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Senile Plaques",
+                        "label": "Senile Plaques",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Senile Plaques_Discussion.json",
+                        "label": "In this context, neopterin is linked to the pathogenesis of atherosclerosis, which is relevant to the formation of senile plaques in cardiovascular disease. Elevated neopterin levels indicate increased activation of T-cells and macrophages within atherosclerotic lesions, contributing to inflammation and plaque disruption. This suggests that neopterin may play a role in the development and progression of senile plaques through its involvement in inflammatory processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Senile Plaques",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Senile Plaques_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Cardiovascular morbidity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cardiovascular morbidity",
+                        "label": "Cardiovascular morbidity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Cardiovascular morbidity_Discussion.json",
+                        "label": "In this context, neopterin is linked to cardiovascular morbidity through its association with sleep-disordered breathing (SDB) and systemic inflammation. Elevated levels of neopterin, a marker of macrophage activation, may indicate increased risk for cardiovascular conditions such as coronary artery disease. The study suggests that monitoring neopterin could help identify SDB patients at higher risk for future cardiovascular issues, highlighting its potential clinical significance in this area.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cardiovascular morbidity",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Cardiovascular morbidity_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Cardiovascular Diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cardiovascular Diseases",
+                        "label": "Cardiovascular Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Cardiovascular Diseases_Discussion.json",
+                        "label": "In this context, neopterin is highlighted as a significant biomarker associated with cardiovascular diseases (CVD). Higher levels of neopterin correlate with increased incidence of acute myocardial infarction, unstable angina, and cardiac death. It serves as a prognostic indicator for cardiovascular events, reflecting the inflammatory processes within atherosclerotic lesions, where activated T-cells and macrophages contribute to neopterin production. This relationship underscores neopterin's role in risk stratification for patients with acute coronary syndromes, indicating its importance in cardiovascular pathology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cardiovascular Diseases",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Cardiovascular Diseases_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Autoimmune Diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Autoimmune Diseases",
+                        "label": "Autoimmune Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Autoimmune Diseases_Discussion.json",
+                        "label": "In this context, neopterin is highlighted as a biochemical marker associated with cell-mediated immunity, particularly in pathological states involving T-helper type 1 lymphocyte activation. Elevated neopterin levels are noted in various clinical conditions, including autoimmune diseases, indicating its potential role in reflecting systemic inflammation and immune response in these disorders. The relationship suggests that neopterin could serve as a useful indicator for monitoring autoimmune diseases alongside other inflammatory markers.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Autoimmune Diseases",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Autoimmune Diseases_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Acute coronary syndrome": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acute coronary syndrome",
+                        "label": "Acute coronary syndrome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Acute coronary syndrome_Discussion.json",
+                        "label": "In this context, neopterin is highlighted as a significant biomarker associated with acute coronary syndrome (ACS). Elevated levels of neopterin have been linked to increased risk of nonfatal acute myocardial infarction and unstable angina, suggesting its utility in risk stratification for patients with ACS. The relationship is further supported by evidence showing that neopterin levels correlate with complex coronary lesions and are influenced by activated T-cells and macrophages in atherosclerotic plaques, indicating its role in cardiovascular disease pathology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acute coronary syndrome",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Acute coronary syndrome_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Atherosclerosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Atherosclerosis",
+                        "label": "Atherosclerosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Atherosclerosis_Discussion.json",
+                        "label": "In this context, neopterin is linked to atherosclerosis through its role in the inflammatory response within vascular plaques. Activated T-cells release interferon-γ, stimulating macrophages to produce neopterin, which then enhances the expression of proinflammatory factors and adhesion molecules. This suggests that neopterin may contribute to the pathogenesis of atherosclerosis by promoting inflammation, indicating its potential as a prognostic marker in cardiovascular diseases.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Atherosclerosis",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Atherosclerosis_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Kidney Failure": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Kidney Failure",
+                        "label": "Kidney Failure",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Kidney Failure_Discussion.json",
+                        "label": "In this context, neopterin is highlighted as a biomarker associated with various pathological states, including kidney failure. Elevated levels of neopterin indicate activation of T-helper type 1 lymphocytes and are linked to systemic inflammation, which is relevant in the context of renal failure. The relationship suggests that neopterin may serve as an important indicator for monitoring kidney health and associated inflammatory processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Kidney Failure",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Kidney Failure_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Systemic infection": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Systemic infection",
+                        "label": "Systemic infection",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Systemic infection_Discussion.json",
+                        "label": "In this context, neopterin is highlighted as a biomarker indicative of cell-mediated immunity, particularly in conditions characterized by T-helper type 1 lymphocyte activation. Elevated levels of neopterin are associated with systemic infections, among other pathologies. This suggests that neopterin can serve as a useful indicator for the presence and severity of systemic infections, linking it to broader systemic inflammation and related health risks.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Systemic infection",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Systemic infection_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Unstable angina": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Unstable angina",
+                        "label": "Unstable angina",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412",
+                        "label": "Elevated levels of neopterin in sleep-disordered breathing.\nNM. Punjabi, BA. Beamer, A. Jain, ME. Spencer, N. Fedarko\nChest 2007 Oct;132(4):1124-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17646222"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "276412_neopterin_Unstable angina_Discussion.json",
+                        "label": "In this context, neopterin is highlighted as a significant biomarker associated with unstable angina and other cardiovascular conditions. Elevated levels of neopterin have been linked to an increased incidence of unstable angina, myocardial infarction, and cardiac death. The study suggests that neopterin may provide better prognostic value than traditional markers like CRP, particularly in risk stratification for acute coronary syndromes, due to its correlation with T-cell and macrophage activation in atherosclerotic lesions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Unstable angina",
+                        "target": "276412",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "276412",
+                        "target": "276412_neopterin_Unstable angina_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        }
+    }
+}

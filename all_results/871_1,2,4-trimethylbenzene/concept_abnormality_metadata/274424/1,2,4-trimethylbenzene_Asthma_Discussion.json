@@ -1,0 +1,10 @@
+{
+    "context": "95% CI: 0.94\u20131.11). Results obtained by the mixed model were very similar to those obtained by the GEE model (data not shown). Using population-based data on air quality of French dwellings, we found an increasing risk of asthma and rhinitis in dwellings with high concentrations of the selected VOCs. n-Undecane and 1,2,4-trimethylbenzene were individually significantly associated with increases in reported asthma and ethylbenzene, trichloroethylene, m/p- and o-xylene with increases in rhinitis. The risks of asthma and rhinitis increased significantly for any additional VOC with a concentration higher than the 3rd quartile in the dwelling, ORs of 1.07 and 1.04, respectively, were observed. Aromatic hydrocarbons and aliphatic hydrocarbons were associated with a significant risk of asthma and halogenated hydrocarbons with a significant risk of rhinitis. Our health outcomes collected with a standardized questionnaire are consistent with previous findings. ",
+    "term_A": "1,2,4-trimethylbenzene",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, 1,2,4-trimethylbenzene is identified as a volatile organic compound (VOC) associated with an increased risk of asthma in dwellings with high concentrations of VOCs. The study indicates a significant correlation between the presence of this aromatic hydrocarbon and reported cases of asthma, suggesting that exposure to 1,2,4-trimethylbenzene may contribute to respiratory issues in affected populations.",
+        "reason": "The score of 4 reflects a strong connection between 1,2,4-trimethylbenzene and asthma, supported by statistical data indicating increased asthma risk associated with high VOC concentrations, including this specific compound.",
+        "score": 4
+    }
+}

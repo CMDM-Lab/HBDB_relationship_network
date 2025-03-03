@@ -1,0 +1,10 @@
+{
+    "context": "[2] A total of 119 children were recruited (72 boys and 47 girls; mean age 10.4 years, range 3.9\u00e2\u20ac\u201c18.4). [3] No children who had received antibiotics, H2 receptor antagonists, or proton pump inhibitors during the three weeks prior to testing were enrolled. [4] The children all provided a faecal sample within seven days of the UBT by mailing a small sample in a clean universal container to the principle investigator. [1] After an overnight fast each child ingested an oral dose of 100 mg13C urea (99 atom % excess, CK Gas, Berks, UK), administered in 20 ml of 15% Polycose (Abbot Labs, Dublin, Eire). [2] Baseline breath samples were collected by asking the child to blow with a straw into a vacutainer, before and at 30 and 45 minutes after ingestion of the labelled urea. [3] 13C enrichment of breath was determined by isotope ratio mass spectrometry; a rise in13C enrichment of more than 66.0 ppm above fasting baseline (relative to a Pee Dee Belemnite (PDB) standard) was regarded as diagnostic of H pyloriinfection. [1] An enzyme immunoassay (Premier Plantinum HpSA, Meridian Diagnostics Inc., Cincinnati, Ohio, USA) was used to detectH pylori in the stool. ",
+    "term_A": "urea",
+    "term_B": "Atom",
+    "llm_generation": {
+        "summary": "In this context, urea is used as a tracer in a breath test to diagnose H. pylori infection in children. The term 'atom' refers to the isotopic composition of the urea, specifically the 13C atom used to measure enrichment in breath samples. While both terms are mentioned, their relationship is primarily technical, focusing on the use of urea's isotopic labeling rather than a direct biological or chemical interaction.",
+        "reason": "The score of 2 reflects an indirect connection between urea and atom, as they are related through the isotopic labeling process in the diagnostic test. However, there is no detailed discussion of their interaction or significance beyond this technical aspect.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[9] A detailed co-operative model of the interaction of ADP and calcium with HMM is presented. [1] T cells play a central role in host defense. [2] ATP release and autocrine feedback via purinergic receptors has been shown to regulate T cell function. [3] However, the sources of the ATP that drives this process are not known. [4] We found that stimulation of T cells triggers a spike in cellular ATP production that doubles intracellular ATP levels in <30 s and causes prolonged ATP release into the extracellular space. [5] Cell stimulation triggered rapid mitochondrial Ca2+ uptake, increased oxidative phosphorylation, a drop in mitochondrial membrane potential (\u00ce\u201d\u00cf\u02c6m), and the accumulation of active mitochondria at the immune synapse of stimulated T cells. [6] Inhibition of mitochondria with CCCP, KCN, or rotenone blocked intracellular ATP production, ATP release, intracellular Ca2+ signaling, induction of the early activation marker CD69, and IL-2 transcription in response to cell stimulation. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is crucial for the process of T cell activation and function. The study highlights that stimulation of T cells leads to a rapid increase in ATP production, which is essential for various cellular processes, including calcium signaling and the transcription of activation markers. The relationship is significant as ATP serves as a key energy source driving these processes, indicating its central role in T cell biology.",
+        "reason": "The score of 4 reflects a strong connection between ATP and the processes involved in T cell activation, supported by evidence of ATP's role in energy production and signaling pathways critical for immune responses.",
+        "score": 4
+    }
+}

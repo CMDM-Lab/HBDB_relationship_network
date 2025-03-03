@@ -1,0 +1,10 @@
+{
+    "context": "1 Butane \u2013 CH3(CH2)2CH3 (synonyms: n-butane, butyl hydride, methylethyl-methane), a liquefied petroleum gas with LC50 of 658\u00a0g\u00a0m\u22123, belongs to a class of aliphatic hydrocarbons which is commonly found in lighter fluid, fuel, spray paint, hair spray, room freshener, deodorants. Frostbite due to rapid cooling on evaporation occurs if butane is used in a liquid state, but most commonly it is abused as a gaseous propellant in an inhalant and acts as a simple asphyxiant causing toxicity by displacing oxygen and preventing it from reaching important tissues and organs. 9 Our report covers two cases of sudden death occurring after the sniffing of a cigarette lighter refill containing only butane. Most reports regard accidental inhalation of a mixture of n-propane, n-butane and isobutane, while only five reported fatal outcomes caused by the intentional inhalation of either n-butane or isobutane. 1,8,10 Histological, immunohistochemical as well as toxicological analyses were performed. The dead body of a 25-year-old male, 181\u00a0cm high, appropriately nourished, was found lying supine in an abandoned restaurant. A\u00a0tin lighter refill was found next to the body. ",
+    "term_A": "Butane",
+    "term_B": "Fatal Outcome",
+    "llm_generation": {
+        "summary": "In this context, butane is identified as a liquefied petroleum gas that can lead to fatal outcomes when abused as an inhalant. The report discusses two cases of sudden death linked to the intentional inhalation of butane from a cigarette lighter refill. The inhalation of butane acts as a simple asphyxiant, displacing oxygen and causing toxicity, which can result in death. This establishes a direct and critical relationship between butane exposure and fatal outcomes.",
+        "reason": "The score of 5 reflects a strong relevance, as the context explicitly connects butane inhalation to fatal outcomes, detailing cases of death caused by its abuse. The relationship is critical and supported by specific case reports.",
+        "score": 5
+    }
+}

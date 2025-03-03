@@ -1,0 +1,10 @@
+{
+    "context": " [3] It is well known that foreign DNA insertions cause a deletion at the insertion position, ranging from a few kilobases to more than 50 kb .  [4] The rationale for that approach was to interfere with the function of regulatory genes for nitrate assimilation in the insertional mutants, obtained with the mutagenic paromomycin marker gene  in strain 704, having the chimeric reporter construction of the Chlamydomonas arylsulfatase (ARS) gene under the control of the NIA1 gene promoter as a sensor for regulatory signals .  [5] Mutant selection was undertaken from the different screenings of phenotypes (Fig. 1B).  [6] First, essential genes mediating the positive effect of nitrate were identified from NIT\u00e2\u02c6\u2019 ARS\u00e2\u02c6\u2019 mutants.  [7] Only five such mutants were isolated, and identification of the affected region by restriction enzyme site-directed amplification-PCR  showed that all of them were affected at the NIT2 gene location .  [8] Second, another screening was based on strains insensitive to nitrate (low ARS) and able to grow on nitrate, NIT+ .  [9] These mutants are probably affected at genes not essential for the expression of nitrate assimilation genes but which are required for the efficient modulation of nitrate-positive effects (Fig. 1B). ",
+    "term_A": "nitrate",
+    "term_B": "Genes, Essential",
+    "llm_generation": {
+        "summary": "In this context, nitrate is linked to essential genes involved in its assimilation within a study of insertional mutants. The research identifies essential genes that mediate the positive effects of nitrate, specifically focusing on mutants affected at the NIT2 gene location. This suggests a critical relationship where certain genes are necessary for the effective utilization of nitrate in biological systems.",
+        "reason": "The score of 4 reflects a significant connection between nitrate and essential genes, as the study provides evidence of specific genes that are crucial for nitrate assimilation, indicating a clear functional relationship within the context of genetic regulation.",
+        "score": 4
+    }
+}

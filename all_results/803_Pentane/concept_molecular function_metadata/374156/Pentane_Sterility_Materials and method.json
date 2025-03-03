@@ -1,0 +1,10 @@
+{
+    "context": "Before the onset of n-pentane feeding, 5\u00a0mL of MSM was supplemented in order to maintain the microbial activity while limiting the growth of biomass. The MSM was injected by syringe through the septa of the bioreactor to ensure a homogeneous distribution of the MSM in the solid support. Stage I was maintained until a steady state was reached (day 22 of continuous operation). At the end of stage I, n-pentane supply was stopped and the solid supports holding the biomass were extracted under sterile conditions in a laminar flow chamber. The aerial biomass was carefully withdrawn by cutting and scrapping with a sterile scalpel, and quantified after overnight drying. An aliquot of 5\u00a0mL of MSM was added again to maintain microbial activity and the solid supports were returned to their corresponding bioreactors, which initiated stage II. In order to simplify the quantification and classification of the biomass used as input in the model, the aerial biomass was defined as the biomass available for extraction from the outer surface of the solid support (wire-mesh box) while the non-aerial one (monolayer) was associated to the biomass present in the inner surface of the vermiculite. ",
+    "term_A": "Pentane",
+    "term_B": "Sterility",
+    "llm_generation": {
+        "summary": "In this context, pentane is used as a feeding substrate in a bioreactor system, while sterility is emphasized during the extraction of biomass. The process involves maintaining sterile conditions when handling the solid supports to prevent contamination, ensuring that microbial activity is preserved. However, the relationship between pentane and sterility is indirect, as pentane's role is primarily as a substrate rather than a factor influencing sterility directly.",
+        "reason": "The score of 2 reflects an indirect connection between pentane and sterility. While both terms are relevant to the bioreactor process, pentane is not directly linked to sterility beyond being part of a controlled environment where sterility is maintained during biomass extraction.",
+        "score": 2
+    }
+}

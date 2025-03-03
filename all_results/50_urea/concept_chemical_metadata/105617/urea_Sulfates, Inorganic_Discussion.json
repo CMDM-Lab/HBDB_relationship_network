@@ -1,0 +1,10 @@
+{
+    "context": "For most compounds, the degradation efficiency increased as RH decreased. The degradation efficiency varied from 17 to 36% for benzene and from 44 to 74% for toluene. However, the degradation efficiency of four compounds (ethyl benzene, o,m,p-xylenes) was above 90% for two RH ranges of between 10 and 20% and between 50 and 60%. The surface chemistry investigations of N-doped TiO2 suggested that there was no significant residual of sulfate ions or urea species on the surface of the N-doped TiO2. Subsequently, the photocatalytic activity of the N-doped TiO2 and unmodified TiO2 was evaluated by the photodegradation of selected VOCs. The comparison of VOC degradation efficiency between unmodified TiO2 and N-doped TiO2 suggests that under visible-light irradiation, the photocatalytic technique using N-doped TiO2 is superior to that of unmodified TiO2 for the degradation of VOCs. This is likely due to the enhanced light absorption and photocatalytic activity of the N-doped TiO2 under visible-light irradiation. ",
+    "term_A": "urea",
+    "term_B": "Sulfates, Inorganic",
+    "llm_generation": {
+        "summary": "In this context, urea and inorganic sulfates are mentioned in relation to the surface chemistry of N-doped TiO2. The study indicates that there was no significant residual of sulfate ions or urea species on the surface after photocatalytic activity evaluation. However, their specific interactions or roles in the degradation process of VOCs are not discussed, indicating a lack of direct relevance between them.",
+        "reason": "The score of 2 reflects an indirect connection, as both urea and sulfates are mentioned in the context of surface chemistry but without detailed interactions or functional relationships. They are part of the same study but do not directly influence each other.",
+        "score": 2
+    }
+}

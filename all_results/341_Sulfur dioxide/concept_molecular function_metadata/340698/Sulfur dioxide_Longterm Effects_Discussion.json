@@ -1,0 +1,10 @@
+{
+    "context": "Immunotoxicology studies in contaminant-exposed mammals describe both antibody mediated immunosuppression, plus thymic and splenic atrophy (Kennedy et al., 2004; Peden-Adams et al., 2008). Yet in quail exposed to the same contaminant, perfluorooctanoic acid (PFOA), of the four immunotoxicity tests including a disease challenge, only the T cell response was suppressed (Smits and Nain, 2013), which raises the possibility that Japanese quail are a relatively insensitive species. From this study we cannot determine if specific contaminants affected the birds or if it was the mixture of compounds. The long-term effects of NO2 and SO2 emitted from a coal-fired power plant were described for two species of passerines (a different order than quail and kestrels) and one rodent species. These animals were kept for 6 months in outdoor cages 2km from the power plant. Average concentrations over 5 months were 0.1ppm for SO2 and 0.006ppm NO2. For these exposed birds, the tracheas had excessive mucus and shorter cilia compared to controls. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Longterm Effects",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is linked to long-term effects observed in passerine birds exposed to emissions from a coal-fired power plant. The study reports that these birds exhibited significant respiratory changes, such as excessive mucus and shorter cilia in their tracheas after prolonged exposure to SO2, indicating detrimental long-term health impacts from the contaminant.",
+        "reason": "The score of 4 reflects a significant connection between sulfur dioxide and long-term effects, as the study provides evidence of respiratory damage in birds due to SO2 exposure over an extended period, highlighting the potential health risks associated with this pollutant.",
+        "score": 4
+    }
+}

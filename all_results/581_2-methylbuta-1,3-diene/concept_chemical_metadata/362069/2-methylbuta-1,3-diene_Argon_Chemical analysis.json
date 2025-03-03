@@ -1,0 +1,10 @@
+{
+    "context": "Only a brief overview of the most popular methods is provided here and the reader is referred to these references and to analytical journals for more detailed descriptions. There are a number of advantages of on-site analysis, as the instantaneously available results allow for adjustments in the sampling strategy of an ongoing experiment. These measurements also provide higher time resolution for investigating parameters that control emissions. In situ measurements of isoprene have been accomplished with chemiluminescence detectors (Guenther et al., 1996b, Singsaas and Sharkey, 2000), argon ionization detectors (Sharkey et al., 1996), photoionization detectors (Keller and Lerdau, 1999) and reduction gas detectors (Harley et al., 1996; Geron et al., 2000). PTR-MS is another technique that is increasingly utilized in BVOC research because of its high time resolution and ability to monitor multiple compounds simultaneously (De Gouw et al., 1999; Karl et al., 2001; Tani et al., 2003; Graus et al., 2004; Steeghs et al., 2004). PTR-MS has been useful in demonstrating the time- and light-dependent synthesis and emissions of certain compounds (Graus et al., 2004; Tholl et al., 2006 and references therein). However, there are some challenges with using this technique. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Argon",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene (isoprene) and argon are mentioned in relation to analytical methods for measuring volatile organic compounds (VOCs). Argon ionization detectors are one of the techniques used for detecting isoprene emissions. However, the relationship is limited to the mention of argon as a detection method without any detailed discussion of their chemical interactions or biological significance.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are involved in the context of VOC analysis, but there is no detailed exploration of their relationship beyond the use of argon in detection methods for isoprene.",
+        "score": 2
+    }
+}

@@ -1,0 +1,951 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "palmitic acid",
+                    "label": "palmitic acid",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "palmitic acid",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "palmitic acid",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "palmitic acid",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "palmitic acid",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "palmitic acid",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "palmitic acid",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "palmitic acid",
+                        "label": "palmitic acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "palmitic acid",
+                        "label": "palmitic acid",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Esters",
+                        "label": "Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Phenols",
+                        "label": "Phenols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "decanaldehyde",
+                        "label": "decanaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Deuterium",
+                        "label": "Deuterium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Isotopes",
+                        "label": "Isotopes",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Esters",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Phenols",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "decanaldehyde",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Atom",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Naphthalene",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Chemicals",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Deuterium",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Isotopes",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "palmitic acid",
+                        "label": "palmitic acid",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ingestion",
+                        "label": "Ingestion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ion Transport",
+                        "label": "Ion Transport",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "palmitoylation",
+                        "label": "palmitoylation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Ingestion",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Ion Transport",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "palmitoylation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "Process",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "palmitic acid",
+                        "label": "palmitic acid",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "EPO gene",
+                        "label": "EPO gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "palmitic acid",
+                        "target": "EPO gene",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "palmitic acid",
+                        "label": "palmitic acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "palmitic acid",
+                        "label": "palmitic acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Esters": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Esters",
+                        "label": "Esters",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105601",
+                        "label": "Targeted eicosanoids lipidomics of exhaled breath condensate in healthy subjects.\nM. Sanak, A. Gielicz, K. Nagraba, M. Kaszuba, J. Kumik, A. Szczeklik\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2010 Jul;878(21):1796-800.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20627827"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105601_palmitic acid_Esters_Discussion.json",
+                        "label": "In this context, palmitic acid is highlighted as a significant non-volatile lipid molecule in exhaled breath condensate (EBC), with a notable presence in lung surfactant as phospholipid esters. These esters, which comprise over 60% of lung surfactant, indicate a direct relationship between palmitic acid and esters, as the latter are formed from the esterification of palmitic acid. However, the study notes that the analytical method used excludes these esterified forms from measurement, focusing instead on free palmitic acid concentrations.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Esters",
+                        "target": "105601",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105601",
+                        "target": "105601_palmitic acid_Esters_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Phenols": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Phenols",
+                        "label": "Phenols",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600",
+                        "label": "Volatile organics off-gassed among tobacco-exposed clothing fabrics.\nYC. Chien, CP. Chang, ZZ. Liu\nJ. Hazard. Mater. 2011 Oct;193:139-48.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21852036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600_palmitic acid_Phenols_Materials and method.json",
+                        "label": "In this context, palmitic acid and phenols are mentioned as part of a qualitative analysis of chemicals identified in fabrics exposed to tobacco smoke. However, there is no direct discussion of their relationship or interaction. Both compounds are part of a broader analysis of chemicals, but their specific roles or connections are not elaborated upon, indicating a lack of direct relevance between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Phenols",
+                        "target": "105600",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105600",
+                        "target": "105600_palmitic acid_Phenols_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "decanaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "decanaldehyde",
+                        "label": "decanaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600",
+                        "label": "Volatile organics off-gassed among tobacco-exposed clothing fabrics.\nYC. Chien, CP. Chang, ZZ. Liu\nJ. Hazard. Mater. 2011 Oct;193:139-48.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21852036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600_palmitic acid_decanaldehyde_Materials and method.json",
+                        "label": "In this context, palmitic acid and decanaldehyde are both mentioned as part of a qualitative analysis of chemicals identified in fabrics exposed to tobacco smoke. However, there is no direct discussion of their relationship or interaction. They are listed among other chemicals analyzed, but their specific roles or connections in the context of tobacco smoke exposure are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "decanaldehyde",
+                        "target": "105600",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105600",
+                        "target": "105600_palmitic acid_decanaldehyde_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Atom": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "192519",
+                        "label": "Validation of deuterium-labeled fatty acids for the measurement of dietary fat oxidation during physical activity.\nA. Raman, S. Blanc, A. Adams, DA. Schoeller\nJ. Lipid Res. 2004 Dec;45(12):2339-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15342677"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "192519_palmitic acid_Atom_METHODS.json",
+                        "label": "In this context, palmitic acid is mentioned in relation to its molecular weight and the number of labeled atoms per molecule of tracer used in a study involving deuterium recovery calculations. The term 'atom' refers to the individual units of deuterium isotopes being measured, which are relevant for understanding the tracer's behavior in metabolic studies. However, the relationship is primarily technical, focusing on molecular measurements rather than a direct biological or chemical interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Atom",
+                        "target": "192519",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "192519",
+                        "target": "192519_palmitic acid_Atom_METHODS.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Naphthalene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Naphthalene",
+                        "label": "Naphthalene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600",
+                        "label": "Volatile organics off-gassed among tobacco-exposed clothing fabrics.\nYC. Chien, CP. Chang, ZZ. Liu\nJ. Hazard. Mater. 2011 Oct;193:139-48.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21852036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600_palmitic acid_Naphthalene_Materials and method.json",
+                        "label": "In this context, palmitic acid and naphthalene are both mentioned as chemicals analyzed in the study of fabric exposure to tobacco smoke. However, there is no direct relationship or interaction discussed between palmitic acid and naphthalene. They are part of a broader analysis of various chemicals identified in the fabrics, but their specific roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Naphthalene",
+                        "target": "105600",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105600",
+                        "target": "105600_palmitic acid_Naphthalene_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600",
+                        "label": "Volatile organics off-gassed among tobacco-exposed clothing fabrics.\nYC. Chien, CP. Chang, ZZ. Liu\nJ. Hazard. Mater. 2011 Oct;193:139-48.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21852036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600_palmitic acid_Chemicals_Materials and method.json",
+                        "label": "In this context, palmitic acid is mentioned alongside various chemicals analyzed in the study of fabric exposure to tobacco smoke. However, there is no direct discussion of palmitic acid's specific role or interaction with the other identified chemicals. It is simply listed among other compounds without further elaboration on its relevance or significance in the analysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "105600",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105600",
+                        "target": "105600_palmitic acid_Chemicals_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Deuterium": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Deuterium",
+                        "label": "Deuterium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "192519",
+                        "label": "Validation of deuterium-labeled fatty acids for the measurement of dietary fat oxidation during physical activity.\nA. Raman, S. Blanc, A. Adams, DA. Schoeller\nJ. Lipid Res. 2004 Dec;45(12):2339-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15342677"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "192519_palmitic acid_Deuterium_Introduction.json",
+                        "label": "In this context, palmitic acid is discussed in relation to deuterium as a labeling agent for metabolic studies. Deuterium-labeled palmitic acid was validated against 13C-labeled palmitic acid to assess fat oxidation in humans. The study demonstrated a strong correlation in cumulative recoveries of both tracers, indicating that deuterium can effectively track palmitic acid metabolism during rest and potentially under varying physical conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Deuterium",
+                        "target": "192519",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "192519",
+                        "target": "192519_palmitic acid_Deuterium_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Isotopes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Isotopes",
+                        "label": "Isotopes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "192519",
+                        "label": "Validation of deuterium-labeled fatty acids for the measurement of dietary fat oxidation during physical activity.\nA. Raman, S. Blanc, A. Adams, DA. Schoeller\nJ. Lipid Res. 2004 Dec;45(12):2339-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15342677"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "192519_palmitic acid_Isotopes_METHODS.json",
+                        "label": "In this context, palmitic acid is mentioned in relation to isotopes, specifically deuterium (2H) isotopes used in tracer studies. The study involves calculating deuterium recovery and its distribution in the body, with palmitic acid being one of the labeled tracers. This indicates a direct application of isotopes in studying the metabolism of palmitic acid, highlighting their relevance in metabolic research.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Isotopes",
+                        "target": "192519",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "192519",
+                        "target": "192519_palmitic acid_Isotopes_METHODS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Ingestion": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ingestion",
+                        "label": "Ingestion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "192519",
+                        "label": "Validation of deuterium-labeled fatty acids for the measurement of dietary fat oxidation during physical activity.\nA. Raman, S. Blanc, A. Adams, DA. Schoeller\nJ. Lipid Res. 2004 Dec;45(12):2339-44.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15342677"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "192519_palmitic acid_Ingestion_Introduction.json",
+                        "label": "In this context, palmitic acid is discussed in relation to its ingestion and metabolic fate during physical exercise. The study compares the metabolic outcomes of orally ingested d31-palmitate and [1-13C] palmitate, highlighting the importance of accurately measuring dietary fat oxidation. This indicates a direct relationship between palmitic acid and its ingestion, particularly in the context of metabolic studies during exercise.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ingestion",
+                        "target": "192519",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "192519",
+                        "target": "192519_palmitic acid_Ingestion_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Ion Transport": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ion Transport",
+                        "label": "Ion Transport",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600",
+                        "label": "Volatile organics off-gassed among tobacco-exposed clothing fabrics.\nYC. Chien, CP. Chang, ZZ. Liu\nJ. Hazard. Mater. 2011 Oct;193:139-48.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21852036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600_palmitic acid_Ion Transport_Materials and method.json",
+                        "label": "In this context, palmitic acid is mentioned among other chemicals analyzed in relation to tobacco smoke exposure on fabrics. However, there is no direct discussion or evidence linking palmitic acid to ion transport mechanisms. The analysis focuses on identifying and quantifying various chemicals without establishing a specific relationship between palmitic acid and ion transport processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ion Transport",
+                        "target": "105600",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105600",
+                        "target": "105600_palmitic acid_Ion Transport_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "palmitoylation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "palmitoylation",
+                        "label": "palmitoylation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "193091",
+                        "label": "Palmitoylation and processing of the lipopeptide surfactant protein C.\nA. ten Brinke, LM. van Golde, JJ. Batenburg\nBiochim. Biophys. Acta 2002 Aug;1583(3):253-65.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12176392"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "193091_palmitic acid_palmitoylation_Signals for palmitoy.json",
+                        "label": "In this context, palmitic acid is indirectly related to palmitoylation, as palmitoylation refers to the process of attaching palmitic acid (a fatty acid) to cysteine residues in proteins. The discussion focuses on the specific characteristics and requirements for palmitoylation in integral membrane proteins, particularly proSP-C, highlighting the role of palmitic acid in this post-translational modification. The study emphasizes the significance of palmitoylation in protein localization and function, indicating a clear biochemical relationship between palmitic acid and the palmitoylation process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "palmitoylation",
+                        "target": "193091",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "193091",
+                        "target": "193091_palmitic acid_palmitoylation_Signals for palmitoy.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105601",
+                        "label": "Targeted eicosanoids lipidomics of exhaled breath condensate in healthy subjects.\nM. Sanak, A. Gielicz, K. Nagraba, M. Kaszuba, J. Kumik, A. Szczeklik\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2010 Jul;878(21):1796-800.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20627827"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105601_palmitic acid_Process_Discussion.json",
+                        "label": "In this context, palmitic acid (PA) is discussed as a key component for recalculating eicosanoid concentrations in exhaled breath condensate (EBC) samples. The process involves using PA concentration to improve the accuracy of statistical measurements related to the dilution of EBC, particularly in differentiating between smokers and non-smokers. This suggests that PA plays a significant role in the analytical process of measuring eicosanoids, which are linked by common metabolic pathways.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "105601",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105601",
+                        "target": "105601_palmitic acid_Process_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "EPO gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "EPO gene",
+                        "label": "EPO gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600",
+                        "label": "Volatile organics off-gassed among tobacco-exposed clothing fabrics.\nYC. Chien, CP. Chang, ZZ. Liu\nJ. Hazard. Mater. 2011 Oct;193:139-48.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21852036"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105600_palmitic acid_EPO gene_Materials and method.json",
+                        "label": "In this context, palmitic acid and the EPO gene are mentioned in a study analyzing the effects of tobacco smoke on fabrics, but there is no direct relationship or interaction discussed between them. Palmitic acid is a fatty acid, while the EPO gene encodes erythropoietin, a hormone involved in red blood cell production. Their mention appears coincidental without any biological or chemical connection established in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "EPO gene",
+                        "target": "105600",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105600",
+                        "target": "105600_palmitic acid_EPO gene_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

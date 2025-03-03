@@ -1,0 +1,10 @@
+{
+    "context": "The measured BVOC emissions were corrected by using the decay coefficients.Leaf biomass of plants In order to assess the biomass of the enclosed plants, the dry weight of individual leaves was determined after drying the plant materials for 48h at 105\u00b0C. Table 2 shows the dried weight of the plants used in the experiment. Using the mass of the dry leaves and the experimental data, BVOC emissions rates at standard condition were scaled per gram biomass (\u03bcg g dw - 1 h\u22121). Isoprene emission algorithm Guenther et al. (1993, 1995) have developed algorithmic expressions allowing a quantification of BVOC emissions from foliar biomass of forest ecosystems and other types of vegetation. E iso (hourly isoprene emission) were estimated by (2) E iso = E F iso \u00d7 C T \u00d7 C L \u00d7 FBD \u00d7 V , where EF iso is the isoprene emission rate at standard conditions (temperature: 303K, PAR: 1000\u03bcmolm\u22122 s\u22121). C T is the correction factor due to temperature and C L is the correction factor due to PAR. FBD is the foliar biomass density (gm\u22122) and V is the seasonal ratio of leaves compared with the maximum value in summer. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Vegetation",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene, also known as isoprene, is discussed in relation to its emissions from vegetation, specifically from the biomass of plants. The study quantifies biogenic volatile organic compound (BVOC) emissions, including isoprene, based on the dry weight of leaves from various types of vegetation. The relationship is significant as the emission rates are calculated per gram of biomass, indicating that the amount of vegetation directly influences the emission of isoprene.",
+        "reason": "The score of 4 reflects a strong connection between 2-methylbuta-1,3-diene and vegetation, as the context provides quantitative methods for measuring isoprene emissions based on plant biomass, demonstrating a clear and significant relationship.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The vials and culture plates were incubated at 37\u00b0C under 95% air and 5% CO2. The medium m-xylene concentration in the culture plates was measured by GC in duplicate at 0, 0.08, 0.5, 1, 2, and 4 h. Samples were taken and measured by GC at 0.08 and 4 h from the sealed exposure vials. Additional 4-h exposures were done to compare viability of dermal equivalents exposed in unsealed culture plates and sealed vials.Cell viability The viability of dermal equivalents exposed to m-xylene was assessed by measuring reduction of the tetrazolium dye MTT [3-(4,5 dimethyiazol-2-yl)-2,5-diphenyl tetrazolium bromide] in active mitochondria (Mosmann, 1983). Following the 4-h exposure to m-xylene, each dermal equivalent was incubated in 500 \u03bcl of 0.5 mg/ml MTT in phosphate-buffered saline (pH 7.4) for 1 h at 37\u00b0C. Following incubation, the dermal equivalents were individually placed in a 1.5 ml microcentrifuge tube containing 700 \u03bcl of acidified isopropanol. Each sample was sonicated for 5\u201310 s and centrifuged at 12,000\u00d7g for 5 min. ",
+    "term_A": "1,3-xylene",
+    "term_B": "Bromides",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene is mentioned as a compound whose concentration was measured during an experiment involving dermal equivalents, while bromides are not directly referenced in terms of their relationship to 1,3-xylene. The focus is primarily on the effects of m-xylene on cell viability, with no discussion of bromides or their potential interactions with xylene. Thus, there is no clear connection established between the two terms.",
+        "reason": "The score of 1 reflects a lack of any meaningful relationship between 1,3-xylene and bromides, as they are mentioned in the same context without any direct interaction or relevance to each other.",
+        "score": 1
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "For example, Health Canada classes VOCs as organic compounds that have boiling points roughly in the range of 50 to 250\u00b0C with emphasis placed upon commonly encountered VOCs impacting air quality. The European Union also defines VOCs to have a boiling point <250\u00b0C. Alternatively, VOCs (or specific subsets) may be defined in the various laws and guidance under which they are regulated, for example, the US Safe Drinking Water Act includes a specific VOC listing. VOCs include some oxygenated compounds, for example ethers, aromatic hydrocarbons (ArHs) such as benzene, toluene, ethylbenzene and xylenes (BTEX) and chlorinated aliphatic hydrocarbons (CAHs) comprising chlorinated alkenes/alkanes such as carbon tetrachloride (CT), 1,2-dichloroethane (1,2-DCA), trichloroethene (TCE), 1,1,1-trichloroethane (1,1,1-TCA) and tetrachloroethene (PCE). Lesser chlorinated CAHs may often represent degradation products, e.g., vinyl chloride (VC), cis-dichloroethene (cDCE). The hydrocarbons are often LNAPLs and CAHs are often DNAPLs. Both ArHs and CAHs have received much research attention (Kueper et al., 2003; Rivett and Thornton, 2008; Wiedemeier et al., 1999). ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Hydrocarbons, Chlorinated",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene is categorized as a chlorinated aliphatic hydrocarbon (CAH), which is a subset of volatile organic compounds (VOCs). The text discusses various types of VOCs, including chlorinated hydrocarbons, and highlights the regulatory definitions that encompass these compounds. Thus, 1,1,2-trichloroethene is directly related to the broader category of chlorinated hydrocarbons, indicating its significance in environmental and health discussions regarding VOCs.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2-trichloroethene and chlorinated hydrocarbons, as the former is explicitly classified within the latter category. The context provides a clear definition and categorization, supporting their relationship in environmental studies.",
+        "score": 4
+    }
+}

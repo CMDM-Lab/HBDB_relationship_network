@@ -1,0 +1,10 @@
+{
+    "context": "The fibroblast:medium partition coefficient was determined to be 17.9 by dividing the fibroblast:air partition coefficient by the media:air partition coefficient.Cell viability A 4-h exposure to m-xylene in sealed exposure vials, led to decreasing cell viability with increasing m-xylene concentration in the fibroblasts (Fig. 6 ). Using non-linear regression analysis of dermal equivalent viability plotted against the calculated fibroblast concentration, the EC50 was 833.13\u00b135.33 \u03bcg m-xylene/g cells. A single experiment is listed in Table 1 and shows the medium m-xylene concentration, calculated fibroblast m-xylene concentration, and corresponding cell viability. Cell viability was not affected by maintaining dermal equivalents in a sealed vial for 4 h. A comparison between sham-exposed dermal equivalents at 0 and 4 h in sealed vials showed no significant difference in viability. Dermal equivalent viability at 4 h was 101\u00b13.2% of 0 h controls. ",
+    "term_A": "1,3-xylene",
+    "term_B": "Cell Survival",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene is indirectly related to cell survival through its impact on fibroblast viability. The study demonstrates that exposure to m-xylene, a structural isomer of 1,3-xylene, decreases cell viability in fibroblasts with increasing concentration. The EC50 value indicates the concentration at which cell survival is significantly affected, suggesting a toxicological relationship between xylene exposure and cell survival outcomes.",
+        "reason": "The score of 3 reflects a moderate relevance, as the study discusses the effects of m-xylene on cell viability, which is relevant to 1,3-xylene due to their structural similarities and shared toxicological properties. However, the relationship is not explicitly detailed for 1,3-xylene itself.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": " [7] However, oxidation may be even greater at higher urea concentration.  [8] Carbonylation at higher urea concentrations may decrease because the carbonyl groups are susceptible to further oxidation to carboxylic acids.  [9] For example, initial oxidation of glutamine synthetase converts an arginine residue to the carbonyl-bearing derivative, \u00ce\u00b3-glutamyl semialdehyde, but this derivative can be further oxidized to glutamic acid. [10] Of note, 5 mM urea is a normal plasma concentration, and the range in uremia is 20\u00e2\u20ac\u201c80 mM. [11] Thus, the level of urea normally present in blood can cause protein carbonylation, and the higher urea in renal failure can account for the increased carbonylation observed in that condition . [1] High concentrations of urea directly affect enzyme activity and denature proteins . [2] Therefore, it is conceivable that urea-induced carbonylation of cell proteins could be a direct chemical effect of urea. ",
+    "term_A": "urea",
+    "term_B": "Uremia",
+    "llm_generation": {
+        "summary": "In this context, urea and uremia are closely related, as uremia is characterized by elevated urea levels in the blood, typically ranging from 20 to 80 mM, compared to the normal plasma concentration of 5 mM. The text discusses how increased urea concentrations can lead to protein carbonylation and affect enzyme activity, indicating a direct biochemical impact of urea in the context of renal failure and its associated complications.",
+        "reason": "The score of 5 reflects a strong relevance between urea and uremia, as the context explicitly links elevated urea levels to the condition of uremia, highlighting the biochemical effects of urea on protein modification and enzyme activity in renal failure.",
+        "score": 5
+    }
+}

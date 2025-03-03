@@ -1,0 +1,10 @@
+{
+    "context": "[14] The formula takes into account the number of treatments per week and urea rebound by using Daugirdas's eKt/V correction of the Sp Kt/V . [15] While the Gotch Std Kt/V has not been validated against direct dialysate quantification to determine whether it accurately quantifies clearances, it has been empirically validated in a comparative study of CHD, NHD and SHDHD . [16] With the HD patients, traditional three-point UKM was carried out ; postdialysis blood sampling utilized 15 s slow flow methodology to obviate urea dilution by recirculation. [17] Derived from the urea generation is the weight normalized protein equivalent of total nitrogen appearance (nPNA; g/kg/d) also known as the normalized protein catabolic rate (nPCR) . [18] With the APD patients, a 24 h collection of peritoneal effluent was obtained and the total urea and protein losses measured. [19] From these, the daily urea clearance was calculated and the Std Kt/V derived employing the Watson equation for V. [20] The nPNA was also derived from dialysate urea and protein losses and body weight (nPNA, g/kg/d). ",
+    "term_A": "urea",
+    "term_B": "Protein Turnover",
+    "llm_generation": {
+        "summary": "In this context, urea is closely related to protein turnover as it serves as a marker for protein catabolism. The normalized protein equivalent of total nitrogen appearance (nPNA) and normalized protein catabolic rate (nPCR) are derived from urea measurements, indicating the rate of protein breakdown in patients undergoing dialysis. This highlights the importance of urea in assessing protein metabolism and turnover in clinical settings.",
+        "reason": "The score of 4 reflects a significant connection between urea and protein turnover, as urea levels are used to derive important metrics related to protein catabolism in patients. The context provides evidence of this relationship through the use of urea in calculating nPNA and nPCR.",
+        "score": 4
+    }
+}

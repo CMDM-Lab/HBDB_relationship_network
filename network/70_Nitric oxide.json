@@ -1,0 +1,2908 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Nitric oxide",
+                    "label": "Nitric oxide",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitric oxide",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitric oxide",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitric oxide",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitric oxide",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitric oxide",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Nitric oxide",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitric oxide",
+                        "label": "Nitric oxide",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Airway Obstruction",
+                        "label": "Airway Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Catabolic state",
+                        "label": "Catabolic state",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Primary pulmonary hypertension",
+                        "label": "Primary pulmonary hypertension",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nasal Polyps",
+                        "label": "Nasal Polyps",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Candidiasis",
+                        "label": "Candidiasis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Septicemia",
+                        "label": "Septicemia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Atherosclerosis",
+                        "label": "Atherosclerosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "AIRWAY DISEASE",
+                        "label": "AIRWAY DISEASE",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Airway Obstruction",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Catabolic state",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Primary pulmonary hypertension",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Nasal Polyps",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Asthma",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Candidiasis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Septicemia",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Atherosclerosis",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "AIRWAY DISEASE",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitric oxide",
+                        "label": "Nitric oxide",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Superoxides",
+                        "label": "Superoxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "NITRATE AND NITRITE",
+                        "label": "NITRATE AND NITRITE",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sulfhydryl Compounds",
+                        "label": "Sulfhydryl Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Boron",
+                        "label": "Boron",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Superoxides",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Elements",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "NITRATE AND NITRITE",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Sulfhydryl Compounds",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Boron",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitric oxide",
+                        "label": "Nitric oxide",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Advisory Committees",
+                        "label": "Advisory Committees",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Protective Agents",
+                        "label": "Protective Agents",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Apoptosis",
+                        "label": "Apoptosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Microcirculation",
+                        "label": "Microcirculation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory Burst",
+                        "label": "Respiratory Burst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Anoxia",
+                        "label": "Anoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Functional disorder",
+                        "label": "Functional disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Alveolar ventilation function",
+                        "label": "Alveolar ventilation function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "antioxidant activity",
+                        "label": "antioxidant activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "arginine metabolism",
+                        "label": "arginine metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cell Respiration",
+                        "label": "Cell Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Transcription, Genetic",
+                        "label": "Transcription, Genetic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "negative regulation of nitric-oxide synthase activity",
+                        "label": "negative regulation of nitric-oxide synthase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Gene Expression",
+                        "label": "Gene Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "paracrine",
+                        "label": "paracrine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chromosome Pairing",
+                        "label": "Chromosome Pairing",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "DNA Binding",
+                        "label": "DNA Binding",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "physiological aspects",
+                        "label": "physiological aspects",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Signal Transduction",
+                        "label": "Signal Transduction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "soluble NSF attachment protein activity",
+                        "label": "soluble NSF attachment protein activity",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Advisory Committees",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Protective Agents",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Apoptosis",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Microcirculation",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Respiratory Burst",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Anoxia",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Functional disorder",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Exhalation",
+                        "score": 14
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Synthesis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Alveolar ventilation function",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "antioxidant activity",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "arginine metabolism",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Cell Respiration",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Transcription, Genetic",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "negative regulation of nitric-oxide synthase activity",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Gene Expression",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "paracrine",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "inhibitors",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Inspiration function",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Chromosome Pairing",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "DNA Binding",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "physiological aspects",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Signal Transduction",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Inflammation",
+                        "score": 11
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "Process",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "soluble NSF attachment protein activity",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitric oxide",
+                        "label": "Nitric oxide",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "TNF gene",
+                        "label": "TNF gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "IRF1 gene",
+                        "label": "IRF1 gene",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "TNF gene",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Nitric oxide",
+                        "target": "IRF1 gene",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitric oxide",
+                        "label": "Nitric oxide",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitric oxide",
+                        "label": "Nitric oxide",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Airway Obstruction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Airway Obstruction",
+                        "label": "Airway Obstruction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "699689",
+                        "label": "Airway metabolic anomalies in adolescents with bronchopulmonary dysplasia: new insights from the metabolomic approach.\nS. Carraro, G. Giordano, P. Pirillo, M. Maretti, F. Reniero, PE. Cogo, G. Perilongo, M. Stocchero, E. Baraldi\nJ. Pediatr. 2015 Feb;166(2):234-9.e1.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25294602"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "699689_Nitric oxide_Airway Obstruction_Results.json",
+                        "label": "In this context, nitric oxide (NO) is mentioned in relation to airway obstruction in subjects with bronchopulmonary dysplasia (BPD). Although exhaled nitric oxide levels were measured, they did not significantly differ between healthy controls and BPD subjects, suggesting that NO may not be a reliable biomarker for assessing airway obstruction severity in this population. The spirometric measurements indicate varying degrees of airway obstruction, but the lack of difference in NO levels implies a complex relationship that may not directly correlate with the degree of obstruction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Airway Obstruction",
+                        "target": "699689",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "699689",
+                        "target": "699689_Nitric oxide_Airway Obstruction_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Catabolic state": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Catabolic state",
+                        "label": "Catabolic state",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "700307",
+                        "label": "Exhaled nitric oxide and nasal tryptase are associated with wheeze, rhinitis and nasal allergy in primary school children.\nS. De Prins, F. Marcucci, L. Sensi, E. Van de Mieroop, V. Nelen, TS. Nawrot, G. Schoeters, G. Koppen\nBiomarkers 2014 Sep;19(6):481-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25019424"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "700307_Nitric oxide_Catabolic state_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) is linked to the catabolic state through its production in response to arginine deficiency during sepsis. The study suggests that insufficient NO production may exacerbate the catabolic state, while excessive NO can lead to hemodynamic instability. This indicates a complex relationship where NO levels influence metabolic and physiological responses in critically ill patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Catabolic state",
+                        "target": "700307",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "700307",
+                        "target": "700307_Nitric oxide_Catabolic state_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Primary pulmonary hypertension": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Primary pulmonary hypertension",
+                        "label": "Primary pulmonary hypertension",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "738632",
+                        "label": "Exhaled and nasal nitric oxide is increased in laboratory animal allergy.\nLA. Adisesh, SA. Kharitonov, DH. Yates, DC. Snashell, AJ. Newman-Taylor, PJ. Barnes\nClin. Exp. Allergy 1998 Jul;28(7):876-80.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/9720822"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "738632_Nitric oxide_Primary pulmonary hypertension_Abstract.json",
+                        "label": "In this context, nitric oxide is highlighted as a potential screening agent for identifying patients with primary pulmonary hypertension who may respond positively to calcium-channel blockers. The study suggests that nitric oxide could help determine which patients are likely to benefit from long-term treatment with these medications, indicating a significant relationship between nitric oxide and primary pulmonary hypertension management.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Primary pulmonary hypertension",
+                        "target": "738632",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "738632",
+                        "target": "738632_Nitric oxide_Primary pulmonary hypertension_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Nasal Polyps": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nasal Polyps",
+                        "label": "Nasal Polyps",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "699648",
+                        "label": "Nasal NO as a biomarker: don't say NO to the many challenges of translational medicine.\nJA. Voynow, AJ. Montpetit\nPediatr. Pulmonol. 2015 Jan;50(1):100-2.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25310962"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "699648_Nitric oxide_Nasal Polyps_Discussion.json",
+                        "label": "In this context, nitric oxide (nNO) levels are discussed in relation to nasal polyps, particularly in patients with cystic fibrosis (CF). The presence of nasal polyposis may contribute to reduced levels of inducible nitric oxide synthase, which in turn affects nNO concentrations. This suggests a potential link between nasal polyps and altered nitric oxide metabolism, impacting diagnostic testing for conditions like primary ciliary dyskinesia (PCD).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nasal Polyps",
+                        "target": "699648",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "699648",
+                        "target": "699648_Nitric oxide_Nasal Polyps_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "719314",
+                        "label": "Exhaled biomarkers.\nSA. Kharitonov, PJ. Barnes\nChest 2006 Nov;130(5):1541-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17099035"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "719314_Nitric oxide_Asthma_Exhaled Nitric Oxide.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to asthma through the measurement of fractional exhaled nitric oxide (FeNO), which serves as a biomarker for eosinophilic airway inflammation in asthmatic patients. The correlation between elevated FeNO levels and asthma severity highlights the importance of NO in asthma management, particularly with the advent of portable analyzers that enable regular monitoring of FeNO levels at home, potentially improving patient care and treatment outcomes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "723708",
+                        "label": "Does consumption of ethanol distort measurements of exhaled nitric oxide?\nAW. Jones, M. Fransson, E. Maldonado-Holmertz\nRespir Med 2005 Feb;99(2):196-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15715186"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "723708_Nitric oxide_Asthma_Introduction.json",
+                        "label": "In this context, nitric oxide (NO) is highlighted as a useful biochemical marker for asthma, a condition characterized by airway inflammation. The study aims to investigate how ethanol consumption may affect the measurement of NO in exhaled breath, which is relevant for diagnosing asthma. This suggests a direct relationship between NO levels and asthma diagnosis, emphasizing the importance of accurate measurement in clinical settings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "719314",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "719314",
+                        "target": "719314_Nitric oxide_Asthma_Exhaled Nitric Oxide.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "723708",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "723708",
+                        "target": "723708_Nitric oxide_Asthma_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Candidiasis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Candidiasis",
+                        "label": "Candidiasis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "739524",
+                        "label": "Measurement of endogenous nitric oxide in the lungs of patients with the acute respiratory distress syndrome.\nSJ. Brett, TW. Evans\nAm. J. Respir. Crit. Care Med. 1998 Mar;157(3 Pt 1):993-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/9517623"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "739524_Nitric oxide_Candidiasis_ABSTRACT.json",
+                        "label": "In this context, nitric oxide (NO) is implicated in the immune response against Candidiasis, specifically in the production by peritoneal macrophages (MÏ†). The study indicates that impairment in NO production correlates with reduced antibody responses to Candida albicans in GKO mice, highlighting NO's role in host defense mechanisms against this opportunistic pathogen. The findings suggest that adequate NO levels are crucial for effective immune responses to C. albicans infections.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Candidiasis",
+                        "target": "739524",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "739524",
+                        "target": "739524_Nitric oxide_Candidiasis_ABSTRACT.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Septicemia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Septicemia",
+                        "label": "Septicemia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "700307",
+                        "label": "Exhaled nitric oxide and nasal tryptase are associated with wheeze, rhinitis and nasal allergy in primary school children.\nS. De Prins, F. Marcucci, L. Sensi, E. Van de Mieroop, V. Nelen, TS. Nawrot, G. Schoeters, G. Koppen\nBiomarkers 2014 Sep;19(6):481-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25019424"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "700307_Nitric oxide_Septicemia_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to septicemia, particularly focusing on its production influenced by arginine levels during septic shock. Arginine deficiency may reduce NO production, affecting local perfusion and contributing to a catabolic state, while excessive NO production is linked to global hemodynamic instability. The study aims to explore how intravenous arginine supplementation impacts NO levels and overall hemodynamics in patients with septic shock.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Septicemia",
+                        "target": "700307",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "700307",
+                        "target": "700307_Nitric oxide_Septicemia_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Atherosclerosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Atherosclerosis",
+                        "label": "Atherosclerosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733143",
+                        "label": "Role of exhaled nitric oxide in asthma.\nDH. Yates\nImmunol. Cell Biol. 2001 Apr;79(2):178-90.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11264714"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733143_Nitric oxide_Atherosclerosis_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) is implicated in the pathophysiology of atherosclerosis. The study indicates that atherosclerosis is associated with impaired endothelium-dependent relaxation, which is linked to decreased production and activity of NO. Additionally, oxidative stress from superoxide (O2-) radicals, which are elevated in atherosclerotic arteries, inactivates NO, leading to the formation of peroxynitrite, a cytotoxic compound. This suggests a critical relationship where NO's biological activity is compromised in atherosclerosis, contributing to vascular dysfunction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Atherosclerosis",
+                        "target": "733143",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733143",
+                        "target": "733143_Nitric oxide_Atherosclerosis_Abstract.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "AIRWAY DISEASE": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "AIRWAY DISEASE",
+                        "label": "AIRWAY DISEASE",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "723426",
+                        "label": "Korea red ginseng water extract increases nitric oxide concentrations in exhaled breath.\nK. Han, IC. Shin, KJ. Choi, YP. Yun, JT. Hong, KW. Oh\nNitric Oxide 2005 May;12(3):159-62.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15797844"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "723426_Nitric oxide_AIRWAY DISEASE_Discussion.json",
+                        "label": "In this context, nitric oxide (NO) is highlighted for its dual role in airway diseases, acting as both a marker of airway inflammation and a regulatory molecule in the lower airways. Increased levels of NO and its metabolites are associated with inflammatory conditions such as asthma and bronchiectasis, indicating its significant involvement in the pathogenesis of airway diseases. This suggests that NO is crucial for understanding and potentially managing airway inflammation and related disorders.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "AIRWAY DISEASE",
+                        "target": "723426",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "723426",
+                        "target": "723426_Nitric oxide_AIRWAY DISEASE_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Superoxides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Superoxides",
+                        "label": "Superoxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_Superoxides_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) and superoxides are interconnected through their roles in reactive oxygen species (ROS) signaling pathways, particularly in relation to TNF-α-mediated effects. Superoxides are generated as a result of TNF-α stimulation and can react with nitric oxide to form peroxynitrite (ONOO−). This interaction highlights a potential regulatory mechanism where NO may influence ROS-dependent signaling pathways, although the specific regulatory role of NO in TNF-α signaling remains to be fully established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Superoxides",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_Superoxides_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Elements": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "708532",
+                        "label": "Breath profiles by electronic nose correlate with systemic markers but not ozone response.\nH. Biller, O. Holz, H. Windt, W. Koch, M. Müller, RA. Jörres, N. Krug, JM. Hohlfeld\nRespir Med 2011 Sep;105(9):1352-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21439804"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "708532_Nitric oxide_Elements_INTRODUCTION.json",
+                        "label": "In this context, nitric oxide (NO) is produced in response to the activation of host cells by peptidoglycan (PGN) from Gram-positive bacteria, which stimulates various signaling elements in macrophages. While nitric oxide is a signaling molecule involved in inflammatory responses, the term 'elements' is too vague to establish a direct relationship with nitric oxide, as it could refer to various biological or chemical components. Thus, the connection is indirect and lacks specificity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Elements",
+                        "target": "708532",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "708532",
+                        "target": "708532_Nitric oxide_Elements_INTRODUCTION.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "NITRATE AND NITRITE": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "NITRATE AND NITRITE",
+                        "label": "NITRATE AND NITRITE",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721755",
+                        "label": "The biology of exhaled nitric oxide (NO) in ischemia-reperfusion-induced lung injury: a tale of dynamism of NO production and consumption.\nN. Marczin\nVascul. Pharmacol. 2005 Dec;43(6):415-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16290246"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721755_Nitric oxide_NITRATE AND NITRITE_Studies on pulmonary.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to its production during inflammatory responses following cardiopulmonary bypass (CPB) surgery. The study notes that while plasma nitrate/nitrite levels and airway NO concentrations remained unchanged, this indicates a complex relationship where the expected increase in NO production did not occur despite inflammatory events. Nitrate and nitrite are often considered metabolites of NO, suggesting a potential link, but the lack of change in their levels implies that the NO pathway was not activated as anticipated in this specific pathological context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "NITRATE AND NITRITE",
+                        "target": "721755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "721755",
+                        "target": "721755_Nitric oxide_NITRATE AND NITRITE_Studies on pulmonary.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Sulfhydryl Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfhydryl Compounds",
+                        "label": "Sulfhydryl Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_Sulfhydryl Compounds_RESULTS.json",
+                        "label": "In this context, nitric oxide (NO) is shown to interact with sulfhydryl compounds by modifying thiol groups on critical amino acid residues of NF-κB, thereby affecting its DNA-binding ability. This thiol modification is significant in the context of TNF-α-induced oxidative stress, indicating a direct biochemical relationship between NO and sulfhydryl compounds in cellular signaling pathways.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sulfhydryl Compounds",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_Sulfhydryl Compounds_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Boron": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Boron",
+                        "label": "Boron",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_Boron_RESULTS.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to its effects on the NF-κB signaling pathway, particularly its ability to modify the structure of NF-κB and influence its DNA-binding capacity. However, boron is not mentioned or connected to nitric oxide or the NF-κB pathway in any way, indicating no direct or indirect relationship between the two terms within the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Boron",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_Boron_RESULTS.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Advisory Committees": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Advisory Committees",
+                        "label": "Advisory Committees",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "699648",
+                        "label": "Nasal NO as a biomarker: don't say NO to the many challenges of translational medicine.\nJA. Voynow, AJ. Montpetit\nPediatr. Pulmonol. 2015 Jan;50(1):100-2.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25310962"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "699648_Nitric oxide_Advisory Committees_Introduction.json",
+                        "label": "In this context, nitric oxide (nNO) is discussed as a potential screening test for primary ciliary dyskinesia (PCD), with recommendations from the European Respiratory Society (ERS) Advisory Committees. The committees emphasize the importance of measuring nNO to improve patient selection for specialized diagnostic services, highlighting its role in enhancing diagnostic efficiency for PCD.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Advisory Committees",
+                        "target": "699648",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "699648",
+                        "target": "699648_Nitric oxide_Advisory Committees_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Protective Agents": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Protective Agents",
+                        "label": "Protective Agents",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "718128",
+                        "label": "Reference ranges for exhaled nitric oxide derived from a random community survey of adults.\nJ. Travers, S. Marsh, S. Aldington, M. Williams, P. Shirtcliffe, A. Pritchard, M. Weatherall, R. Beasley\nAm. J. Respir. Crit. Care Med. 2007 Aug;176(3):238-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17478616"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "718128_Nitric oxide_Protective Agents_Results.json",
+                        "label": "In this context, nitric oxide (NO) is highlighted for its role in antiviral host defense and its potential protective effects through bronchodilation. The study examines the expression of NOS-2, an enzyme responsible for NO production, in the lungs of hypereosinophilic mice, suggesting that NO may act as a protective agent in the immune response against respiratory viral infections. The increased expression of NOS-2 in hypereosinophilic mice indicates a significant relationship between NO and protective mechanisms in the context of antiviral immunity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Protective Agents",
+                        "target": "718128",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "718128",
+                        "target": "718128_Nitric oxide_Protective Agents_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Apoptosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Apoptosis",
+                        "label": "Apoptosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_Apoptosis_DISCUSSION.json",
+                        "label": "In this context, nitric oxide (NO) plays a complex role in tumor biology, influencing apoptosis in various ways. Low levels of NO are associated with increased blood flow and tumor growth, while high levels can inhibit caspase activation, thereby reducing apoptosis in surrounding lymphocytes. Conversely, high NO output can also promote apoptosis in certain contexts, indicating that the relationship between NO and apoptosis is context-dependent and influenced by local concentrations and reactive molecules present in the tumor environment.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_Apoptosis_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) is implicated in the sensitization of ovarian carcinoma cells to TNF-α-mediated apoptosis. The study shows that NO, generated through the expression of inducible nitric-oxide synthase (iNOS) induced by interferon-γ (IFN-γ), enhances the cytotoxic effects of TNF-α. Furthermore, NO donors were found to sensitize the cancer cells to TNF-α, while inhibiting nitric oxide synthase blocked this sensitization, indicating a direct role of NO in modulating apoptotic pathways in response to TNF-α signaling.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Apoptosis",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_Apoptosis_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_Apoptosis_Abstract.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Microcirculation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Microcirculation",
+                        "label": "Microcirculation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "700307",
+                        "label": "Exhaled nitric oxide and nasal tryptase are associated with wheeze, rhinitis and nasal allergy in primary school children.\nS. De Prins, F. Marcucci, L. Sensi, E. Van de Mieroop, V. Nelen, TS. Nawrot, G. Schoeters, G. Koppen\nBiomarkers 2014 Sep;19(6):481-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25019424"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "700307_Nitric oxide_Microcirculation_INTRODUCTION.json",
+                        "label": "In this context, nitric oxide (NO) is identified as a crucial factor for maintaining microcirculation, particularly in the setting of sepsis. The production of NO in endothelial cells is essential for proper organ perfusion, and its inadequate production is linked to impaired microcirculation and subsequent organ failure. Experimental evidence shows that during endotoxaemia, there is a decrease in endothelium-dependent NO, highlighting its role in microcirculatory dysfunction. The relationship is further supported by changes in the arginine pathway, which affect NO production and contribute to microcirculatory impairment in sepsis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Microcirculation",
+                        "target": "700307",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "700307",
+                        "target": "700307_Nitric oxide_Microcirculation_INTRODUCTION.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Respiratory Burst": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory Burst",
+                        "label": "Respiratory Burst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "739524",
+                        "label": "Measurement of endogenous nitric oxide in the lungs of patients with the acute respiratory distress syndrome.\nSJ. Brett, TW. Evans\nAm. J. Respir. Crit. Care Med. 1998 Mar;157(3 Pt 1):993-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/9517623"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "739524_Nitric oxide_Respiratory Burst_ABSTRACT.json",
+                        "label": "In this context, nitric oxide (NO) is highlighted as a potential contributor to the anticandidal functions of mononuclear phagocytes during the respiratory burst, which is a critical process for generating toxic compounds to kill pathogens like C. albicans. The relationship suggests that NO may enhance the effectiveness of the respiratory burst in immune responses against fungal infections, indicating a synergistic role in host defense mechanisms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory Burst",
+                        "target": "739524",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "739524",
+                        "target": "739524_Nitric oxide_Respiratory Burst_ABSTRACT.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Anoxia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Anoxia",
+                        "label": "Anoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "729373",
+                        "label": "Impact of axial diffusion on nitric oxide exchange in the lungs.\nHW. Shin, SC. George\nJ. Appl. Physiol. 2002 Dec;93(6):2070-80.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12391103"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "729373_Nitric oxide_Anoxia_RESULTS.json",
+                        "label": "In this context, nitric oxide (NO) is investigated in relation to anoxia, particularly regarding its role in apoptosis during anoxic conditions. The study explores how carbon monoxide (CO) can exert an anti-apoptotic effect independent of cGMP and nitric oxide synthase activity. Although NO production was not increased during anoxia, the presence of CO was able to rescue cells from apoptosis induced by anoxia, suggesting a complex interplay between NO and anoxic conditions in cellular responses.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Anoxia",
+                        "target": "729373",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "729373",
+                        "target": "729373_Nitric oxide_Anoxia_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Functional disorder": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Functional disorder",
+                        "label": "Functional disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721755",
+                        "label": "The biology of exhaled nitric oxide (NO) in ischemia-reperfusion-induced lung injury: a tale of dynamism of NO production and consumption.\nN. Marczin\nVascul. Pharmacol. 2005 Dec;43(6):415-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16290246"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721755_Nitric oxide_Functional disorder_Studies on pulmonary.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to its production during inflammatory responses following cardiopulmonary bypass (CPB) surgery. While the study anticipated increased NO production due to inflammation, the findings indicated that plasma nitrate/nitrite and airway NO concentrations remained unchanged, suggesting that the inflammatory response was insufficient to induce significant NO output. This implies a potential link between NO levels and functional disorders related to lung injury, although the relationship is not strongly established due to conflicting findings in other studies.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Functional disorder",
+                        "target": "721755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "721755",
+                        "target": "721755_Nitric oxide_Functional disorder_Studies on pulmonary.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721136",
+                        "label": "Modulation of nitric oxide pathways: therapeutic potential in asthma and chronic obstructive pulmonary disease.\nAE. Redington\nEur. J. Pharmacol. 2006 Mar;533(1-3):263-76.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16466650"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721136_Nitric oxide_Exhalation_Introduction.json",
+                        "label": "In this context, nitric oxide (NO) is highlighted as a significant marker detectable in exhaled breath, particularly in relation to respiratory health and diseases such as asthma and COPD. The measurement of exhaled NO has gained attention for its potential diagnostic value, indicating that NO plays a crucial role in respiratory physiology and may reflect underlying pathological processes. The relationship between NO and exhalation is underscored by its role as a signaling molecule in the respiratory tract, although the clinical implications of its measurement are still being explored.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721136_Nitric oxide_Exhalation_Exhaled NO and airwa.json",
+                        "label": "In this context, nitric oxide (NO) is discussed as a naturally occurring component in the exhaled breath of various mammalian species, including humans. The study highlights that exhaled NO is primarily sourced from the lower airways rather than from autoinhalation of endogenous NO. The measurement of fractional concentration of exhaled NO (FENO) is emphasized, indicating its relevance in respiratory physiology and potential clinical applications.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "723708",
+                        "label": "Does consumption of ethanol distort measurements of exhaled nitric oxide?\nAW. Jones, M. Fransson, E. Maldonado-Holmertz\nRespir Med 2005 Feb;99(2):196-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15715186"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "723708_Nitric oxide_Exhalation_Introduction.json",
+                        "label": "In this context, nitric oxide (NO) is measured in exhaled breath as a non-invasive biomarker for asthma, highlighting its significance in respiratory health. The study investigates how ethanol consumption may affect the accuracy of NO measurements in exhalation. This relationship underscores the importance of understanding exhaled NO levels in diagnosing and monitoring airway inflammation in patients.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "721136",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "721136",
+                        "target": "721136_Nitric oxide_Exhalation_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "721136",
+                        "target": "721136_Nitric oxide_Exhalation_Exhaled NO and airwa.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "723708",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "723708",
+                        "target": "723708_Nitric oxide_Exhalation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Synthesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "711235",
+                        "label": "Exhaled nitric oxide and exhaled breath condensate pH in severe refractory asthma.\nE. Tseliou, V. Bessa, G. Hillas, V. Delimpoura, G. Papadaki, C. Roussos, S. Papiris, P. Bakakos, S. Loukides\nChest 2010 Jul;138(1):107-13.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20173051"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "711235_Nitric oxide_Synthesis_Discussion.json",
+                        "label": "In this context, nitric oxide (NO) is highlighted as a product of epithelial cells, which are significant sites for its synthesis. The study discusses the relationship between fractional exhaled nitric oxide (FeNO) levels and eosinophilic inflammation, suggesting that NO synthesis may play a role in the inflammatory processes observed in patients with steroid-resistant asthma (SRA). The synthesis of NO is linked to the presence of eosinophils and their chemoattractant factors, indicating its importance in airway inflammation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Synthesis",
+                        "target": "711235",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "711235",
+                        "target": "711235_Nitric oxide_Synthesis_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Alveolar ventilation function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Alveolar ventilation function",
+                        "label": "Alveolar ventilation function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721755",
+                        "label": "The biology of exhaled nitric oxide (NO) in ischemia-reperfusion-induced lung injury: a tale of dynamism of NO production and consumption.\nN. Marczin\nVascul. Pharmacol. 2005 Dec;43(6):415-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16290246"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721755_Nitric oxide_Alveolar ventilation function_Studies on pulmonary.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to its production during inflammatory responses following cardiopulmonary bypass (CPB) surgery. While the study observed changes in lung function, specifically reduced oxygenation index, it noted that airway nitric oxide concentrations did not significantly change, suggesting that the inflammatory response did not sufficiently impact alveolar ventilation function. The relationship indicates that while NO is involved in lung responses, its levels may not directly correlate with alveolar ventilation function under certain pathological conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Alveolar ventilation function",
+                        "target": "721755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "721755",
+                        "target": "721755_Nitric oxide_Alveolar ventilation function_Studies on pulmonary.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "antioxidant activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "antioxidant activity",
+                        "label": "antioxidant activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "730640",
+                        "label": "Exhaled markers of inflammation.\nSA. Kharitonov, PJ. Barnes\nCurr Opin Allergy Clin Immunol 2001 Jun;1(3):217-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11964692"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "730640_Nitric oxide_antioxidant activity_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) is implicated in the study of antioxidant activity attributed to allicin, a compound in garlic. The research hypothesizes that the antioxidant effects of garlic may involve the inhibition of NO production by cytokine-induced nitric oxide synthase (iNOS). The findings indicate that allicin significantly reduces nitrite production, suggesting a direct relationship between allicin's antioxidant activity and the modulation of NO levels in response to inflammatory stimuli.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "antioxidant activity",
+                        "target": "730640",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "730640",
+                        "target": "730640_Nitric oxide_antioxidant activity_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "arginine metabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "arginine metabolism",
+                        "label": "arginine metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "699648",
+                        "label": "Nasal NO as a biomarker: don't say NO to the many challenges of translational medicine.\nJA. Voynow, AJ. Montpetit\nPediatr. Pulmonol. 2015 Jan;50(1):100-2.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25310962"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "699648_Nitric oxide_arginine metabolism_Discussion.json",
+                        "label": "In this context, nitric oxide (NO) is linked to arginine metabolism through the activity of nitric oxide synthase (NOS), which converts arginine into NO. The discussion suggests that changes in arginine metabolism may influence nitric oxide levels, particularly in patients with cystic fibrosis (CF) and primary ciliary dyskinesia (PCD). The lower levels of NO in CF patients could be attributed to alterations in arginine metabolism or reduced inducible NOS activity, indicating a significant relationship between these two terms in the context of respiratory health.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "arginine metabolism",
+                        "target": "699648",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "699648",
+                        "target": "699648_Nitric oxide_arginine metabolism_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Cell Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cell Respiration",
+                        "label": "Cell Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "735382",
+                        "label": "Endogenous nitric oxide in allergic airway disease.\nPE. Silkoff, RA. Robbins, B. Gaston, JO. Lundberg, RG. Townley\nJ. Allergy Clin. Immunol. 2000 Mar;105(3):438-48.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10719291"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "735382_Nitric oxide_Cell Respiration_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) is highlighted as a significant regulator of cell respiration, influencing mitochondrial function. The study indicates that high concentrations of NO can lead to both reversible and irreversible inhibition of mitochondrial respiration, particularly affecting complex I activity. This suggests that NO plays a critical role in modulating oxygen consumption in cells, especially under pathological conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cell Respiration",
+                        "target": "735382",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "735382",
+                        "target": "735382_Nitric oxide_Cell Respiration_Abstract.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Transcription, Genetic": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Transcription, Genetic",
+                        "label": "Transcription, Genetic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "708532",
+                        "label": "Breath profiles by electronic nose correlate with systemic markers but not ozone response.\nH. Biller, O. Holz, H. Windt, W. Koch, M. Müller, RA. Jörres, N. Krug, JM. Hohlfeld\nRespir Med 2011 Sep;105(9):1352-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21439804"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "708532_Nitric oxide_Transcription, Genetic_INTRODUCTION.json",
+                        "label": "In this context, nitric oxide (NO) is produced by inducible nitric oxide synthase (iNOS), whose expression is primarily regulated at the transcriptional level. The activation of transcription factors such as NF-κB and AP-1 is crucial for iNOS gene expression, linking NO production to genetic transcription processes. The study emphasizes the role of MAPK pathways in regulating these transcription factors, thereby influencing NO synthesis in activated macrophages.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Transcription, Genetic",
+                        "target": "708532",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "708532",
+                        "target": "708532_Nitric oxide_Transcription, Genetic_INTRODUCTION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "negative regulation of nitric-oxide synthase activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "negative regulation of nitric-oxide synthase activity",
+                        "label": "negative regulation of nitric-oxide synthase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_negative regulation of nitric-oxide synthase activity_RESULTS.json",
+                        "label": "In this context, nitric oxide (NO) is involved in the sensitization of human ovarian carcinoma AD10 cells to TNF-α-mediated cytotoxicity. The study indicates that the presence of a nitric oxide synthase (NOS) inhibitor, l-NMA, negatively regulates the production of nitric oxide, thereby decreasing the sensitization effect of IFN-γ on the tumor cells. This suggests a direct relationship where the regulation of NOS activity impacts nitric oxide levels and subsequently influences cellular responses to TNF-α.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "negative regulation of nitric-oxide synthase activity",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_negative regulation of nitric-oxide synthase activity_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Gene Expression": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Gene Expression",
+                        "label": "Gene Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_Gene Expression_DISCUSSION.json",
+                        "label": "In this context, nitric oxide (NO) is shown to influence gene expression by inhibiting the activation of NF-κB in TNF-α-stimulated AD10 cells. The study indicates that NO can selectively affect one of the pathways involved in NF-κB activation, suggesting a regulatory role of NO in gene expression related to inflammatory responses. The findings highlight the complex interactions between NO and gene expression mechanisms, particularly in the context of oxidative stress and inflammation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Gene Expression",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_Gene Expression_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "paracrine": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "paracrine",
+                        "label": "paracrine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_paracrine_DISCUSSION.json",
+                        "label": "In this context, nitric oxide (NO) is implicated in a paracrine signaling mechanism that influences the apoptosis of ovarian carcinoma cells. The study suggests that NO disrupts the TNF-α-induced activation of NF-κB, which is part of a survival autocrine-paracrine loop. This indicates that NO can modulate the local cellular environment and affect neighboring cells' responses to TNF-α, highlighting its role in paracrine signaling within tumor biology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "paracrine",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_paracrine_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "inhibitors": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_inhibitors_RESULTS.json",
+                        "label": "In this context, nitric oxide (NO) is discussed as an inhibitor of the TNF-α-induced activation of the NF-κB-dependent reporter gene in AD10 cells. The presence of the NO donor SNAP significantly decreased the activation levels, indicating that nitric oxide acts as an inhibitor in this signaling pathway. This relationship highlights the role of NO in modulating inflammatory responses through its inhibitory effects on NF-κB activation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_inhibitors_DISCUSSION.json",
+                        "label": "In this context, nitric oxide (NO) is described as having an inhibitory effect on the TNF-α-induced activation of NF-κB, which is crucial for maintaining cell survival against apoptotic stimuli. The generation of NO, either endogenously or exogenously, can disrupt the autocrine-paracrine loop that promotes cell resistance to apoptosis, indicating that NO acts as an inhibitor of this survival pathway. This relationship highlights the role of NO in sensitizing cells to apoptosis through its inhibitory actions on pro-inflammatory signaling pathways.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_inhibitors_RESULTS.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_inhibitors_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "738632",
+                        "label": "Exhaled and nasal nitric oxide is increased in laboratory animal allergy.\nLA. Adisesh, SA. Kharitonov, DH. Yates, DC. Snashell, AJ. Newman-Taylor, PJ. Barnes\nClin. Exp. Allergy 1998 Jul;28(7):876-80.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/9720822"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "738632_Nitric oxide_Inspiration function_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) is evaluated as a potential vasodilator for patients with primary pulmonary hypertension (PPH), particularly in comparison to calcium-channel blockers (CCB). While the study focuses on the acute response to inhaled NO, it indirectly relates to inspiration function by potentially improving pulmonary hemodynamics, which can enhance respiratory efficiency. However, the specific relationship between NO and inspiration function is not explicitly detailed in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "738632",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "738632",
+                        "target": "738632_Nitric oxide_Inspiration function_Abstract.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Chromosome Pairing": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromosome Pairing",
+                        "label": "Chromosome Pairing",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "711502",
+                        "label": "Diagnostic performance of an electronic nose, fractional exhaled nitric oxide, and lung function testing in asthma.\nP. Montuschi, M. Santonico, C. Mondino, G. Pennazza, G. Mantini, E. Martinelli, R. Capuano, G. Ciabattoni, R. Paolesse, C. Di Natale, PJ. Barnes, A. D'Amico\nChest 2010 Apr;137(4):790-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20081096"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "711502_Nitric oxide_Chromosome Pairing_Introduction.json",
+                        "label": "In this context, nitric oxide (NO) is highlighted as a key molecule involved in synaptic changes and neurodegenerative processes, particularly in diseases like Alzheimer's and ALS. However, there is no direct mention or discussion of chromosome pairing in relation to NO. The context focuses on the role of NO in synaptic loss rather than any genetic or chromosomal interactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chromosome Pairing",
+                        "target": "711502",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "711502",
+                        "target": "711502_Nitric oxide_Chromosome Pairing_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "DNA Binding": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "DNA Binding",
+                        "label": "DNA Binding",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_DNA Binding_RESULTS.json",
+                        "label": "In this context, nitric oxide (NO) is shown to directly influence the DNA-binding ability of NF-κB by modifying its structure through thiol modification of critical amino acid residues. This interaction suggests that NO can regulate gene expression by affecting transcription factor activity, specifically reducing NF-κB's ability to bind DNA, which is crucial for inflammatory responses.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "DNA Binding",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_DNA Binding_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "physiological aspects": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "physiological aspects",
+                        "label": "physiological aspects",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_physiological aspects_DISCUSSION.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to its physiological roles in tumor biology, particularly its effects on tumor cell sensitivity to TNF-α-mediated cytotoxicity and its influence on immune responses. The study highlights both the physiological and pathophysiological aspects of NO, indicating its dual role in promoting blood flow and potentially inhibiting immune cell activation, which can affect tumor growth and apoptosis. This suggests a complex relationship where NO's physiological functions are intricately linked to tumor biology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "physiological aspects",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_physiological aspects_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Signal Transduction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Signal Transduction",
+                        "label": "Signal Transduction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "708532",
+                        "label": "Breath profiles by electronic nose correlate with systemic markers but not ozone response.\nH. Biller, O. Holz, H. Windt, W. Koch, M. Müller, RA. Jörres, N. Krug, JM. Hohlfeld\nRespir Med 2011 Sep;105(9):1352-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21439804"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "708532_Nitric oxide_Signal Transduction_INTRODUCTION.json",
+                        "label": "In this context, nitric oxide (NO) is produced in response to the activation of host cells by peptidoglycan (PGN) from Gram-positive bacteria, which stimulates various signal transduction pathways, including those involving MAPKs. This indicates that nitric oxide is a downstream product of signal transduction processes initiated by PGN, linking it to inflammatory responses in macrophages. The relationship highlights the role of NO in mediating the effects of signal transduction during immune responses.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Signal Transduction",
+                        "target": "708532",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "708532",
+                        "target": "708532_Nitric oxide_Signal Transduction_INTRODUCTION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "719314",
+                        "label": "Exhaled biomarkers.\nSA. Kharitonov, PJ. Barnes\nChest 2006 Nov;130(5):1541-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/17099035"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "719314_Nitric oxide_Inflammation_Exhaled Nitric Oxide.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to its role as a biomarker for airway inflammation, particularly in asthma. The fractional exhaled nitric oxide (FeNO) levels correlate with eosinophilic inflammation in the airways, indicating that NO is a significant mediator in inflammatory processes. The ability to measure FeNO non-invasively allows for better management of asthma by monitoring inflammation levels and adjusting treatment accordingly.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "723708",
+                        "label": "Does consumption of ethanol distort measurements of exhaled nitric oxide?\nAW. Jones, M. Fransson, E. Maldonado-Holmertz\nRespir Med 2005 Feb;99(2):196-9.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/15715186"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "723708_Nitric oxide_Inflammation_Introduction.json",
+                        "label": "In this context, nitric oxide (NO) is highlighted as a biochemical marker for asthma, a condition characterized by airway inflammation. The study aims to investigate how ethanol consumption may affect the measurement of NO in exhaled breath, which is relevant for assessing inflammation in asthmatic patients. Thus, NO is directly linked to the inflammatory processes associated with asthma, indicating its role in monitoring airway inflammation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721755",
+                        "label": "The biology of exhaled nitric oxide (NO) in ischemia-reperfusion-induced lung injury: a tale of dynamism of NO production and consumption.\nN. Marczin\nVascul. Pharmacol. 2005 Dec;43(6):415-24.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16290246"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "721755_Nitric oxide_Inflammation_Studies on pulmonary.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to the inflammatory response following cardiopulmonary bypass (CPB) surgery. The studies indicate that while an increase in NO production was anticipated due to inflammation, the actual measurements of plasma nitrate/nitrite and airway NO concentrations did not show significant changes. This suggests that the inflammatory events were not sufficient to trigger a high-output NO pathway, indicating a complex relationship where inflammation does not always correlate with increased NO production.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "719314",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "719314",
+                        "target": "719314_Nitric oxide_Inflammation_Exhaled Nitric Oxide.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "723708",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "723708",
+                        "target": "723708_Nitric oxide_Inflammation_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "721755",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "721755",
+                        "target": "721755_Nitric oxide_Inflammation_Studies on pulmonary.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_Process_DISCUSSION.json",
+                        "label": "In this context, nitric oxide (NO) is implicated in the sensitization process of tumor cells to the cytotoxic effects of TNF-α, particularly in the presence of the pro-inflammatory cytokine IFN-γ. The relationship highlights how NO mediates cellular responses and influences various biological processes, including the induction of iNOS and the activation of transcription factors like NF-κB, which are crucial for inflammatory responses and tumor cell sensitivity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "711502",
+                        "label": "Diagnostic performance of an electronic nose, fractional exhaled nitric oxide, and lung function testing in asthma.\nP. Montuschi, M. Santonico, C. Mondino, G. Pennazza, G. Mantini, E. Martinelli, R. Capuano, G. Ciabattoni, R. Paolesse, C. Di Natale, PJ. Barnes, A. D'Amico\nChest 2010 Apr;137(4):790-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20081096"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "711502_Nitric oxide_Process_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) is implicated in the process of synapse loss during neurodegenerative conditions. The upregulation of neuronal nitric oxide synthase (nNOS) suggests that NO plays a critical role in mediating synaptic changes. The signaling pathways involved, including soluble guanylyl cyclase (sGC) and RhoA/Rho kinase (ROCK), indicate that NO is central to the processes leading to synapse elimination, highlighting its importance in neurobiology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_Process_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "711502",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "711502",
+                        "target": "711502_Nitric oxide_Process_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "soluble NSF attachment protein activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "soluble NSF attachment protein activity",
+                        "label": "soluble NSF attachment protein activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_soluble NSF attachment protein activity_RESULTS.json",
+                        "label": "In this context, nitric oxide (NO) is implicated in the regulation of TNF-α mRNA expression through its inhibitory effects on the NF-κB pathway. While soluble NSF attachment protein (SNAP) is mentioned as a nitric oxide donor, the direct relationship between NO and soluble NSF attachment protein activity is not explicitly detailed. The focus is primarily on NO's role in modulating inflammatory responses rather than its interaction with soluble NSF attachment protein activity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_soluble NSF attachment protein activity_DISCUSSION.json",
+                        "label": "In this context, nitric oxide (NO) is discussed in relation to its inhibitory effects on TNF-α-induced activation of NF-κB, which is crucial for the expression of various genes, including those related to soluble NSF attachment protein activity. While the direct relationship between nitric oxide and soluble NSF attachment protein activity is not explicitly detailed, the modulation of TNF-α signaling by nitric oxide suggests a potential regulatory role that could influence soluble NSF attachment protein activity indirectly through the NF-κB pathway.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "soluble NSF attachment protein activity",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_soluble NSF attachment protein activity_RESULTS.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_soluble NSF attachment protein activity_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "TNF gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "TNF gene",
+                        "label": "TNF gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748",
+                        "label": "Arginine therapy: a novel strategy to induce nitric oxide production in sickle cell disease.\nCR. Morris, FA. Kuypers, S. Larkin, N. Sweeters, J. Simon, EP. Vichinsky, LA. Styles\nBr. J. Haematol. 2000 Nov;111(2):498-500.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11122090"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_TNF gene_Abstract.json",
+                        "label": "In this context, nitric oxide (NO) is linked to the tumor necrosis factor alpha (TNF-α) gene through its role in sensitizing ovarian carcinoma cells to TNF-α-mediated cytotoxicity. The study shows that NO, generated by inducible nitric-oxide synthase (iNOS) upon interferon-γ (IFN-γ) treatment, enhances the apoptotic effects of TNF-α. Additionally, NO donors were found to inhibit NF-κB activation, which is involved in TNF-α signaling, suggesting a complex interplay between NO and TNF-α in regulating apoptosis in cancer cells.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_TNF gene_RESULTS.json",
+                        "label": "In this context, nitric oxide (NO) is shown to inhibit the TNF-α-induced activation of the NF-κB-dependent reporter gene in AD10 cells. The presence of the NO donor SNAP significantly decreased the activation caused by TNF-α, indicating a regulatory role of nitric oxide in modulating the inflammatory response mediated by TNF-α. This suggests a direct interaction where nitric oxide acts as a negative regulator of TNF-α signaling pathways.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "733748_Nitric oxide_TNF gene_DISCUSSION.json",
+                        "label": "In this context, nitric oxide (NO) is described as having an inhibitory effect on the TNF-α-induced activation of NF-κB, which is crucial for the expression of anti-apoptotic factors. The interaction suggests that NO can sensitize cells to apoptosis by disrupting the TNF-α-dependent signaling pathway, highlighting a significant relationship between NO and the TNF gene in regulating cell survival and apoptosis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "TNF gene",
+                        "target": "733748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_TNF gene_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_TNF gene_RESULTS.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "733748",
+                        "target": "733748_Nitric oxide_TNF gene_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "IRF1 gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "IRF1 gene",
+                        "label": "IRF1 gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "708532",
+                        "label": "Breath profiles by electronic nose correlate with systemic markers but not ozone response.\nH. Biller, O. Holz, H. Windt, W. Koch, M. Müller, RA. Jörres, N. Krug, JM. Hohlfeld\nRespir Med 2011 Sep;105(9):1352-63.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21439804"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "708532_Nitric oxide_IRF1 gene_INTRODUCTION.json",
+                        "label": "In this context, nitric oxide (NO) is produced by inducible nitric oxide synthase (iNOS), which is regulated at the transcriptional level by various transcription factors, including IRF-1. The activation of IRF-1 is crucial for the expression of iNOS, thereby influencing NO production in activated macrophages. This indicates a direct regulatory relationship where IRF-1 plays a significant role in modulating the expression of the iNOS gene, which in turn affects nitric oxide levels during inflammatory responses.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "IRF1 gene",
+                        "target": "708532",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "708532",
+                        "target": "708532_Nitric oxide_IRF1 gene_INTRODUCTION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": " [4] CYP2E1, the isoform primarily responsible for oxidation of low doses of TCE in rats and humans, has not been found in the small intestines of either species (; ).  [5] Pulmonary first-pass effect, determined primarily by a VOC's blood/air partition coefficient, is considered to be blood level-independent .  [6] reported that lung first-pass elimination accounted for \u00e2\u02c6\u00bc5 to 8% of oral doses of 0.7 to 16.0 mg TCE/kg in rats.  [7] , ) measured efficient oxidation of TCE to chloral by CYP2E1, CYP2F2, and CYP2B1 in Clara cells in mouse airways.  [8] Clara cell numbers and TCE metabolic activation are much lower in rats and largely undetectable in human lung microsomes.  [9] TCE storage in the lungs should be negligible. [10] Thus, it can be concluded that exhalation contributes modestly to presystemic elimination of TCE, but that saturable first-pass hepatic uptake is the predominant process. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "CYP2E1 gene",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is metabolized primarily by the CYP2E1 gene, which is responsible for its oxidation at low doses in both rats and humans. The text discusses the role of CYP2E1 in the metabolic activation of TCE, highlighting its significance in the pulmonary first-pass effect and the limited metabolic activation in human lungs compared to rats. This indicates a direct relationship between TCE and the CYP2E1 gene in the context of its metabolism.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2-trichloroethene and the CYP2E1 gene, as the context provides evidence of CYP2E1's role in TCE metabolism, supported by specific findings regarding its activity in different species.",
+        "score": 4
+    }
+}

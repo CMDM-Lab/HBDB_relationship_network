@@ -1,0 +1,10 @@
+{
+    "context": "The measurements were carried out between Tuesday and Friday of 1 week. Each sampling period lasted for 5h. The airborne concentrations of tobacco-specific markers, 3-ethenylpyridine and nicotine, were measured in order to detect whether the non-smoking areas were smoke-free and to establish the concentration of ETS in smoking areas. Furthermore, the levels of 14 additional compounds were measured: 1,3-butadiene, isoprene, benzene, pyridine, toluene, furfuryl aldehyde, 3-picoline, ethyl benzene, m,p-xylene, o-xylene, styrene, phenol, limonene, and naphthalene.Sampling The measurements were carried out using four different samplers. For the purposes of method comparison of the markers (reported elsewhere), three different samplers were used for 3-EP and two for nicotine. 3-EP was collected on 3M (OVM 3500) diffusive sampler; the sampling rate was 24ml/min. 3-EP and nicotine were collected in charcoal tubes (SKC 226-01) with a pump at a rate of 100ml/min (smoking section) or 200ml/min (non-smoking section). ",
+    "term_A": "Buta-1,3-diene",
+    "term_B": "Naphthalene",
+    "llm_generation": {
+        "summary": "In this context, buta-1,3-diene and naphthalene are both mentioned as part of a broader analysis of airborne concentrations of various compounds, including tobacco-specific markers. They are included in a list of volatile organic compounds (VOCs) measured during sampling periods, but there is no direct discussion of their interactions or specific relevance to each other beyond their inclusion in the same study.",
+        "reason": "The score of 2 reflects a low relevance, as buta-1,3-diene and naphthalene are both listed among other compounds measured in the study, indicating they share a general category as VOCs, but without any detailed interaction or functional relationship discussed.",
+        "score": 2
+    }
+}

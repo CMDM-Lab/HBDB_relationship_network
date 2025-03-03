@@ -1,0 +1,10 @@
+{
+    "context": "[4] The finding of spirometric restriction could be consistent with obliterative bronchiolitis from diacetyl or it could represent distinct pathological effects of other exposures. [1] To better understand the spectrum of respiratory health in flavouring manufacturing workers, we conducted a cross-sectional study at a large flavouring manufacturing facility where obliterative bronchiolitis reportedly had been diagnosed in two former workers. [2] Since the facility opened in 1998, the use of diacetyl reportedly had declined and the use of substitutes had increased. [3] Neither air sampling conducted by consultants to the facility in 2008 nor our own air sampling in 2011 detected diacetyl, although we did detect 2,3-pentanedione. [4] Thus, results of recent industrial hygiene evaluations were consistent with a transition away from diacetyl and towards substitutes in the years prior to our study. [1] The study was conducted in accordance with the NIOSH Institutional Review Board's requirements for health hazard evaluations. [2] We invited all current workers at the facility to give written informed consent for an interviewer-administered questionnaire, spirometry and measurement of diffusing capacity. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "Pentanedione",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione (diacetyl) and Pentanedione are both mentioned as compounds relevant to respiratory health in flavoring manufacturing workers. The study highlights a transition from diacetyl to 2,3-pentanedione as a substitute in the workplace. While both compounds are diketones and may have similar health implications, the focus is on the shift in usage rather than a direct comparison of their effects or interactions.",
+        "reason": "The score of 3 reflects a moderate relevance, as both Butane-2,3-dione and Pentanedione are discussed in the context of respiratory health and exposure in the same facility. However, their specific relationship or comparative effects are not deeply explored, limiting the strength of their connection.",
+        "score": 3
+    }
+}

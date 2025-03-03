@@ -1,0 +1,10 @@
+{
+    "context": "[6] Data are mean \u00c2\u00b1 S.E. [7] (n = 5). [8] Significant differences compared with FLOX mice: *, p < 0.01; **, p < 0.001.  [1] Catabolism of amino acids is initiated by transamination, followed by oxidative deamination and, finally, ammonia elimination via the urea cycle (Fig. 1).  [2] Northern blot analysis was performed for genes encoding enzymes involved in these steps to determine whether there is any change in gene expression in the liver-specific HNF4\u00ce\u00b1-null mice (Fig.3).  [3] \u00ce\u00b1-Amino groups from almost all amino acids were transferred to \u00ce\u00b1-ketoglutarate by transamination.  [4] Expression of mRNA encoding alanine aminotransferase and aspartate aminotransferase-1 and -2, among the most important aminotransferases, were not different between H4LivKO and H4Flox mice. ",
+    "term_A": "urea",
+    "term_B": "transamination",
+    "llm_generation": {
+        "summary": "In this context, urea and transamination are connected through the metabolic pathway of amino acid catabolism. Transamination is the initial step where amino groups from amino acids are transferred to \u03b1-ketoglutarate, leading to the production of ammonia, which is subsequently processed in the urea cycle for elimination. This highlights the role of transamination in the formation of urea as a waste product of amino acid metabolism.",
+        "reason": "The score of 4 reflects a significant connection between urea and transamination, as transamination is a critical step in amino acid catabolism that directly leads to the formation of urea through the urea cycle. The context provides a clear metabolic relationship supported by the described biochemical processes.",
+        "score": 4
+    }
+}

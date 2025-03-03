@@ -1,0 +1,10 @@
+{
+    "context": "Airflow limitation increased slowly during the daily exposures, but there was no carry-over effect from day to day. Further, an exposure-dependent effect appeared to occur at concentrations causing sensory irritation. No firm conclusion was possible about occurrence of alveolar level effects. Inflammation of the respiratory tract was not observed in this study neither to limonene nor to its ozone-initiated reaction products. Conflict of interest The authors declare no conflict of interest. Introduction Epidemiological studies indicate that the elderly (\u226565\u00a0years old) are generally more susceptible to the health effects of air pollution (Donaldson et al., 2001; Pope et al., 2002; USEPA, 2004). Air pollutants found indoors are of particular concern since, on average people spend 85\u201390% of their time indoors (USEPA, 1996), and this may be especially important among older individuals. ",
+    "term_A": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "term_B": "Ozone",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone are mentioned in relation to air pollution and its effects on respiratory health, particularly among the elderly. However, the text does not provide a direct interaction or specific relationship between the two compounds. Instead, it discusses general exposure effects and the lack of observed inflammation from their interaction, indicating a limited connection.",
+        "reason": "The score of 2 reflects an indirect relationship, as both terms are associated with air pollution and respiratory health, but there is no detailed discussion of their specific interactions or effects in the context provided.",
+        "score": 2
+    }
+}

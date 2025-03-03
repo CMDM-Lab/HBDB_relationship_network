@@ -1,0 +1,10 @@
+{
+    "context": "[9] TCE, in sufficient amounts, can produce noncancer effects in organs including the brain, liver, kidneys, testes, and immune system. [1] Biotransformation plays a key role in modulating the toxicokinetics (TK) and the ensuing toxicity and carcinogenicity of TCE. [2] The VOC is metabolized primarily via a CYP450-catalyzed oxidative pathway involving sequential formation of a series of products . [3] The initial step in oxidation of low TCE doses is catalyzed primarily in rodents and humans by CYP2E1, a constitutive CYP450 isoform (; ). [4] The second, relatively minor pathway involves conjugation of TCE with glutathione, followed by a series of subsequent metabolic activation and detoxification reactions . [5] This second pathway becomes important quantitatively only at quite high TCE doses. [6] The majority of TCE biotransformation occurs in the liver, although metabolic activation of relatively small quantities of TCE reaching extrahepatic tissues, such as kidney , testes , and lungs , can have a toxicologically significant impact in situ. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "CYP2E1 gene",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is primarily metabolized by the CYP2E1 gene, which encodes a key enzyme in the CYP450 family responsible for the oxidative biotransformation of TCE. This metabolic pathway is crucial for modulating the toxicity and carcinogenicity of TCE, particularly at low doses, highlighting the significant role of CYP2E1 in TCE's toxicokinetics and effects on various organs.",
+        "reason": "The score of 5 reflects a direct and critical relationship between TCE and the CYP2E1 gene, as CYP2E1 is the primary enzyme responsible for TCE metabolism, indicating a strong relevance in the context of toxicology and biochemistry.",
+        "score": 5
+    }
+}

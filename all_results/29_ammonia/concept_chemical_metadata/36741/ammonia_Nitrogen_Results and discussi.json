@@ -1,0 +1,10 @@
+{
+    "context": "3.3.3 Sulfur compound evolution Fig. 4 presents the evolution of the oxygen consumption when a 100mgl\u22121 sodium sulfide solution was used as the substrate. It can first be noticed that all assays containing UP 20 showed the highest and fastest oxygen consumption. In contrast to ammonia removal, the substrate did not provide any nitrogen. Consequently, the formulated material UP 20 could entirely fulfill its nutritive function by providing the biomass with the nitrogen it needs and therefore stimulate its growth. Table 3 indicates that pine bark generated the best pH conditions: pH varied from 7.1 to 6.4 when it was used alone and from 7.6 to 7.7 in combination with UP 20. Associated with the previous remark, this result could explain why the combination UP 20/pine bark generated the highest and fastest oxygen consumption. ",
+    "term_A": "ammonia",
+    "term_B": "Nitrogen",
+    "llm_generation": {
+        "summary": "In this context, ammonia and nitrogen are related through the discussion of nutrient availability for biomass growth. The text indicates that while ammonia removal occurs, the substrate used does not provide nitrogen. However, the formulated material UP 20 compensates by supplying the necessary nitrogen for biomass stimulation, highlighting the importance of nitrogen in supporting growth, even in the absence of direct nitrogen provision from the substrate.",
+        "reason": "The score of 3 reflects a moderate relevance, as ammonia is mentioned in relation to nitrogen's role in biomass growth. The context discusses their connection in nutrient dynamics, but does not delve deeply into their specific interactions or chemical relationships.",
+        "score": 3
+    }
+}

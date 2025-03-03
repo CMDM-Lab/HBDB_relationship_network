@@ -1,0 +1,10 @@
+{
+    "context": "Transparency document Industrial use of the lower olefins in Texas Texas industries include some of the major emitters of 1,3-butadiene, ethylene, isoprene, and propylene in the nation. Based on the Environmental Protection Agency\u2019s (EPA\u2019s) 2012 Toxics Release Inventory (TRI) data, the total reported industrial air emissions in Texas for these olefins, as compared to total national reported air emissions, were 79% for 1,3-butadiene, 62% for ethylene, 76% for isoprene, and 54% for propylene. 1,3-Butadiene is used as an intermediate to produce a variety of industrial chemicals (e.g., polymers, elastomers), but its major uses are in the manufacturing of styrene-butadiene rubber, or synthetic rubber, and thermoplastic resins. The primary way 1,3-butadiene is released into the environment is from emissions from gasoline- and diesel-powered vehicles and equipment. Ethylene is produced through both anthropogenic and natural activities. It is a high-production-volume chemical product of the petrochemical industry, and is primarily used as an intermediate in the production of other chemicals. ",
+    "term_A": "Buta-1,3-diene",
+    "term_B": "styrene-butadiene rubber",
+    "llm_generation": {
+        "summary": "In this context, buta-1,3-diene is identified as a key intermediate in the production of various industrial chemicals, with its primary application being in the manufacturing of styrene-butadiene rubber (SBR), a type of synthetic rubber. The relationship is significant as buta-1,3-diene is essential for the synthesis of SBR, highlighting its role in the rubber industry and its environmental impact due to emissions during production processes.",
+        "reason": "The score of 5 reflects a direct and critical relationship between buta-1,3-diene and styrene-butadiene rubber, as the former is a primary raw material used in the production of the latter, indicating a strong relevance in industrial chemistry.",
+        "score": 5
+    }
+}

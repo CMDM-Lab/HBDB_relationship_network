@@ -1,0 +1,10 @@
+{
+    "context": "Everyday, more than 5 million passenger journeys are made on the public transportation system. The number of public transportation trips has increased sharply and continuously since the early 1990s. Most commuters are required to spend 1\u20132 h in their daily commutes. As there is limited information on in-vehicle VOC exposure data in the study area, the primary aim of this study is to compare the exposure levels of benzene, toluene, ethylbenzene, m/p-xylene and o-xylene in four popular public transportation modes while commuting in the urban area of Guangzhou. The target compounds are strongly associated with vehicle use and are commonly known as vehicle emission markers (Chan et al., 1991). Four popular public transportation modes, which are subway, taxis, non-air-conditioned buses and air-conditioned buses, were selected in this study for aromatic VOCs measurement. These four commuting modes together served more than 85% of the total public transportation journeys in year 2000. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both identified as volatile organic compounds (VOCs) that are commonly associated with vehicle emissions. The study aims to measure and compare the exposure levels of these compounds, along with others, in various public transportation modes. While they are mentioned together as part of the same group of vehicle emission markers, there is no detailed discussion of their specific interactions or relationships beyond their shared association with urban commuting and air quality concerns.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and toluene are both categorized as VOCs related to vehicle emissions, but their relationship is not explored in detail within the context. They are mentioned together without any specific interaction or functional relationship.",
+        "score": 2
+    }
+}

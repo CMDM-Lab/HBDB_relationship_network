@@ -1,0 +1,10 @@
+{
+    "context": "Several parameters related to HS-SPME extraction efficiency (fiber coating, extraction temperature and extraction time) were optimized. The proposed method was applied to comparative analysis of VOMs in malignant effusions and benign effusions. At the same time, the peak areas of all volatile metabolites were submitted to statistical analysis to obtain the specific volatile metabolites that are able to differentiate lung cancer patients from inflammatory individuals. Chemicals and samples The standard compounds of methanol, acetone, toluene, hexanal, cyclohexanone, heptanal, phenol, decane, 2-ethyl-1-hexanol, acetophenone, 1, 2, 4, 5-tetramethyl benzene, dodecane, 2-methylnaphthalene and 2, 6-di(tert)butyl-4-methylpnenol were purchased from Aladdin (Shanghai, China). The explored subjects were divided into two groups: malignant group (20 patients with lung cancer) and benign inflammatory group (20 benign inflammatory patients with pneumonia or tuberculous pleurisy). The malignant group was seventeen patients with non-small cell lung cancer (NSCLC) and three patients with small cell lung cancer (SCLC). The benign inflammatory group was fifteen patients with tuberculous pleurisy and five patients with pneumonia, who had no history of cancer. ",
+    "term_A": "2-ethylhexan-1-ol",
+    "term_B": "Chemicals",
+    "llm_generation": {
+        "summary": "In this context, 2-ethylhexan-1-ol is mentioned as one of the standard compounds used in the comparative analysis of volatile organic metabolites (VOMs) in malignant and benign effusions. It is categorized as a chemical among other standard compounds, indicating its role in the study but lacking a specific relationship or interaction with the broader category of 'Chemicals' beyond its inclusion in the list.",
+        "reason": "The score of 2 reflects an indirect connection, as 2-ethylhexan-1-ol is listed among various chemicals used in the study, but there is no detailed discussion of its specific role or interaction with other chemicals.",
+        "score": 2
+    }
+}

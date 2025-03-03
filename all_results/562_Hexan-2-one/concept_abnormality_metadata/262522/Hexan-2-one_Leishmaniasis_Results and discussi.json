@@ -1,0 +1,10 @@
+{
+    "context": "The 24 volatile organic compounds employed for SIMCA classification model are listed in Table 5 . Discrimination power plot (Fig. 7 ) shows how much chromatographic peak areas of each evaluated volatile organic compound contributed to separate leishmaniasis infected and non-infected dogs classes. Since discrimination power values higher than 3 indicates an important variable, all evaluated VOC were significant to discrimination process. The three VOC with the greatest discrimination power values were benzaldehyde, 2-hexanone and 2,4-nonadienal (Fig. 7) but the other ones are also significant to discriminate leishmaniasis infected and non-infected dogs. VOC emissions were already related to odor modifications due to infections. The odor modification in a host, infected by parasites transmitted by hematophagous mosquitoes, could be related to the parasite survive strategy. It was reported that dogs and hamsters infected by VL seen to be more attractive to diseases transmitter vectors. ",
+    "term_A": "Hexan-2-one",
+    "term_B": "Leishmaniasis",
+    "llm_generation": {
+        "summary": "In this context, Hexan-2-one is identified as one of the volatile organic compounds (VOCs) that contribute to the discrimination between leishmaniasis-infected and non-infected dogs. The study highlights the significance of various VOCs, including Hexan-2-one, in odor modifications associated with infections, suggesting that these changes may play a role in the survival strategies of parasites by attracting disease-transmitting vectors. Thus, Hexan-2-one is relevant in the context of leishmaniasis as a potential biomarker for infection status in dogs.",
+        "reason": "The score of 4 reflects a significant connection between Hexan-2-one and leishmaniasis, as the compound is part of a classification model that distinguishes infected from non-infected dogs, indicating its importance in the context of the disease.",
+        "score": 4
+    }
+}

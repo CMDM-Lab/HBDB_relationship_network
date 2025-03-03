@@ -1,0 +1,10 @@
+{
+    "context": "In addition to the classical NOS-dependent generation this mediator can also be produced by stepwise reduction of the inorganic anions nitrate and nitrite, thereby recycling these oxidation products of NO back to NO-like bioactivity [12\u201314]. Interestingly, nitrate from the diet (especially leafy green vegetables) can be used as a substrate for this type of NO production. Circulating nitrate, both from endogenous NO generation or from the diet, is actively taken up by the salivary glands and excreted in saliva. The first step of the nitrate-nitrite-NO pathway requires oral commensal facultative anaerobic bacteria to reduce nitrate to nitrite. These bacteria contain potent nitrate and nitrite reductases that are efficiently inhibited by oxygen. In addition, in lack of oxygen oral bacteria use nitrate and nitrite as a terminal electron acceptor for respiration. Due to the fact that nitrate is concentrated in saliva and bacteria reduce nitrate to nitrite, the levels of these anions in saliva are 10\u20131000 fold higher compared to plasma. ",
+    "term_A": "nitrate",
+    "term_B": "NITRATE AND NITRITE",
+    "llm_generation": {
+        "summary": "In this context, nitrate is directly related to the production of nitric oxide (NO) through its reduction to nitrite by oral bacteria. Nitrate from dietary sources, particularly leafy greens, serves as a substrate for this biochemical pathway. The conversion of nitrate to nitrite is crucial for recycling NO bioactivity, highlighting the interconnected roles of nitrate and nitrite in physiological processes, particularly in the oral cavity where bacterial activity significantly influences their levels.",
+        "reason": "The score of 5 reflects a strong relevance between nitrate and the nitrate-nitrite pathway, as the context explicitly discusses their biochemical relationship and the role of oral bacteria in this conversion, emphasizing their critical roles in NO production.",
+        "score": 5
+    }
+}

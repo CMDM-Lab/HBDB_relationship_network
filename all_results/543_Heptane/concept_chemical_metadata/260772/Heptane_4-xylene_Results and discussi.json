@@ -1,0 +1,10 @@
+{
+    "context": "The TTVOC concentration ranged from 16.1gm\u22123 at 5\u00b0C to 63.9gm\u22123 at 40\u00b0C. The headspace vapor was dominated by high volatility compounds, and the vapor fraction of several of the most prevalent VOCs in the liquid fuel (e.g., p-, m-xylene and 1,2,4-trimethylbenzene) was low. Supplemental Table A.4 lists VOC compositions (as the fraction of TTVOC) of gasoline vapor measured in four studies reporting compounds similar to those measured here. Benzene, toluene, p-,m-xylene, cyclohexane and n-heptane were the top five VOCs (among our target VOCs) measured in Chicago (Doskey et al., 1992), Atlanta (Conner, 1995) and South Korea (Na et al., 2004), while toluene, cyclohexane, methyl cyclohexane, n-heptane and benzene were the top VOCs in California reformulated gasoline vapor (Harley et al., 2000). Gasoline in Michigan had cyclohexane, methyl cyclohexane and n-heptane at similar fractions to the California reformulated gasoline vapor, but levels were 6\u20137 times higher than those in Chicago and Atlanta; and benzene had similar fractions across the studies with the exception of California, which had levels less than half those elsewhere. As noted for the liquid fuels, results can vary by brand, season, location, formulation and year. Vapor compositions are also affected by test conditions, e.g., temperature and measured compounds. ",
+    "term_A": "Heptane",
+    "term_B": "4-xylene",
+    "llm_generation": {
+        "summary": "In this context, heptane and 4-xylene are both mentioned as components of volatile organic compounds (VOCs) found in gasoline vapor. However, their specific relationship is not detailed, as they are listed among other VOCs without any direct interaction or comparative analysis. The focus is on the overall composition of VOCs rather than on the individual roles or interactions of heptane and 4-xylene.",
+        "reason": "The score of 2 reflects a low relevance, as heptane and 4-xylene are both identified as VOCs in gasoline vapor but are not discussed in terms of their interaction or specific significance within the context.",
+        "score": 2
+    }
+}

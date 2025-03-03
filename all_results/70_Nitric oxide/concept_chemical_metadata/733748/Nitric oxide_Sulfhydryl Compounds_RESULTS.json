@@ -1,0 +1,10 @@
+{
+    "context": "[1] Effect of NO on TNF -\u00ce\u00b1-dependent generation of H2O2. [2] Changes in the intracellular H2O2 levels of AD10 cells treated with TNF-\u00ce\u00b1 in the presence or absence of the NO donor SNAP (500 \u00ce\u00bcm) were assessed by fluorescence flow cytometry. [3] ***, p < 0.001. [1] Nitric oxide has been shown to directly affect the structure of NF-\u00ce\u00baB and decrease its DNA-binding ability due to thiol modification of critical amino acid residues . [2] To determine the direct effect of nitric oxide on the activation of NF-kB, we used an enhanced green fluorescent protein-based reporter system driven by four tandem-repeated \u00ce\u00baB responsive elements linked to the thymidine kinase minimal promoter (pNF-\u00ce\u00baB-d2EGFP). [3] We transiently transfected AD10 cells with the pNF-\u00ce\u00baB-d2EGFP reporter vector and then stimulated the cells in the presence or absence of 500 \u00ce\u00bcm SNAP. [4] Cytofluorometric analysis of these cells revealed a significant activation of the reporter gene by TNF-\u00ce\u00b1 and H2O2, and the extent of activation was a function of the concentrations used. ",
+    "term_A": "Nitric oxide",
+    "term_B": "Sulfhydryl Compounds",
+    "llm_generation": {
+        "summary": "In this context, nitric oxide (NO) is shown to interact with sulfhydryl compounds by modifying thiol groups on critical amino acid residues of NF-\u03baB, thereby affecting its DNA-binding ability. This thiol modification is significant in the context of TNF-\u03b1-induced oxidative stress, indicating a direct biochemical relationship between NO and sulfhydryl compounds in cellular signaling pathways.",
+        "reason": "The score of 4 reflects a significant connection between nitric oxide and sulfhydryl compounds, as the context discusses the direct modification of NF-\u03baB by NO through thiol interactions, highlighting their importance in cellular signaling and oxidative stress responses.",
+        "score": 4
+    }
+}

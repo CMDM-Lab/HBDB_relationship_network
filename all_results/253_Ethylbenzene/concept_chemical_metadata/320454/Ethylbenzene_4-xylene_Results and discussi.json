@@ -1,0 +1,10 @@
+{
+    "context": "Since the background concentrations in the empty chamber were either undetected or trace amounts, the level of C o was ignored. The Q s were 0.025, 0.05, and 0.1 m3 h\u22121 for ACHs of 0.5, 1, and 2, respectively. The emission rates of six target VOCs obtained from seven products, under the conditions of ACH=1, were estimated with empirical model curve equations (Table 2). Limonene exhibited the highest emission rate, followed by m,p-xylene, toluene, ethyl benzene, and benzene in that order. The maximum emission rate for limonene (1560\u03bcgh\u22121) was about 184 times that of benzene (8.5\u03bcgh\u22121). Table 3 presents the model parameters and the emission rates that were obtained from AF_7, under three ACH conditions (0.5, 1, and 2h\u22121). Most correlation coefficients were more than 0.90. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "4-xylene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and 4-xylene are both mentioned as volatile organic compounds (VOCs) whose emission rates were estimated from various products. However, the relationship between them is not explicitly discussed, and they are simply listed among other VOCs without any direct interaction or comparative analysis provided. Their mention is part of a broader study on VOC emissions rather than a focused examination of their relationship.",
+        "reason": "The score of 2 reflects a low relevance, as ethylbenzene and 4-xylene are included in the same study on VOC emissions but lack a detailed discussion of their interaction or significance relative to each other.",
+        "score": 2
+    }
+}

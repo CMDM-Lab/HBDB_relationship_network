@@ -1,0 +1,10 @@
+{
+    "context": "The method is applicable also for other types of samples (saliva). A larger study in cooperation with department of pulmonary diseases and tuberculosis at Brno Faculty Hospital to evaluate the GSH levels in EBC of patients with various pulmonary diseases is currently underway. [1] Protectins are newly identified natural chemical mediators that counter leukocyte activation to promote resolution of inflammation. [2] In this study, we provide the first evidence for protectin D1 (PD1, 10R,17S-dihydroxy-docosa-4Z,7Z,11E,13E,15Z,19Z-hexaenoic acid) formation from docosahexaenoic acid in human asthma in vivo and PD1 counterregulatory actions in allergic airway inflammation. [3] PD1 and 17S-hydroxy-docosahexaenoic acid were present in exhaled breath condensates from healthy subjects. [4] Of interest, levels of PD1 were significantly lower in exhaled breath condensates from subjects with asthma exacerbations. [5] PD1 was also present in extracts of murine lungs from both control animals and those sensitized and aerosol challenged with allergen. ",
+    "term_A": "Docosahexaenoic acid",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, docosahexaenoic acid (DHA) is linked to asthma through its role in the formation of protectin D1 (PD1), a mediator that counteracts inflammation in allergic airway conditions. The study indicates that PD1, derived from DHA, is present in lower levels in exhaled breath condensates of asthma patients during exacerbations, suggesting a potential protective role of DHA in managing asthma-related inflammation.",
+        "reason": "The score of 4 reflects a significant connection between docosahexaenoic acid and asthma, supported by evidence of PD1 formation from DHA and its reduced levels in asthma exacerbations, indicating a clear relationship in the context of inflammation resolution.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Temperature throughout the duration of the experiment varied between 18 and 23\u00b0C. Both treatment columns and the control column included a contaminant zone containing 10mL of pure phase TCE (0.11mol) amended with 100mg/L Sudan IV dye for visualization through the transparent column walls. The pure phase TCE was injected slowly into the lowermost port (h=6.5cm) of the column below the gravel layer using a 6\u2033 syringe. For the ISCO column, 100mL of 667g/L (40wt%) sodium permanganate (NaMnO4) solution (Sigma-Aldrich) was injected into the treatment zone, which represents a 1.8\u00d7excess and thus was not anticipated to be a limiting reagent for the treatment of TCE. The treatment zone of the ISCO column was initially packed with clean sand. For the enhanced bioremediation column, the treatment zone was packed with sand mixed with sediments from a local TCE-contaminated site containing a seed microbial population capable of performing reductive dechlorination of TCE, and injected with 100mL of a 20g/L sodium acetate solution to act as the primary substrate. Acetate was selected as a primary substrate based on results from a preliminary batch reactor experiment, which determined that acetate was capable of sustaining vigorous microbial activity. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "sodium permanganate",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) and sodium permanganate are related through a bioremediation experiment where sodium permanganate is used as an oxidizing agent to treat TCE contamination. The sodium permanganate solution is injected into a treatment column containing TCE, indicating its role in enhancing the degradation of TCE, although the specific mechanisms of interaction are not detailed.",
+        "reason": "The score of 4 reflects a significant connection between TCE and sodium permanganate, as the latter is employed in the treatment process to remediate TCE contamination. The context provides evidence of sodium permanganate's role in the degradation of TCE, indicating a clear functional relationship.",
+        "score": 4
+    }
+}

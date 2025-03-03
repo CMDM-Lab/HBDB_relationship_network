@@ -1,0 +1,10 @@
+{
+    "context": "Additionally, the operational conditions of links, o-rings, seals and septa were also verified and appropriately replaced when necessary. The sampling bulb was previously purged with pure N2 (99.999%, Praxair, Portugal) in order to reduce ambient air contamination, guaranteeing an airtight collecting system, free from chemicals and microorganisms from the ambient air.Chemicals and standard mixtures preparation The standards used for calibration experiments were prepared in carbon disulfide, from Sigma and Fluka chemicals, with a purity of at least 98%. Stock solutions of pentane, heptane, octane, decane, benzene, toluene and styrene, respectively, were prepared in 50.0mL volumetric flasks. Five standards were then prepared by taking appropriate aliquots of the stock solutions and serially diluting them with carbon disulfide in 25.0mL volumetric flasks. The solutions were mixed in an ultrasonic bath for 15min and refrigerated at 4\u00b0C. For analysis, 5\u03bcL aliquots of the solutions were injected into the sampling bulb, using a microsyringe (Hamilton, Bonaduz, Switzerland). ",
+    "term_A": "Heptane",
+    "term_B": "pentane",
+    "llm_generation": {
+        "summary": "In this context, heptane and pentane are both mentioned as components of stock solutions prepared for calibration experiments. They are part of a series of aliphatic hydrocarbons used in the study, but there is no specific discussion of their interactions, properties, or any functional relationship beyond their inclusion in the same experimental setup. Their mention is primarily for the purpose of standardization in chemical analysis.",
+        "reason": "The score of 2 reflects a low relevance, as heptane and pentane are listed together in the context of preparing calibration standards. They share a general category as aliphatic hydrocarbons, but there is no detailed discussion of their relationship or interactions.",
+        "score": 2
+    }
+}

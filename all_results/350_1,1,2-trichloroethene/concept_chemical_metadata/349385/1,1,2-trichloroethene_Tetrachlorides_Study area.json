@@ -1,0 +1,10 @@
+{
+    "context": "Kaown et al. (2014b) previously estimated groundwater flow velocities at the study site by means of 3H\u20133He analysis. The groundwater flow velocities (1.9\u00d710\u22126 to 2.1\u00d710\u22125 m/s) estimated around a stream were about ten times slower than those for the main source area (9.8\u00d710\u22126 to 1.2\u00d710\u22124 m/s). According to the results from pumping and slug tests conducted in this study, the hydraulic conductivity values range between 2.0\u00d710\u22124 cm/s and 2.4\u00d710\u22123 cm/s and values in the area around the stream range between 6.5\u00d710\u22124 cm/s and 4.2\u00d710\u20133 cm/s. Previous research has reported that the groundwater at this site is contaminated by multiple DNAPL components, such as trichloroethylene (TCE), chloroform (CF), and tetrachloride (CT) (Yang and Lee, 2012; Kaown et al., 2014a). The main source of the contaminants is located inside the ROA. Local TCE sources of groundwater contaminants exist near GW-10, GW-11, and GW-19 wells, which are located in the downgradient area. Site monitoring and investigation was performed intensively from 2009 to 2013 as part of a research program for the Korea Ministry of the Environment (KMME). ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Tetrachlorides",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene and tetrachlorides are both mentioned as contaminants found in groundwater, specifically as components of dense non-aqueous phase liquids (DNAPLs). While they are part of a broader discussion on groundwater contamination, there is no direct interaction or specific relationship detailed between the two compounds beyond their shared presence in the contaminated site.",
+        "reason": "The score of 2 reflects an indirect connection, as both 1,1,2-trichloroethene and tetrachlorides are identified as contaminants in the same environmental context, but their relationship is not elaborated upon or quantitatively assessed.",
+        "score": 2
+    }
+}

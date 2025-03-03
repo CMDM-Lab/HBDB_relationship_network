@@ -1,0 +1,10 @@
+{
+    "context": "Acrolein concentration was stable untill 40min after elution. Decomposition of carbonyl compounds were observed in the carbon disulfide/methanol solution. We have observed that all carbonyl compounds are not decomposed in the methanol solution. Therefore, it was suggested that some carbonyl compounds may react with carbon disulfide. We have also confirmed that triethanolamine inhibits the decomposition of carbonyl compounds, with the exception of acrolein. Nicotine collected with the CFP was at the highest concentration of the compounds in the eluate. Therefore, it was suggested that amines such as nicotine and triethanolamine inhibit the decomposition of carbonyl compounds. ",
+    "term_A": "Methanedithione",
+    "term_B": "carbonyl compound",
+    "llm_generation": {
+        "summary": "In this context, Methanedithione is indirectly related to carbonyl compounds through the discussion of their stability and decomposition in a carbon disulfide/methanol solution. While the text mentions carbonyl compounds and their reactions, Methanedithione is not explicitly linked to any specific interactions or effects on carbonyl compounds, indicating a lack of direct relevance between the two terms.",
+        "reason": "The score of 2 reflects an indirect connection, as both Methanedithione and carbonyl compounds are mentioned in the context of chemical reactions, but there is no detailed discussion of their specific relationship or interactions.",
+        "score": 2
+    }
+}

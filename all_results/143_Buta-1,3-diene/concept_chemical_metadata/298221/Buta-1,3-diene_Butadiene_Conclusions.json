@@ -1,0 +1,10 @@
+{
+    "context": "Acrolein does not show this behavior, suggesting different mechanisms for acrolein and 1,3-butadiene formation in MS cigarette smoke. All carbon-filtered cigarette models retained the higher 1,3-butadiene delivery in the lighting puff. The acrolein and 1,3-butadiene first puff deliveries were not affected by using either a yellow flame butane or electric lighter. The total cigarette MS deliveries of 1,3-butadiene and acrolein are similar to the deliveries measured using the VOC GC/MS and carbonyl derivative HPLC methods, respectively. Human disease risk for an environmental contaminant is a function of exposure intensity. However, if the substance is metabolically activated and deactivated, which includes many chemical carcinogens, the risk does not depend on exposure intensity alone, but also depends on metabolism. 1,3-Butadiene (BD) is such a chemical. ",
+    "term_A": "Buta-1,3-diene",
+    "term_B": "Butadiene",
+    "llm_generation": {
+        "summary": "In this context, Buta-1,3-diene and Butadiene refer to the same compound, 1,3-butadiene, which is a known environmental contaminant and chemical carcinogen. The text discusses the formation and delivery of 1,3-butadiene in cigarette smoke, highlighting its relevance as a metabolically activated substance that poses health risks. The terms are used interchangeably, indicating a direct relationship as they represent the same chemical entity.",
+        "reason": "The score of 5 reflects a direct and critical relationship between Buta-1,3-diene and Butadiene, as they are essentially the same compound discussed in the context of health risks associated with cigarette smoke.",
+        "score": 5
+    }
+}

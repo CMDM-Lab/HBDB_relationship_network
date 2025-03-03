@@ -1,0 +1,10 @@
+{
+    "context": "A cubic simulation box with a side of 33.7\u202f\u00c5 in length was considered and 64 BSUs were randomly packed in it and placed periodic boundary conditions. GCMC simulation was implemented using the sorption module of the Material Studio. Further details of GCMC simulation protocol adopted in this work, including details of the potential cut-offs, number of Monte Carlo moves per adsorption point, type and weight of Monte Carlo moves and other parameters, were provided in the SI file. Adsorption equilibrium isotherms of toluene and chlorobenzene on the CDC sample were fitted with Langmuir, T\u1f78th and Dubinin\u2013Astakhov (D\u2013A) isotherm models (Mertens, 2009; Purewal et\u00a0al., 2012). Dynamic adsorption and desorption behaviors The adsorption breakthrough and TPD curves of chlorobenzene and toluene on CDC and CAC are shown in Fig.\u00a02 , and corresponding parameters are collected in Table\u00a01 . It can be seen that the dynamic adsorption capacity decreases with the order of CSDC\u202f>\u202fCAC (272 and 252\u202fmg/g for chlorobenzene, respectively). Meanwhile, chlorobenzene is adsorbed more easily than toluene for the same adsorbent due to its shorter breakthrough time but higher capacity. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "chlorobenzene",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is discussed in relation to its adsorption characteristics compared to toluene within a simulation study. The results indicate that chlorobenzene is adsorbed more easily than toluene on CDC and CAC adsorbents, as evidenced by its shorter breakthrough time and higher dynamic adsorption capacity. This highlights the specific interaction and comparative behavior of chlorobenzene in adsorption processes.",
+        "reason": "The score of 5 reflects a direct and strong relevance between chlorobenzene and its adsorption properties, as the context provides clear evidence of its behavior compared to toluene, establishing a critical relationship in the study of adsorption dynamics.",
+        "score": 5
+    }
+}

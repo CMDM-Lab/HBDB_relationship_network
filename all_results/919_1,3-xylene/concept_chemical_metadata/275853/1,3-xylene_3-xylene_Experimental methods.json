@@ -1,0 +1,10 @@
+{
+    "context": "The incinerator was supplied 10\u00a0L/min of air flow rate. A thermocouple was used to detect the inner temperature of the incinerator. The ash ratios of AC were also determined. Ten gram wood-based AC (DDG-480, Kaya Activated Carbon, Inc., Korea) saturated with toluene, m-xylene, and ethylbenzene were investigated, respectively. AC was pre-burnt by a gas torch. Composition ratios of VOCs emitted from coating materials In terms of marine SCMs, the most abundant VOCs were toluene, ethylbenzene, and xylene. m/p-Xylene was the most abundant target VOCs among marine SCMs (Table\u00a0S2). ",
+    "term_A": "1,3-xylene",
+    "term_B": "3-xylene",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene and 3-xylene are both mentioned as components of volatile organic compounds (VOCs) emitted from coating materials. However, the context does not provide specific details about their individual roles or interactions. They are grouped under the broader category of xylene isomers, but no direct relationship or comparison between 1,3-xylene and 3-xylene is established.",
+        "reason": "The score of 2 reflects a low relevance, as both 1,3-xylene and 3-xylene are mentioned in the same context related to VOC emissions, but their relationship is not elaborated upon, indicating only a general connection as isomers without specific interactions.",
+        "score": 2
+    }
+}

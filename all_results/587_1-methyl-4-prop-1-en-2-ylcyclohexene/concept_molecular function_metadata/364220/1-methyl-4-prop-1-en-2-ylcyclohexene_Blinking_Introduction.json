@@ -1,0 +1,10 @@
+{
+    "context": "The mixture was used as such or admixed ozone to a steady-state concentration of 0.04ppm. The admixing of ozone did not increase symptom rating (Fiedler et al., 2005). Eye irritation in humans was indicated from an eye alone exposure study to LOP. The eye blink frequency, as a physiological measure of trigeminal stimulation, increased significantly by exposure to LOP generated from \u22650.092ppm limonene and \u22650.101ppm ozone. The ratio between the limonene and ozone concentrations was about one in each LOP mixture and the residual ozone was about 0.04ppm (N\u00f8jgaard et al., 2005). Overall, this suggests an exposure-dependent effect of acute LOP exposure, but how the acute effects should be translated into indoor air guidelines at repeated exposures are less clear. Little is known about exposure-effects of repeated exposures to ozone-initiated terpene reaction products except for isoprene and ozone. ",
+    "term_A": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "term_B": "Blinking",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene (a component of limonene) is indirectly related to blinking through its role in generating LOP (light-activated ozone products) when mixed with ozone. The study indicates that exposure to LOP significantly increases eye blink frequency, suggesting a physiological response to eye irritation caused by these compounds. However, the specific role of 1-methyl-4-prop-1-en-2-ylcyclohexene in this response is not detailed, making the connection more about the broader category of compounds involved rather than a direct relationship.",
+        "reason": "The score of 3 reflects a moderate relevance, as the increase in blink frequency is associated with exposure to LOP generated from limonene and ozone, which includes 1-methyl-4-prop-1-en-2-ylcyclohexene. However, the specific interaction between the two terms is not explicitly detailed.",
+        "score": 3
+    }
+}

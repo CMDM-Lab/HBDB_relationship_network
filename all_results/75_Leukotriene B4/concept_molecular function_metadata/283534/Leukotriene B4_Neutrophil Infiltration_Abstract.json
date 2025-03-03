@@ -1,0 +1,10 @@
+{
+    "context": " [6] However, pretreatment with the PAF antagonist affected neither substance P-induced neutrophil nor eosinophil infiltration at 6 h.  [7] A LTC4/D4 antagonist ONO-1078 and a histamine H1 antagonist chlorpheniramine had no effect on the granulocyte infiltration, either.  [8] The LTB4 antagonist also decreased substance P-induced neutrophil, but not eosinophil, infiltration into mouse skin at 24 h.  [9] In contrast, the PAF antagonist inhibited Ag-induced eosinophil infiltration of mouse skin, whereas the LTB4 antagonist inhibited the Ag-induced neutrophil infiltration. [10] We conclude that LTB4 is a major mast cell-derived chemotactic mediator for initiating substance P-induced neutrophil and eosinophil infiltration into mouse skin. [11] Our results suggest that LTB4 antagonists might be useful in preventing such neurogenic inflammation.  [1] Systemic sclerosis (SSc) and vibration induced white finger syndrome (VWF) are common causes of secondary Raynaud's phenomenon. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Neutrophil Infiltration",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is identified as a significant chemotactic mediator that promotes neutrophil infiltration in response to substance P-induced inflammation in mouse skin. The study indicates that antagonists of LTB4 can effectively reduce neutrophil infiltration, suggesting a critical role for LTB4 in mediating inflammatory responses involving neutrophils. This highlights the direct relationship between LTB4 and neutrophil infiltration in the context of neurogenic inflammation.",
+        "reason": "The score of 5 reflects a strong and direct relationship between LTB4 and neutrophil infiltration, as the context provides clear evidence of LTB4's role in promoting neutrophil migration and the effectiveness of its antagonists in reducing this infiltration.",
+        "score": 5
+    }
+}

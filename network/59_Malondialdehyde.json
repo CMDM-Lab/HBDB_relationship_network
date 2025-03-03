@@ -1,0 +1,1011 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Malondialdehyde",
+                    "label": "Malondialdehyde",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Malondialdehyde",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Malondialdehyde",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Malondialdehyde",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Malondialdehyde",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Malondialdehyde",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Malondialdehyde",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Malondialdehyde",
+                        "label": "Malondialdehyde",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Asthma",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Malondialdehyde",
+                        "label": "Malondialdehyde",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tungsten",
+                        "label": "Tungsten",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ozone",
+                        "label": "Ozone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Malondialdehyde",
+                        "label": "Malondialdehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrate",
+                        "label": "Nitrate",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Tungsten",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Ozone",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Nitrite",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Malondialdehyde",
+                        "score": 15
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Nitrate",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Malondialdehyde",
+                        "label": "Malondialdehyde",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pulmonary function",
+                        "label": "pulmonary function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Accident caused by unspecified fire",
+                        "label": "Accident caused by unspecified fire",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exocytosis",
+                        "label": "Exocytosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Vital capacity",
+                        "label": "Vital capacity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "pulmonary function",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Accident caused by unspecified fire",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Exhalation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Exocytosis",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Vital capacity",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Lipid Peroxidation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Malondialdehyde",
+                        "target": "Respiratory physiology",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Malondialdehyde",
+                        "label": "Malondialdehyde",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Malondialdehyde",
+                        "label": "Malondialdehyde",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Malondialdehyde",
+                        "label": "Malondialdehyde",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Asthma_Discussion.json",
+                        "label": "In this context, malondialdehyde (MDA) is identified as a biomarker of oxidative stress associated with traffic-related pollutants, particularly in children with asthma. The study highlights that increased MDA levels in exhaled breath condensate (EBC) correlate with lower lung function and elevated IL-8 secretion, suggesting that MDA may serve as a useful tool for assessing the impact of air pollution on asthma patients. This indicates a significant relationship between MDA and asthma, particularly in the context of environmental exposure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Asthma_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Tungsten": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Tungsten",
+                        "label": "Tungsten",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Tungsten_Discussion.json",
+                        "label": "In this context, malondialdehyde is highlighted as a potential biomarker for oxidative stress, particularly in workers exposed to various pollutants, including tungsten. Elevated levels of malondialdehyde have been observed in the exhaled breath condensate (EBC) of individuals exposed to tungsten, indicating a relationship between tungsten exposure and oxidative stress as measured by malondialdehyde levels. This suggests that tungsten may contribute to oxidative damage, which is reflected in increased malondialdehyde concentrations.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Tungsten",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Tungsten_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Ozone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ozone",
+                        "label": "Ozone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Ozone_Methods.json",
+                        "label": "In this context, malondialdehyde (MDA) is analyzed in relation to traffic-related pollutants, including ozone. The study investigates the association between MDA levels in exhaled breath condensate (EBC) and exposure to ozone, among other pollutants. The statistical analysis aims to determine how varying levels of ozone exposure correlate with MDA, a marker of oxidative stress and lipid peroxidation, suggesting a potential link between ozone pollution and increased oxidative damage in individuals exposed to traffic-related air pollutants.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Ozone_Results.json",
+                        "label": "In this context, malondialdehyde (MDA) is presented as a biomarker for oxidative stress associated with exposure to ozone. The study indicates that an increase in malondialdehyde levels correlates with ozone exposure, as well as with traffic-related pollutants. The significant association between ozone and malondialdehyde suggests that ozone exposure may contribute to oxidative damage, which is further linked to adverse health outcomes such as reduced lung function and increased inflammatory markers.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Ozone_Discussion.json",
+                        "label": "In this context, malondialdehyde is presented as a biomarker of oxidative stress that varies with exposure to air pollutants, particularly ozone and PM2.5. The study indicates that malondialdehyde levels can reflect the extent of oxidative stress injury caused by pollutants, suggesting a direct relationship between ozone exposure and increased malondialdehyde levels in children with asthma. This connection highlights the role of ozone as a significant contributor to oxidative stress and its potential health impacts.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ozone",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Ozone_Methods.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Ozone_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Ozone_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Nitrite": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrite",
+                        "label": "Nitrite",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Nitrite_Discussion.json",
+                        "label": "In this context, malondialdehyde and nitrite are both mentioned as biological markers of oxidative stress, particularly in relation to exposure to diesel exhaust. The study indicates that higher levels of malondialdehyde were observed alongside increased nitrite+nitrate levels in workers exposed to diesel, suggesting a potential relationship where both compounds may reflect oxidative damage and stress in the body due to environmental pollutants.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrite",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Nitrite_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Malondialdehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Malondialdehyde",
+                        "label": "Malondialdehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Malondialdehyde_Methods.json",
+                        "label": "In this context, malondialdehyde (MDA) is evaluated as a biomarker for oxidative stress and its association with pulmonary function and inflammatory markers such as IL-8. The study investigates how MDA levels correlate with forced vital capacity (FVC) and FEV1 in relation to asthma severity and pollutant exposure. The analysis suggests that MDA levels may provide insights into respiratory health outcomes, particularly in children exposed to environmental pollutants.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Malondialdehyde_Discussion.json",
+                        "label": "In this context, malondialdehyde (MDA) is highlighted as a biomarker for oxidative stress related to traffic-related pollutants, particularly in children with asthma. The study demonstrates that elevated MDA levels correlate with reduced lung function and increased IL-8 secretion, indicating its potential utility in epidemiological studies of air pollution effects on respiratory health. The focus on MDA emphasizes its significance in assessing the impact of environmental factors on health outcomes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Malondialdehyde_Results.json",
+                        "label": "In this context, malondialdehyde is discussed as a biomarker associated with health outcomes, particularly lung function and inflammation. The study shows that higher levels of malondialdehyde correlate with decreased FEV1 and FVC, as well as increased IL-8 levels in nasal lavage. This indicates that malondialdehyde is directly related to the adverse effects of traffic-related pollutants on respiratory health, highlighting its potential as a noninvasive marker in epidemiological studies.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Malondialdehyde",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Malondialdehyde_Methods.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Malondialdehyde_Discussion.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Malondialdehyde_Results.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Nitrate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrate",
+                        "label": "Nitrate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Nitrate_Discussion.json",
+                        "label": "In this context, malondialdehyde (MDA) and nitrate are both mentioned as biological markers associated with oxidative stress, particularly in individuals exposed to diesel exhaust. The study indicates that higher levels of malondialdehyde correlate with increased nitrite+nitrate levels in plasma, suggesting a potential relationship where both compounds may serve as indicators of oxidative damage in occupational settings. However, the specific interaction between MDA and nitrate is not deeply explored beyond their association with oxidative stress.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrate",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Nitrate_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "pulmonary function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pulmonary function",
+                        "label": "pulmonary function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_pulmonary function_Methods.json",
+                        "label": "In this context, malondialdehyde (MDA) levels are evaluated for their association with pulmonary function, specifically forced vital capacity (FVC) and FEV1. The study employs generalized estimating equation models to analyze how changes in MDA levels correlate with lung function metrics, indicating a potential link between oxidative stress, as represented by MDA, and respiratory health outcomes. The analysis also considers asthma severity as a modifying factor in this relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pulmonary function",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_pulmonary function_Methods.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Accident caused by unspecified fire": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Accident caused by unspecified fire",
+                        "label": "Accident caused by unspecified fire",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Accident caused by unspecified fire_Discussion.json",
+                        "label": "In this context, malondialdehyde is discussed as a marker of oxidative stress resulting from lipid peroxidation, particularly in relation to exposure to air pollutants and occupational hazards. However, there is no direct connection or mention of an accident caused by unspecified fire, making the relationship between malondialdehyde and such an accident unclear and coincidental at best.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Accident caused by unspecified fire",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Accident caused by unspecified fire_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Exhalation_Discussion.json",
+                        "label": "In this context, malondialdehyde (MDA) is identified as a biomarker measured in exhaled breath condensate (EBC) to assess the effects of traffic-related pollutants on lung function in children with asthma. The study highlights the association between elevated MDA levels and decreased lung function, indicating that exhalation of MDA can reflect oxidative stress due to environmental exposures. This suggests a significant relationship between MDA and exhalation as a means of monitoring respiratory health in susceptible populations.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Exhalation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Exocytosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exocytosis",
+                        "label": "Exocytosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Exocytosis_Discussion.json",
+                        "label": "In this context, malondialdehyde (MDA) is identified as a biomarker of oxidative stress associated with traffic-related pollutants, particularly in children with asthma. While the study highlights the role of MDA in lung function and inflammation (e.g., IL-8 secretion), it does not explicitly connect MDA to exocytosis. Exocytosis, a cellular process for releasing substances, may be indirectly related to the inflammatory response but is not directly discussed in relation to MDA in this study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exocytosis",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Exocytosis_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Vital capacity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Vital capacity",
+                        "label": "Vital capacity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Vital capacity_Methods.json",
+                        "label": "In this context, malondialdehyde levels are evaluated in relation to pulmonary function, specifically forced vital capacity (FVC) and FEV1. The study employs generalized estimating equation models to assess the association between malondialdehyde and these measures of lung function, indicating a potential link between oxidative stress (as indicated by malondialdehyde) and respiratory health outcomes. However, the specific nature of this relationship is not fully detailed, focusing instead on statistical associations.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Vital capacity",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Vital capacity_Methods.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Lipid Peroxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Lipid Peroxidation_Discussion.json",
+                        "label": "In this context, malondialdehyde (MDA) is discussed as a potential biomarker for oxidative stress, which is often a consequence of lipid peroxidation. Although MDA is not a specific product of lipid peroxidation, it is frequently used to indicate oxidative damage in biological samples. The study highlights the correlation between elevated MDA levels and oxidative stress in various occupational exposures, suggesting that while MDA can signal lipid peroxidation, its reliability as a sole marker is debated.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lipid Peroxidation",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Lipid Peroxidation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Respiratory physiology": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748",
+                        "label": "Exhaled breath malondialdehyde as a marker of effect of exposure to air pollution in children with asthma.\nI. Romieu, A. Barraza-Villarreal, C. Escamilla-Nuñez, AC. Almstrand, D. Diaz-Sanchez, PD. Sly, AC. Olin\nJ. Allergy Clin. Immunol. 2008 Apr;121(4):903-9.e6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18234317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105748_Malondialdehyde_Respiratory physiology_Discussion.json",
+                        "label": "In this context, malondialdehyde (MDA) is identified as a biomarker for oxidative stress related to traffic-related pollutants, which negatively impacts respiratory physiology, particularly lung function in children with asthma. The study highlights the association between elevated MDA levels in exhaled breath condensate (EBC) and decreased lung function, indicating its potential role in assessing respiratory health in polluted environments.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory physiology",
+                        "target": "105748",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105748",
+                        "target": "105748_Malondialdehyde_Respiratory physiology_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

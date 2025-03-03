@@ -1,0 +1,10 @@
+{
+    "context": "[5] Detrimental effects may occur at low ambient levels, but there is no scientific consensus on this matter. [6] PM10 is causing concern in the scientific community. [7] Blood lead accumulation during exercise indicates that personal exposure to toxic compounds associated with PM10 may be magnified. [8] Generally, outdoor ambient levels of SO2 are too low to cause a problem to the athlete, except the asthmatic athlete. [9] The few studies on exposure of exercisers to VOCs are reviewed. [1] Conclusions\u00e2\u20ac\u201dAthletes and exercisers should avoid exercising by the road side even though levels of the more noxious air pollutants have been controlled in the United Kingdom. [2] O3 is particularly damaging to athletes; it reaches its highest concentrations on hot bright days in rural areas. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is mentioned as a potential concern for athletes, particularly those with asthma. While ambient levels of SO2 are generally considered too low to pose a risk to healthy individuals, asthmatic athletes may experience detrimental effects from exposure. This highlights a specific vulnerability of asthmatic individuals to SO2, suggesting a direct relationship between the pollutant and asthma exacerbation during exercise.",
+        "reason": "The score of 4 reflects a significant connection between sulfur dioxide and asthma, as the context indicates that asthmatic athletes are particularly at risk from SO2 exposure, supported by the mention of specific studies and the implications for exercise.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The results are compared to Florida's groundwater cleanup target levels (GWCTLs). Other details such as quality assurance/quality control (QA/QC) results can be found elsewhere.VOC analysis 4.1.1 Total VOC Results from the total VOC analyses are summarized in Table\u00a05 . Only a few VOC compounds, including trichlorofluoromethane, toluene, 4-isopropyltoluene, trimethylbenzene, xylenes, and methylene chloride, were routinely found in the recovered soil fines samples. Trichlorofluoromethane, a widely used halocarbon aerosol propellant and refrigerant, could have resulted from old air conditioning units or refrigerators. Toluene and xylenes are commonly used as solvents for oil varnish, paints, resins, and enamels. They are also common fuel components. ",
+    "term_A": "1-methyl-4-propan-2-ylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-propan-2-ylbenzene (also known as 4-isopropyltoluene) is mentioned alongside toluene as part of a list of volatile organic compounds (VOCs) found in soil samples. Both compounds are noted for their common use as solvents and fuel components. However, the context does not elaborate on any specific interactions or functional relationships between 1-methyl-4-propan-2-ylbenzene and toluene beyond their shared classification as VOCs.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as both compounds are categorized as VOCs and mentioned together in the context of environmental analysis, but there is no detailed discussion of their relationship or interactions.",
+        "score": 2
+    }
+}

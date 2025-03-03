@@ -1,0 +1,10 @@
+{
+    "context": "Cytotoxicity Viability of fibroblasts in dermal equivalents was assessed using the MTT assay. Exposure to m-xylene resulted in a time- and dose-dependent decrease in fibroblast viability after 1- or 4-h (Fig. 1 ). Using non-linear regression analysis of dermal equivalent viability plotted against the calculated fibroblast concentration, the EC50 were calculated to be 1481.1\u00b188.2 and 930.4\u00b132.5 \u03bcg m-xylene/g cells at 1 and 4 h, respectively (Table 1 ). The observed EC50 at 1 h was \u224860% higher than the EC50 at 4 h.Endogenous catalase and thiol levels Endogenous catalase activity in the living dermal equivalents exposed to m-xylene decreased in a temporal and dose-dependent manner (Fig. 2 ). At 1 and 4 h, catalase activity decreased significantly (P<0.05) with increasing chemical concentration. The mean (\u00b1S.E.M.) observed changes in absorbance values at 240 nm per minute (normalized to protein), reflecting catalase activity in the sham-exposed controls, were 0.037\u00b10.001 and 0.042\u00b10.002 ",
+    "term_A": "1,3-xylene",
+    "term_B": "catalase activity",
+    "llm_generation": {
+        "summary": "In this context, 1,3-xylene exposure is linked to a decrease in catalase activity in fibroblasts within dermal equivalents. The study shows that as the concentration of m-xylene increases, catalase activity declines in a time- and dose-dependent manner, indicating a potential toxic effect of 1,3-xylene on cellular antioxidant defenses. This suggests that 1,3-xylene may impair the ability of fibroblasts to manage oxidative stress, as evidenced by the significant reduction in catalase activity observed at both 1 and 4 hours post-exposure.",
+        "reason": "The score of 4 reflects a significant connection between 1,3-xylene and catalase activity, supported by quantitative data showing a clear dose-dependent decrease in catalase activity due to m-xylene exposure. This indicates a relevant interaction in the context of cellular toxicity and oxidative stress.",
+        "score": 4
+    }
+}

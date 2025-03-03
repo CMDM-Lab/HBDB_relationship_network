@@ -1,0 +1,10 @@
+{
+    "context": "[4] HCN is therefore not an in vitro or in vivo marker of BCC. [1] The volatile compound hydrogen cyanide (HCN) has been shown to be an in vitro marker of Pseudomonas aeruginosa, and the factors that affect its production have been established . [2] HCN is also an in vivo marker of P. aeruginosa infection when measured in exhaled breath . [3] In children with cystic fibrosis (CF), mouth- or nose-exhaled breath can be used as healthy children have low or undetectable HCN levels . [4] As healthy adults generate HCN in their mouth, only nose-exhaled breath should be used . [5] It was thought that P. aeruginosa was the only cyanogenic organism in the CF lung, but a recent study demonstrated production of the nonvolatile cyanide ion by strains of Burkholderia cepacia complex (BCC) when cultured under biofilm but not planktonic conditions . [6] We replicated the methodology of this in vitro experiment, but rather than using a selective electrode to measure cyanide ions trapped in sodium hydroxide, we used selected ion flow tube mass spectrometry (SIFT-MS) to measure the headspace concentration of HCN. ",
+    "term_A": "Formonitrile",
+    "term_B": "Cystic Fibrosis",
+    "llm_generation": {
+        "summary": "In this context, Formonitrile is indirectly related to cystic fibrosis (CF) through the discussion of hydrogen cyanide (HCN) as a volatile compound associated with Pseudomonas aeruginosa infections in CF patients. While HCN is mentioned as a marker for P. aeruginosa in exhaled breath of CF patients, Formonitrile itself is not directly discussed or linked to CF or its pathology. The focus is primarily on HCN and its implications in CF rather than on Formonitrile's role.",
+        "reason": "The score of 2 reflects an indirect connection, as Formonitrile is not explicitly linked to cystic fibrosis in the context. The mention of HCN as a marker for P. aeruginosa in CF patients suggests a broader category of cyanogenic compounds, but does not establish a direct relationship with Formonitrile.",
+        "score": 2
+    }
+}

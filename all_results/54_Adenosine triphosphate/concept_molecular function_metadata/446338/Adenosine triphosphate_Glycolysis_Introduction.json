@@ -1,0 +1,10 @@
+{
+    "context": "[2] ATP is the main energy carrier that drives virtually all cellular processes. [3] Quiescent T cells rely mainly on the metabolism of glucose, amino acids, and fatty acids for ATP production, which depends on the TCA cycle and oxidative phosphorylation . [4] T cell stimulation induces a metabolic switch toward aerobic glycolysis, which allows rapidly dividing T cells to meet their extensive energetic and biosynthetic demands. [5] Because of the central role of glycolysis in proliferating T cells, mitochondrial ATP production has been considered to have a secondary, if any role in T cell activation . [6] However, recent evidence suggests that mitochondria may have a more profound role in T cell activation. [7] For example, mitochondria have been shown to accumulate at the immune synapse (IS) that T cells form with antigen-presenting cells (APC). [8] Mitochondria are thought to be necessary in order to regulate Ca2+ homeostasis and to generate reactive oxygen species that modulate signaling pathways downstream of the TCR/CD28 co-receptor . ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Glycolysis",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is highlighted as the primary energy carrier essential for cellular processes, particularly in T cells. The text discusses how T cell activation leads to a metabolic shift towards aerobic glycolysis, which is crucial for ATP production in rapidly dividing T cells. This indicates a direct relationship where glycolysis is a key pathway for generating ATP during T cell activation, emphasizing the importance of glycolysis in meeting the energy demands of these cells.",
+        "reason": "The score of 5 reflects a strong relevance between ATP and glycolysis, as glycolysis is directly responsible for ATP production in T cells during activation. The context provides clear evidence of this relationship, underscoring glycolysis's critical role in energy metabolism.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Most styrene transported through the membrane under high P d resulted in low C r and high R G in the gas membrane module. Styrene separation in the membrane module depended on styrene content in the feed stream and the pressure differences between the feed-side and permeate-side. Increasing membrane area or adding more membrane modules would benefit the treatment of off gas emissions containing high concentrations of styrene. The optimum number of membrane modules and pressure differences could be selected according to the concentration of styrene from the biofilter in actual cases. The moisture will affect the styrene permeation through the membrane. A contrast test was conducted to investigate the influence of moisture on the membrane separation efficiency. The concentration of styrene in feed stream was 226.8mgm\u22123 and the flow rate was 1.5m3 h\u22121. ",
+    "term_A": "Styrene",
+    "term_B": "Pressure- physical agent",
+    "llm_generation": {
+        "summary": "In this context, styrene is being separated through a membrane module, where the separation efficiency is influenced by the pressure differences (P d) between the feed-side and permeate-side. The relationship indicates that higher pressure can enhance the transport of styrene across the membrane, thereby affecting its concentration in the permeate. The study emphasizes the importance of optimizing pressure conditions to improve styrene separation from off-gas emissions.",
+        "reason": "The score of 4 reflects a significant connection between styrene and pressure, as the context discusses how pressure differences directly impact the separation efficiency of styrene in a membrane module. This relationship is supported by the operational details provided in the study.",
+        "score": 4
+    }
+}

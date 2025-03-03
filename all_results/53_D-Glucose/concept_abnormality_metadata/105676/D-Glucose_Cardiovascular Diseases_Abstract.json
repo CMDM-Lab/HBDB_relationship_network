@@ -1,0 +1,10 @@
+{
+    "context": "[2] We have recently reported a 31% incidence of large-for-gestational age (LGA) infants, defined as birth weight (BW) >2 SD above the mean, adjusted for gestational age (GA) and sex, in a national cohort of more than 5,000 offspring of type 1 diabetic mothers in Sweden between 1991 and 2003 . [3] Compared with data from 1982 to 1985 , the prevalence of LGA infants born to mothers with type 1 diabetes has increased by 50%. [4] High rates of fetal macrosomia in type 1 diabetic pregnancies have also been reported from other European countries . [1] High BW in offspring of type 1 diabetic mothers is associated with increased risks of obstetric and perinatal complications (\u00e2\u20ac\u201c) as well as with future risk of overweight, impaired glucose tolerance, cardiovascular disease, and diabetes (\u00e2\u20ac\u201c). [2] The increasing incidence of fetal macrosomia in type 1 diabetic pregnancies is therefore worrying and warrants an explanation. [3] The high incidence of fetal macrosomia cannot only be attributed to poor metabolic control . [4] In fact, the rate of fetal macrosomia seems to remain high, despite apparently good metabolic control . ",
+    "term_A": "D-Glucose",
+    "term_B": "Cardiovascular Diseases",
+    "llm_generation": {
+        "summary": "In this context, D-Glucose is indirectly related to cardiovascular diseases through its association with type 1 diabetes and fetal macrosomia. High birth weight (LGA) in infants born to diabetic mothers is linked to future risks of overweight, impaired glucose tolerance, and cardiovascular disease. This suggests that elevated glucose levels during pregnancy may contribute to long-term cardiovascular risks in offspring.",
+        "reason": "The score of 4 reflects a significant connection between D-Glucose and cardiovascular diseases, as high glucose levels in diabetic pregnancies are associated with increased risks of future cardiovascular issues in offspring, supported by evidence of fetal macrosomia and its implications.",
+        "score": 4
+    }
+}

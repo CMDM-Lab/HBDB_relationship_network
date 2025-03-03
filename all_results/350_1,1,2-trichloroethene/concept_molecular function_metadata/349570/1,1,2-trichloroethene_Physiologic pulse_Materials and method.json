@@ -1,0 +1,10 @@
+{
+    "context": "Table\u00a03 summarizes the experimental conditions for each series and experiment. The lysimeter experiments were conducted by first establishing steady-state air flow in the system, then injecting a pulse of gas containing TCE and/or tracers into the system. Upward flow was induced in the lysimeter, as shown in the lysimeter schematic in Fig.\u00a01. The TCE and tracer input pulses represented approximately half of the total air-filled pore volume. The pulse was displaced from the system by continual injection of tracer-free air. Air was introduced into the system using a 5-horsepower air compressor and extracted at the same flow rate using a 3/4-horsepower vacuum pump. The air was humidified to greater than 95% RH prior to injection to prevent drying of the soil during the experiment. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Physiologic pulse",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as part of a gas injection experiment in a lysimeter setup, where a pulse of gas containing TCE is introduced into the system. However, there is no direct connection or relevance to the concept of 'physiologic pulse,' which typically refers to the rhythmic expansion and contraction of arteries with each heartbeat. The two terms appear in the same context but do not interact or relate to each other functionally or conceptually.",
+        "reason": "The score of 1 reflects a lack of relationship between 1,1,2-trichloroethene and physiologic pulse, as they are mentioned in the same context without any discussion of their interaction or relevance to each other.",
+        "score": 1
+    }
+}

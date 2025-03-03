@@ -1,0 +1,10 @@
+{
+    "context": "[5] Could it be that personal exposure to other toxic compounds associated with PM10 is also increased?  [1] The effects of SO2 have been clearly documented elsewhere., ,  The gas readily dissolves in water and tends to be removed from the inspired air stream by the moist surfaces of the upper airways, especially the nasal mucosa.  [2] The threshold level for the effects of SO2 on lung function lies between 1000 and 2000 ppb in normal healthy adults.  [3] Above the threshold, resting subjects exposed to SO2 experience bronchospasm.  [4] During exercise, as oral breathing replaces nasal breathing, a corresponding increase in penetration of SO2 into the intrathoracic airways exacerbates the effect.  [5] The inspiration of 5000 ppb SO2 during exercise results in a significantly higher rate of mucociliary clearance than in exercising controls breathing air.  [6] This is a high dose, and SO2 is unlikely to occur in the UK environment at such a level, but the finding has important implications because mucociliary clearance is an important aspect of the respiratory system's defence against microorganisms and particulate pollution. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Bronchial Spasm",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is directly linked to bronchial spasm, as exposure to SO2 above a threshold level (1000-2000 ppb) can induce bronchospasm in resting subjects. The relationship is further exacerbated during exercise, where increased SO2 penetration into the airways leads to heightened bronchial response. This indicates a clear and significant impact of SO2 on respiratory function, particularly in vulnerable individuals.",
+        "reason": "The score of 5 reflects a strong and direct relationship between sulfur dioxide and bronchial spasm, supported by specific threshold levels and physiological responses documented in the context. The evidence clearly indicates that SO2 exposure can lead to bronchial constriction, especially during physical exertion.",
+        "score": 5
+    }
+}

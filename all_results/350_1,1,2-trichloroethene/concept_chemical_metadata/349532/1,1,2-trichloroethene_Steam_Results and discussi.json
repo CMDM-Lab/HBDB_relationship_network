@@ -1,0 +1,10 @@
+{
+    "context": "Fig.\u00a012b\u2013f show the TCE distributions and temperature contours at 100, 150, 200, 250, and 300min in Expt 4, respectively. The higher water saturation constrained the steam and air flow within the lower part of the domain, diverting it preferentially to the less saturated upper part. The higher water saturation also absorbed more energy and therefore slowed and reduced the TCE evaporation, resulting in a small cumulative TCE saturation (ca. 0.085) at the steam front (Fig.\u00a012b\u2013f), and slower overall TCE removal (Fig.\u00a011). This reduced the TCE accumulation at the interface of the two sand layers during at least the first 200min of the simulated period, precluding the downward movement of TCE. After this time, however, with increasing thickness of the TCE accumulation zone and less effective heating on the lower SS layer boundary, NAPL-phase TCE began to penetrate into the underlying CS layer (Fig.\u00a012e). Once the TCE entered the CS layer, the downward movement became faster as shown in Fig.\u00a012e and f. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Steam",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) and steam are related through their interaction in a simulated environment where steam is used to influence the evaporation and movement of TCE within a sand layer. The presence of steam affects the energy absorption and flow dynamics, which in turn impacts the rate of TCE removal and its accumulation at the interface of different sand layers. The study highlights how steam can modulate the behavior of TCE in a subsurface environment, particularly in terms of its evaporation and downward movement.",
+        "reason": "The score of 4 reflects a significant connection between TCE and steam, as the context provides evidence of how steam influences TCE evaporation and movement in a controlled experiment. The interaction is quantitatively assessed, showing a clear relationship in the context of environmental remediation.",
+        "score": 4
+    }
+}

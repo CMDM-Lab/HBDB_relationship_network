@@ -1,0 +1,10 @@
+{
+    "context": " [8] (B) Representative graphs of MS1 abundance of ANANSTApTVGPR.  [9] The elution times of the MS2 spectra that confirmed identification of the peptides are shown as vertical lines with short dashes. [10] (C) The relative number of peptides containing GDPD5-pT587 was calculated from the integral in the window between the vertical lines with long dashes in B using QUOIL  (mean \u00c2\u00b1 SEM, n = 3, *P < 0.05 vs. 300 mosmol/kg). [11] We conclude that GDPD5-V5-T587 is phosphorylated at 300 mosmol/kg and that high NaCl and high urea each decrease the phosphorylation. [1] To test the importance of the phosphorylation of GDPD5-T587 for its activity, we mutated GDPD5-T587 to alanine or aspartic acid, which are not phosphorylated. [2] Mutation of GDPD5-T587-V5 to alanine (Fig. 4A) or to aspartic acid (Fig. 4B) reduces GPC-PDE activity of GDPD5, as do high NaCl and high urea. [3] Because aspartic acid mimics the negative charge of phosphate, we infer that dephosphorylation of GDPD5-T587 reduces GDPD5 activity by a mechanism that does not involve altered charge, probably by an allosteric effect. ",
+    "term_A": "urea",
+    "term_B": "Phosphorylation",
+    "llm_generation": {
+        "summary": "In this context, urea is mentioned as a factor that decreases the phosphorylation of GDPD5 at the T587 site. The study indicates that high concentrations of urea, along with high NaCl, negatively impact the phosphorylation status of GDPD5, which in turn affects its enzymatic activity. This suggests a direct relationship where urea influences the phosphorylation process, thereby modulating the activity of GDPD5.",
+        "reason": "The score of 4 reflects a significant connection between urea and phosphorylation, as the context provides evidence that high urea levels decrease phosphorylation of GDPD5, impacting its activity. This relationship is supported by experimental data, indicating a clear interaction.",
+        "score": 4
+    }
+}

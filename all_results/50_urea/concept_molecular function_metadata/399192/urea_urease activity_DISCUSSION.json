@@ -1,0 +1,10 @@
+{
+    "context": "[3] The rate of entry of urea at neutral pH in intact H. pylori is unable to saturate urease activity with urea concentrations as high as 200 mM . [4] Since the urea concentration of the gastric juice is 1 to 3 mM, a urea transporter would be essential for acid survival. [5] The increase in cytoplasmic urease activity with medium acidification appears to be the result of increased urea permeability across the inner membrane of the bacterium, since the addition of low concentrations of a nonionic detergent was able to duplicate acid activation of cytoplasmic urease. [6] The low levels of urease activity observed in the intact H. pylori ureI mutant and at neutral pH and above in intact wild-type H. pylori are likely due to the limited diffusion of urea across the membrane. [7] A contribution of surface urease cannot be excluded at neutral pH, although this component is inactive at pH 4.0 and below. [8] It is possible that the hydrolysis of urea produced internally through the urea cycle may contribute to the acid survival of H. pylori. [9] However, the radiometric urease assay used in the experiments reported here would not detect hydrolysis of urea produced through the urea cycle since it would not be radiolabeled. ",
+    "term_A": "urea",
+    "term_B": "urease activity",
+    "llm_generation": {
+        "summary": "In this context, urea and urease activity are closely related, as urease is the enzyme responsible for catalyzing the hydrolysis of urea into ammonia and carbon dioxide. The study discusses how the concentration of urea affects urease activity in H. pylori, indicating that higher urea concentrations can enhance urease activity, which is crucial for the bacterium's survival in acidic environments. The relationship is further supported by observations of urea transport and its impact on urease function.",
+        "reason": "The score of 4 reflects a significant connection between urea and urease activity, as the context provides evidence of how urea concentration influences urease activity in H. pylori, highlighting its importance for the bacterium's survival in acidic conditions.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Water quality parameters such as cations (Ca2+, K+, Mg2+, Na+, Si4+, Fe2+, and Mn2+) were analyzed by ICP-OES (VISTA-MPX, Varian, Palo Alto, California), while anions (F\u2212, Cl\u2212, NO3 \u2212,SO4 2\u2212,HCO3 \u2212, and CO3 2\u2212) were analyzed by IC (761 Compact, Metrohm, Herisau, Switzerland), and dissolved organic carbon (DOC) by the UV persulfate method (Phoenix 8000, Tekmar Dohrmann, USA) was measured at Sangji University, Korea. Samples from several wells were temporally analyzed for NO3 \u2212, SO4 2\u2212, Fe2+ and Mn2+ to evaluate the stability of redox conditions at the site by comparing the data with results from previous samples obtained following well installation. In addition, water sampling for carbon isotope analysis was performed in February 2013 at 10 monitoring wells. The samples for \u03b413C of TCE and cis-DCE analysis were collected in triplicate in 40-mL amber vials fitted with septa and were preserved by the addition of NaOH. The analytical process and determination of values used for \u03b413C were those described in Kaown et al. (2014a) and Hunkeler and Aravena (2000). For the carbon isotope analysis, 10 representative wells were selected from the monitoring wells situated between the source zone and the stream. The minimum concentrations of TCE in the carbon isotope analysis were approximately 30\u03bcg/L. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Amber",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is analyzed for carbon isotope composition using samples collected in 40-mL amber vials. The amber vials are used to preserve the samples for accurate analysis of TCE and its isotopic values. However, there is no discussion of a direct chemical or functional relationship between TCE and amber beyond the use of amber vials for sample collection.",
+        "reason": "The score of 2 reflects a low relevance, as 1,1,2-trichloroethene and amber are connected through the sampling method, but there is no detailed discussion of their interaction or significance beyond this context.",
+        "score": 2
+    }
+}

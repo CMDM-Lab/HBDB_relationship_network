@@ -1,0 +1,10 @@
+{
+    "context": "Concentration data had been grouped in classes representative of the most odour-impact compounds in order to individuate specific markers of malodour sources. Groups were obtained by summing some concentration data as reported in Table 2 . Some considerations can be made. Fresh wastes (during delivering) are particularly characterised by limonene while elder wastes (buried, before biogas collection), as well as biogas and leachate are characterised by p-cymene. This result is in agreement with the study carried out by Termonia and Termonia (1999) who considered p-cymene as a tracer of biogas. The leachate also shows the presence of other two terpenes: eucalyptol and camphor. Furthermore, during waste ripening an increase of oxidative level of compounds may be revealed. ",
+    "term_A": "1-methyl-4-propan-2-ylbenzene",
+    "term_B": "Bury",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-propan-2-ylbenzene (p-cymene) is mentioned as a marker for elder wastes that have been buried before biogas collection. The relationship is indirect, as p-cymene is identified as a tracer of biogas, but there is no detailed discussion on how it specifically relates to the act of burying waste or its implications in the context of malodour sources.",
+        "reason": "The score of 2 reflects an indirect connection between p-cymene and the concept of burying waste, as p-cymene is noted as a marker for elder wastes. However, the relationship lacks detailed exploration or direct relevance to the process of burying itself.",
+        "score": 2
+    }
+}

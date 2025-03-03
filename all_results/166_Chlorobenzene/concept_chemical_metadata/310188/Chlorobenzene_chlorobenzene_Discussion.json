@@ -1,0 +1,10 @@
+{
+    "context": "For a specific adsorbent, the L-J potential depends on the nature of adsorbates, among which polarizability (\u03b1) of the adsorbate plays a decisive part. The value of \u03b1 increases with the relative molecular/atomic mass due to the participation of more polarized electrons. It is obvious that the relative mass of chlorobenzene is larger resulting in a greater adsorption potential. Therefore, the adsorption for chlorobenzene on CDC embodies better adsorption performance. The adsorption capacity of toluene and chlorobenzene on coconut shell derived carbon has been investigated, analyzed and compared with commercial activated carbon. It is found that raw materials of coconut shell contribute to developed micropore structure, narrow pore size distribution and less carbonyl group on CDC, which is better for toluene and chlorobenzene removal. There are two major reasons as follows: (1) Suitable pore size (size\u202f<\u202f0.8\u202fnm) leads to larger interaction on adsorbents for aromatic VOCs adsorption based on the micropore filling theory. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "chlorobenzene",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is discussed in relation to its adsorption properties on coconut shell-derived carbon (CDC) compared to commercial activated carbon. The text highlights that chlorobenzene's larger molecular mass contributes to its adsorption potential, indicating a focus on its physical and chemical characteristics in adsorption studies. However, the term 'chlorobenzene' is mentioned twice, suggesting redundancy rather than a distinct relationship with another term.",
+        "reason": "The score of 1 reflects a lack of meaningful relationship since chlorobenzene is mentioned in a repetitive manner without any additional context or interaction with another distinct term. The discussion centers solely on its properties and performance in adsorption.",
+        "score": 1
+    }
+}

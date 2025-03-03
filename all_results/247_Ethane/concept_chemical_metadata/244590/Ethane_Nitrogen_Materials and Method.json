@@ -1,0 +1,10 @@
+{
+    "context": "Five milliliters of the headspace gas in each test tube was removed using a calibrated precision sampling syringe (Alltech) and injected into the column of a gas chromatograph (Hewlett-Packard 5890; Palo Alto, CA) connected in line to an integrator (Hewlett-Packard 3393A). The column was a 2-m long glass column packed with a carbon molecular sieve (Carbosphere 60/80; Alltech) maintained isothermal at 220\u00b0C. Helium flow rate was 20 mL/min and retention time under these conditions was 5.30 min. Calibration was performed with two known aliquots of an ethane/nitrogen standard (Scotts Specialty Gases; San Bernadino, CA). Back calculation of the total ethane content in the headspace was then determined and the background ethane content of the inspirate was subtracted from the measured value. The mean of the duplicate samples was used for analysis. The total exhaled ethane was determined from the ethane content of the 6-L sample, the subject's weight, the background ethane content of the inspirate, and expressed as picomoles per minute per kilogram of body weight. ",
+    "term_A": "Ethane",
+    "term_B": "Nitrogen",
+    "llm_generation": {
+        "summary": "In this context, ethane and nitrogen are mentioned in relation to a gas chromatographic analysis where ethane is measured in a headspace gas sample. Nitrogen is used as a standard in the calibration process for the ethane measurements. However, there is no direct interaction or functional relationship discussed between ethane and nitrogen beyond their roles in the analytical procedure.",
+        "reason": "The score of 2 reflects a low relevance, as ethane and nitrogen are connected through the calibration process in gas chromatography, but there is no detailed discussion of their chemical or biological interactions.",
+        "score": 2
+    }
+}

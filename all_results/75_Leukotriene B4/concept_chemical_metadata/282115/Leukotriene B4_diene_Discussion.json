@@ -1,0 +1,10 @@
+{
+    "context": "To confirm the presence of LTB4 in EBC, this eicosanoid was also detected in MS/MS mode which has a higher specificity. In line with previous studies, one of the most abundant product ion was observed at m/z 195 following collisional activation of the carboxylate anion [M\u2212H]\u2212 of LTB4  . The origin of this ion involves double bond rearrangement initiated by the collisional process followed by carbon-carbon bond cleavage. The proposed mechanism for LTB4 fragmentation involves a cyclization of the conjugated triene to a cyclic diene followed by a complex series of rearrangements, abstraction of the carbon-5 proton by a carbon-12 alkoxide anion or even the carboxylate anion, and formation of anionic site at carbon-11 that undergo a proton shift to form the more stable oxygen-centered anion. The resulting product has the structural characteristics required for a charge-driven \u03b1-hydroxy-\u03b2-ene fragmentation frequently observed for eicosanoids [22\u201324]. However, in our methodological study, the sensitivity of the LTB4 measurement with the ion trap in MS2 mode was insuffcient for quantitative purposes. For this reason, ion trap analysis of LTB4 concentrations in EBC was performed in MS1 mode. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "diene",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is discussed in relation to its fragmentation process, which involves the formation of a cyclic diene through a series of chemical rearrangements. The mechanism highlights the structural transformation of LTB4 during analysis, indicating that the presence of diene is a significant aspect of LTB4's chemical behavior and fragmentation pathway in mass spectrometry.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and diene, as the context describes a specific chemical transformation involving LTB4 that leads to the formation of a cyclic diene. This relationship is supported by detailed mechanistic insights into the fragmentation process.",
+        "score": 4
+    }
+}

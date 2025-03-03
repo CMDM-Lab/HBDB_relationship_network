@@ -1,0 +1,10 @@
+{
+    "context": "The samples were weighed twice, first immediately after collection, and again just before the subsequent adsorbed TCE measurement (a time interval of about 30min). The difference between these two measurements provided an estimate of evaporation loss. Adsorbed and aqueous-phase TCE in the sand sample were then extracted with hexane and measured by GC, using the procedures described in Yang et al. (2007). The overall residual TCE was then calculated by summing the mass of TCE in each grid block over the whole sandbox. The results provided a mass balance for the experiment. These steps were followed in all experiments.Numerical simulation and experiments The experiments were simulated using T2VOC, a finite difference code designed for non-isothermal multi-phase multi-component flow and transport in porous media (Falta et al., 1999a,b). Phase transition and heat transport are included in this model by solving the mass balance equations for each component (water, air, and volatile organic compound (VOC)) and the energy balance equation for heat. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Obstruction",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is discussed in relation to its measurement and mass balance in a sandbox experiment involving volatile organic compounds (VOCs). However, there is no direct mention or discussion of 'obstruction' in relation to TCE, making their relationship unclear and unsubstantiated within the provided context.",
+        "reason": "The score of 1 reflects a lack of any meaningful connection between 1,1,2-trichloroethene and obstruction, as they are mentioned in the same context without any direct interaction or relevance to each other.",
+        "score": 1
+    }
+}

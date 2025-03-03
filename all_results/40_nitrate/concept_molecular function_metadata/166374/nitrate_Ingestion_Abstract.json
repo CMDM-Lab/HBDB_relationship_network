@@ -1,0 +1,10 @@
+{
+    "context": "[1] Airway nitric oxide (NO) is a ubiquitous signaling molecule with bronchoprotective, anti-inflammatory and anti-infective roles. [2] Cystic fibrosis (CF) is a chronic lung condition associated with deceased exhaled NO. [3] Strategies to increase exhaled NO in CF have yielded inconsistent results. [4] A potential new method of increasing systemic NO involves ingestion of dietary, inorganic nitrate which is reduced to nitrite and NO. [5] We present the case of a 12-year-old, athletic boy with CF who demonstrated acute but marked increases in exhaled NO following dietary nitrate consumption compared to placebo\n [1] Nitric oxide (NO) is a ubiquitous signaling molecule with multiple systemic and airway roles. [2] Cystic fibrosis (CF) is a chronic lung condition that is associated with decreased fraction of exhaled NO (FeNO).\u00e2\u20ac\u201c ",
+    "term_A": "nitrate",
+    "term_B": "Ingestion",
+    "llm_generation": {
+        "summary": "In this context, nitrate is linked to ingestion as a dietary source to potentially increase systemic nitric oxide (NO) levels. The study highlights a case where a 12-year-old boy with cystic fibrosis showed significant increases in exhaled NO after consuming dietary nitrate, suggesting that ingestion of nitrate can enhance NO production, which is beneficial for lung function in cystic fibrosis patients. This relationship underscores the therapeutic potential of dietary nitrate in managing conditions associated with low NO levels.",
+        "reason": "The score of 5 reflects a direct and critical relationship between nitrate ingestion and its effect on increasing nitric oxide levels, particularly in the context of cystic fibrosis. The evidence presented supports the therapeutic role of dietary nitrate in enhancing exhaled NO, which is significant for lung health.",
+        "score": 5
+    }
+}

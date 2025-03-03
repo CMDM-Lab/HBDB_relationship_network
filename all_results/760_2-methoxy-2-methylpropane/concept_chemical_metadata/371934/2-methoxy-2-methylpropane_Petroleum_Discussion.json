@@ -1,0 +1,10 @@
+{
+    "context": "Accordingly, under commute conditions, the vehicle interior would appear to be an important microenvironment for MTBE, benzene and toluene exposure. Moreover, the in-car MTBE levels (27.6 \u03bcg/m3 as a median) measured in this study were higher than those in New Jersey (16 \u03bcg/m3 as a geometric mean) and Connecticut (23 \u03bcg/m3 as a geometric mean), as reported by Lioy et al. (1994). The geometric mean concentration is approximated by the median (Lawryk and Weisel, 1996). The proportion of MTBE (6\u20138% by volume) in the gasoline manufactured by all Korean petroleum companies was approximately half of that in the wintertime fuel (13\u201315%) used in many CO non-attainment areas of the United States (Lioy et al., 1994). Considering only the proportion of MTBE in the gasoline sold in the two areas, lower MTBE levels would be expected in passenger cars in Korea. The opposite results indicate that the effect of the MTBE proportion in gasoline on the in-car level was exceeded by the effects of other driving parameters such as the vehicle type, commute route and vehicle ventilation, along with meteorological parameters such as inversion and the mixing height. Unfortunately, we were unable to collect the necessary data to verify this assertion. ",
+    "term_A": "2-methoxy-2-methylpropane",
+    "term_B": "Petroleum",
+    "llm_generation": {
+        "summary": "In this context, 2-methoxy-2-methylpropane is indirectly related to petroleum through its mention as a component of gasoline, which is derived from petroleum. The study discusses the levels of MTBE (methyl tert-butyl ether) in gasoline, which is a fuel additive, and how it affects exposure levels in vehicles. However, there is no direct interaction or specific relevance between 2-methoxy-2-methylpropane and petroleum beyond their association in fuel composition.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are related through the context of gasoline composition, but there is no detailed discussion of their specific relationship or interactions.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "ATP signalling and neurotransmission in autonomic ganglia Several studies have demonstrated the presence of P2 receptors in sympathetic ganglia. Both ionotropic P2X receptors and inhibitory metabotropic P2Y receptors are found on presynaptic sympathetic nerve terminals and postsynaptically. Studies of the release and metabolism of endogenous ATP in rat superior cervical ganglia suggests that ATP and ACh are released simultaneously in response to stimulation of preganglionic nerve terminals. A likely functional role for ATP in sympathetic ganglia was demonstrated in coeliac ganglion neurons where excitatory synaptic potentials and currents are mimicked by ATP and blocked by suramin and \u03b1,\u03b2-methyleneATP desensitisation. The expression profile of P2 receptors and the effects of ATP in parasympathetic ganglia usually are very similar to those observed in sympathetic neurons. There are differences in the expression of various P2X and P2Y receptors and the effects evoked by ATP and its analogues on parasympathetic ganglion cells in different species. The functional role of ATP-mediated signalling in parasympathetic ganglia is less clear, probably owing to the fact that these ganglia are smaller, have a more diffuse location, and, therefore, are much harder to study. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Synaptic Potentials",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is implicated in neurotransmission within autonomic ganglia, particularly in the generation of excitatory synaptic potentials. ATP is released alongside acetylcholine (ACh) and acts on P2 receptors, influencing synaptic activity. The studies indicate that ATP can mimic excitatory synaptic potentials, highlighting its critical role in modulating synaptic transmission in sympathetic ganglia.",
+        "reason": "The score of 5 reflects a strong relevance, as ATP is directly involved in the generation of synaptic potentials through its action on P2 receptors, demonstrating a clear and critical relationship in the context of neurotransmission.",
+        "score": 5
+    }
+}

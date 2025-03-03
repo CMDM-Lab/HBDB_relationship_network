@@ -1,0 +1,536 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "uric acid",
+                    "label": "uric acid",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "uric acid",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "uric acid",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "uric acid",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "uric acid",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "uric acid",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "uric acid",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "uric acid",
+                        "label": "uric acid",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Kidney Diseases",
+                        "label": "Kidney Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Scleroderma",
+                        "label": "Scleroderma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hypertensive disease",
+                        "label": "Hypertensive disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hyperuricemia",
+                        "label": "Hyperuricemia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Primary pulmonary hypertension",
+                        "label": "Primary pulmonary hypertension",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolic syndrome",
+                        "label": "Metabolic syndrome",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "uric acid",
+                        "target": "Kidney Diseases",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "uric acid",
+                        "target": "Scleroderma",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "uric acid",
+                        "target": "Hypertensive disease",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "uric acid",
+                        "target": "Hyperuricemia",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "uric acid",
+                        "target": "Primary pulmonary hypertension",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "uric acid",
+                        "target": "Metabolic syndrome",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "uric acid",
+                        "label": "uric acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "uric acid",
+                        "label": "uric acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "uric acid",
+                        "label": "uric acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "uric acid",
+                        "label": "uric acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "uric acid",
+                        "label": "uric acid",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Kidney Diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Kidney Diseases",
+                        "label": "Kidney Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "205116",
+                        "label": "Acute, food-induced moderate elevation of plasma uric acid protects against hyperoxia-induced oxidative stress and increase in arterial stiffness in healthy humans.\nJ. Vukovic, D. Modun, D. Budimir, D. Sutlovic, I. Salamunic, I. Zaja, M. Boban\nAtherosclerosis 2009 Nov;207(1):255-60.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19457484"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "205116_uric acid_Kidney Diseases_Introduction.json",
+                        "label": "In this context, uric acid is discussed in relation to its prognostic value in patients with interstitial lung disease (ILD) and its association with pulmonary hypertension (PH). Chronic hyperuricemia is noted as a risk factor for renal disease, indicating a significant relationship between elevated uric acid levels and kidney health. The text also contrasts acute increases in uric acid, which may have beneficial effects, with chronic conditions that pose risks to kidney function, highlighting the dual role of uric acid in health and disease.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Kidney Diseases",
+                        "target": "205116",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "205116",
+                        "target": "205116_uric acid_Kidney Diseases_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Scleroderma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Scleroderma",
+                        "label": "Scleroderma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "203661",
+                        "label": "Diagnostic and prognostic role of biomarkers for pulmonary hypertension in interstitial lung disease.\nCU. Andersen, S. Mellemkjær, JE. Nielsen-Kudsk, E. Bendstrup, U. Simonsen, O. Hilberg\nRespir Med 2012 Dec;106(12):1749-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23034317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "203661_uric acid_Scleroderma_Introduction.json",
+                        "label": "In this context, uric acid is mentioned as a biomarker that may be elevated in patients with pulmonary arterial hypertension (PAH), which can occur in individuals with scleroderma. While the study focuses on the diagnostic value of various biomarkers in interstitial lung disease (ILD) patients, the connection between elevated uric acid levels and scleroderma is implied through its association with PAH. However, there is no direct discussion of uric acid's role specifically in scleroderma itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Scleroderma",
+                        "target": "203661",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "203661",
+                        "target": "203661_uric acid_Scleroderma_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Hypertensive disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hypertensive disease",
+                        "label": "Hypertensive disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "205116",
+                        "label": "Acute, food-induced moderate elevation of plasma uric acid protects against hyperoxia-induced oxidative stress and increase in arterial stiffness in healthy humans.\nJ. Vukovic, D. Modun, D. Budimir, D. Sutlovic, I. Salamunic, I. Zaja, M. Boban\nAtherosclerosis 2009 Nov;207(1):255-60.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19457484"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "205116_uric acid_Hypertensive disease_Introduction.json",
+                        "label": "In this context, uric acid is discussed in relation to pulmonary hypertension (PH) in interstitial lung disease (ILD) patients, where abnormally high levels of uric acid may indicate increased suspicion of PH. Chronic hyperuricemia is noted as a risk factor for cardiovascular diseases, including hypertension, while acute increases in uric acid can have beneficial effects, such as enhancing antioxidant capacity and restoring endothelial function. This dual role highlights the complex relationship between uric acid levels and hypertensive disease.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hypertensive disease",
+                        "target": "205116",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "205116",
+                        "target": "205116_uric acid_Hypertensive disease_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hyperuricemia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hyperuricemia",
+                        "label": "Hyperuricemia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "205116",
+                        "label": "Acute, food-induced moderate elevation of plasma uric acid protects against hyperoxia-induced oxidative stress and increase in arterial stiffness in healthy humans.\nJ. Vukovic, D. Modun, D. Budimir, D. Sutlovic, I. Salamunic, I. Zaja, M. Boban\nAtherosclerosis 2009 Nov;207(1):255-60.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19457484"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "205116_uric acid_Hyperuricemia_Introduction.json",
+                        "label": "In this context, uric acid and hyperuricemia are closely related, as hyperuricemia is defined as abnormally high levels of uric acid in the blood, which is considered a risk factor for various diseases, including cardiovascular and renal diseases, hypertension, and metabolic syndrome. The text contrasts chronic hyperuricemia with acute increases in uric acid, highlighting the latter's potential beneficial effects, such as enhancing antioxidant capacity and improving endothelial function. This indicates a significant relationship where uric acid levels directly influence the state of hyperuricemia and its associated health risks.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hyperuricemia",
+                        "target": "205116",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "205116",
+                        "target": "205116_uric acid_Hyperuricemia_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Primary pulmonary hypertension": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Primary pulmonary hypertension",
+                        "label": "Primary pulmonary hypertension",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "203661",
+                        "label": "Diagnostic and prognostic role of biomarkers for pulmonary hypertension in interstitial lung disease.\nCU. Andersen, S. Mellemkjær, JE. Nielsen-Kudsk, E. Bendstrup, U. Simonsen, O. Hilberg\nRespir Med 2012 Dec;106(12):1749-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23034317"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "203661_uric acid_Primary pulmonary hypertension_Discussion.json",
+                        "label": "In this context, uric acid is associated with primary pulmonary hypertension (PH) as abnormal levels of uric acid in interstitial lung disease (ILD) patients correlate with the presence of PH and increased mortality. The study indicates that higher uric acid levels may reflect underlying metabolic disturbances related to PH, particularly in patients with idiopathic pulmonary arterial hypertension (iPAH), suggesting a significant relationship between uric acid levels and the severity of pulmonary hypertension.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Primary pulmonary hypertension",
+                        "target": "203661",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "203661",
+                        "target": "203661_uric acid_Primary pulmonary hypertension_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Metabolic syndrome": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolic syndrome",
+                        "label": "Metabolic syndrome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "205116",
+                        "label": "Acute, food-induced moderate elevation of plasma uric acid protects against hyperoxia-induced oxidative stress and increase in arterial stiffness in healthy humans.\nJ. Vukovic, D. Modun, D. Budimir, D. Sutlovic, I. Salamunic, I. Zaja, M. Boban\nAtherosclerosis 2009 Nov;207(1):255-60.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19457484"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "205116_uric acid_Metabolic syndrome_Introduction.json",
+                        "label": "In this context, uric acid is discussed in relation to its dual role in health. While chronic hyperuricemia is identified as a risk factor for metabolic syndrome and other cardiovascular diseases, acute increases in uric acid levels may confer protective effects, such as enhancing antioxidant capacity and improving endothelial function. This highlights a complex relationship where uric acid can be both a risk factor and a potential therapeutic agent, depending on its concentration and context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolic syndrome",
+                        "target": "205116",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "205116",
+                        "target": "205116_uric acid_Metabolic syndrome_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        }
+    }
+}

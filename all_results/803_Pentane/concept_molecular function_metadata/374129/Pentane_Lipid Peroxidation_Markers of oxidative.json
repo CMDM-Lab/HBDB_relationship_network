@@ -1,0 +1,10 @@
+{
+    "context": "[2] The most prevalent isoprostane species in humans is 8-isoprostane (8-epi-prostaglanding F2\u00ce\u00b1). [3] Concentrations of 8-isoprostane are increased in expired condensates of patients with asthma and its level correlates with disease severity and exhaled CO level . [4] Levels of 8-isoprostane are also increased in cigarette smokers, in patients with COPD and in CF . [1] The volatile gases, ethane and pentane, can also be detected in the breath and have been used to measure lipid peroxidation to reflect oxidative stress. [2] Exhaled pentane is increased during asthma exacerbations and decreases during recovery . [3] Exhaled ethane level is increased in cigarette smokers  and is reduced by high doses of antioxidant vitamins C and E, but not by vitamin E alone , . [4] Exhaled ethane levels are increased in CF and COPD, where there is a correlation with disease severity and with other markers of oxidative stress, such as exhaled CO. ",
+    "term_A": "Pentane",
+    "term_B": "Lipid Peroxidation",
+    "llm_generation": {
+        "summary": "In this context, pentane is identified as a volatile gas that can be detected in breath samples and is used as a biomarker for lipid peroxidation, which reflects oxidative stress. The levels of exhaled pentane are reported to increase during asthma exacerbations, indicating a direct relationship between pentane levels and lipid peroxidation associated with oxidative stress in respiratory conditions. This suggests that pentane can serve as an indicator of lipid peroxidation in various diseases, including asthma, COPD, and cystic fibrosis.",
+        "reason": "The score of 4 reflects a significant connection between pentane and lipid peroxidation, as pentane is used to measure lipid peroxidation levels in breath samples, indicating its role as a biomarker for oxidative stress in respiratory diseases.",
+        "score": 4
+    }
+}

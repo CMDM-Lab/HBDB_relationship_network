@@ -1,0 +1,10 @@
+{
+    "context": "Screening of hybridoma supernatants after cell fusion and selection of antibody-producing cells led to four different monoclonal cell lines. One of the corresponding four purified monoclonal antibodies appeared to be prominent showing a very strong and specific affinity to LTB4. It constitutes the first described mouse monoclonal antibody from subtype IgG1 (data not shown), that significantly binds the hapten LTB4.Specificity of mAb S27BC6 For immunogen (LTB4-3-APA-VP1) synthesis LTB4-3-APA was coupled to VP1. LTB4-3-APA is a chemical derivative of LTB4 and contains in addition a 5 atoms aliphatic chain with a terminal primary amino group which functions as spacer between LTB4 and the carrier molecule. The amino group was used for chemical coupling to VP1. In contrast to other publications, which use standard proteins like keyhole limpet hemacyanin or human serum albumin as carrier proteins, we used VP1 as carrier protein to enhance the immune response in mice as described before. A BSA conjugate (LTB4-3-APA-BSA) was synthesized in a similar way and used as antigen for coating of microtiter plates in the ELISA. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Chemicals",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is discussed as a chemical compound that is the target of a specific monoclonal antibody. The study highlights the synthesis of a chemical derivative of LTB4, LTB4-3-APA, which is used in immunological assays. This indicates a direct relationship between LTB4 and the broader category of chemicals, particularly in the context of antibody development and immunoassays.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and chemicals, as LTB4 is specifically mentioned as a chemical compound that is being studied for its immunological properties, supported by the synthesis of its derivatives for experimental use.",
+        "score": 4
+    }
+}

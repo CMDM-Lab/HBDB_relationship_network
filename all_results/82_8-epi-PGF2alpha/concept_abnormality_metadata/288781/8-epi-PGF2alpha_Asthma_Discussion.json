@@ -1,0 +1,10 @@
+{
+    "context": "This percentage of outlying values is comparable to that obtained in the present study (6.6%). Nevertheless, these authors also concluded that EBC pH is not systematically affected by patient age. The findings obtained for 8-isoprostane in the present study are similar to those seen for pH. Levels of 8-isoprostane are increased in EBC of patients with several respiratory diseases such as asthma, 26 COPD, 27 and cystic fibrosis. 28 In our study population, significant differences were found in 8-isoprotane levels between the younger groups (groups 1 and 2) and the oldest group (group 5) despite the fact that the values obtained in all the groups studied were within the normal limits described by other authors in the healthy population. 3 Moreover, in the present study, the number of samples with detectable values increased with age. According to some authors, 3,29 8-isoprostane is present in detectable amounts in all normal tissues and biological fluids and has been detected in EBC in healthy subjects, thus allowing definition of the normal range. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha, also referred to as 8-isoprostane, is highlighted as a biomarker found in exhaled breath condensate (EBC) of patients with asthma and other respiratory diseases. The study indicates that levels of 8-isoprostane are elevated in individuals with asthma, suggesting its potential role in the inflammatory processes associated with the disease. The findings imply that measuring 8-isoprostane could provide insights into asthma pathology and severity, particularly as levels vary with age among patients.",
+        "reason": "The score of 4 reflects a significant connection between 8-epi-PGF2alpha and asthma, as the context discusses elevated levels of this biomarker in asthma patients, indicating its relevance in understanding the disease's inflammatory mechanisms. However, while the relationship is strong, it lacks extensive quantitative data to achieve a higher score.",
+        "score": 4
+    }
+}

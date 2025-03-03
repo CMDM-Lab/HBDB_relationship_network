@@ -1,0 +1,10 @@
+{
+    "context": "Heat loss, oxygen concentration, residence time, POHC concentrations, and turbulence levels were designed to model those found in a large-scale incinerator. This lab-scale flow reactor was also designed to have controlled and measurable boundary conditions to facilitate modeling. The balance of these features allowed the measurement and prediction of a real-life situation within the bounds and expectations of a laboratory measurement system. Discrepancies in the plug-flow-reactor assumption used for modeling are made up through the direct comparison of data from two species (e.g., the more studied benzene versus the less studied chlorobenzene). Numerical modeling of the chemical processes in the flow reactor was performed using the CHEMKIN package (Kee et al., 1990) with a plug-flow-reactor (PFR) assumption (Chen, 1992). Measured centerline temperatures were used to constrain the temperature in the PFR model. The inlet boundary condition for the plug flow reactor model assumed that the combustion product flow was in chemical-kinetic thermodynamic equilibrium at the temperature measured just upstream of the point of injection. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "chlorobenzene",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is mentioned as a less studied species compared to benzene in the modeling of chemical processes within a lab-scale flow reactor designed to simulate conditions found in large-scale incinerators. The focus is on the comparison of data between these two compounds, indicating that chlorobenzene is part of the broader analysis of combustion products, but no specific interactions or detailed relationships are discussed.",
+        "reason": "The score of 2 reflects a low relevance, as chlorobenzene is mentioned in relation to benzene, indicating they are both studied in the same context. However, there is no direct discussion of their chemical interactions or specific functional relationships.",
+        "score": 2
+    }
+}

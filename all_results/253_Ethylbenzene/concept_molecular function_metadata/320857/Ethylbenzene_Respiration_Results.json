@@ -1,0 +1,10 @@
+{
+    "context": "p=0.02, supplementary Table S7). Spending time near a smoker for >10min was associated with increased levels of benzene (\u03b2=0.0504, p=0.04, supplementary Table S7). Breathing fumes various sources was not associated with the levels of 1,4-dichlorobenzene, ethylbenzene, o-xylene, styrene, and toluene (supplementary Table S7). However, for benzene, breathing fumes from fingernail polish or remover was associated with increased levels (\u03b2=0.06483, p=0.03, supplementary Table S7). Breathing fumes from paint thinner was associated with increased levels of m/p-xylene (\u03b2=0.15145, ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Respiration",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is mentioned in relation to exposure from various fumes, but there is no direct discussion of its specific effects on respiration. The study notes that breathing fumes from different sources, including fingernail polish and paint thinner, was associated with increased levels of certain volatile organic compounds, but ethylbenzene's impact on respiratory health is not explicitly addressed. Thus, while ethylbenzene is part of the broader discussion on inhalation exposure, its relationship to respiration remains unclear.",
+        "reason": "The score of 2 reflects an indirect connection, as ethylbenzene is included in a list of compounds related to inhalation exposure, but there is no detailed discussion of its specific effects on respiration or any significant interaction.",
+        "score": 2
+    }
+}

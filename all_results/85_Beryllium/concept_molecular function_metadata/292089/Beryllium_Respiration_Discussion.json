@@ -1,0 +1,10 @@
+{
+    "context": "Secondly, we have shown a statistically significant relationship between cumulative exposure to beryllium and the level of TNF-\u03b1 in EBC. Finally, we have not found relationships between exposure to beryllium and nitrogen reactive species, for both volatile (FeNO) and nonvolatile (NOx in EBC) nitrogen intermediates. All exposed subjects of our study were employed in machining industries and were exposed to poorly soluble forms of beryllium. Machining beryllium releases a large amount of particles of small size \u2013 namely more than 50% of the particles in the breathing zone <10\u03bcm size and 30%<0.6\u03bcm \u2013 that are likely to result in increased lung deposition compared to greater particles (Martyny et al., 2000). Hoover et al. (1990) has reported that milling processes, compared to sawing, produces Be particles with a smaller mass median aerodynamic diameter and a greater proportion of particles\u2009<5\u03bcm in diameter. Very small (i.e., \u22642.5\u03bcm) particles penetrate to the deep lung and are associated with increased risk of CBD. ",
+    "term_A": "Beryllium",
+    "term_B": "Respiration",
+    "llm_generation": {
+        "summary": "In this context, beryllium exposure is linked to respiratory health, particularly through its impact on lung deposition of fine particles. The study highlights that machining beryllium generates small particles that can penetrate deep into the lungs, potentially leading to increased levels of inflammatory markers like TNF-\u03b1 in exhaled breath condensate (EBC). This suggests a significant relationship between beryllium exposure and respiratory effects, particularly in the context of chronic beryllium disease (CBD).",
+        "reason": "The score of 4 reflects a strong connection between beryllium and respiration, as the study provides evidence of how beryllium particles affect lung health and inflammation, indicating a clear relationship within the context of respiratory exposure risks.",
+        "score": 4
+    }
+}

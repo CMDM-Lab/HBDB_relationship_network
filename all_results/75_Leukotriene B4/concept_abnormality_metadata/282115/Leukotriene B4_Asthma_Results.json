@@ -1,0 +1,10 @@
+{
+    "context": "A major unknown peak that has to be identified was observed in all samples obtained from steroid-na\u00efve asthmatic children (Fig. 6), healthy children (Fig. 6), and atopic non-asthmatic children (not shown), whereas it was not always present in steroid-treated children with asthma. There was no correlation between exhaled LTB4 and exhaled NO values in any study group. There was no correlation between exhaled LTB4 or exhaled NO and age, sex, or lung function in any study group. LC/MS/MS can also be used for measuring LTB4 concentrations in EBC in adults with asthma as shown in Fig. 8 .LC/ESI\u2212-MS/MS measurement of 8-isoprostane and cysteinyl-leukotrienes In the ESI\u2212 spectra, [M\u2212H]\u2212 were observed at m/z 353 and m/z 357, respectively. These precursor ions were used for the quantification of 8-isoprostane in the MRM mode. In the ESI\u2212-MS/MS spectra of 8-isoprostane and 8-isoprostane-d4, the fragment ions at m/z 193 and m/z 197 were selected for MRM. Calibration curves were obtained by adding increasing amounts of 8-isoprostane (1\u20131000pg) and 250pg of internal standard to 1ml aliquots of acetonitrile:water solution (70:30) or 8-isoprostane-free EBC samples. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Asthma",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is mentioned in relation to asthma, specifically in the analysis of exhaled breath condensate (EBC) from different groups of children, including those with asthma. The study notes that LTB4 levels were measured but found no correlation with exhaled nitric oxide (NO) or other demographic factors. This suggests that while LTB4 is relevant to asthma, its specific role or significance in the condition remains unclear, particularly in steroid-na\u00efve asthmatic children compared to those treated with steroids.",
+        "reason": "The score of 3 reflects a moderate relevance, as LTB4 is analyzed in the context of asthma, but the lack of correlation with other asthma-related markers limits the strength of their relationship.",
+        "score": 3
+    }
+}

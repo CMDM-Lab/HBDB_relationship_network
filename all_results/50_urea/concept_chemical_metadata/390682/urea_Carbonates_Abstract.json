@@ -1,0 +1,10 @@
+{
+    "context": " [1] Proteomics is potentially a powerful technology for elucidating brain function and neurodegenerative diseases.  [2] So far, the brain proteome has generally been analyzed by two-dimensional gel electrophoresis, which usually leads to the complete absence of membrane proteins.  [3] We describe a proteomic approach for profiling of plasma membrane proteins from mouse brain.  [4] The procedure consists of a novel method for extraction and fractionation of membranes, on-membrane digestion, diagonal separation of peptides, and high-sensitivity analysis by advanced MS. Breaking with the classical plasma membrane fractionation approach, membranes are isolated without cell compartment isolation, by stepwise depletion of nonmembrane molecules from entire tissue homogenate by high-salt, carbonate, and urea washes followed by treatment of the membranes with sublytic concentrations of digitonin.  [5] Plasma membrane is further enriched by of density gradient fractionation and protein digested on-membrane by endoproteinase Lys-C.  [6] Released peptides are separated, fractions digested by trypsin, and analyzed by LC-MS/MS.  [7] In single experiments, the developed technology enabled identification of 862 proteins from 150 mg of mouse brain cortex. ",
+    "term_A": "urea",
+    "term_B": "Carbonates",
+    "llm_generation": {
+        "summary": "In this context, urea and carbonates are mentioned as components in a method for isolating plasma membrane proteins from mouse brain tissue. Urea is used in the washing process to deplete nonmembrane molecules, while carbonates are also employed in the washing steps. Their relationship is primarily procedural, indicating that both are utilized in the same experimental protocol without a direct interaction or functional relationship discussed.",
+        "reason": "The score of 2 reflects an indirect connection, as urea and carbonates are both part of the same washing procedure in the context of membrane protein extraction, but there is no detailed discussion of their interaction or significance beyond their shared use in the methodology.",
+        "score": 2
+    }
+}

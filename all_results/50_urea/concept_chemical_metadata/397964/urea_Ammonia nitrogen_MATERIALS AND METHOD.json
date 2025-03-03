@@ -1,0 +1,10 @@
+{
+    "context": "[6] The water within the chambers was thoroughly changed 3 h following feeding and then every subsequent 12 h after the feeding interval. [7] Following the water changes, an initial water sample was taken. [8] At the end of the experiment, the animals were returned to the holding tanks for recovery. [1] The water samples were examined for ammonia nitrogen (ammonia-N) and urea nitrogen (urea-N) content according to Ivancic and Deggobis  and Rahmatullah and Boyde , respectively. [2] Ammonia fluxes to the water (JNH3/NH4+; \u00ce\u00bcmol N kg\u00e2\u02c6\u20191 h\u00e2\u02c6\u20191) and urea fluxes to the water (JUrea; \u00ce\u00bcmol N kg\u00e2\u02c6\u20191 h\u00e2\u02c6\u20191) were calculated as the appearance of ammonia or urea in the water after accounting for the time of the flux period, the mass of the animal, and the concentration of ammonia or urea at the preceding time point or water change. [3] Measured urea concentrations were multiplied by a factor of two in order to account for the two nitrogen atoms in urea. [4] The percentage of total nitrogenous waste excretion (ammonia-N + urea-N) accounted for by urea-N was also calculated. ",
+    "term_A": "urea",
+    "term_B": "Ammonia nitrogen",
+    "llm_generation": {
+        "summary": "In this context, urea and ammonia nitrogen are both measured as components of nitrogenous waste excretion in aquatic animals. The study examines the fluxes of urea and ammonia nitrogen into the water, indicating their roles in nitrogen metabolism and excretion. Urea is calculated to account for two nitrogen atoms, while ammonia nitrogen is assessed for its flux rates, highlighting their interconnectedness in nitrogen waste management.",
+        "reason": "The score of 4 reflects a significant connection between urea and ammonia nitrogen, as both are analyzed in the context of nitrogenous waste excretion. The study provides quantitative data on their fluxes, indicating their roles in metabolic processes, although the exact biochemical interactions are not detailed.",
+        "score": 4
+    }
+}

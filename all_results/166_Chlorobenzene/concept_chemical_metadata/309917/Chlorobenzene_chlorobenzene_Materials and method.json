@@ -1,0 +1,10 @@
+{
+    "context": "The calibration curves were calculated using the four-parametric interpolation as model equation with the EasyWinKinetics32\u00ae software (Tecan). The lower limit of detection for all cytokines and chemokines was 4pg/ml. The results were expressed as the percentage of cytokine or chemokine release compared to those of control cultures exposed to methanol (% cytokine/chemokine release=100%\u00d7mean cytokine/chemokine concentration chlorobenzene/mean cytokine/chemokine concentration control). Real-time PCR After 20h exposure to chlorobenzene culture supernatants were removed and mRNA extraction was performed with an automated standardized protocol for cultured cells using the MagNA Pure LC system and the MagNA Pure LC mRNA Isolation Kit I (Roche Applied Science, Mannheim, Germany). The cDNA was synthesized using the First Strand cDNA Synthesis Kit (Roche Applied Science, Mannheim, Germany). Reverse transcriptase products were amplified by real-time polymerase chain reaction (PCR) with a LightCycler Fast Start DNA SYBR Green Kit according to manufacturer's instructions (Roche Applied Science, Mannheim, Germany). Primers and standards for MCP-1 and IL-8 and the amplification protocol were obtained from Search-LC (Heidelberg, Germany). ",
+    "term_A": "Chlorobenzene",
+    "term_B": "chlorobenzene",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is mentioned as a chemical used in an experimental setup to assess cytokine and chemokine release in cultured cells. The study involves measuring the effects of chlorobenzene exposure on mRNA expression of specific cytokines, indicating its role in the experimental design. However, the mention of chlorobenzene is repetitive, as it is referred to in the same form without any additional context or differentiation.",
+        "reason": "The score of 1 reflects a lack of meaningful relationship since chlorobenzene is simply repeated in the context without any new information or interaction described. They are mentioned in the same context but do not provide any distinct or relevant relationship.",
+        "score": 1
+    }
+}

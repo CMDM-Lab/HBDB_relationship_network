@@ -1,0 +1,10 @@
+{
+    "context": "This sampling scheme allowed for well-defined breakthrough curves (i.e., plots of concentration versus time) to be constructed. Gas samples were collected in evacuated 80-mL gas canisters (Tracer Research Corp., Tucson, AZ). SF6, TCE, CFM, and heptane were analyzed using a Varian gas chromatograph with a custom autosampler fitted for the aerosol canisters. SF6, CFM, and TCE were analyzed using a SP1000 (Carbopack B) column (Alltech Associates, Inc., Deerfield, IL) with electron capture detection, while heptane was analyzed using an OV-101 (Chromosorb W) column (Alltech Associates, Inc.) with flame ionization detection. Helium samples were analyzed using a concentric column (Model CTR II, Alltech Associates, Inc.) and a thermal conductivity detector.Data analysis The breakthrough curves were analyzed via the method of moments. For some data sets, the elution curve was truncated. A log-linear tail extrapolation was conducted for these cases to enhance the accuracy of moment analysis (e.g., Deeds et al., 1999b; Skopp, 1984). ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Heptanes",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) and heptane are both mentioned as compounds analyzed using gas chromatography. However, their relationship is limited to their inclusion in the same analytical process without any discussion of their interactions, properties, or significance in relation to each other. They are treated as separate entities in the sampling and analysis methodology.",
+        "reason": "The score of 1 reflects a very low relationship, as 1,1,2-trichloroethene and heptane are merely listed as compounds analyzed in the same study without any direct interaction or relevance discussed between them.",
+        "score": 1
+    }
+}

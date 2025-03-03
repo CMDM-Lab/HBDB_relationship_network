@@ -1,0 +1,10 @@
+{
+    "context": "The mass spectrometer, with the ion source maintained at 230\u00b0C, was used in the full scan mode. The scan range was from m/z 20 to m/z 250 at 5.98 scan/s. The tetrachloroethylene retention time was 9.5 min. Standard autotunes with perfluorotributylamine (PFTBA) were carried out on a daily basis as well as a blank desorption of the fiber to ensure that there was not any peaks eluting at the same time as tetrachloroethylene.Comparison to other method of end-exhaled air sampling, sorbent concentration and thermal desorption analysis Samples of controlled atmospheres were also taken with a previously developed device as reference method for sampling end-exhaled breath. The system has already been described and it consists of an aluminium tube modified to concentrate aliquots of end-exhaled (alveolar) air from one or more exhalations on to a thermal desorption tube (Perkin-Elmer, Beaconsfield, UK). A servomotor driven gas syringe (50 ml) draws a sample from the aluminium tube and then dispenses it on to an adsorbent tube packed with Tenax TA (SKC, PA, USA). The sampler was coupled to the atmosphere system through a valve. ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "perfluorotributylamine",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene and perfluorotributylamine are both mentioned in relation to mass spectrometry analysis. Perfluorotributylamine (PFTBA) is used as a standard for autotuning the mass spectrometer, while 1,1,2,2-tetrachloroethene is analyzed for its retention time. However, there is no direct interaction or functional relationship discussed between the two compounds beyond their roles in the analytical process.",
+        "reason": "The score of 2 reflects a low relevance, as both compounds are involved in the same analytical procedure but do not interact or influence each other in a significant way within the context provided.",
+        "score": 2
+    }
+}

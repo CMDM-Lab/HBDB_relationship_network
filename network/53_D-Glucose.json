@@ -1,0 +1,1278 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "D-Glucose",
+                    "label": "D-Glucose",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "D-Glucose",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "D-Glucose",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "D-Glucose",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "D-Glucose",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "D-Glucose",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "D-Glucose",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "D-Glucose",
+                        "label": "D-Glucose",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Obesity",
+                        "label": "Obesity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Dyslipidemias",
+                        "label": "Dyslipidemias",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cardiovascular Diseases",
+                        "label": "Cardiovascular Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Diabetes",
+                        "label": "Diabetes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hyperinsulinism",
+                        "label": "Hyperinsulinism",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Obesity",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Dyslipidemias",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Cardiovascular Diseases",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Diabetes",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Hyperinsulinism",
+                        "score": 9
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "D-Glucose",
+                        "label": "D-Glucose",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "D-Glucose",
+                        "label": "D-Glucose",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Blood Circulation",
+                        "label": "Blood Circulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Insulin Resistance",
+                        "label": "Insulin Resistance",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hepatic Metabolism",
+                        "label": "Hepatic Metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Functional disorder",
+                        "label": "Functional disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "GLUCOSE TOLERANCE",
+                        "label": "GLUCOSE TOLERANCE",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Complication",
+                        "label": "Complication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "glucose uptake",
+                        "label": "glucose uptake",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Infiltration",
+                        "label": "Infiltration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "insulin sensitivity",
+                        "label": "insulin sensitivity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "glucose metabolism",
+                        "label": "glucose metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "uptake",
+                        "label": "uptake",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Blood Circulation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Insulin Resistance",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Hepatic Metabolism",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Functional disorder",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "GLUCOSE TOLERANCE",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Complication",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "glucose uptake",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "Infiltration",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "insulin sensitivity",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "glucose metabolism",
+                        "score": 11
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "D-Glucose",
+                        "target": "uptake",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "D-Glucose",
+                        "label": "D-Glucose",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "D-Glucose",
+                        "label": "D-Glucose",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "D-Glucose",
+                        "label": "D-Glucose",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Obesity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Obesity",
+                        "label": "Obesity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Obesity_Conclusions.json",
+                        "label": "In this context, D-Glucose and obesity are related through the metabolic variations observed in obese patients. The study highlights that bariatric surgery enhances insulin-stimulated glucose uptake in skeletal muscle and fat compartments, indicating a significant interaction between glucose metabolism and obesity. This suggests that managing glucose levels may be crucial in addressing obesity-related metabolic issues.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Obesity_Introduction.json",
+                        "label": "In this context, D-Glucose and obesity are interconnected through the study of metabolic changes following bariatric surgery in severely obese patients. The research aims to assess how bariatric surgery affects glucose uptake in different adipose tissue compartments, highlighting the role of glucose metabolism in obesity management and the potential for improved metabolic profiles post-surgery. This suggests a significant relationship between glucose metabolism and obesity, particularly in the context of surgical interventions aimed at weight loss.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Obesity_Abstract.json",
+                        "label": "In this context, D-Glucose and obesity are interconnected through the discussion of glucose metabolism and its relationship with body fat distribution. The text highlights that severe obesity affects insulin sensitivity and glucose utilization, particularly in muscle tissue. Bariatric surgery improves glucose metabolism in morbidly obese patients, indicating that obesity significantly impacts glucose handling in the body. The accumulation of visceral and subcutaneous fat is noted as a contributing factor to obesity and its metabolic consequences, including altered glucose metabolism.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Obesity",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Obesity_Conclusions.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Obesity_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Obesity_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Dyslipidemias": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Dyslipidemias",
+                        "label": "Dyslipidemias",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Dyslipidemias_Conclusions.json",
+                        "label": "In this context, D-Glucose is indirectly related to dyslipidemias through the discussion of insulin sensitivity and glucose disposal in obese patients. The text highlights that impaired glucose tolerance and the inability of adipose tissue to expand contribute to dyslipidemia. Thus, while D-Glucose levels are affected by insulin resistance, the relationship with dyslipidemias is more about the metabolic consequences of glucose handling in obesity rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dyslipidemias",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Dyslipidemias_Conclusions.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Cardiovascular Diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cardiovascular Diseases",
+                        "label": "Cardiovascular Diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105676",
+                        "label": "Equine laminitis: comparative histopathology 48 hours after experimental induction with insulin or alimentary oligofructose in standardbred horses.\nMA. de Laat, AW. van Eps, CM. McGowan, MN. Sillence, CC. Pollitt\nJ. Comp. Pathol. 2011 Nov;145(4):399-409.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21429503"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105676_D-Glucose_Cardiovascular Diseases_Abstract.json",
+                        "label": "In this context, D-Glucose is indirectly related to cardiovascular diseases through its association with type 1 diabetes and fetal macrosomia. High birth weight (LGA) in infants born to diabetic mothers is linked to future risks of overweight, impaired glucose tolerance, and cardiovascular disease. This suggests that elevated glucose levels during pregnancy may contribute to long-term cardiovascular risks in offspring.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cardiovascular Diseases",
+                        "target": "105676",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105676",
+                        "target": "105676_D-Glucose_Cardiovascular Diseases_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Diabetes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Diabetes",
+                        "label": "Diabetes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Diabetes_Results.json",
+                        "label": "In this context, D-Glucose is directly related to diabetes, particularly type 2 diabetes (T2D), as glucose levels are critical in diagnosing and managing the condition. The study discusses how T2D patients are classified based on their glucose levels during an oral glucose tolerance test (OGTT) and fasting measurements. The relationship is underscored by the mention of improved glucose levels post-surgery, indicating the importance of glucose regulation in diabetes management.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Diabetes_Introduction.json",
+                        "label": "In this context, D-Glucose is indirectly related to diabetes through the assessment of glucose uptake in different fat compartments post-bariatric surgery in severely obese patients, some of whom have diabetes. The study aims to understand how bariatric surgery affects metabolism and glucose utilization, which is crucial for managing diabetes. However, the specific relationship between D-Glucose and diabetes is not explicitly detailed in the provided context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105676",
+                        "label": "Equine laminitis: comparative histopathology 48 hours after experimental induction with insulin or alimentary oligofructose in standardbred horses.\nMA. de Laat, AW. van Eps, CM. McGowan, MN. Sillence, CC. Pollitt\nJ. Comp. Pathol. 2011 Nov;145(4):399-409.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21429503"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105676_D-Glucose_Diabetes_Abstract.json",
+                        "label": "In this context, D-Glucose is indirectly related to diabetes through its role in gestational diabetes and the impact of maternal glucose levels on fetal growth. The study highlights the increased incidence of large-for-gestational-age (LGA) infants born to mothers with type 1 diabetes, suggesting that elevated glucose levels during pregnancy contribute to fetal macrosomia and associated health risks, including future diabetes in offspring. This indicates a significant connection between glucose metabolism and diabetes outcomes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Diabetes",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Diabetes_Results.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Diabetes_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Diabetes",
+                        "target": "105676",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105676",
+                        "target": "105676_D-Glucose_Diabetes_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hyperinsulinism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hyperinsulinism",
+                        "label": "Hyperinsulinism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Hyperinsulinism_Introduction.json",
+                        "label": "In this context, D-Glucose and hyperinsulinism are related through the metabolic processes influenced by visceral fat (VF). The release of free fatty acids from the intraperitoneal fat depot disrupts hepatic glucose metabolism, leading to hyperinsulinemia and insulin resistance. This indicates that alterations in glucose metabolism can directly contribute to hyperinsulinism, highlighting a significant metabolic interaction between the two.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Hyperinsulinism_Research Design and .json",
+                        "label": "In this context, D-Glucose and hyperinsulinism are closely related through the euglycemic hyperinsulinemic clamp technique, which is used to assess insulin sensitivity and glucose uptake. During hyperinsulinemia, plasma glucose levels are maintained at a specific concentration, indicating a direct interaction where insulin regulates glucose levels in the bloodstream. This relationship is critical for understanding metabolic responses in conditions like hyperinsulinism.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hyperinsulinism",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Hyperinsulinism_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Hyperinsulinism_Research Design and .json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Blood Circulation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Blood Circulation",
+                        "label": "Blood Circulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Blood Circulation_Conclusions.json",
+                        "label": "In this context, D-Glucose is indirectly related to blood circulation through its role in glucose disposal and insulin sensitivity. The text discusses how fat expansion in obese individuals serves as a sink for glucose, preventing its accumulation in the bloodstream, which is crucial for maintaining proper blood circulation and glucose tolerance. The relationship highlights the importance of glucose metabolism in the context of obesity and its effects on blood circulation, particularly in patients with type 2 diabetes (T2D).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Blood Circulation",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Blood Circulation_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Insulin Resistance": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Insulin Resistance",
+                        "label": "Insulin Resistance",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Insulin Resistance_Introduction.json",
+                        "label": "In this context, D-Glucose and insulin resistance are related through the metabolic effects of visceral fat (VF) accumulation. The release of free fatty acids (FFAs) from intraperitoneal fat interferes with hepatic glucose metabolism, leading to hyperinsulinemia and insulin resistance. This suggests that disturbances in glucose metabolism are closely linked to the presence of insulin resistance, particularly in the context of obesity-related metabolic abnormalities.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Insulin Resistance_Conclusions.json",
+                        "label": "In this context, D-Glucose and insulin resistance are interconnected through the discussion of glucose disposal mechanisms in obese patients, particularly those with type 2 diabetes (T2D). Despite insulin resistance, the expansion of visceral fat (VF) in obese individuals allows for increased glucose disposal, preventing further accumulation of glucose in the bloodstream. This suggests that while insulin resistance impairs glucose metabolism, the body's compensatory mechanisms, such as fat expansion, play a crucial role in managing glucose levels.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Insulin Resistance",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Insulin Resistance_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Insulin Resistance_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hepatic Metabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hepatic Metabolism",
+                        "label": "Hepatic Metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Hepatic Metabolism_Introduction.json",
+                        "label": "In this context, D-Glucose is indirectly related to hepatic metabolism through the discussion of how free fatty acids (FFAs) from visceral fat (VF) affect glucose metabolism in the liver. The release of FFAs interferes with hepatic glucose metabolism, leading to conditions such as hyperinsulinemia and insulin resistance, which are critical in understanding metabolic abnormalities associated with obesity. While D-Glucose is not explicitly mentioned as being metabolized, its metabolism is implied to be affected by the hepatic processes discussed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hepatic Metabolism",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Hepatic Metabolism_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Functional disorder": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Functional disorder",
+                        "label": "Functional disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Functional disorder_Conclusions.json",
+                        "label": "In this context, D-Glucose is indirectly related to functional disorders through its association with insulin sensitivity and metabolic dysfunction in obese patients with type 2 diabetes (T2D). The study highlights how impaired glucose utilization (GU) in visceral fat (VF) tissues correlates with elevated glucose levels and functional impairments in insulin action, indicating a link between glucose metabolism and functional disorders in obesity and T2D.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Functional disorder",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Functional disorder_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "GLUCOSE TOLERANCE": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "GLUCOSE TOLERANCE",
+                        "label": "GLUCOSE TOLERANCE",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_GLUCOSE TOLERANCE_Conclusions.json",
+                        "label": "In this context, D-Glucose is indirectly related to glucose tolerance, as the discussion revolves around glucose disposal and insulin sensitivity in obese patients. The text highlights how fat expansion in obesity affects glucose levels and tolerance, indicating that D-Glucose levels can influence glucose tolerance through mechanisms involving insulin resistance and adipose tissue function. However, the relationship is not explicitly detailed, focusing more on the broader implications of glucose metabolism in obesity and type 2 diabetes (T2D).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "GLUCOSE TOLERANCE",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_GLUCOSE TOLERANCE_Conclusions.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Complication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Complication",
+                        "label": "Complication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105676",
+                        "label": "Equine laminitis: comparative histopathology 48 hours after experimental induction with insulin or alimentary oligofructose in standardbred horses.\nMA. de Laat, AW. van Eps, CM. McGowan, MN. Sillence, CC. Pollitt\nJ. Comp. Pathol. 2011 Nov;145(4):399-409.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21429503"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105676_D-Glucose_Complication_Abstract.json",
+                        "label": "In this context, D-Glucose is indirectly related to complications arising from pregnancies in type 1 diabetic mothers. The high levels of D-Glucose associated with poor metabolic control can lead to fetal macrosomia, which is linked to increased risks of obstetric and perinatal complications. The study highlights the worrying trend of rising fetal macrosomia rates despite good metabolic control, indicating a complex relationship between glucose levels and pregnancy complications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Complication",
+                        "target": "105676",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105676",
+                        "target": "105676_D-Glucose_Complication_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "glucose uptake": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "glucose uptake",
+                        "label": "glucose uptake",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_glucose uptake_Introduction.json",
+                        "label": "In this context, D-Glucose is indirectly related to glucose uptake (GU) as the study investigates the effects of bariatric surgery on metabolism, specifically focusing on how it influences GU in different adipose tissue compartments in severely obese patients. The assessment of glucose uptake is crucial for understanding metabolic changes post-surgery, particularly in relation to D-Glucose levels, although the specific mechanisms or direct interactions are not detailed in the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "glucose uptake",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_glucose uptake_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Infiltration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Infiltration",
+                        "label": "Infiltration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_Infiltration_Conclusions.json",
+                        "label": "In this context, D-Glucose is indirectly related to infiltration through its role in metabolic processes and inflammation. The study discusses how higher fasting FDG uptake, which indicates glucose utilization, is associated with infiltrating macrophages in adipose tissue. This suggests that glucose metabolism is linked to inflammatory infiltration in tissues, particularly in the context of type 2 diabetes (T2D) and its metabolic complications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Infiltration",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_Infiltration_Conclusions.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "insulin sensitivity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "insulin sensitivity",
+                        "label": "insulin sensitivity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_insulin sensitivity_Results.json",
+                        "label": "In this context, D-Glucose and insulin sensitivity are related through their roles in the metabolic parameters of Type 2 Diabetes (T2D) patients. Although glucose levels improved post-surgery, whole-body insulin sensitivity remained subnormal in both T2D and non-diabetic (ND) groups. This suggests that while glucose control is essential, it does not fully restore insulin sensitivity, indicating a complex relationship between glucose metabolism and insulin action in T2D.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_insulin sensitivity_Conclusions.json",
+                        "label": "In this context, D-Glucose and insulin sensitivity are interconnected through the discussion of glucose disposal in obese patients. Despite insulin resistance, the expansion of subcutaneous (SC) fat allows for glucose uptake, which helps prevent further glucose accumulation in the bloodstream. The study highlights that weight loss improves insulin sensitivity and glucose tolerance, indicating a direct relationship between D-Glucose levels and the body's ability to respond to insulin effectively.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "insulin sensitivity",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_insulin sensitivity_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_insulin sensitivity_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "glucose metabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "glucose metabolism",
+                        "label": "glucose metabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_glucose metabolism_Introduction.json",
+                        "label": "In this context, D-Glucose is indirectly related to glucose metabolism as the text discusses how free fatty acids (FFAs) from intraperitoneal fat affect hepatic glucose metabolism, leading to conditions like hyperinsulinemia and insulin resistance. While D-Glucose is not explicitly mentioned as a substrate in this metabolic process, its role as a primary energy source in glucose metabolism is implied through the discussion of metabolic disturbances caused by fat distribution.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_glucose metabolism_Conclusions.json",
+                        "label": "In this context, D-Glucose is indirectly related to glucose metabolism as the study discusses glucose uptake (GU) in various tissues, particularly in the context of obesity and type 2 diabetes (T2D). The findings indicate that decreased GU in skeletal muscle and fat compartments is linked to impaired glucose metabolism, highlighting the role of D-Glucose as a substrate in these metabolic processes. However, the specific role of D-Glucose itself is not explicitly detailed, focusing more on the overall glucose metabolism in different fat depots and muscle tissues.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_glucose metabolism_Abstract.json",
+                        "label": "In this context, D-Glucose is directly related to glucose metabolism, particularly in the setting of bariatric surgery and its effects on tissue-specific glucose utilization (GU) in morbidly obese patients. The study highlights how visceral and subcutaneous fat influence glucose metabolism, indicating that D-Glucose levels and metabolism are critical in understanding insulin sensitivity and overall metabolic health in conditions like Type 2 Diabetes (T2D).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "glucose metabolism",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_glucose metabolism_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_glucose metabolism_Conclusions.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_glucose metabolism_Abstract.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "uptake": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "uptake",
+                        "label": "uptake",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698",
+                        "label": "Fabrication of a biofuel cell improved by the π-conjugated electron pathway effect induced from a new enzyme catalyst employing terephthalaldehyde.\nY. Chung, KH. Hyun, Y. Kwon\nNanoscale 2016 Jan;8(2):1161-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26667493"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105698_D-Glucose_uptake_Conclusions.json",
+                        "label": "In this context, D-Glucose is indirectly related to uptake through the discussion of glucose utilization in adipose tissue and other cells, as assessed by [18F]-FDG PET imaging. The mention of higher fasting FDG uptake suggests that glucose uptake is being evaluated in relation to metabolic complications, particularly in the context of type 2 diabetes (T2D) and insulin resistance. However, the specific relationship between D-Glucose and uptake is not explicitly detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "uptake",
+                        "target": "105698",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105698",
+                        "target": "105698_D-Glucose_uptake_Conclusions.json",
+                        "score": 3
+                    }
+                }
+            ]
+        }
+    }
+}

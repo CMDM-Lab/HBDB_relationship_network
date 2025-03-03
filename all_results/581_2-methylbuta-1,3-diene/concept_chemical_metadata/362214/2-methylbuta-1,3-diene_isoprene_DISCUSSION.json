@@ -1,0 +1,10 @@
+{
+    "context": "[1] In earlier work, we found that high emission rates of isoprene were correlated with low chloroplastic pools of DMAPP . [2] This indicates that the set point for DMAPP concentration may be different in different plants and would require very large variations in the amount of isoprene synthase in leaves. [3] Both the substrate concentration inside chloroplasts and the amount of isoprene synthase  have effects on the rate of isoprene emission. [4] In future work, we plan to measure DMAPP concentration and isoprene synthase amount and activity in response to changes known to influence isoprene emission rates, including development (; ) and weather (; ; ). [1] Leaves were taken from a Eucalyptus globulus tree kept in a greenhouse of the Institute of Plant Pathology at the University of Bonn. [2] During summer, the tree stood outside in the garden of the institute. [3] Leaves were cut under water and held in water for the whole measurements. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "isoprene",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene and isoprene are related as isoprene is a volatile organic compound that is synthesized from the precursor 2-methylbuta-1,3-diene. The study discusses the emission rates of isoprene in relation to chloroplastic DMAPP pools and isoprene synthase activity, indicating that variations in these factors influence isoprene production in plants. Thus, 2-methylbuta-1,3-diene serves as a substrate for isoprene synthesis, highlighting a direct biochemical relationship.",
+        "reason": "The score of 4 reflects a significant connection between 2-methylbuta-1,3-diene and isoprene, as the context discusses isoprene synthesis directly linked to the substrate 2-methylbuta-1,3-diene, supported by evidence of their biochemical interaction in plant physiology.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[6] In this context, it is noteworthy that baseline lung function was not impaired (105%), perhaps minimizing any potential benefit.  [1] Dietary nitrate is water soluble and rapidly absorbed ~100% in the stomach and small intestine.  [2] There is no evidence of nitrate malabsorption in CF.  [3] Approximately 75% of ingested nitrate is excreted via the kidneys, with the remainder concentrated in the oral gland and subsequently reduced to nitrite by tongue anaerobes.  [4] This nitrite is swallowed and then further reduced to NO under suitable conditions within the airway, stomach, and endothelium.  [5] After nitrate ingestion, salivary/plasma nitrate levels increase rapidly (~15 m), peaking at 90\u00e2\u20ac\u201c120 m.  [6] The levels remain high for several hours following ingestion, after which they slowly decline, remaining elevated from baseline for ~24 hours. ",
+    "term_A": "nitrate",
+    "term_B": "Nitrite",
+    "llm_generation": {
+        "summary": "In this context, nitrate and nitrite are closely related through the metabolic pathway where dietary nitrate is absorbed and subsequently reduced to nitrite by oral bacteria. This nitrite can then be further converted to nitric oxide (NO) under appropriate conditions in the body. The process highlights the physiological significance of nitrate as a precursor to nitrite and NO, which are important for various biological functions, including vasodilation and respiratory health.",
+        "reason": "The score of 5 reflects a direct and critical relationship between nitrate and nitrite, as the context explicitly describes the conversion of nitrate to nitrite and its further reduction to nitric oxide, emphasizing their interconnected roles in physiology.",
+        "score": 5
+    }
+}

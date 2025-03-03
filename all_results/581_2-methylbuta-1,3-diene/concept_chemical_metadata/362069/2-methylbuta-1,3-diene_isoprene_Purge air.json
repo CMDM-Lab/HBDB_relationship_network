@@ -1,0 +1,10 @@
+{
+    "context": "Guenther et al., 1991), several MT (Dindorf et al., 2006; Ortega et al., 2007) and some SQT emissions (Duhl et al., 2007, and references therein) have significant dependencies on light conditions. Given this correlation with photosynthetic activity, emission rates of these BVOC would also be expected to be sensitive to CO2 concentrations. Studies of this CO2 dependency are scarce and limited to isoprene. These studies have investigated both the short- and long-term responses of isoprene emissions to CO2 concentration. The direction and magnitude of the response to changing CO2 appears to be variable depending on plant species and other conditions (e.g. Sharkey and Yeh, 2001; Rosenstiel et al., 2003; Arneth et al., 2007). To avoid biases from emissions associated with unusual CO2 concentrations, it is recommended that enclosure experiments be performed at near-ambient CO2 levels. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "isoprene",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene and isoprene are both mentioned as biogenic volatile organic compounds (BVOCs) that are influenced by environmental factors such as light and CO2 concentrations. While the text discusses isoprene emissions in relation to CO2 levels, it does not provide specific details on the relationship between 2-methylbuta-1,3-diene and isoprene, indicating a general connection as BVOCs but lacking direct interaction or comparative analysis.",
+        "reason": "The score of 2 reflects an indirect connection between 2-methylbuta-1,3-diene and isoprene, as they are both classified as BVOCs affected by similar environmental conditions. However, the context does not elaborate on their specific relationship or interactions.",
+        "score": 2
+    }
+}

@@ -1,0 +1,955 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "3-Nitrotyrosine",
+                    "label": "3-Nitrotyrosine",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "3-Nitrotyrosine",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "3-Nitrotyrosine",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "3-Nitrotyrosine",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "3-Nitrotyrosine",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "3-Nitrotyrosine",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "3-Nitrotyrosine",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-Nitrotyrosine",
+                        "label": "3-Nitrotyrosine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Lung diseases",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-Nitrotyrosine",
+                        "label": "3-Nitrotyrosine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Protons",
+                        "label": "Protons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrogen Oxides",
+                        "label": "Nitrogen Oxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrate",
+                        "label": "Nitrate",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Protons",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Nitrogen Oxides",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Nitrate",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-Nitrotyrosine",
+                        "label": "3-Nitrotyrosine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation Process",
+                        "label": "Inflammation Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Adjudication",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Exhalation",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Synthesis",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Inflammation Process",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Inflammation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "Respiratory physiology",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-Nitrotyrosine",
+                        "label": "3-Nitrotyrosine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-nitrotyrosine",
+                        "label": "3-nitrotyrosine",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "3-Nitrotyrosine",
+                        "target": "3-nitrotyrosine",
+                        "score": 22
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-Nitrotyrosine",
+                        "label": "3-Nitrotyrosine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-Nitrotyrosine",
+                        "label": "3-Nitrotyrosine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Lung diseases": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lung diseases",
+                        "label": "Lung diseases",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037",
+                        "label": "Sensitive and accurate analyses of free 3-nitrotyrosine in exhaled breath condensate by LC-MS/MS.\nT. Göen, A. Müller-Lux, P. Dewes, A. Musiol, T. Kraus\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2005 Nov;826(1-2):261-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16143570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_Lung diseases_Introduction.json",
+                        "label": "In this context, 3-nitrotyrosine (3-NT) is linked to lung diseases through its formation from the reaction of peroxynitrite with tyrosine residues, particularly under inflammatory conditions. The presence of 3-NT has been detected in serum, bronchoalveolar lavage, and lung tissue of subjects with lung diseases, indicating its potential role as a biomarker for inflammation in conditions like asthma and cystic fibrosis. Studies have shown significantly higher concentrations of 3-NT in patients with cystic fibrosis compared to healthy individuals, suggesting a direct association between 3-NT levels and lung disease severity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lung diseases",
+                        "target": "5037",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_Lung diseases_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Protons": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Protons",
+                        "label": "Protons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4301",
+                        "label": "Exhaled breath condensate biomarkers in asbestos-related lung disorders.\nS. Chow, C. Campbell, A. Sandrini, PS. Thomas, AR. Johnson, DH. Yates\nRespir Med 2009 Aug;103(8):1091-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19520561"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4301_3-Nitrotyrosine_Protons_Results.json",
+                        "label": "In this context, 3-Nitrotyrosine and protons (H+) are mentioned in relation to their presence in exhaled breath condensate (EBC) samples. While 3-Nitrotyrosine is correlated with nitrogen oxides (NOx) and other oxidative stress markers, there is no direct correlation established between 3-Nitrotyrosine and H+ concentration in EBC. This suggests that while both are measured in the same biological samples, their relationship is not significant or well-defined.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Protons",
+                        "target": "4301",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "4301",
+                        "target": "4301_3-Nitrotyrosine_Protons_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Nitrogen Oxides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrogen Oxides",
+                        "label": "Nitrogen Oxides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4301",
+                        "label": "Exhaled breath condensate biomarkers in asbestos-related lung disorders.\nS. Chow, C. Campbell, A. Sandrini, PS. Thomas, AR. Johnson, DH. Yates\nRespir Med 2009 Aug;103(8):1091-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19520561"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4301_3-Nitrotyrosine_Nitrogen Oxides_Results.json",
+                        "label": "In this context, 3-Nitrotyrosine and nitrogen oxides (NOx) are both measured in exhaled breath condensate (EBC) of subjects. While NOx levels correlated significantly with other markers such as protein and 8-isoprostane, there was no direct correlation between NOx and 3-nitrotyrosine levels. This suggests that while both are present in EBC, their relationship is not strongly defined within the study's findings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrogen Oxides",
+                        "target": "4301",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "4301",
+                        "target": "4301_3-Nitrotyrosine_Nitrogen Oxides_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Nitrate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrate",
+                        "label": "Nitrate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037",
+                        "label": "Sensitive and accurate analyses of free 3-nitrotyrosine in exhaled breath condensate by LC-MS/MS.\nT. Göen, A. Müller-Lux, P. Dewes, A. Musiol, T. Kraus\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2005 Nov;826(1-2):261-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16143570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_Nitrate_Discussion.json",
+                        "label": "In this context, 3-Nitrotyrosine is discussed as a biological marker for inflammatory processes, with its formation potentially linked to the presence of nitrating agents such as nitrate and nitrite. The study indicates that while tyrosine can be nitrated under certain conditions, the method used did not produce additional nitrotyrosine from nitrate or nitrite under controlled pH conditions. This suggests a relationship where nitrate may influence the formation of nitrotyrosine, but the specific conditions and mechanisms are not fully elucidated.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrate",
+                        "target": "5037",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_Nitrate_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037",
+                        "label": "Sensitive and accurate analyses of free 3-nitrotyrosine in exhaled breath condensate by LC-MS/MS.\nT. Göen, A. Müller-Lux, P. Dewes, A. Musiol, T. Kraus\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2005 Nov;826(1-2):261-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16143570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_Adjudication_Discussion.json",
+                        "label": "In this context, 3-Nitrotyrosine (NT) is analyzed as a biomarker in exhaled breath condensate (EBC) for monitoring inflammatory reactions. The discussion focuses on the reliability and sensitivity of a new LC–MS/MS method for quantifying NT levels. However, 'adjudication' is not explicitly defined or discussed in relation to NT, indicating a lack of direct connection between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "5037",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_Adjudication_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037",
+                        "label": "Sensitive and accurate analyses of free 3-nitrotyrosine in exhaled breath condensate by LC-MS/MS.\nT. Göen, A. Müller-Lux, P. Dewes, A. Musiol, T. Kraus\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2005 Nov;826(1-2):261-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16143570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_Exhalation_Introduction.json",
+                        "label": "In this context, 3-Nitrotyrosine (3-NT) is analyzed as a biomarker in exhaled breath condensate from subjects with lung diseases, including asthma and cystic fibrosis. The studies indicate that 3-NT concentrations are significantly higher in patients with cystic fibrosis compared to healthy subjects, suggesting a potential link between elevated 3-NT levels in exhalation and lung disease severity. The research aims to develop a reliable method for quantifying 3-NT in exhaled breath, highlighting its relevance as a noninvasive diagnostic tool.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_Exhalation_Experimental.json",
+                        "label": "In this context, 3-Nitrotyrosine is analyzed in exhaled breath condensate, indicating its potential as a biomarker for oxidative stress or inflammation. The method involves solid phase extraction (SPE) to isolate 3-Nitrotyrosine from the breath samples, suggesting a direct relationship where exhalation serves as a medium for measuring this compound's levels in biological samples. This highlights the relevance of exhalation in the assessment of 3-Nitrotyrosine as a potential indicator of physiological conditions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_Exhalation_Discussion.json",
+                        "label": "In this context, 3-Nitrotyrosine (NT) is analyzed in exhaled breath condensate (EBC) to assess its concentration levels in healthy individuals. The study emphasizes the importance of a reliable method for accurately quantifying NT in EBC, highlighting the challenges faced by immunochemical techniques. The findings suggest that NT levels in exhaled breath can serve as a potential biomarker for oxidative stress, reinforcing the relevance of exhalation as a medium for measuring this compound.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "5037",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_Exhalation_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_Exhalation_Experimental.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_Exhalation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Synthesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037",
+                        "label": "Sensitive and accurate analyses of free 3-nitrotyrosine in exhaled breath condensate by LC-MS/MS.\nT. Göen, A. Müller-Lux, P. Dewes, A. Musiol, T. Kraus\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2005 Nov;826(1-2):261-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16143570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_Synthesis_Results.json",
+                        "label": "In this context, 3-Nitrotyrosine (3-NT) is discussed in relation to its calibration and analysis methods, particularly in the context of artificial synthesis. The study demonstrates the accuracy of the method used to measure 3-NT, indicating that the synthesis of nitrotyrosine was effectively tested under controlled conditions. However, the relationship between 3-NT and the broader concept of synthesis is primarily focused on the analytical methodology rather than a detailed exploration of the synthesis process itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Synthesis",
+                        "target": "5037",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_Synthesis_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Inflammation Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation Process",
+                        "label": "Inflammation Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037",
+                        "label": "Sensitive and accurate analyses of free 3-nitrotyrosine in exhaled breath condensate by LC-MS/MS.\nT. Göen, A. Müller-Lux, P. Dewes, A. Musiol, T. Kraus\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2005 Nov;826(1-2):261-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16143570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_Inflammation Process_Discussion.json",
+                        "label": "In this context, 3-nitrotyrosine is identified as a biological marker for inflammatory processes. The text discusses methods for quantifying both free and protein-bound 3-nitrotyrosine in biological materials, particularly in plasma, indicating its relevance in assessing inflammation. The increased sensitivity and specificity of detection methods further support its role in monitoring inflammatory conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation Process",
+                        "target": "5037",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_Inflammation Process_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037",
+                        "label": "Sensitive and accurate analyses of free 3-nitrotyrosine in exhaled breath condensate by LC-MS/MS.\nT. Göen, A. Müller-Lux, P. Dewes, A. Musiol, T. Kraus\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2005 Nov;826(1-2):261-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16143570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_Inflammation_Discussion.json",
+                        "label": "In this context, 3-nitrotyrosine is highlighted as a biomarker for monitoring inflammatory reactions in the airways. The study emphasizes the need for accurate quantification of 3-nitrotyrosine using a reliable LC–MS/MS method, suggesting its relevance in assessing inflammation. Improved standardization of sampling conditions is recommended for effective biological monitoring, indicating a direct link between 3-nitrotyrosine levels and inflammatory processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "5037",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_Inflammation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Respiratory physiology": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory physiology",
+                        "label": "Respiratory physiology",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4301",
+                        "label": "Exhaled breath condensate biomarkers in asbestos-related lung disorders.\nS. Chow, C. Campbell, A. Sandrini, PS. Thomas, AR. Johnson, DH. Yates\nRespir Med 2009 Aug;103(8):1091-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19520561"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4301_3-Nitrotyrosine_Respiratory physiology_Results.json",
+                        "label": "In this context, 3-Nitrotyrosine is mentioned as a biomarker in exhaled breath condensate (EBC) related to respiratory physiology. However, the study found no significant differences in 3-Nitrotyrosine levels between normal subjects and patients with asbestos-related diseases, nor any correlation with lung function or other biomarkers. This suggests limited relevance of 3-Nitrotyrosine as a marker in respiratory physiology under the conditions studied.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory physiology",
+                        "target": "4301",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "4301",
+                        "target": "4301_3-Nitrotyrosine_Respiratory physiology_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "3-nitrotyrosine": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-nitrotyrosine",
+                        "label": "3-nitrotyrosine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037",
+                        "label": "Sensitive and accurate analyses of free 3-nitrotyrosine in exhaled breath condensate by LC-MS/MS.\nT. Göen, A. Müller-Lux, P. Dewes, A. Musiol, T. Kraus\nJ. Chromatogr. B Analyt. Technol. Biomed. Life Sci. 2005 Nov;826(1-2):261-6.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/16143570"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_3-nitrotyrosine_Discussion.json",
+                        "label": "In this context, 3-Nitrotyrosine and 3-nitrotyrosine refer to the same compound, with the former being a more formal representation of the name. The text discusses the quantification of 3-nitrotyrosine in exhaled breath condensate (EBC) and emphasizes the need for accurate measurement methods. The relationship is purely semantic, as both terms denote the same biochemical marker relevant to inflammatory reactions in the airways.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_3-nitrotyrosine_Experimental.json",
+                        "label": "In this context, 3-Nitrotyrosine and 3-nitrotyrosine refer to the same compound, as indicated by the different naming conventions. The analysis involves the quantification of this analyte in exhaled breath condensate (EBC) samples using liquid chromatography-tandem mass spectrometry (LC–MS/MS). The focus is on the detection and quantification methods rather than any distinct relationship between the two terms, which are essentially identical.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_3-nitrotyrosine_Results.json",
+                        "label": "In this context, 3-Nitrotyrosine and 3-nitrotyrosine refer to the same compound, as indicated by their identical chemical structure and nomenclature. The study discusses the detection of nitrotyrosine in exhaled breath condensate (EBC) samples, highlighting its quantification and prevalence among healthy subjects. The terms are used interchangeably, emphasizing the compound's significance in the analysis without any distinct differences in their relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "5037_3-Nitrotyrosine_3-nitrotyrosine_Introduction.json",
+                        "label": "In this context, 3-Nitrotyrosine and 3-nitrotyrosine refer to the same compound, with the former being a more specific nomenclature. The text discusses its detection in various biological samples, particularly in relation to lung diseases, highlighting its significance as a biomarker. The studies mentioned focus on measuring its concentration in exhaled breath condensate, indicating its relevance in respiratory conditions like cystic fibrosis.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4301",
+                        "label": "Exhaled breath condensate biomarkers in asbestos-related lung disorders.\nS. Chow, C. Campbell, A. Sandrini, PS. Thomas, AR. Johnson, DH. Yates\nRespir Med 2009 Aug;103(8):1091-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19520561"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4301_3-Nitrotyrosine_3-nitrotyrosine_Discussion.json",
+                        "label": "In this context, 3-Nitrotyrosine is mentioned as a compound that proved difficult to measure and did not contribute to the findings regarding asbestos-related disease. The text indicates that both 3-Nitrotyrosine and NOx are not useful for assessing such diseases, suggesting a lack of significant relevance or interaction between them in this specific study. The mention of 3-Nitrotyrosine appears to be more about its measurement challenges rather than a direct relationship with the disease or other factors.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4301_3-Nitrotyrosine_3-nitrotyrosine_Results.json",
+                        "label": "In this context, 3-Nitrotyrosine and 3-nitrotyrosine refer to the same compound, indicating a potential issue with nomenclature consistency. The study discusses the detection of 3-nitrotyrosine in exhaled breath condensate (EBC) and its correlation with other biomarkers, but does not differentiate between the two terms. The lack of significant findings regarding 3-nitrotyrosine levels in normal subjects versus patients suggests limited relevance in this specific context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-nitrotyrosine",
+                        "target": "5037",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_3-nitrotyrosine_Discussion.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_3-nitrotyrosine_Experimental.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_3-nitrotyrosine_Results.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "5037",
+                        "target": "5037_3-Nitrotyrosine_3-nitrotyrosine_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-nitrotyrosine",
+                        "target": "4301",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "4301",
+                        "target": "4301_3-Nitrotyrosine_3-nitrotyrosine_Discussion.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "4301",
+                        "target": "4301_3-Nitrotyrosine_3-nitrotyrosine_Results.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

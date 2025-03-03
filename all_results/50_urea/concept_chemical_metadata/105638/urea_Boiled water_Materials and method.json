@@ -1,0 +1,10 @@
+{
+    "context": "The protein concentration in all samples was determined by the method of Lowryusing bovine serum albumin as standards. Lactose ureide and maltose ureide were synthesized by acid-catalyzed condensation of lactose/maltose and urea according to the method of Hoffmann [11, 12]. Arabinose ureide was synthesized using the method developed by Helfrich and Kosche. Cellobiose ureide was produced by dissolving 15 g of d-cellobiose and 5.26 g urea in 22 ml boiling water. The mixture was cooled to room temperature and then adjusted to pH 3. After heating at 45\u00b0C for 12 days the product was crystallized after ethanol addition (1:5 ratio). After cooling to 4\u00b0C the solution was seeded with a few cellobiose ureide crystals. ",
+    "term_A": "urea",
+    "term_B": "Boiled water",
+    "llm_generation": {
+        "summary": "In this context, urea is involved in the synthesis of cellobiose ureide, which is produced by dissolving d-cellobiose and urea in boiling water. The boiling water serves as a solvent to facilitate the reaction between urea and d-cellobiose, indicating a direct relationship where boiled water is essential for the dissolution and subsequent reaction of urea in the synthesis process.",
+        "reason": "The score of 4 reflects a significant connection between urea and boiled water, as boiled water is necessary for the dissolution of urea in the synthesis of cellobiose ureide. This relationship is supported by the experimental method described, showing a clear functional interaction.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Chlorinated VOC degradation products were widely detected in the riverbed. These VOCs may be subdivided (Fig. 3) into: (i) parent compounds likely used by the predominant (mainly engineering) industry present (PCE, TCE, 1,1,1-TCA, TCM) and (ii) daughter compounds less likely used by the local industry and ascribed to parent (bio)degradation (cDCE, tDCE, 1,1-DCE, 1,1-DCA). Although parent compounds were clearly able to reach the riverbed suggesting attenuation in the aquifer beforehand was limited, occurrence of degradation products such as cDCE was significant. cDCE is rarely used by industry, but is the predominant isomer formed by anaerobic dechlorination of TCE under sulphate-reducing or methanogenic conditions (de Bruin et al., 1992; Semprini et al., 1995). cDCE:tDCE ratios >30 are also deemed to be supportive of a degradation route (Wiedemeier et al., 1999) and encountered in 90% of survey cDCE detections. Over 30% of piezometers exhibited cDCE>TCE with 8% just containing cDCE. Significant cDCE degradation to VC appears limited (maximum VC was 1\u00a0\u03bcg/l, some detection limits were 5\u00a0\u03bcg/l, rather than 0.2\u00a0\u03bcg/l). ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Methane",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as a parent compound that undergoes anaerobic dechlorination to form degradation products like cDCE, particularly under methanogenic conditions. While methane is not directly discussed as a product of TCE degradation, its presence is implied as a condition that facilitates the dechlorination process. However, the relationship between TCE and methane is not explicitly detailed, indicating a more indirect connection.",
+        "reason": "The score of 2 reflects an indirect relationship, as 1,1,2-trichloroethene is associated with degradation processes that may occur in the presence of methane, but there is no direct interaction or detailed discussion of their relationship in the context provided.",
+        "score": 2
+    }
+}

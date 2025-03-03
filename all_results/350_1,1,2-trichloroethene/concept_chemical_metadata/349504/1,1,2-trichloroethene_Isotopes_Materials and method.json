@@ -1,0 +1,10 @@
+{
+    "context": "were used to ensure stability of the isotope measurements during the course of sample analysis. A standard stock solution was first prepared in a 250ml glass vial by dissolving 1\u03bcl of pure phase compound in water. Dilutions were subsequently performed using 40ml glass vials in order to have 10nmol C of each compound delivered to the IRMS detector. Isotope ratios of benzene and TCE were determined using an Agilent\u2122 7890a gas chromatograph (GC) coupled to an Isoprime\u2122 100 isotope ratio mass spectrometer (IRMS) via an Isoprime GC5 combustion interface. For water samples, a preconcentration step was performed using a purge-and-trap (P&T) module (Stratum Teledyne Tekmar). Twenty-five (25) ml of the sample was purged with gas-phase N2 (40ml/min) and the degassing VOC was accumulated on a Vocarb 3000 adsorbing matrix (VICI). Following the purging step (10min), the VOC was transferred into a cryogenic trap (Tekmar Dohrmann) installed at the entry of the GC column. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Isotopes",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is analyzed using isotope ratio mass spectrometry (IRMS) to ensure the stability of isotope measurements during sample analysis. The relationship between TCE and isotopes is primarily methodological, focusing on the use of isotopes to accurately measure and analyze the compound's presence in samples. However, there is no direct discussion of the chemical properties or biological implications of TCE in relation to isotopes.",
+        "reason": "The score of 2 reflects an indirect connection, as 1,1,2-trichloroethene is involved in a measurement process utilizing isotopes, but there is no detailed exploration of their relationship beyond the analytical method employed.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[2] This variability confounds the evaluation of in vitro functional assays performed using HLCs. [3] Increased differentiation efficiency and more accurate approximation of the in vivo hepatocyte gene expression profile would improve the utility of hPSCs. [4] Towards this goal, we demonstrate the purification of a subpopulation of functional HLCs using the hepatocyte surface marker asialoglycoprotein receptor 1 (ASGR1). [5] We analyzed the expression profile of ASGR1-positive cells by microarray, and tested their ability to perform mature hepatocyte functions (albumin and urea secretion, cytochrome activity). [6] By these measures, ASGR1-positive HLCs are enriched for the gene expression profile and functional characteristics of primary hepatocytes compared with unsorted HLCs. [7] We have demonstrated that ASGR1-positive sorting isolates a functional subpopulation of HLCs from among the heterogeneous cellular population produced by directed differentiation. [1] The hepatocyte mediates many liver functions by carrying out a multitude of activities at the cellular level. ",
+    "term_A": "urea",
+    "term_B": "cytochrome activity",
+    "llm_generation": {
+        "summary": "In this context, urea and cytochrome activity are both assessed as functional characteristics of ASGR1-positive hepatocyte-like cells (HLCs). The study indicates that these cells are capable of performing mature hepatocyte functions, including urea secretion and cytochrome activity, suggesting a relationship where both are markers of hepatocyte functionality. However, the specific interaction between urea and cytochrome activity is not elaborated upon, indicating they are part of a broader assessment of liver cell function rather than directly influencing each other.",
+        "reason": "The score of 3 reflects a moderate relevance, as both urea secretion and cytochrome activity are evaluated as indicators of hepatocyte function in the study. However, their relationship is not deeply explored, indicating they are part of a functional assessment rather than having a direct interaction.",
+        "score": 3
+    }
+}

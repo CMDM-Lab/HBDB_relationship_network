@@ -1,0 +1,10 @@
+{
+    "context": "The TLC (Hasegawa T.) of the whole cell hydrolysates was applied to ascertain the appearance of LL-A2pm (diaminopimelic acid). Fungal cultures were identified in routine morphological test (Dai, 1987). The isolation and identification methods in detail have been described in our previous report (Li and Liu, 2009). For analysis of the styrene degradation characteristics of the isolate, the strain was inoculated onto inorganic nutrients agar containing 6.0gL\u22121 KH2PO4, 6.0gL\u22121 Na2HPO4\u00b712H2O, 3.0gL\u22121 (NH4)2SO4, 0.02gL\u22121 CaCl2\u00b712H2O, 0.05gL\u22121 MgSO4, 20gL\u22121 agar and 20\u03bclL\u22121 styrene as sole carbon source and incubated for 3days at 35\u00b0C. Fungi strains were inoculated onto the same medium with additional 100mL (1:3000) of Rose Bengal solution for bacteria inhibition and incubated for 7days at 28\u00b0C. The plates were observed daily. A Six-stage Andersen Sampler (228\u20139530K, SKC Gulf Coast Inc., USA) was used to capture microorganisms emitted from the biofiltration column. ",
+    "term_A": "Styrene",
+    "term_B": "Carbon",
+    "llm_generation": {
+        "summary": "In this context, styrene is utilized as the sole carbon source for the growth of fungal strains in a degradation study. The relationship between styrene and carbon is direct, as styrene serves as an organic carbon source that supports microbial metabolism and growth. The study focuses on the degradation characteristics of styrene, highlighting its role in carbon utilization by the fungi.",
+        "reason": "The score of 4 reflects a significant connection between styrene and carbon, as styrene is explicitly used as a carbon source for microbial growth in the study. This relationship is crucial for understanding the metabolic processes involved in styrene degradation.",
+        "score": 4
+    }
+}

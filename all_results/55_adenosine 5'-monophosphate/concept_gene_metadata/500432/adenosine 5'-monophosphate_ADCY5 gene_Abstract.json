@@ -1,0 +1,10 @@
+{
+    "context": "[1] Methods: Reverse transcription-polymerase chain reaction (RT-PCR), immunocytochemistry, and immunohistochemistry were used to examine adenylate cyclase expression. [2] The responsiveness of mouse colon to secretagogues 72 hours post-15 Gy gamma radiation or following in vitro exposure to NO donors was measured in Ussing chambers. [3] Also, cAMP, cGMP, and ATP levels were measured. [1] Results: RT-PCR, immunocytochemistry, and immunohistochemistry showed that adenylate cyclase 5 was expressed in mouse colon, and isoforms 5 and 6 were expressed in human biopsies and intestinal epithelium. [2] Pharmacological studies showed that these isoforms are functionally important in chloride secretion. [3] NO mediated hyporesponsiveness to secretagogues is primarily a result of decreased adenylate cyclase activity, and not Gi activation or decreased cellular ATP levels. [1] Rapidly developing and persistent intestinal epithelial barrier defects are characteristic of abdominopelvic exposure to therapeutic doses of ionising radiation and may limit successful cancer treatment and contribute to chronic radiation enteropathy. ",
+    "term_A": "adenosine 5'-monophosphate",
+    "term_B": "ADCY5 gene",
+    "llm_generation": {
+        "summary": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to the ADCY5 gene through the study of adenylate cyclase expression, specifically isoform 5, which is encoded by the ADCY5 gene. The research highlights the role of adenylate cyclase in producing cyclic AMP (cAMP), a critical signaling molecule derived from AMP, and its importance in chloride secretion in the intestinal epithelium. Thus, while AMP is not directly discussed, its metabolic pathway is linked to the function of the ADCY5 gene.",
+        "reason": "The score of 4 reflects a significant connection between adenosine 5'-monophosphate and the ADCY5 gene, as the expression of adenylate cyclase 5 (encoded by ADCY5) is crucial for cAMP production, linking the two terms in a functional context.",
+        "score": 4
+    }
+}

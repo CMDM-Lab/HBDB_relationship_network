@@ -1,0 +1,10 @@
+{
+    "context": "[1] There was no clear association between FEV1 (% predicted) and exposure to diacetyl (fig 1). [2] Multiple linear regression analysis of pulmonary function variables on exposure in process operators (table 4) showed a significant increase in actual FEV1 of 28 ml per year for those working in the diacetyl plant before 1995 (95% CI 3 to 53) and a significant increase in FEV1 of 2 ml per cumulative weighted number of years worked in the diacetyl plant (95% CI 0 to 4). [1] During production of diacetyl, process operators were potentially exposed to acetoin, diacetyl, acetaldehyde and acetic acid. [2] Diacetyl levels ranged from 1.8 to 351 mg/m3 and acetaldehyde levels from 0.4 to 29 mg/m3. [3] Diacetyl exposure levels could not be evaluated in relation to an occupational standard as no Dutch occupational exposure limit (\u00e2\u20ac\u0153MAC value\u00e2\u20ac\u009d) or international equivalent is available. [4] Average levels of acetaldehyde were low compared to the previous Dutch MAC value of 180 mg/m3 and the new Dutch 2007 health standard value of 37 mg/m3. [5] A detailed comparison could not be made because sampling times were relatively short, and the MAC value is based on an 8 h time weighted average (TWA). ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "Acetaldehyde",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione (diacetyl) and acetaldehyde are both mentioned as chemicals to which process operators were potentially exposed during diacetyl production. However, the context does not provide a direct relationship or interaction between the two compounds, merely indicating their presence in the same occupational environment. The focus is primarily on the exposure levels and their potential effects on pulmonary function, rather than any specific biochemical interaction between the two substances.",
+        "reason": "The score of 2 reflects a low relevance, as Butane-2,3-dione and acetaldehyde are both present in the same context of occupational exposure but lack a detailed discussion of their relationship or interaction.",
+        "score": 2
+    }
+}

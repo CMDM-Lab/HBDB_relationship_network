@@ -1,0 +1,10 @@
+{
+    "context": "In the liver, GSNO reductase protects against hepatocellular carcinoma in the setting of chronic active viral hepatitis. In the lung, Ras S-nitrosylation associated with chronic cigarette smoking may be a risk factor for non-small cell carcinoma if expression or activity of GSNOR reductase is decreased. Dose, timing and specificity are thus critically important in exploiting this biochemical pathway for asthma treatment. It is important to target only those patients with increased GSNO reductase activity, with the goal of normalizing \u2013 not ablating \u2013 activity.Low airway pH and nitrite protonation The airway is acidified in association with infection [30,67\u201369]. Specifically, pH is low in the context of acute viral infections, active tuberculosis and chronic, cystic fibrosis-associated Pseudomonas infection [71\u201373]. As in the stomach, low pH in the airway can protect against infection. Low pH favors protonation of peroxynitrous acid, hypochlorous acid and HOBr, all with near neutral pKa's. ",
+    "term_A": "Nitrite",
+    "term_B": "protonation",
+    "llm_generation": {
+        "summary": "In this context, nitrite is mentioned in relation to low airway pH, which favors its protonation. The discussion highlights how low pH conditions, such as those occurring during infections, can enhance the protonation of nitrite and related compounds, potentially influencing their biological activity and protective roles against infections. However, the specific implications of nitrite protonation in this context are not deeply explored.",
+        "reason": "The score of 3 reflects a moderate relevance, as nitrite and protonation are connected through the discussion of low pH conditions favoring protonation. While there is a clear link, the context does not provide extensive details on the significance of this relationship.",
+        "score": 3
+    }
+}

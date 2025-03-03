@@ -1,0 +1,10 @@
+{
+    "context": "A large variation (as high as 50%) in the biological replicates was observed, but such variation is typical for the analysis of EBC samples in general. The developed method has an importance for other types of samples as well. For instance, although the concentration of GSH in saliva and blood serum/plasma samples is in the \u03bcM range, such samples cannot be directly injected into CE. The protein precipitation by acidification or addition of organic solvents, and subsequent readjustments of pH has been shown to significantly influence the measured GSH content. We have shown that the detrimental effect of proteins on the CE separation and capillary fouling can be reduced by significant dilution of the blood serum samples prior CE analysis. The dilution factors of 25:1 to 100:1 are typically used. This in turn requires about 25\u2013100-fold increase in the sensitivity of the analytical method that can be reached by the developed CE\u2013LIF method. ",
+    "term_A": "glutathione",
+    "term_B": "acidification",
+    "llm_generation": {
+        "summary": "In this context, glutathione (GSH) is analyzed in biological samples, where acidification plays a crucial role in the preparation of these samples for capillary electrophoresis (CE). The process of acidification or the addition of organic solvents is shown to significantly influence the measured GSH content, indicating that proper sample preparation is essential for accurate analysis of glutathione levels. This highlights the importance of acidification in maintaining the integrity of GSH measurements in various biological fluids.",
+        "reason": "The score of 4 reflects a significant connection between glutathione and acidification, as the context discusses how acidification affects the measurement of GSH in biological samples, demonstrating a clear relationship in the analytical process.",
+        "score": 4
+    }
+}

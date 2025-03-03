@@ -1,0 +1,10 @@
+{
+    "context": "All data used in this work are available free of charge at www.cdc.gov/nchs/nhanes.htm. The author had no financial and other conflicts that could have affected the conclusions arrived at in this communication. Conflict of interest The authors declare that there are no conflict of interest. Volatile organic compounds (VOCs) such as toluene (TOL), xylene (XYL) or ethylbenzene (EBZ) are the popular components of organic solvents that are widely used in industries (Peng and Lin, 2007). Exposure levels of these VOCs are very important indoors and outdoors because they are widespread in the environment and they could sometimes linger for years. Therefore, discovering surrogate markers associated with these VOCs are required to assess exposure risk. To date, biological monitoring of occupational exposure to VOCs was based on the determination of their specific metabolites in urine. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both identified as volatile organic compounds (VOCs) commonly found in organic solvents used in various industries. They are mentioned together to highlight the importance of monitoring exposure levels to these VOCs due to their prevalence in the environment and potential health risks. However, the context does not delve into their specific interactions or comparative significance beyond their classification as VOCs.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and toluene are mentioned together as VOCs in the same context, indicating they share a general category but lack a detailed discussion of their specific relationship or interactions.",
+        "score": 2
+    }
+}

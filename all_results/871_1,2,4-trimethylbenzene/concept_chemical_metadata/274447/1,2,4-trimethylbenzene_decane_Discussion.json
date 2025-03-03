@@ -1,0 +1,10 @@
+{
+    "context": "The duration of all experiments involving live sand was kept shorter than 0.3 days in order to avoid also significant bacterial growth. As in the column experiment, vapor concentrations were monitored instead of aqueous concentrations. Occasional leaks in stoppers were identified using the CFC data. Analytical problems were encountered for the three compounds with the highest boiling temperatures, n-dodecane (216 \u00b0C), n-decane (174 \u00b0C), and 1,2,4-trimethylbenzene (169 \u00b0C), probably due to condensation of the vapors in batch bottles and syringes used for sampling. It is concluded that the batch experimental technique in this study can be applied only to VOCs with boiling temperatures smaller than about 160\u2013170 \u00b0C. After the initial addition of VOC vapors to sand, 0.5 h (2.5 h for MTBE) were needed for diffusive mixing of the vapors in the bottle. The concentration versus time profiles obtained thereafter were generally too inaccurate to distinguish unambiguously between zero- or first-order kinetic rate laws for degradation (Fig. 6). ",
+    "term_A": "1,2,4-trimethylbenzene",
+    "term_B": "decane",
+    "llm_generation": {
+        "summary": "In this context, 1,2,4-trimethylbenzene and decane are both mentioned as volatile organic compounds (VOCs) with high boiling points that posed analytical challenges during experiments. The study highlights issues related to vapor condensation in sampling equipment for these compounds, indicating that their physical properties may affect experimental outcomes. However, there is no direct interaction or functional relationship discussed between the two compounds beyond their shared characteristics as VOCs with high boiling points.",
+        "reason": "The score of 2 reflects a low relevance, as 1,2,4-trimethylbenzene and decane are mentioned together in the context of analytical challenges due to their boiling points, but there is no detailed discussion of their relationship or interactions.",
+        "score": 2
+    }
+}

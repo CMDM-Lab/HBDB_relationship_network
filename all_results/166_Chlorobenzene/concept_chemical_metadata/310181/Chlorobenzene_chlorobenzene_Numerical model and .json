@@ -1,0 +1,10 @@
+{
+    "context": "Otherwise, the computer program THERM (Ritter and Bozzelli, 1991) was used to calculate thermodynamic parameters of radicals and molecular species based on the methods of Benson group additivity, and properties of radicals based on bond dissociation. Using the above approach, two chlorobenzene mechanisms have been produced. Each mechanism contains the original reactions of the parent benzene mechanism. The chlorobenzene mechanisms developed for this paper are used for analysis only and have not been tested against data from other temperature and mixture regimes. The reaction rates used in this study are included in Tables 1\u20133. Table 1 contains 37 reactions added to both the Zhang and McKinnon mechanism and the Marinov et al. mechanism. In Table 2, are the 35 reactions added only to the Zhang and Mckinnon mechanism and in Table 3 are the 22 reactions added only to the Marinov et al. mechanism. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "chlorobenzene",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is mentioned as a molecular species involved in the development of reaction mechanisms based on the parent benzene mechanism. The study focuses on calculating thermodynamic parameters and reaction rates for chlorobenzene, indicating its role in the analysis of chemical reactions. However, there is no discussion of its interactions or significance beyond its inclusion in the mechanisms.",
+        "reason": "The score of 1 reflects a very low relationship, as chlorobenzene is simply referenced in the context of reaction mechanisms without any detailed interaction or functional relevance discussed. They are mentioned coincidentally without further elaboration.",
+        "score": 1
+    }
+}

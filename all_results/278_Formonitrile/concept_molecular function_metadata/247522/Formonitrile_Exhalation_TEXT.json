@@ -1,0 +1,10 @@
+{
+    "context": "[5] Acidification did not produce a significant change in the median headspace HCN concentrations for the planktonic cultures: 2.3 (IQR, 1.6 to 3.4) versus 1.7 (IQR, 1.4 to 4.2) ppbv (P = 0.6) (Table 1). [1] When data from all 22 patients (with and without BCC) were analyzed together, the systemic compound acetone had similar median breath concentrations for mouth- and nose-exhaled samples: 459 (IQR, 401 to 557) versus 445 (IQR, 354 to 567) ppbv (P = 0.60). [2] In contrast, the median concentrations of ethanol and HCN, which are known to be generated in the mouth, were higher in mouth-exhaled breath samples than nose-exhaled breath samples: HCN, 6.8 (IQR, 1.2 to 20) versus 0 (IQR, 0 to 0.9) ppbv (P < 0.001); and ethanol, 410 (IQR, 346 to 555) versus 152 (IQR, 129 to 318) ppbv (P < 0.001). [3] When the acetone, ethanol, and HCN concentrations were compared between the BCC and control groups, there were no significant differences for nose-exhaled or mouth-exhaled samples (Table 2).  [1] Using SIFT-MS, we did not identify elevated HCN concentrations in the headspace of biofilm or planktonic BCC cultures at any time point.  [2] This included analysis at a time when biofilm formation had been confirmed visually and with spectrophotometry.  [3] This is in contrast to Ryall et al., who observed cyanogenesis in 32 of 34 biofilm BCC cultures . ",
+    "term_A": "Formonitrile",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, Formonitrile is indirectly related to exhalation through the analysis of breath samples for volatile compounds, including hydrogen cyanide (HCN) and acetone. While the study focuses on breath concentrations of various compounds, Formonitrile itself is not explicitly mentioned as being exhaled or measured, indicating a lack of direct relevance to the exhalation process.",
+        "reason": "The score of 2 reflects an indirect connection, as Formonitrile is associated with breath analysis but is not specifically discussed in relation to exhalation or its presence in breath samples. The relationship is general rather than detailed.",
+        "score": 2
+    }
+}

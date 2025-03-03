@@ -1,0 +1,10 @@
+{
+    "context": "[5] This 2H2O mixes with the body water and can be sampled in the urine . [6] Urinary and insensible water losses are minimal ; hence, the enrichment of label in urine can be used effectively to calculate the cumulative recovery of the label and hence the fat oxidized. [7] Consequently, the need for measurement of CO2 and flux is also eliminated. [1] Deuterium-labeled palmitic acid has been validated against acetate-corrected 13C-labeled palmitic acid during rest in humans by Votruba, Zeddun, and Schoeller , who dosed subjects at rest with 13C- and d31-labeled palmitic acid and demonstrated that the cumulative recoveries for both tracers were highly correlated (y = 1.045x \u00e2\u02c6\u2019 0.47; r 2 = 0.88; P < 0.0002). [2] More importantly, the mean difference in percentage recovery of the labels was 0.5 \u00c2\u00b1 2.8% when 13C data were corrected for acetate fixation. [3] This method raises interesting possibilities for use under free-living conditions; however, this method has not been validated under nonresting conditions. [4] Herein, we compared the metabolic fate of orally ingested d31-palmitate and [1-13C] palmitate during physical exercise of varying durations at moderate intensity. ",
+    "term_A": "palmitic acid",
+    "term_B": "Deuterium",
+    "llm_generation": {
+        "summary": "In this context, palmitic acid is discussed in relation to deuterium as a labeling agent for metabolic studies. Deuterium-labeled palmitic acid was validated against 13C-labeled palmitic acid to assess fat oxidation in humans. The study demonstrated a strong correlation in cumulative recoveries of both tracers, indicating that deuterium can effectively track palmitic acid metabolism during rest and potentially under varying physical conditions.",
+        "reason": "The score of 4 reflects a significant connection between palmitic acid and deuterium, as the study provides quantitative data supporting their relationship in metabolic tracking. The validation of deuterium-labeled palmitic acid against another tracer shows a clear and relevant interaction in the context of metabolism.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The cell viability of A549 cells was analysed by measuring lactate dehydrogenase (LDH) release as an indicator for membrane integrity of the cells. There was a slight overall reduction in cell viability over the 24h exposure period. However, no significant differences in viability of A549 cells were observed when cells were exposed to toluene, benzene or styrene even at 10mg/m3 compared to control cells (Fig. 2 ). Results from previous exposure experiments with styrene or chlorobenzene gave evidence that both VOC can induce oxidative stress in the intracellular environment since elevated levels of reactive oxygen species (ROS) were detectable in exposed cells (M\u00f6rbt et al., 2009, 2011; Feltens et al., 2010). In the present study, a 2h exposure to toluene, benzene or styrene at 10mg/m3 revealed a significant increase of the DCF fluorescence intensity in A549 cells, indicating an enhanced production of endogenous ROS (Fig. 3 ). To further prove a VOC-induced oxidative stress response in A549 cells, intracellular glutathione content was measured for 1\u201324h at the indicated times (Fig. 4 ). Monitoring the cellular redox status of A549 cells, we determined changes in total glutathione levels after cell exposure to benzene or styrene at 10mg/m3. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "chlorobenzene",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is mentioned as a volatile organic compound (VOC) that, like styrene, can induce oxidative stress in A549 cells. The study highlights that exposure to chlorobenzene leads to elevated levels of reactive oxygen species (ROS), indicating a detrimental effect on cellular health. However, the specific effects of chlorobenzene are not detailed separately from those of other VOCs, limiting the depth of the relationship discussed.",
+        "reason": "The score of 3 reflects a moderate relevance, as chlorobenzene is linked to oxidative stress in A549 cells, but the context does not provide extensive details on its specific effects compared to other VOCs. The relationship is acknowledged but not deeply explored.",
+        "score": 3
+    }
+}

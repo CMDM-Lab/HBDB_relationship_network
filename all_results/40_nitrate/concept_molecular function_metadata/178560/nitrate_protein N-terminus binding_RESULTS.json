@@ -1,0 +1,10 @@
+{
+    "context": "[2] The cell suspensions of the wild-type strain and NC2 (5 \u00ce\u00bcg Chl/ml) used 120 \u00ce\u00bcm of nitrate until its exhaustion in 30 min, whereas the NC3 cells could not utilize the low concentration of nitrate (Fig.4 B). [3] These findings indicated that NC2 is capable of active transport of nitrate but NC3 is not. [4] A derivative of NC3 carrying plasmid-borne nrtC (designated NC31) utilized nitrate until its exhaustion (Fig. 4 B), indicating that NrtC itself is essential for nitrate transport. [5] The ability of NC2, having the truncated NrtC, to transport nitrate therefore indicated that the N-terminal ATP-binding domain of NrtC but not the C-terminal domain is essential for the activity of the transporter. [1] Growth and nitrate uptake capability of the wild-type strain and the nrtC mutants. [2] A, growth curves in a medium containing 2 mm KNO3.B, changes in nitrate concentration in the medium after addition of nitrate to the cell suspensions containing 5 \u00ce\u00bcg of Chl/ml. [3] \u00e2\u2014\u2039, wild type (WT); \u00e2\u2013\u00b5, NC2; \u00e2\u2013\u00a1, NC3; \u00e2\u2039\u201e, NC31. ",
+    "term_A": "nitrate",
+    "term_B": "protein N-terminus binding",
+    "llm_generation": {
+        "summary": "In this context, nitrate is discussed in relation to its transport by the NrtC protein, specifically highlighting the importance of the N-terminal ATP-binding domain for its activity. The study indicates that the ability to transport nitrate is linked to the structural features of the NrtC protein, particularly its N-terminus, suggesting a direct relationship between nitrate utilization and protein N-terminus binding functionality.",
+        "reason": "The score of 4 reflects a significant connection between nitrate and protein N-terminus binding, as the context provides evidence that the N-terminal domain of NrtC is essential for nitrate transport, indicating a clear functional relationship.",
+        "score": 4
+    }
+}

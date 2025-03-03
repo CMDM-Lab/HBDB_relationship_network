@@ -1,0 +1,10 @@
+{
+    "context": " [1] Our findings indicate that mitochondria have a central role in T cell activation by producing the ATP that is required for purinergic signaling and maintaining Ca2+ homeostasis.  [2] Mitochondria thus occupy a key regulatory position in which they integrate the inside-out (purinergic) and outside-in (Ca2+) signaling networks that control T cell activation.  [3] This finding is interesting given the fact that glycolysis, and not mitochondrial ATP production, is the predominant mechanism by which activated T cells generate the bulk of their ATP demand .  [4] The function of mitochondria during T cell activation shifts from ATP production to the production of TCA intermediates that are required for biosynthesis .  [5] However, emerging evidence points to a more complex involvement of mitochondria in the T cell activation process .  [6] Our current findings support this notion.  [7] We found that mitochondria are not only rapidly activated but that they also produce large amounts of ATP immediately after TCR/CD28 stimulation. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Anabolism",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is crucial for T cell activation, providing the energy necessary for various cellular processes, including anabolism. Mitochondria produce ATP, which supports purinergic signaling and calcium homeostasis, while also shifting their role to generate TCA intermediates essential for biosynthesis during T cell activation. This indicates a direct relationship between ATP production and anabolic processes in activated T cells.",
+        "reason": "The score of 4 reflects a significant connection between ATP and anabolism, as ATP is essential for energy supply in anabolic reactions, particularly during T cell activation. The context provides evidence of ATP's role in supporting biosynthetic processes, indicating a clear relationship.",
+        "score": 4
+    }
+}

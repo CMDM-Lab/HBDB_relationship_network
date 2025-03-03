@@ -1,0 +1,10 @@
+{
+    "context": "Chlorinated VOC degradation products were widely detected in the riverbed. These VOCs may be subdivided (Fig. 3) into: (i) parent compounds likely used by the predominant (mainly engineering) industry present (PCE, TCE, 1,1,1-TCA, TCM) and (ii) daughter compounds less likely used by the local industry and ascribed to parent (bio)degradation (cDCE, tDCE, 1,1-DCE, 1,1-DCA). Although parent compounds were clearly able to reach the riverbed suggesting attenuation in the aquifer beforehand was limited, occurrence of degradation products such as cDCE was significant. cDCE is rarely used by industry, but is the predominant isomer formed by anaerobic dechlorination of TCE under sulphate-reducing or methanogenic conditions (de Bruin et al., 1992; Semprini et al., 1995). cDCE:tDCE ratios >30 are also deemed to be supportive of a degradation route (Wiedemeier et al., 1999) and encountered in 90% of survey cDCE detections. Over 30% of piezometers exhibited cDCE>TCE with 8% just containing cDCE. Significant cDCE degradation to VC appears limited (maximum VC was 1\u00a0\u03bcg/l, some detection limits were 5\u00a0\u03bcg/l, rather than 0.2\u00a0\u03bcg/l). ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Sulfates, Inorganic",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as a parent compound in the degradation of chlorinated volatile organic compounds (VOCs) in a riverbed, while sulfates are implied to play a role in the anaerobic dechlorination process. Specifically, the degradation of TCE under sulfate-reducing conditions leads to the formation of degradation products like cDCE. However, the relationship between TCE and inorganic sulfates is not explicitly detailed, focusing more on the degradation process rather than a direct interaction.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms relate to the degradation of VOCs, with sulfates being involved in the anaerobic dechlorination of TCE. However, their relationship lacks detailed discussion or direct interaction.",
+        "score": 2
+    }
+}

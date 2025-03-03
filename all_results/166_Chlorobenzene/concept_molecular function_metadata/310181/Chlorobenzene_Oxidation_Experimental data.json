@@ -1,0 +1,10 @@
+{
+    "context": "These two compounds are separately injected into a flow reactor; the concentrations of these species and their decomposition products are measured and compared. This experimental data is also used to validate the chemical kinetic models. The modeling provides a more detailed examination of the injected compound\u2019s reaction pathways. Intermediate species from chlorobenzene oxidation were studied by injecting benzene (C6H6) or chlorobenzene (C6H5Cl) into a non-isothermal, combustion-driven flow reactor. This reactor operated with peak temperatures between 700 and 1200 K, an equivalence ratio of 0.5, and residence times near 0.3 ms. Gas composition was measured downstream, along the flow-reactor centerline, using extractive sampling and a Fourier-transform infrared (FTIR) spectrometer. The flow reactor, schematically illustrated in Fig. 1, was capable of independent control of residence time, equivalence ratio, and peak temperature. ",
+    "term_A": "Chlorobenzene",
+    "term_B": "Oxidation",
+    "llm_generation": {
+        "summary": "In this context, chlorobenzene is examined in relation to its oxidation process within a flow reactor. The study focuses on the reaction pathways and intermediate species formed during the oxidation of chlorobenzene when subjected to high temperatures and specific conditions. The experimental setup aims to validate chemical kinetic models by analyzing the decomposition products resulting from chlorobenzene oxidation, indicating a direct relationship between the compound and its oxidation reactions.",
+        "reason": "The score of 4 reflects a significant connection between chlorobenzene and oxidation, as the context discusses the specific experimental conditions under which chlorobenzene is oxidized and the resulting products. This indicates a clear relationship supported by experimental data.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Spreading mixes the sources of VOC emissions and thus \u201cdilutes\u201d strong concentrations. There was a peak concentration for toluene (7880\u03bcg/m3) from 11:30 a.m. to 12:30 p.m. in the area located next to the trucks tipping the waste and another peak concentration (8230\u03bcg/m3) from 12:37 p.m. to 1:37 p.m. at the edge of the open cell. This was probably due to the fact that the waste tipped by the trucks was spread mechanically over the surface of the open cell, approximately an hour after being tipped. The strongest concentrations (\u03bcg/m3), measured next to the trucks corresponded to the following VOCs: tetrachloroethylene (7320), toluene (7880), limonene (3270), m-xylene (2510), trichloroethylene (2470) heptane (1730), ethylbenzene (1340) and decane (1290). These are the compounds found most often at high concentrations, which is hardly surprising given that they are frequently used as solvents, cleaning and degreasing products, perfume additives, etc. By comparing the results obtained adjacent to the trucks and those obtained at the edge of the cell in operation, the same VOCs forming most of the emissions can be observed, highlighting that the emission was mostly due to fresh waste. 3.2.2.3 ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "3-xylene",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene and 3-xylene are both mentioned as volatile organic compounds (VOCs) detected in high concentrations during the emission monitoring of waste tipping activities. However, there is no direct discussion of their specific interactions or relationships beyond their presence in the same environmental study, indicating they are part of a broader category of VOCs commonly found in similar settings.",
+        "reason": "The score of 2 reflects a low relevance, as both compounds are listed among VOCs measured in the same study, but there is no detailed discussion of their interactions or specific significance in relation to each other.",
+        "score": 2
+    }
+}

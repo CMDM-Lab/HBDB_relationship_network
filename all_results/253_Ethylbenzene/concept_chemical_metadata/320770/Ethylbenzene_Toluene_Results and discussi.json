@@ -1,0 +1,10 @@
+{
+    "context": "As shown in Fig. 2 , Manila and Bangkok have the highest concentrations of toluene, ethylbenzene and xylenes. It is relevant to indicate that many industries are mixed with residential areas. However, the average benzene concentration (13 \u03bcg/m3) in Hong Kong were similar to those in Manila (13 \u03bcg/m3) and Bangkok (19 \u03bcg/m3). Compared with Rome, Hong Kong has comparable toluene and ethylbenzene levels. However, the benzene and xylenes in Hong Kong were 50% lower than those measured in Rome. The differences of BTEX ratios among these cities showed that their industrial types and traffic compositions are different from each other. BTEX emission profile described in Fig. 2 showed that Hong Kong is at median ranges among the seven cities.Seasonal variations of TVOC concentrations in Hong Kong In Hong Kong, winter season includes November, December, January and February; while summer season is from May to August. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both mentioned as volatile organic compounds (VOCs) with varying concentrations across different cities, including Manila, Bangkok, and Hong Kong. The discussion highlights their presence in industrial and residential areas, indicating a shared relevance in air quality studies. However, there is no detailed interaction or specific relationship between ethylbenzene and toluene beyond their co-occurrence in environmental monitoring.",
+        "reason": "The score of 2 reflects an indirect connection between ethylbenzene and toluene, as they are both VOCs discussed in the context of air quality across different cities. However, their relationship lacks specific details or interactions, making it a general association rather than a significant one.",
+        "score": 2
+    }
+}

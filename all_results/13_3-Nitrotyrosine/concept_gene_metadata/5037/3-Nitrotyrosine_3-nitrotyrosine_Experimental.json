@@ -1,0 +1,10 @@
+{
+    "context": "A pool of EBC samples were selected for the purpose of quality control. Each day one of these samples was analysed over a period of nineteen days and the results were used for the calculation of the coefficient of variation for day-to-day precision. The recovery of the analyte after SPE preconcentration and clean-up was analysed by the comparison of calibration standards with and without SPE. For this six different calibration standards between 10 and 500pg/mL nitrotyrosine in 2mM NH4Ac buffer underwent SPE in duplicate and were analysed by LC\u2013MS/MS. For reference, six solutions of the analyte in a mixture of 2mM NH4Ac buffer (pH 4.35) and methanol (98/2, v/v; pH 3.4) were prepared at concentrations ten-fold higher than the standard solution with regard to the theoretical preconcentration factor. These solutions were injected directly into the LC\u2013MS/MS system in triple.Determination of the limit of quantification We determined the detection limit and the limit of quantification according to ISO 11843. For the determination of the detection limit we analysed standard solutions of 10, 15, 25, 50 and 75pg 3-NT/mL in 2mM NH4Ac buffer and the blank solution in triple. ",
+    "term_A": "3-Nitrotyrosine",
+    "term_B": "3-nitrotyrosine",
+    "llm_generation": {
+        "summary": "In this context, 3-Nitrotyrosine and 3-nitrotyrosine refer to the same compound, as indicated by the different naming conventions. The analysis involves the quantification of this analyte in exhaled breath condensate (EBC) samples using liquid chromatography-tandem mass spectrometry (LC\u2013MS/MS). The focus is on the detection and quantification methods rather than any distinct relationship between the two terms, which are essentially identical.",
+        "reason": "The score of 5 reflects a direct and highly relevant relationship, as both terms refer to the same chemical entity, 3-Nitrotyrosine, and the context discusses its quantification in detail, emphasizing its significance in the analysis.",
+        "score": 5
+    }
+}

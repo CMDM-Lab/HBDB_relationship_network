@@ -1,0 +1,10 @@
+{
+    "context": "Headspace concentrations of cyclohexane, methylcyclohexane and toluene were also higher than the 15% expected (18\u201333% at 5\u00b0C, 28\u201340% at 40\u00b0C). Only the benzene concentration was close to 15% (15% at 5\u00b0C, 20% at 40\u00b0C). As seen for gasoline, several of the most prevalent VOCs in liquid E85 had low relatively vapor concentrations, e.g., 1,2,4-trimethylbenzene and 4-ethyl toluene.Vapor composition of ULSD and B20 B20 and ULSD had similar VOC headspace compositions (Table 2). The top five target VOCs were cycloalkanes (methylcyclohexane, cyclohexane) and alkanes (n-octane, n-nonane, n-heptane), which together accounted for 63\u201376% of TTVOC (depending on temperature). The most abundant aromatics were toluene (7% of TTVOC), p-,m-xylene (3\u20136%), and benzene (2\u20134%). ULSD had slightly higher TTVOC headspace concentrations (0.99\u20136.16gm\u22123 at temperatures of 5 and 40\u00b0C, respectively) than ULSD (0.81\u20135.80gm\u22123). Concentrations of most VOCs in the two fuels were similar (within 20%) at each temperature, although B20 showed higher concentrations of n-octane, ethyl benzene, n-nonane, 4-ethyl toluene at 5\u00b0C and n-tridecane and n-tetradecane at 40\u00b0C, but lower concentrations of cyclohexane. ",
+    "term_A": "Heptane",
+    "term_B": "octane",
+    "llm_generation": {
+        "summary": "In this context, heptane and octane are both mentioned as components of the vapor composition in liquid E85 and ULSD fuels. They are categorized as alkanes and are part of the top five target volatile organic compounds (VOCs) contributing to the total volatile organic compound (TTVOC) levels. However, the context does not provide specific details about their interactions or comparative significance beyond their presence in the same fuel mixtures.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as heptane and octane are both identified as alkanes in the same context related to fuel composition, but there is no detailed discussion of their relationship or interactions.",
+        "score": 2
+    }
+}

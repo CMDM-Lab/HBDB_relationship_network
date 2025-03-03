@@ -1,0 +1,10 @@
+{
+    "context": "0.18\u00b10.03, 39.9\u00b18.1 and 116\u00b124 for f, TB, VD, VT, TP and TI, respectively, which are in overall agreement with previously published values (Nielsen et al., 1999). For the studied parameters, regression analyses of the daily mean baseline values versus day of exposure showed no consistent trend with increasing number of exposure days. This agrees with the fact that a carry-over effect from a 1-h exposure to 51ppm limonene admixed 3.4ppm ozone lasted less than 6h (Rohr et al., 2002). Therefore, for each animal, the exposure-effect was obtained as percent of the baseline value established at the actual exposure day (made equal to 100%). A mean exposure-effect was calculated for each animal for the entire 10-day exposure period. Two time intervals, 11\u201320 and 51\u201360min, were used to represent an \u201cearly\u201d and a \u201clate\u201d exposure period of each exposure day. ",
+    "term_A": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "term_B": "Ozone",
+    "llm_generation": {
+        "summary": "In this context, 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone are mentioned in relation to exposure studies involving limonene and ozone mixtures. While the study discusses the effects of ozone on various parameters during exposure, it does not provide a direct relationship or interaction between 1-methyl-4-prop-1-en-2-ylcyclohexene and ozone. Their mention is more about their presence in the same experimental setup rather than a specific interaction or effect.",
+        "reason": "The score of 2 reflects an indirect connection, as both compounds are part of the same exposure study, but there is no detailed discussion of their relationship or interaction within the context provided.",
+        "score": 2
+    }
+}

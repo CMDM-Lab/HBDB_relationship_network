@@ -1,0 +1,10 @@
+{
+    "context": "[7] Concentration-response regression curves of lung measurements in exercising subjects show progressively increased decrements in measurements of lung function with increasing exercise intensity. [8] Other forced and inspired flow rates, inspiratory capacity and total lung capacity (TLC), are also affected, and there is increased RAW and residual volume.  [1] It has been suggested that O3 inhalation stimulates receptors located in the smooth muscle layers of the upper airways.  [2] Contraction of the inspiratory muscles is limited by the non-myelinated C fibre afferent nerves of vagal origin, which may act through axonal reflex connections or through spinal reflexes.  [3] The net effect on the human lung is involuntary inhibition of full inspiration, reduction of transpulmonary pressure and inspiratory capacity, and increased flow resistance.  [4] There is an associated decrease in maximal expiratory flow rates, TLC, and vital capacity accompanied by substernal pain and coughing.  [5] Research has shown an influx of inflammatory cells into the pulmonary tissue. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "myelination",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is not directly linked to myelination. The discussion focuses on lung function and the effects of inhaled irritants, particularly in relation to non-myelinated C fiber afferent nerves. While myelination is crucial for nerve function, the context does not establish a clear relationship between SO2 exposure and myelination processes.",
+        "reason": "The score of 1 reflects a lack of any direct or indirect relationship between sulfur dioxide and myelination in the provided context. They are mentioned in separate discussions without any evidence of interaction or relevance.",
+        "score": 1
+    }
+}

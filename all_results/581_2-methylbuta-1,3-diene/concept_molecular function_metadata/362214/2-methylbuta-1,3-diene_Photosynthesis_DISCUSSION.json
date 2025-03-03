@@ -1,0 +1,10 @@
+{
+    "context": "[4] However, these effects were much smaller than the relief of feedback inhibition on DXS, and so heat stimulated production of unlabeled isoprene more than of labeled isoprene. [5] However, following the heating, leaves had a net negative carbon balance and, presumably, GAP and pyruvate were in limited supply. [6] Labeled isoprene was emitted at about the rate it was before the heatfleck, showing that the regulation of isoprene emission following a heatfleck depends on availability of substrate rather than changes in isoprene synthase activity. [7] Even heat stress severe enough to eliminate photosynthesis does not appear to affect the capacity to convert DOX to isoprene. [8] Draining pools of intermediates at temperatures above 35\u00c2\u00b0C may account for the reduction in isoprene emission seen when leaves are above 35\u00c2\u00b0C for more than 15 min . [1] The hypothesized regulation of the MEP pathway in response to the various treatments is summarized in Table I. [2] Assuming a high gain feedback loop, we make the following interpretations. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Photosynthesis",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene, also known as isoprene, is discussed in relation to its emission from leaves during heat stress, which can occur even when photosynthesis is negatively impacted. The regulation of isoprene emission appears to depend more on substrate availability than on photosynthetic activity, indicating a complex relationship where isoprene production can persist despite reduced photosynthetic function.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses the emission of isoprene (2-methylbuta-1,3-diene) in relation to photosynthesis, highlighting their interaction under stress conditions, but does not provide detailed insights into how photosynthesis directly influences isoprene production.",
+        "score": 3
+    }
+}

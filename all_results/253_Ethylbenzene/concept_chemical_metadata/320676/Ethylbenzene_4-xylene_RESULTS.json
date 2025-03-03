@@ -1,0 +1,10 @@
+{
+    "context": "[6] Sixty eight asthmatic children (77%) had at least one parent with an allergic problem and 57% had at least one asthmatic parent. [7] More cases than controls reported having wheeze, runny nose, and cough (p<0.01, [8] table 1). [1] The VOCs identified in the homes of participants included benzene, toluene, m-xylene, o,p-xylene, ethylbenzene, styrene, chlorobenzene, 1,3-dichlorobenzene, 1,2-dichlorobenzene and 1,4-dichlorobenzene, with toluene, xylene, and benzene + toluene being detected in 99% of the homes studied, xylene in 93%, and benzene in 86%. [2] The highest median concentration was measured for benzene (20.3 \u00ce\u00bcg/m3 with a maximum of 81.9 \u00ce\u00bcg/m3) followed by toluene (17.1 \u00ce\u00bcg/m3 (range 0.01\u00e2\u20ac\u201c153.9)) [3] and 1,2-dichlorobenzene (16.7 \u00ce\u00bcg/m3 (range 0.01\u00e2\u20ac\u201c201.8)). [4] The median concentration of total VOCs was 54.9 \u00ce\u00bcg/m3 with a maximum of 622 \u00ce\u00bcg/m3 measured in a house in which the walls of the living room had been recently painted. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "4-xylene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and 4-xylene are both identified as volatile organic compounds (VOCs) present in the homes of asthmatic children. They are part of a broader analysis of VOC exposure, but there is no specific discussion of their individual effects or interactions related to asthma or health outcomes. Their mention is primarily as components of a larger group of VOCs detected in the study.",
+        "reason": "The score of 2 reflects a low relevance, as ethylbenzene and 4-xylene are mentioned together in the context of VOCs found in homes, but there is no detailed discussion of their relationship or specific health implications.",
+        "score": 2
+    }
+}

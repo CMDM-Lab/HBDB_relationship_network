@@ -1,0 +1,10 @@
+{
+    "context": "In first experiments we could detect LTB4 concentrations of about 1\u2013300 nM with the developed ELISA assay. To determine CR's of mAb S27BC6, 5 LTB4-related compounds were tested in competitive ELISA experiments. As shown in Table\u00a02 mAb S27BC6 exhibits practically no CR against 5R-Hydroxyicosatetraenoic Acid (HETE), 5S-HETE, 15R-HETE and 8-isoprostane with values of CR\u00a0<\u00a00.1%. The derivative 20-hydroxy-leukotriene B4 showed only a minor inhibitory effect on antibody binding to the solid-phase LTB4-3-APA-BSA. The IC50 value for 20-hydroxy LTB4 was determined and calculated 2860\u00a0nM which results in a CR of 0.66%. The results demonstrate a very high specificity of S27BC6 to its antigen LTB4.Sequences of variable domains from heavy and light chains of mAb S27BC6 For further characterization of mAb S27BC6 nucleotide sequences of the variable domains from heavy and light chains were deduced. The nucleotide and corresponding amino acid sequence results are shown in Fig.\u00a03 . ",
+    "term_A": "Leukotriene B4",
+    "term_B": "inhibitors",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is analyzed for its concentrations and interactions with various compounds, including potential inhibitors. The study evaluates the specificity of the monoclonal antibody S27BC6 against LTB4 and its derivatives, including 20-hydroxy-leukotriene B4, which showed a minor inhibitory effect on antibody binding. This suggests that while there are compounds that can inhibit LTB4 interactions, their effectiveness varies significantly, indicating a complex relationship between LTB4 and its inhibitors.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses the inhibitory effects of certain compounds on LTB4 binding, indicating some interaction. However, the details on the effectiveness of these inhibitors are limited, preventing a higher score.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[11] Conversely, the effect of cicada litterfall on soil nitrate availability was more persistent, showing a positive correlation with cicada litterfall density during the first 30 days, which continued during days 31 to 100 (Fig. 2D, R2adj = 0.06, P = 0.029). [12] These results are consistent with expectations of net mineralization from the decomposition of a nitrogenrich detritus pulse. [13] Although immobilization, plant uptake, and other losses may reduce nitrogen availability over time, these findings suggest that some effects may be long-lasting. [1] Cicada litterfall increases indices of soil nitrate and ammonium availability in forest soils. [2] (A) Soil ammonium availability under experimentally controlled cicada litterfall densities in the first 30 days and (B) in days 31 to 100. [3] (C) Soil nitrate availability under experimentally controlled cicada litterfall densities in the first 30 days and (D) in days 31 to 100. [4] Fitted lines represent least-squares polynomial regressions. ",
+    "term_A": "nitrate",
+    "term_B": "Ammonium",
+    "llm_generation": {
+        "summary": "In this context, nitrate and ammonium are both assessed as indicators of nitrogen availability in forest soils influenced by cicada litterfall. The study indicates that cicada litterfall positively correlates with the availability of both nitrate and ammonium, suggesting that the decomposition of nitrogen-rich litter contributes to the sustained presence of these nitrogen forms in the soil over time. This relationship highlights the role of cicada litter in enhancing soil nutrient dynamics.",
+        "reason": "The score of 4 reflects a significant connection between nitrate and ammonium, as both are shown to increase in availability due to cicada litterfall. The context provides evidence of their correlation and shared significance in soil nutrient dynamics, indicating a clear relationship.",
+        "score": 4
+    }
+}

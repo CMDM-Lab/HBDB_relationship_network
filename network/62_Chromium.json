@@ -1,0 +1,2003 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Chromium",
+                    "label": "Chromium",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Chromium",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Chromium",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Chromium",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Chromium",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Chromium",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Chromium",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromium",
+                        "label": "Chromium",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Dermo-",
+                        "label": "Dermo-",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Dermo-",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromium",
+                        "label": "Chromium",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tungsten",
+                        "label": "Tungsten",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metals",
+                        "label": "Metals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chromates",
+                        "label": "Chromates",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Germanium",
+                        "label": "Germanium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Zeolites",
+                        "label": "Zeolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrogen, Homeopathic preparation",
+                        "label": "Hydrogen, Homeopathic preparation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aluminum",
+                        "label": "Aluminum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chromium Compounds",
+                        "label": "Chromium Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Transition Elements",
+                        "label": "Transition Elements",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Tungsten",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Metals",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Chromates",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Toluene",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Atom",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Chemicals",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Germanium",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Zeolites",
+                        "score": 14
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Elements",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Hydrogen, Homeopathic preparation",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Aluminum",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Chromium Compounds",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Transition Elements",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromium",
+                        "label": "Chromium",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pigment",
+                        "label": "Pigment",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Blood Circulation",
+                        "label": "Blood Circulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Skin Absorption",
+                        "label": "Skin Absorption",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ingestion",
+                        "label": "Ingestion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "catalyst",
+                        "label": "catalyst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Excretory function",
+                        "label": "Excretory function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Edema",
+                        "label": "Edema",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "enzyme activity",
+                        "label": "enzyme activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Pigment",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Blood Circulation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Skin Absorption",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Ingestion",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "catalyst",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Adjudication",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Excretory function",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Oxidation",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Respiration",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Edema",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Inspiration function",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "enzyme activity",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Chromium",
+                        "target": "Process",
+                        "score": 8
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromium",
+                        "label": "Chromium",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromium",
+                        "label": "Chromium",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromium",
+                        "label": "Chromium",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Dermo-": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Dermo-",
+                        "label": "Dermo-",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Dermo-_Discussion.json",
+                        "label": "In this context, chromium is discussed in relation to its levels in urine and exhaled breath condensate (EBC) samples, with a focus on different exposure routes including dermal absorption. The analysis indicates that urinary chromium levels reflect multiple exposure routes, including dermal, while EBC primarily reflects inhalation exposure. However, the specific relationship between chromium and dermal exposure is not quantitatively detailed, leading to a general understanding of chromium's presence in various exposure contexts without a strong emphasis on dermal absorption's impact.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dermo-",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Dermo-_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Tungsten": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Tungsten",
+                        "label": "Tungsten",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Tungsten_Introduction.json",
+                        "label": "In this context, chromium and tungsten are both mentioned as metals that can be detected in exhaled breath condensate (EBC) as environmental or occupational contaminants. However, the discussion primarily focuses on chromium, particularly its species (Cr(VI) and Cr(III)), with no direct comparison or specific relationship established between chromium and tungsten. They are listed among other metals but lack detailed interaction or significance in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Tungsten",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Tungsten_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Metals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metals",
+                        "label": "Metals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Metals_Introduction.json",
+                        "label": "In this context, chromium is identified as a transition metal that is being explored for its catalytic properties in oxidation reactions. The discussion highlights chromium's multiple oxidation states and its application in catalytic processes, positioning it within the broader category of metals. The text emphasizes the comparative performance of chromium catalysts against noble metals, indicating its relevance in the field of catalysis involving various metals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Metals_Results and discussi.json",
+                        "label": "In this context, chromium is identified as a specific metal present in the zeolite samples, with its concentration measured before and after calcination. The analysis indicates that chromium is uniformly distributed on the zeolite surface, highlighting its role as a metal in the composition of the material. The study focuses on the properties and distribution of chromium within the broader category of metals, particularly in relation to zeolite catalysts.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Metals_Introduction.json",
+                        "label": "In this context, chromium is identified as one of the metals detectable in exhaled breath condensate (EBC) samples, alongside other metals like cobalt, tungsten, and lead. The text discusses the presence of various metals in EBC, highlighting chromium's relevance as an occupational contaminant. The relationship is significant as it pertains to the measurement and analysis of chromium in the context of environmental and occupational exposure to metals.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metals",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Metals_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Metals_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metals",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Metals_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Chromates": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromates",
+                        "label": "Chromates",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Chromates_Introduction.json",
+                        "label": "In this context, chromium refers to the element that exists in various oxidation states, including hexavalent chromium (Cr(VI)), which encompasses chromates. Chromates are specific compounds derived from chromium that are known to be toxic and carcinogenic. The text discusses the health risks associated with Cr(VI) exposure, particularly in occupational settings, and contrasts it with the non-toxic nature of trivalent chromium (Cr(III)), highlighting the significant difference in toxicity between these two forms of chromium.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chromates",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Chromates_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Toluene_Introduction.json",
+                        "label": "In this context, chromium is discussed in relation to its use as a catalyst for the oxidation of toluene and other volatile organic compounds (VOCs) after being biosorbed onto zeolite. The study highlights the dual environmental benefit of reusing chromium, a xenobiotic pollutant, in the catalytic oxidation process, indicating a significant functional relationship between chromium and toluene in environmental remediation efforts.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Toluene_Results and discussi.json",
+                        "label": "In this context, chromium is evaluated for its role in enhancing the catalytic performance of Cr-NaY zeolite in the oxidation of toluene. The presence of chromium significantly improves the conversion efficiency of toluene to CO2, achieving a maximum conversion of 70% at 450°C, compared to negligible conversion with the NaY zeolite alone. This indicates a strong catalytic relationship where chromium acts as a crucial component in facilitating the oxidation of toluene.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Toluene_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Toluene_Results and discussi.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Atom": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Atom",
+                        "label": "Atom",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Atom_Experimental.json",
+                        "label": "In this context, chromium is mentioned as an element being quantified through various analytical techniques, including spectroscopic methods and inductively coupled plasma atomic emission spectrometry (ICP-AES). The term 'atom' is implied as chromium is a chemical element, which consists of atoms. However, there is no detailed discussion of their relationship beyond this basic definition of chromium as an atom.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Atom",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Atom_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Chemicals_Introduction.json",
+                        "label": "In this context, chromium, specifically hexavalent chromium (Cr(VI)), is identified as a hazardous chemical that poses significant health risks, including carcinogenic and sensitizing effects. The discussion emphasizes the importance of monitoring exposure to such chemicals in occupational settings, highlighting chromium's classification as a dangerous chemical that requires careful handling and regulation to protect worker health.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Chemicals_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Germanium": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Germanium",
+                        "label": "Germanium",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Germanium_Experimental.json",
+                        "label": "In this context, chromium and germanium are mentioned as elements involved in analytical procedures, specifically in the preparation of standards for analysis using ICP-MS (Inductively Coupled Plasma Mass Spectrometry). However, there is no discussion of their chemical interactions, biological significance, or any direct relationship beyond their roles as standards in the analytical process. They are simply listed as components of the methodology without further elaboration on their relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Germanium",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Germanium_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Zeolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Zeolites",
+                        "label": "Zeolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Zeolites_Results and discussi.json",
+                        "label": "In this context, chromium is incorporated into the zeolite structure (specifically Cr-NaY zeolite) to enhance its catalytic performance in the oxidation of toluene. The presence of chromium significantly improves the conversion rates of toluene to CO2, achieving a maximum conversion of 70% at 450°C, compared to the starting NaY zeolite, which shows minimal conversion. This indicates a strong functional relationship where chromium modifies the zeolite's properties to facilitate better catalytic activity for volatile organic compound (VOC) oxidation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Zeolites_Conclusions.json",
+                        "label": "In this context, chromium and zeolites are closely related through the process of biosorption and catalysis. The Cr-NaY zeolite, formed after the biosorption of Cr(VI), acts as a catalyst for the oxidation of volatile organic compounds (VOCs) like ethyl acetate, ethanol, and toluene. The presence of chromium enhances the catalytic activity and selectivity towards CO2 production, demonstrating a significant interaction between chromium and zeolites in environmental applications, particularly in treating chromium-contaminated wastewater while removing VOCs from gaseous streams.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Zeolites_Introduction.json",
+                        "label": "In this context, chromium and zeolites are closely related through their application in environmental remediation. The study highlights the use of zeolites, specifically NaY zeolite, for the biosorption of hexavalent chromium from contaminated water. After biosorption, the chromium-loaded zeolite is utilized as a catalyst for the oxidation of volatile organic compounds, demonstrating a dual benefit of chromium reuse and zeolite functionality in pollution control. This relationship underscores the potential of zeolites in enhancing the environmental management of chromium pollutants.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Zeolites",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Zeolites_Results and discussi.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Zeolites_Conclusions.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Zeolites_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Elements": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Elements_Experimental.json",
+                        "label": "In this context, chromium is discussed as a specific element being quantified and analyzed through various chemical methods, including spectroscopic techniques and inductively coupled plasma atomic emission spectrometry (ICP-AES). The mention of chromium falls under the broader category of elements, indicating its classification as a chemical element. However, the relationship is primarily focused on the analytical methods rather than any specific interactions or properties of chromium as an element.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Elements",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Elements_Experimental.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hydrogen, Homeopathic preparation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrogen, Homeopathic preparation",
+                        "label": "Hydrogen, Homeopathic preparation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Hydrogen, Homeopathic preparation_Results and discussi.json",
+                        "label": "In this context, chromium is involved in a chemical process where hydrogen is used to reduce Cr(VI) species back to Cr(III) during a temperature-programmed reduction (TPR) experiment. The reduction of chromium species is indicated by a color change and the consumption of hydrogen, suggesting a direct chemical interaction. However, there is no mention of homeopathic preparation, making its relevance unclear.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrogen, Homeopathic preparation",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Hydrogen, Homeopathic preparation_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Aluminum": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aluminum",
+                        "label": "Aluminum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Aluminum_Introduction.json",
+                        "label": "In this context, chromium and aluminum are mentioned as detectable metals in exhaled breath condensate (EBC) samples, which reflect occupational exposure to various contaminants. While both metals are noted in the same study regarding their presence in EBC, there is no direct discussion of their specific relationship or interaction, indicating a general association rather than a detailed connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aluminum",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Aluminum_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chromium Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chromium Compounds",
+                        "label": "Chromium Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Chromium Compounds_Experimental.json",
+                        "label": "In this context, chromium is discussed in relation to chromium compounds, specifically focusing on workers exposed to these compounds in various occupational settings. The categorization of workers into Cr(VI) Workers, Non-Cr(VI) Workers, and Other Workers highlights the direct involvement of certain individuals with chromium compounds, particularly those working with Cr(VI) in plating and blending processes. This indicates a clear relationship where chromium compounds are the substances that pose exposure risks to the categorized workers.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Chromium Compounds_Introduction.json",
+                        "label": "In this context, chromium is discussed in relation to its two oxidation states, Cr(III) and Cr(VI), which are classified as chromium compounds. The study aims to measure these chromium species in exhaled breath condensate (EBC) samples from both occupationally exposed individuals and a control group. The focus is on detecting differences in chromium levels between these groups, highlighting the relevance of chromium compounds in occupational health monitoring.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chromium Compounds",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Chromium Compounds_Experimental.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Chromium Compounds_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Transition Elements": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Transition Elements",
+                        "label": "Transition Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Transition Elements_Introduction.json",
+                        "label": "In this context, chromium is identified as a transition metal that plays a significant role in catalytic oxidation reactions. The text discusses the advantages of using transition metals, including chromium, as catalysts due to their multiple oxidation states and the influence of supports on their catalytic activity. This highlights chromium's relevance within the broader category of transition elements, particularly in environmental applications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Transition Elements",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Transition Elements_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Pigment": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pigment",
+                        "label": "Pigment",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Pigment_Introduction.json",
+                        "label": "In this context, chromium is discussed primarily in relation to its hexavalent form (Cr(VI)), which is associated with various health risks and occupational exposure. The mention of 'chromate pigments' indicates that chromium compounds are used in the production of pigments and dyes. However, the relationship is more about the industrial application of chromium rather than a direct interaction or functional relationship with pigments. The context highlights the toxicological aspects of chromium rather than its role as a pigment itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pigment",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Pigment_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Blood Circulation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Blood Circulation",
+                        "label": "Blood Circulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Blood Circulation_Introduction.json",
+                        "label": "In this context, chromium is discussed in relation to its inhalation exposure and subsequent excretion processes, particularly focusing on how chromium, especially in its hexavalent form, is absorbed into the bloodstream after being inhaled. The relationship to blood circulation is highlighted by the fact that a significant portion of respirable chromium is cleared from the lungs into the bloodstream, indicating its potential impact on blood circulation and systemic exposure. However, the specific effects of chromium on blood circulation are not detailed in the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Blood Circulation",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Blood Circulation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Skin Absorption": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Skin Absorption",
+                        "label": "Skin Absorption",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Skin Absorption_Discussion.json",
+                        "label": "In this context, chromium is discussed in relation to its presence in urine and exhaled breath condensate (EBC) samples, indicating potential exposure routes including inhalation and dermal absorption. However, the study primarily focuses on the correlation between chromium levels in urine and EBC, without directly addressing skin absorption as a significant factor. The lack of correlation between urinary chromium and EBC suggests that skin absorption may not be a primary route of exposure in this study, although it is acknowledged as one of the potential exposure pathways.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Skin Absorption_Introduction.json",
+                        "label": "In this context, chromium, specifically hexavalent chromium (Cr(VI)), is highlighted as a chemical that can be absorbed through the skin, leading to various health risks including skin irritation and allergic dermatitis. The text discusses the pathways of exposure to Cr(VI), emphasizing dermal absorption as a significant route alongside inhalation and ingestion. This underscores the importance of understanding skin absorption in the context of occupational exposure to chromium compounds, which are classified as carcinogens and sensitizers.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Skin Absorption",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Skin Absorption_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Skin Absorption_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Ingestion": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ingestion",
+                        "label": "Ingestion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Ingestion_Discussion.json",
+                        "label": "In this context, chromium is discussed in relation to its presence in biological samples, specifically urine and exhaled breath condensate (EBC). The analysis indicates that urinary chromium levels reflect multiple exposure routes, including ingestion. However, the study primarily focuses on inhalation exposure, suggesting that while ingestion is a potential route, it is not the main focus of the analysis. The lack of correlation between chromium levels in urine and EBC samples implies that ingestion may not significantly impact the measured levels in this specific study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Ingestion_Introduction.json",
+                        "label": "In this context, chromium, specifically hexavalent chromium (Cr(VI)), is discussed as a hazardous chemical that can be ingested through hand-to-mouth contamination after handling chromium dust or solutions. The text highlights the various exposure routes to Cr(VI), including ingestion, and outlines the health risks associated with such exposure, including respiratory and systemic effects. This establishes a direct relationship between chromium and ingestion, emphasizing the importance of reducing exposure to this carcinogenic substance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ingestion",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Ingestion_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Ingestion_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "catalyst": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "catalyst",
+                        "label": "catalyst",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_catalyst_Introduction.json",
+                        "label": "In this context, chromium is utilized as a component of a zeolite catalyst after being biosorbed from contaminated water. The study highlights the dual role of chromium, where it is first removed as a pollutant and then repurposed as a catalyst for the oxidation of volatile organic compounds. This demonstrates a significant relationship between chromium and its application as a catalyst, emphasizing its environmental benefits in both remediation and catalysis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "catalyst",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_catalyst_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Adjudication_Results.json",
+                        "label": "In this context, chromium is analyzed in relation to its presence in urine samples, with established methods for determining total chromium concentrations. However, the term 'adjudication' is not explicitly defined or discussed in relation to chromium measurements or their implications. Thus, while chromium is a focus of the study, adjudication appears to be mentioned without a clear connection to the analysis or findings presented.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Adjudication_Discussion.json",
+                        "label": "In this context, chromium (Cr) is discussed in relation to its levels in exhaled breath condensate (EBC) among different worker cohorts, particularly focusing on Cr(VI) exposure. The term 'adjudication' is indirectly referenced in the context of needing a standard marker for EBC samples to account for dilution effects, which is crucial for accurately assessing chromium exposure. However, there is no direct relationship established between chromium and adjudication, as adjudication pertains more to the need for standardization in measurement rather than a specific interaction with chromium itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Adjudication_Results.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Adjudication_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Excretory function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Excretory function",
+                        "label": "Excretory function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Excretory function_Discussion.json",
+                        "label": "In this context, chromium (Cr) is discussed in relation to its excretion rates in exhaled breath condensate (EBC) among workers exposed to Cr(VI). The study highlights the need for understanding chromium's half-life and excretion patterns, indicating that chromium exposure can affect excretory function, particularly in workers with direct and indirect exposure. The increase in chromium levels in EBC suggests a link between chromium exposure and its excretory dynamics, emphasizing the importance of monitoring for potential health impacts.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Excretory function_Introduction.json",
+                        "label": "In this context, chromium is discussed in relation to its excretion through urine as a biomarker for exposure assessment, particularly for Cr(III) and Cr(VI). The urinary chromium levels reflect both past and recent exposure, indicating that the excretory function plays a crucial role in eliminating chromium from the body. The text outlines the processes involved in chromium excretion, including the stages of elimination and the impact of inhalation exposure on urinary chromium levels, highlighting the significance of excretory function in monitoring chromium exposure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Excretory function",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Excretory function_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Excretory function_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Oxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Oxidation_Results and discussi.json",
+                        "label": "In this context, chromium plays a crucial role in the oxidation of toluene when used in Cr-NaY zeolite as a catalyst. The presence of chromium significantly enhances the catalytic performance, achieving a maximum CO2 conversion of 70% at 450°C, compared to negligible conversion with the NaY zeolite alone. This indicates that chromium is essential for effective oxidation processes in this reaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Oxidation_Conclusions.json",
+                        "label": "In this context, chromium is involved in the oxidation process of volatile organic compounds (VOCs) when used as a catalyst in zeolite. The study highlights that chromium, initially present as Cr(III), undergoes oxidation to Cr(VI) upon calcination, enhancing the catalytic activity and selectivity for CO2 production during the oxidation of VOCs like ethyl acetate, ethanol, and toluene. This indicates a significant role of chromium in facilitating oxidation reactions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Oxidation_Introduction.json",
+                        "label": "In this context, chromium (specifically Cr(VI)) is discussed in relation to its role as a catalyst in the oxidation of volatile organic compounds (VOCs) after being biosorbed onto zeolite. The study highlights the dual environmental benefit of reusing chromium from contaminated water as a catalyst for oxidation processes, indicating a significant relationship between chromium and oxidation in environmental remediation efforts.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Oxidation_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Oxidation_Conclusions.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Oxidation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Respiration_Introduction.json",
+                        "label": "In this context, chromium, specifically hexavalent chromium (Cr(VI)), is linked to respiration through its classification as a carcinogen and sensitizing agent that can cause respiratory issues upon inhalation. Exposure to Cr(VI) compounds can lead to serious respiratory irritations, including nosebleeds and inflammatory respiratory problems, highlighting the significant health risks associated with chromium exposure in occupational settings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Respiration_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Edema": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Edema",
+                        "label": "Edema",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_Edema_Results and discussi.json",
+                        "label": "In this context, chromium is discussed in relation to its reduction from Cr(VI) to Cr(III) by bacteria and its subsequent biosorption onto zeolites. However, there is no mention of edema or any direct relationship between chromium and edema. The focus is primarily on chromium's chemical behavior and its removal efficiencies at different pH levels, with no implications for edema or related physiological effects.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Edema",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_Edema_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Inspiration function_Discussion.json",
+                        "label": "In this context, chromium (Cr) is discussed in relation to its accumulation in the lungs due to inhalation exposure in occupational settings. While the study focuses on chromium levels in exhaled breath condensate (EBC) and urine, it indirectly relates to inspiration function by highlighting how inhaled chromium can affect lung health. However, there is no direct discussion of how chromium specifically impacts inspiration function or respiratory mechanics.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Inspiration function_Introduction.json",
+                        "label": "In this context, chromium (Cr) is investigated in relation to its presence in exhaled breath condensate (EBC) samples from workers potentially exposed to chromium compounds through inhalation. The study aims to measure levels of Cr(III) and Cr(VI) to assess any differences between occupationally exposed individuals and a control group. While chromium exposure may impact respiratory health, the specific relationship to inspiration function is not directly addressed in the context provided.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Inspiration function_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Inspiration function_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "enzyme activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "enzyme activity",
+                        "label": "enzyme activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772",
+                        "label": "Reutilization of Cr-Y zeolite obtained by biosorption in the catalytic oxidation of volatile organic compounds.\nB. Silva, H. Figueiredo, VP. Santos, MF. Pereira, JL. Figueiredo, AE. Lewandowska, MA. Bañares, IC. Neves, T. Tavares\nJ. Hazard. Mater. 2011 Aug;192(2):545-53.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21684081"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105772_Chromium_enzyme activity_Results and discussi.json",
+                        "label": "In this context, chromium is evaluated for its role in enhancing the catalytic activity of Cr-NaY zeolite during the oxidation of volatile organic compounds (VOCs) like ethyl acetate, ethanol, and toluene. The study assesses how chromium affects the enzyme-like activity of the catalyst, particularly under varying pH conditions. The results indicate that chromium significantly influences the catalytic performance, suggesting a direct relationship between chromium presence and enzyme activity in the context of VOC oxidation reactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "enzyme activity",
+                        "target": "105772",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105772",
+                        "target": "105772_Chromium_enzyme activity_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769",
+                        "label": "The simultaneous detection of trivalent & hexavalent chromium in exhaled breath condensate: A feasibility study comparing workers and controls.\nE. Leese, J. Morton, PHE. Gardiner, VA. Carolan\nInt J Hyg Environ Health 2017 04;220(2 Pt B):415-423.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27956251"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Process_Introduction.json",
+                        "label": "In this context, chromium is discussed in relation to its detection and excretion processes following exposure, particularly focusing on Cr(III) and Cr(VI). The urinary excretion of chromium is described as a multi-stage process influenced by inhalation exposure, highlighting the biological monitoring of chromium levels as a method to assess occupational exposure. This indicates a significant relationship between chromium and the processes involved in its biological monitoring and elimination from the body.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "105769_Chromium_Process_Discussion.json",
+                        "label": "In this context, chromium (Cr) is discussed in relation to its exposure levels among workers involved in chromium processing. The study highlights the need for a comprehensive protocol to assess chromium levels in exhaled breath condensate (EBC) to understand exposure dynamics. The relationship indicates that chromium processing activities contribute to inhalation exposure, affecting both Cr(III) and Cr(VI) levels in workers, thus linking chromium to occupational health processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "105769",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Process_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "105769",
+                        "target": "105769_Chromium_Process_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

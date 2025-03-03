@@ -1,0 +1,10 @@
+{
+    "context": "[1] Free energy landscapes. [2] (Upper) Molten globule state of HLA reconstructed from the 11 landscapes determined from the NMR data corresponding to progressive denaturation in urea. [3] (Lower) Free energy landscape for all-Ala, the protein without the four disulfide bonds; for this system the fully native state is not accessible under known experimental conditions. [4] The stability of the all-Ala molten globule relative to that of the WT molten globule was estimated from the midpoint of the urea denaturation curve (F in kcal/mol and rmsd in \u00c3\u2026). [1] The HSQC NMR data for the noncooperative unfolding of HLA in its low pH molten globule state at increasing urea concentrations have been used for an exploration of the conformational space accessible to the protein. [2] The results revealed that the free energy landscape is characterized by a deep valley, whose existence demonstrates that significantly misfolded states of the protein have highly unfavorable free energies . [3] The landscape is \u00e2\u20ac\u0153robust\u00e2\u20ac\u009d in the sense that it preserves its overall shape and is only minimally deformed at high concentrations of urea, as well as in the absence of stabilizing disulfide bonds. ",
+    "term_A": "urea",
+    "term_B": "Denaturation",
+    "llm_generation": {
+        "summary": "In this context, urea is used as a denaturant to study the unfolding and stability of proteins, specifically the molten globule state of HLA. The denaturation curve indicates how urea concentration affects protein stability and conformational changes. The relationship is significant as urea plays a critical role in inducing denaturation, allowing for the exploration of protein folding landscapes and misfolded states.",
+        "reason": "The score of 4 reflects a strong connection between urea and denaturation, as urea is explicitly mentioned as a denaturant affecting protein stability and conformational states. The context provides evidence of urea's role in the denaturation process, indicating a clear relationship.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "An icebox impingement condenser (Pyrex) and two particle filter (Balston, 95S6 and 45G) were installed between the sampling port and O2 analyzer. This arrangement was designed to prevent the analyzer from damaging by condensed water and particles. All mass flow meters and rotameters used in this study were calibrated by a bubble meter (Humonic digital flow meter 650) or a dry gas meter (Shinagawa DK-SCF-T) at their proper ranges. Styrene standard was a product of Merk Chemicals Inc. (5000 \u03bcg/ml in methanol). Standard gases included zero gas (N2, 99.9995%, San Fu) and O2 span gas (21%, San Fu). The catalyst was a commercial product of NISSAN GIRDLER N-150 MnO/Fe2O3. Its basic properties are shown in Table 1 . ",
+    "term_A": "Styrene",
+    "term_B": "Chemicals",
+    "llm_generation": {
+        "summary": "In this context, styrene is mentioned as a standard product from Merk Chemicals Inc., indicating its use as a chemical reference in the study. However, the relationship between styrene and the broader category of chemicals is not elaborated upon, as the focus is primarily on the experimental setup and calibration of equipment rather than any specific interactions or implications involving styrene as a chemical.",
+        "reason": "The score of 2 reflects a low relevance, as styrene is identified as a chemical standard used in the study, but there is no detailed discussion of its significance or interactions with other chemicals in the context provided.",
+        "score": 2
+    }
+}

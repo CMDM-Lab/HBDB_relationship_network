@@ -1,0 +1,10 @@
+{
+    "context": "[12] The similarity of the eosinophil responses to diverse nematode species suggests that conserved features of nematodes are recognized during parasite infection. [1] Leukotrienes are eicosanoid lipid mediators generated from arachidonic acid by the enzyme ALOX5 (5-lipoxygenase; ). [2] Leukotriene B4 (LTB4) contributes to leukocyte accumulation in many inflammatory diseases, and its production by neutrophils is triggered by multiple stimuli . [3] Dual expression of ALOX5 and the LTB4 receptor LTB4R1 in neutrophils is required for their recruitment in a model of arthritis, revealing a paracrine amplification loop in this setting (; ). [4] LTB4R1 is also highly expressed on human and mouse eosinophils , and human eosinophils produce LTB4 , raising the possibility of paracrine leukotriene signaling between eosinophils analogous to that established for neutrophils. [1] Eosinophil accumulation is highly associated with infection by multicellular endoparasites, and this association is conserved from zebrafish to humans (; ). [2] Sentinel cells in tissues are thought to instigate eosinophil accumulation by releasing the cytokines TSLP, IL-25, and IL-33 in response to worm-induced injury . ",
+    "term_A": "Leukotriene B4",
+    "term_B": "paracrine",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is implicated in a paracrine signaling mechanism that enhances leukocyte recruitment during inflammation. The dual expression of ALOX5 and the LTB4 receptor LTB4R1 in neutrophils indicates a paracrine amplification loop, suggesting that LTB4 may facilitate communication between eosinophils and other immune cells, thereby promoting their accumulation in response to nematode infections.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and paracrine signaling, as the context provides evidence of LTB4's role in a paracrine amplification loop for immune cell recruitment, particularly in inflammatory responses.",
+        "score": 4
+    }
+}

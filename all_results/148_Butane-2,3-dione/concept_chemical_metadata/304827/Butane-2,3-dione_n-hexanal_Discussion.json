@@ -1,0 +1,10 @@
+{
+    "context": "The levels of 1-octen-3-ol, 1-pentanol, hexanal and 2-pentanone measured in non-sterilized samples of pork at the time of spoilage did not cause spoilage of sterilized pork indicating that chemical lipid oxidation most likely did not cause spoilage of the non-sterilized samples. It is possible, however, that lipid oxidation products contributed to the overall odor of spoiled pork, especially in Collar W that had higher concentrations of hexanal, 1-octen-3-ol and 1-pentanol than any of the other pork samples at the time of spoilage. Interestingly, in a study by Argyri et al. (2015) hexanal was associated with fresh rather than spoiled meat which was not the case in our study. Although all samples contained hexanal, the related 1-hexanol was exclusively observed in pork collar which had a higher pH than pork loin (Table 2). Higher pH has been suggested to facilitate enzymatic reduction of hexanal to 1-hexanol in soy beans (Matoba et al., 1989). The reaction can be considered favorable in food because 1-hexanol has a lower odor threshold than hexanal. In conclusion, this study showed that P. phosphoreum can be predominating in bacterial communities of high-oxygen MAP raw pork at the time of spoilage. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "n-hexanal",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione and n-hexanal are both mentioned as volatile compounds associated with the spoilage of pork. However, their specific relationship is not directly discussed. While hexanal is noted for its presence in both fresh and spoiled meat, Butane-2,3-dione is not explicitly linked to spoilage mechanisms or odor contributions in the provided text. Thus, their connection remains unclear and indirect.",
+        "reason": "The score of 2 reflects an indirect relationship, as both compounds are mentioned in the context of pork spoilage, but there is no detailed discussion of their interaction or specific roles in spoilage processes.",
+        "score": 2
+    }
+}

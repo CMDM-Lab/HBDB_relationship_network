@@ -1,0 +1,10 @@
+{
+    "context": "[7] The supernatant was incubated with 100 \u00ce\u00bcL Protein G Agarose beads and 10 \u00ce\u00bcg of anti-V5 antibody (AbD Serotec) at 4 \u00c2\u00b0C for 2 h. [8] Then the beads were washed three times with lysis buffer and three times with ice-cold PBS.  [1] GDPD5-V5 proteins were eluted from agarose beads in 1 mL of 8 M urea/50 mM ammonium bicarbonate or triethyl ammonium bicarbonate (TEAB) (for iTRAQ) buffer at room temperature for 10 min with frequent vortexing, followed by centrifugation at 1,000 \u00c3\u2014 g for 2 min and addition of 15 mM Tris (2-carboxyethyl)phosphine and 15 mM iodoacetamide in the dark for 1 h.  [2] The buffer was exchanged with 1 M urea in 50 mM ammonium bicarbonate or TEAB by centrifugal filtration (Amicon; 10-kDa cutoff, Millipore).  [3] Final volume was 250 \u00ce\u00bcL.  [4] Proteins were digested by sequential addition of 2 \u00ce\u00bcg of chymotrypsin (Promega) and incubation at 37 \u00c2\u00b0C for 16 h, followed by addition of 2 \u00ce\u00bcg of trypsin gold (Promega) and incubation at 37 \u00c2\u00b0C for an additional 16 h.  [5] The reaction solution was desalted by HLB cartridge (Waters). ",
+    "term_A": "urea",
+    "term_B": "triethylammonium bicarbonate",
+    "llm_generation": {
+        "summary": "In this context, urea and triethylammonium bicarbonate (TEAB) are both used as components in the buffer solutions for protein elution and digestion processes. Urea serves to denature proteins, while TEAB is utilized in the iTRAQ labeling method for quantifying proteins. Their relationship is functional, as they are both critical for preparing samples for subsequent proteomic analysis, but they do not interact chemically or biologically beyond their roles in the experimental procedure.",
+        "reason": "The score of 3 reflects a moderate relevance, as urea and TEAB are both integral to the same experimental process involving protein elution and digestion, indicating a functional relationship. However, there is no direct interaction or significant biological relevance discussed between them.",
+        "score": 3
+    }
+}

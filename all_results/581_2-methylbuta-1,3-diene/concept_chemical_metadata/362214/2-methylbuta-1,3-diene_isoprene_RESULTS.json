@@ -1,0 +1,10 @@
+{
+    "context": "[4] The addition of DOX-d2 did not significantly affect the total (labeled plus unlabeled) rate of isoprene emission. [5] The deuterium-labeled isoprene displaced unlabeled isoprene, but the total emission rate of isoprene remained fairly constant even as the source of precursors was changed from primarily endogenous (unlabeled) to primarily exogenous (deuterium labeled) and back again. [6] Photosynthesis was largely unaffected by administration of 2.94 mm DOX-d2. [1] Time course of isoprene emission and photosynthesis rate of a leaf fed with DOX-d2. [2] The light was turned on at point 1 (1,000 \u00ce\u00bcmol m\u00e2\u02c6\u20192 s\u00e2\u02c6\u20191), and DOX-d2 (2.94 mm) was added to the water fed to the petiole of the leaf at point 2. At point 3, the solution feeding the petiole was replaced with water. [3] Green triangles represent total isoprene emission, black squares represent isoprene not labeled with deuterium, red circles represent deuterium-labeled isoprene, and blue inverted triangles represent photosynthetic rate. [4] The solid gray line represents leaf temperature. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "isoprene",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene and isoprene are related as they are both involved in the emission processes studied in the context of photosynthesis and the effects of deuterium-labeled compounds. The study indicates that the addition of DOX-d2 did not significantly alter the total rate of isoprene emission, suggesting that 2-methylbuta-1,3-diene may serve as a precursor or related compound in isoprene production, although the specific interactions between them are not deeply explored.",
+        "reason": "The score of 3 reflects a moderate relevance, as both compounds are mentioned in relation to isoprene emission processes, indicating a connection, but the context does not provide detailed insights into their specific interactions or roles.",
+        "score": 3
+    }
+}

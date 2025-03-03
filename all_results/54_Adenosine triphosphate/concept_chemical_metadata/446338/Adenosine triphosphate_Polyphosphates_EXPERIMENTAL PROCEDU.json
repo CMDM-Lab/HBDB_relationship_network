@@ -1,0 +1,10 @@
+{
+    "context": "[2] For the assessment of intracellular ATP concentrations, cells were snap-frozen in liquid nitrogen, sonicated in the presence of 0.4 m perchloric acid, and analyzed by HPLC. [1] The membrane-bound ATP probe 2\u00e2\u20ac\u201c2Zn(II) and the intracellular ATP probe 1\u00e2\u20ac\u201c2Zn(II) were a generous gift of Drs. [2] Kurishita and Hamachi (Kyoto University). [3] Binding of ATP and other polyphosphate compounds to these probes causes a shift in their fluorescence properties. [4] 2\u00e2\u20ac\u201c2Zn(II) has a lipid anchor residue that binds to the cell membrane and can thus be used to assess ATP release at the cell surface . [5] For real-time imaging of ATP release Jurkat cells were seeded on fibronectin-coated glass bottom dishes and stained with 500 nm 2\u00e2\u20ac\u201c2Zn(II) in Hank's balanced salt solution (HBSS) for 5 min at 37 \u00c2\u00b0C. [6] Fluorescence live-cell imaging was performed with an inverted Leica DMI6000B microscope (Leica, Wetzlar, Germany) equipped with a temperature controlled stage incubator (Harvard Apparatus, Holliston, MA) and a Spot Boost EMCCD BT 2100 camera (Diagnostic Instruments Inc., Sterling Heights, MI). ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Polyphosphates",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) and polyphosphates are related through their interaction with specific probes that assess ATP concentrations and release. The binding of ATP and polyphosphate compounds to these probes alters their fluorescence properties, indicating a functional relationship where polyphosphates may play a role in ATP signaling or storage within cells. However, the context does not elaborate on the specific biochemical pathways or mechanisms involved in this interaction.",
+        "reason": "The score of 3 reflects a moderate relevance, as ATP and polyphosphates are discussed in relation to their binding to probes for measuring ATP levels, indicating some interaction. However, the context lacks detailed exploration of their biochemical relationship.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Argininosuccinate lyase Argininosuccinate lyase (ASL) is a cytosolic enzyme that catalyzes the breakdown of argininosuccinate to arginine and fumarate. The human gene that encodes argininosuccinate lyase is positioned on chromosome 7. ASL deficiency results in argininosuccinic aciduria, an autosomal recessive disease characterized by tissue accumulation of argininosuccinate and excessive excretion of this compound in urine. Similarly to other urea cycle disorders except arginase-1 deficiency, ASL deficiency leads to reduced arginine synthesis. Patients with ASL deficiency share the acute clinical phenotype of hyperammonemia, encephalopathy, and respiratory alkalosis common to other urea cycle defects, but they also display chronic neurological symptoms that seem to be inevitable in spite of careful treatment of hyperammonemia, believed to be caused by a combination of tissue specific deficiency of arginine and/or elevation of argininosuccinate. 3.3.6 Arginase-1 Arginase is the enzyme that catalyzes the hydrolysis of arginine to ornithine and urea. In humans, two isoenzymes of arginase have been demonstrated. ",
+    "term_A": "urea",
+    "term_B": "Encephalopathies",
+    "llm_generation": {
+        "summary": "In this context, urea is indirectly related to encephalopathies through the urea cycle and its associated disorders. Argininosuccinate lyase (ASL) deficiency leads to hyperammonemia, which is a common cause of encephalopathy. The accumulation of argininosuccinate and reduced arginine synthesis in ASL deficiency contributes to neurological symptoms, highlighting the connection between urea metabolism and encephalopathy in affected patients.",
+        "reason": "The score of 4 reflects a significant connection between urea and encephalopathies, as urea cycle disorders, particularly ASL deficiency, are linked to hyperammonemia and neurological symptoms. The context provides evidence of this relationship, indicating a clear impact of urea metabolism on encephalopathy.",
+        "score": 4
+    }
+}

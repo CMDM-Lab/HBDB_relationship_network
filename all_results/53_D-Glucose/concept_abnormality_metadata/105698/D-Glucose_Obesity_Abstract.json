@@ -1,0 +1,10 @@
+{
+    "context": "[4] Tissue-specific GU was improved, but not normalized, at all sites in T2D and ND alike. [5] The contribution of visceral fat to whole-body GU was greater in T2D than ND but decreased similarly with surgery. [6] Subcutaneous fat made a fourfold greater contribution to whole-body GU in obese versus lean subjects (15% vs. 4%) both before and after surgery. [1] CONCLUSIONS Bariatric surgery leads to sustained weight loss and improves tissue-specific glucose metabolism in morbidly obese patients. [2] We conclude that 1) enhanced visceral fat accumulation is a feature of T2D, 2) severe obesity compromises muscle insulin sensitivity more than fat insulin sensitivity, and 3) fat mass expansion is a sink for plasma glucose. [1] Visceral fat (VF) and subcutaneous fat (SC) are structurally, metabolically, and functionally distinct, albeit both contribute to obesity . [2] Abdominal SC fat has clearly defined, metabolically distinct deep and superficial layers separated by the Scarpa fascia . ",
+    "term_A": "D-Glucose",
+    "term_B": "Obesity",
+    "llm_generation": {
+        "summary": "In this context, D-Glucose and obesity are interconnected through the discussion of glucose metabolism and its relationship with body fat distribution. The text highlights that severe obesity affects insulin sensitivity and glucose utilization, particularly in muscle tissue. Bariatric surgery improves glucose metabolism in morbidly obese patients, indicating that obesity significantly impacts glucose handling in the body. The accumulation of visceral and subcutaneous fat is noted as a contributing factor to obesity and its metabolic consequences, including altered glucose metabolism.",
+        "reason": "The score of 4 reflects a significant connection between D-Glucose and obesity, as the context discusses how obesity affects glucose metabolism and insulin sensitivity, supported by evidence from bariatric surgery outcomes.",
+        "score": 4
+    }
+}

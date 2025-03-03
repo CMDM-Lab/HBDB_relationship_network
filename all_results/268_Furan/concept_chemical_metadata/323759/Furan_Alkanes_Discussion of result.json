@@ -1,0 +1,10 @@
+{
+    "context": "It appears that a slight variation in temperature across the catalyst and across the heat exchanger contributes to a dramatic change in the dioxin and furan chemistry. There is virtually no production of four of the congeners (2 dioxins and 2 furans) across the platinum supported catalyst, but a large production of the rest of the congeners. The highest production is in the tetra through hexa furans, and in the 1234789-hepta furan (HpCDF). These data indicate that small variations in temperature apparently cause large changes in the congener distribution of the dioxin and furan isomers.Effect of non-chlorinated organics Van den Brink et al. (2000) found a reduction or elimination in by-products by removal of Cl from surface by the addition of alkanes. Comparing data using the same type of catalytic oxidizer with and without the addition of non-chlorinated VOCs, this phenomenon also occurred in this study. TEQ concentrations are shown in Fig. 11 with and without non-chlorinated VOCs. Even at lower catalyst inlet temperatures, the TEQ emissions are much lower with the addition of the non-chlorinated VOCs. ",
+    "term_A": "Furan",
+    "term_B": "Alkanes",
+    "llm_generation": {
+        "summary": "In this context, furan and alkanes are related through their roles in catalytic processes affecting the production of dioxins and furans. The study indicates that the addition of non-chlorinated organics, specifically alkanes, can reduce or eliminate by-products in the presence of catalysts. This suggests that alkanes may influence the chemistry of furan production, particularly in terms of emissions and congener distribution.",
+        "reason": "The score of 4 reflects a significant connection between furan and alkanes, as the context discusses how alkanes can affect the production of furan and dioxin congeners during catalytic processes, supported by experimental data on emissions.",
+        "score": 4
+    }
+}

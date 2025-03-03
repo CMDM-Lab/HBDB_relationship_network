@@ -1,0 +1,10 @@
+{
+    "context": "Analytical Procedures Silage samples were thoroughly mixed after withdrawal from farm and laboratory silos, and frozen at \u221220\u00b0C until chemical analysis. Silage extracts were prepared by blending 50g of silage with 200mL of distilled water. After addition of 1mL of toluene and storage at 4\u00b0C in the refrigerator overnight, the extracts were subsequently filtered through a folded paper filter and thereafter through a microfilter (0.45\u00b5m). Lactic acid was determined by HPLC and refraction index detection (Weiss and Kaiser, 1995), whereas acetic acid, ethanol, 1,2-propanediol, and n-propanol were detected by GC using a free fatty acid phase (Macherey-Nagel, D\u00fcren, Germany) column and flame ionization detector (FID; Weiss, 2001). The limit of detection for each parameter was 0.01% of fresh matter. In experiments 1 and 2, ethyl esters of lactate and acetate were analyzed according to Adam et al. (1995). After water steam distillation of the samples, individual components were measured by GC and the FID detector coupled with a capillary and packed glass column. ",
+    "term_A": "Propane-1,2-diol",
+    "term_B": "Propylene Glycols",
+    "llm_generation": {
+        "summary": "In this context, Propane-1,2-diol is mentioned as one of the components detected in silage extracts, while Propylene Glycols refers to a broader category of compounds that includes Propane-1,2-diol. The relationship is that Propane-1,2-diol is a specific type of propylene glycol, indicating a direct chemical connection. However, the context does not elaborate on their functional significance or interactions within the silage analysis.",
+        "reason": "The score of 3 reflects a moderate relevance, as Propane-1,2-diol is a specific example of propylene glycols, establishing a clear chemical relationship. However, the context lacks detailed discussion on their specific roles or interactions in the analysis.",
+        "score": 3
+    }
+}

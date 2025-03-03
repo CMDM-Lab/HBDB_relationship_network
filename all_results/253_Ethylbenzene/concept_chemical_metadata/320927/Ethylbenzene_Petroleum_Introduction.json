@@ -1,0 +1,10 @@
+{
+    "context": "Although limited number of study subjects were tested, current observations warrant further study to validate this alternative testing strategy. Also, further work on these miRNA signatures is required to provide mechanistic insight into the toxicological effects on circulation. Conflict of interest statement There is no conflict of interest associated with this manuscript. BTEX, a group of volatile organic compounds (VOCs), composed of benzene, toluene, ethylbenzene and xylenes, are constituents of petroleum and solvents widely used in manufacturing rubbers, lubricants, dyes, detergents, and drugs. These compounds are commonly found as air contaminants in related industrial sites, but vehicle traffic and industrial processes can lead to the contamination of BTEX in the soil and groundwater. In general aquatic environment, the background concentrations of BTEX is relative low because of volatilization and degradation processes. However, accident oil spill, leakage from underground gasoline storage tanks, and improper discharges from petrol and chemical industries can result in BTEX contamination in the soil and ground water. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Petroleum",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is identified as one of the volatile organic compounds (VOCs) that are constituents of petroleum. The text discusses the presence of BTEX (benzene, toluene, ethylbenzene, and xylenes) in various industrial applications and their potential contamination in the environment due to petroleum-related activities. Ethylbenzene's relationship with petroleum is significant as it highlights its role as a component of this complex mixture, which poses environmental risks.",
+        "reason": "The score of 4 reflects a strong connection between ethylbenzene and petroleum, as ethylbenzene is explicitly mentioned as a constituent of petroleum and part of the BTEX group, indicating its relevance in environmental contamination discussions.",
+        "score": 4
+    }
+}

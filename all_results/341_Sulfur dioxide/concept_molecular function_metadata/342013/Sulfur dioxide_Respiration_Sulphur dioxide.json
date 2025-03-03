@@ -1,0 +1,10 @@
+{
+    "context": " [1] The effects of SO2 have been clearly documented elsewhere., ,  The gas readily dissolves in water and tends to be removed from the inspired air stream by the moist surfaces of the upper airways, especially the nasal mucosa.  [2] The threshold level for the effects of SO2 on lung function lies between 1000 and 2000 ppb in normal healthy adults.  [3] Above the threshold, resting subjects exposed to SO2 experience bronchospasm.  [4] During exercise, as oral breathing replaces nasal breathing, a corresponding increase in penetration of SO2 into the intrathoracic airways exacerbates the effect.  [5] The inspiration of 5000 ppb SO2 during exercise results in a significantly higher rate of mucociliary clearance than in exercising controls breathing air.  [6] This is a high dose, and SO2 is unlikely to occur in the UK environment at such a level, but the finding has important implications because mucociliary clearance is an important aspect of the respiratory system's defence against microorganisms and particulate pollution.  [7] It is also of note that exercise alone increases the rate of mucociliary clearance. ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Respiration",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide (SO2) is discussed in relation to its effects on respiration, particularly lung function. Exposure to SO2 at levels above the threshold can lead to bronchospasm in resting individuals and increased mucociliary clearance during exercise. This indicates that SO2 directly impacts respiratory function, especially under physical exertion, highlighting its relevance to respiratory health and defense mechanisms against pollutants.",
+        "reason": "The score of 4 reflects a significant connection between sulfur dioxide and respiration, as the context provides evidence of SO2's impact on lung function and mucociliary clearance, demonstrating a clear relationship within respiratory physiology.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Results Farm Survey The fermentation characteristics of the farm silages are summarized in  Table 2. Regardless of additive use and additive type, lactic acid was detected at typical levels for corn silage. Acetic acid content was lowest in one silage inoculated with homofermentative LAB, and the only sample that had been treated with heterofermentative LAB contained the highest amount. Whereas ethanol was found in all samples at concentrations of up to 24.2g/kg of DM, n-propanol was rarely detected and only at much lower contents. All corn silages contained 1,2-propanediol at largely varying contents of up to 12.6g/kg of DM. Ethyl esters of lactic and acetic acids were detected in all samples, but the mean ethyl lactate level was higher than that of ethyl acetate (474 vs. 38mg/kg of DM). Untreated silages and those that received only homofermentative LAB had the highest ethyl lactate concentrations ranging from 378 to 1,305mg/kg of DM. Experiment 1 Silage pH ranged between 3.67 and 3.80 at typical levels for corn silages (data not presented). ",
+    "term_A": "Propane-1,2-diol",
+    "term_B": "Propylene Glycols",
+    "llm_generation": {
+        "summary": "In this context, propane-1,2-diol is mentioned as a compound found in corn silages, with varying concentrations detected. Propylene glycols, which include propane-1,2-diol as a common form, are not explicitly discussed but are implied as related substances. The context suggests a connection through their chemical structure and potential roles in fermentation processes, but does not provide detailed interactions or specific functional relationships.",
+        "reason": "The score of 2 reflects an indirect connection between propane-1,2-diol and propylene glycols, as they share a chemical relationship. However, the context does not elaborate on their specific interactions or significance in the fermentation process, limiting the depth of their relationship.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Trichloroethylene (TCE) is a dense non-aqueous phase liquid (DNAPL) with very low water solubility (\u223c1100mg/l at saturation). Residual TCE may exist in low permeable zones of the subsurface soil as blobs, globules and lenses. Slow dissolution of residual TCE in groundwater and the slow diffusion of TCE in groundwater trapped in soil micropores may be limiting factors in remediating TCE contaminated sites. Among various oxidants explored for in situ oxidation of contaminants, Fenton\u2019s reagent (a mixture of hydrogen peroxide and ferrous salt) has gained a great amount of attention, due to its strong oxidation capabilities and low environmental impacts. Fenton\u2019s oxidation technology has been applied in pilot-scale and full-scale removal of TCE from soil and groundwater at several contaminated sites in the past few years. Some of these studies have claimed to be successful, some of them found the TCE concentration to rebound a few months after the treatment, and some showed the limitations of this technology caused by subsurface heterogeneity. Weeks et al. studied the use of Fenton\u2019s reagent for degradation of TCE in aqueous systems and soil slurries. ",
+    "term_A": "Hydrogen peroxide",
+    "term_B": "Oxidation",
+    "llm_generation": {
+        "summary": "In this context, hydrogen peroxide is a key component of Fenton's reagent, which is utilized for the oxidation of trichloroethylene (TCE) in contaminated sites. The strong oxidation capabilities of hydrogen peroxide, when combined with ferrous salts, facilitate the degradation of TCE, highlighting its critical role in oxidation processes for environmental remediation. The effectiveness of this oxidation method is discussed, indicating the importance of hydrogen peroxide in achieving successful contaminant removal.",
+        "reason": "The score of 5 reflects a direct and critical relationship between hydrogen peroxide and oxidation, as hydrogen peroxide is explicitly used as an oxidant in Fenton's reagent for the degradation of TCE, demonstrating its essential role in the oxidation process.",
+        "score": 5
+    }
+}

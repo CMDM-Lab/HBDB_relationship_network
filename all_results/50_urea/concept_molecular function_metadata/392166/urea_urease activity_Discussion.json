@@ -1,0 +1,10 @@
+{
+    "context": "It is especially useful and accurate to confirm H. pylori eradication [12\u201315]. It detects urease activity in the stomach. If there is urease activity strong enough elsewhere in the gastrointestinal tract, it can cause a positive test. Graham et al. observed a late rise of 13C enrichment in H. pylori negative patients at 120 min after administration of labeled urea and thought it to be caused by colonic urease activity. However, Perri et al. did not find such a late rise with prolonged 6-h breath sampling in seven healthy volunteers. In this study, we did not find any late rise of 13C enrichment either in routine or duodenal 13C-UBT in eight H. pylori negative patients and in duodenal 13C-UBT of seventeen H. pylori positive patients up to 180 min. This indicates that only a stomach infected with H. pylori could cause a positive 13C-UBT. ",
+    "term_A": "urea",
+    "term_B": "urease activity",
+    "llm_generation": {
+        "summary": "In this context, urea is linked to urease activity as the latter is responsible for the hydrolysis of urea into ammonia and carbon dioxide, which is a key reaction in the detection of H. pylori infection. The study discusses the measurement of urease activity in the stomach and its implications for confirming H. pylori eradication, highlighting the importance of urease in the metabolism of urea in the gastrointestinal tract. The relationship is significant as urease activity directly influences the results of breath tests used to diagnose H. pylori infection.",
+        "reason": "The score of 4 reflects a strong connection between urea and urease activity, as the context emphasizes the role of urease in metabolizing urea and its relevance in diagnostic testing for H. pylori. The discussion includes evidence of urease activity affecting test outcomes, indicating a clear relationship.",
+        "score": 4
+    }
+}

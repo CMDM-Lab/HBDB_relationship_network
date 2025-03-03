@@ -1,0 +1,10 @@
+{
+    "context": "[6] Indeed, Abate et al.  reported that intraperitoneal, but not extraperitoneal, fat is a better correlate of metabolic complications. [7] It is worth mentioning that the expanded VF in T2D is accompanied by increased adipocyte size, which tends to correlate positively with insulin resistance . [1] The use of [18F]-FDG PET to assess inflammation in adipose tissue has been reported on previously . [2] Higher fasting FDG uptake represents glucose utilization not only by adipocytes but also by infiltrating macrophages and other cells in the stromovascular fraction . [3] Based on this assumption, inflammatory signals from intraperitoneal fat were higher in ND, whereas T2D had higher inflammatory signals from abdominal SC fat. [4] In addition, T2D had enhanced inflammatory signals from skeletal muscle compared with ND, in line with reports of increased levels of inflammation in skeletal muscle of T2D patients . [1] Some strengths and limitations of this study should be acknowledged. ",
+    "term_A": "D-Glucose",
+    "term_B": "Infiltration",
+    "llm_generation": {
+        "summary": "In this context, D-Glucose is indirectly related to infiltration through its role in metabolic processes and inflammation. The study discusses how higher fasting FDG uptake, which indicates glucose utilization, is associated with infiltrating macrophages in adipose tissue. This suggests that glucose metabolism is linked to inflammatory infiltration in tissues, particularly in the context of type 2 diabetes (T2D) and its metabolic complications.",
+        "reason": "The score of 3 reflects a moderate relevance, as D-Glucose is connected to infiltration through its role in glucose utilization by infiltrating cells, particularly in the context of inflammation in adipose tissue. However, the relationship is not deeply explored beyond this association.",
+        "score": 3
+    }
+}

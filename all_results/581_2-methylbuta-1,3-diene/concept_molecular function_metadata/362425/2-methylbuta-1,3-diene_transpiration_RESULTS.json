@@ -1,0 +1,10 @@
+{
+    "context": "[2] HDSs are highlighted in red. [3] The data are presented as hourly means of n = 4 \u00c2\u00b1 se. [4] The PS and CS scenarios were performed under elevated [CO2]. [1] Transpiration rate in the light (E), A, WUE, stomatal water vapor conductance (gs), intercellular [CO2] (ci), ratio of intracellular to extracellular [CO2] (Ratio), transpiration rate in the dark (Ed), mitochondrial respiration in the dark (Rd), isoprene emission rate (I), and percentage of photosynthetic C emitted as isoprene (C%) are shown for IE and NE poplar plants grown in the four different scenarios (AC, EC, PS, and CS). [2] Gas-exchange measurements were performed at maximum stress (S3) and after 7 d of recovery (R3). [3] Leaf-level cuvette measurements of gas exchange and isoprene emission were performed under steady-state standard conditions (30\u00c2\u00b0C leaf temperature and 1,000 \u00ce\u00bcmol photons m\u00e2\u02c6\u20192 s\u00e2\u02c6\u20191). [4] [CO2] in the cuvette was set as in the respective scenario. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "transpiration",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene, also known as isoprene, is mentioned alongside various physiological parameters including transpiration rates in poplar plants. The study examines how isoprene emission relates to gas exchange processes, including transpiration, under different environmental scenarios. While both terms are part of the broader discussion on plant physiology, the specific interaction between isoprene emission and transpiration is not explicitly detailed, indicating a moderate connection.",
+        "reason": "The score of 3 reflects a moderate relevance, as both 2-methylbuta-1,3-diene and transpiration are discussed in the context of plant gas exchange, but their direct relationship is not thoroughly explored.",
+        "score": 3
+    }
+}

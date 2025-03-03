@@ -1,0 +1,10 @@
+{
+    "context": "From the data provided by Beck-Friis et al. (2001) in their study on the influence of temperature on the emissions of ammonia during OFMSW composting in 200L aerated reactors, a value of 2.12kg NH3 Mgwaste\u22121 was obtained. These emissions correspond to a 24\u201333% of the nitrogen content in the starting composting material. In similar conditions (125L aerated reactors), Eklind and Kirchmann (2000) reported an ammonia emission of 9.6kg NH3 Mgwaste\u22121 (70% of the initial nitrogen). In all cases, the final value of ammonia emissions depended on the composting process duration and conditions and on the C/N ratio of the initial waste. Ammonia emissions obtained in the present study correspond to a percentage of 46% of the nitrogen present in the composting material at the beginning of the curing phase. There are fewer studies published in the case of VOC emission, especially at full scale. Under laboratory conditions, Staley et al. (2006) found a total VOC emission of 0.282kgMgdry matter\u22121 when composting a mixture of food waste, garden waste and non-recyclable paper in 8L composting reactors. ",
+    "term_A": "ammonia",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, ammonia is discussed in relation to the composting process, specifically its emissions during the aerobic decomposition of organic waste. The study highlights how ammonia emissions are influenced by various factors such as temperature, composting duration, and the carbon-to-nitrogen (C/N) ratio of the initial waste. The data indicates that ammonia emissions are a significant byproduct of the composting process, representing a notable percentage of the nitrogen content in the composting material.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and the composting process, as the context provides quantitative data on ammonia emissions and discusses how these emissions are affected by specific process parameters. This indicates a clear relationship within the context of biochemistry and waste management.",
+        "score": 4
+    }
+}

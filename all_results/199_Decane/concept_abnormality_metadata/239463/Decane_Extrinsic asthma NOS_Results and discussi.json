@@ -1,0 +1,10 @@
+{
+    "context": "The most frequent Q 2 value was around 0.9 (Fig. 6 ), with a large prevalence of values in the range of 0.8\u20131. These results suggest that confounding factors, such as, ambient air, gender or age seems to have no significance in the distinction power. Scores scatter plot (Fig. 5A) shows that the control group is associated to LV1 negative values whereas the allergic asthma group is linked to positive LV1 values. As observed in Fig. 5B, nonane, 2,2,4,6,6-pentamethylheptane, decane, 3,6-dimethyldecane, dodecane, and tetradecane are related to the allergic asthma group. The control group is mainly characterized by 6-methyl-5-hepten-2-one, 1-dodecene, nonanal, decanal, and dodecanal. Comparing these results to the previous study, there was an increase in the number of compounds that characterize allergic asthma and control samples. Interestingly the controls are characterized mainly by aldehydes and the asthmatic children are characterized by alkanes, namely those that arise from the corresponding aldehydes. ",
+    "term_A": "Decane",
+    "term_B": "Extrinsic asthma NOS",
+    "llm_generation": {
+        "summary": "In this context, decane is identified as one of the alkanes associated with the allergic asthma group, suggesting a potential link between exposure to decane and the manifestation of extrinsic asthma. The study indicates that the allergic asthma group is characterized by a higher prevalence of certain alkanes, including decane, compared to the control group, which is characterized by aldehydes. This suggests that decane may play a role in the pathophysiology of extrinsic asthma, although the exact mechanisms remain unclear.",
+        "reason": "The score of 4 reflects a significant connection between decane and extrinsic asthma, as decane is specifically mentioned as a compound associated with the allergic asthma group, indicating a potential relationship that warrants further investigation.",
+        "score": 4
+    }
+}

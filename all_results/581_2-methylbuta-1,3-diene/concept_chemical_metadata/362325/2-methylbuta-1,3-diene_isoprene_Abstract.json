@@ -1,0 +1,10 @@
+{
+    "context": "[2] Accurate evaluation of NOx emissions on the basis of their potential to form ozone should require only measurements or modeling of the few plume species shown in Fig. 4, namely NOx, HNO3, NOy, and ozone itself. [3] In many areas throughout the eastern United States, ambient VOC reactivity is determined by biogenic isoprene . [4] Thus, measurements or models need not rely on extensive characterization of all possible VOCs to adequately simulate ozone formation in these plumes. [5] Regional models using existing and verifiable EPA emissions inventories for power plant NOx and biogenic isoprene should be able to simulate plume ozone formation to the extent that they accurately disperse the NOx emissions of large point sources . [1] \u00e2\u2020\u00b5\u00e2\u20ac\u00a0 To whom correspondence should be addressed. [2] E-mail: tryerson{at}al.noaa.gov Biogenic Volatile Organic Compound (BVOC) emissions from forests are important inputs to atmospheric chemistry and air quality models, since they can control oxidant chemistry and secondary aerosol formation over many regions of the globe (Guenther et\u00a0al., 2006). ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "isoprene",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene and isoprene are both mentioned as biogenic volatile organic compounds (BVOCs) that contribute to atmospheric chemistry and ozone formation. Isoprene is highlighted as a significant biogenic VOC affecting ambient reactivity, while 2-methylbuta-1,3-diene is implied to be related but not explicitly discussed in terms of its specific role or interaction with isoprene. Their relationship lies in their shared classification as BVOCs influencing air quality models.",
+        "reason": "The score of 3 reflects a moderate relevance, as both compounds are categorized as biogenic VOCs impacting atmospheric chemistry, but the context does not provide detailed interactions or specific functional relationships between them.",
+        "score": 3
+    }
+}

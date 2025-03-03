@@ -1,0 +1,10 @@
+{
+    "context": "[4] Data show means \u00c2\u00b1 S.D. of n = 4 independent experiments; *, p < 0.05 versus control. [5] C, Jurkat cells were treated with CCCP (1 \u00ce\u00bcm) for 10 min, stimulated with anti-CD3/CD28 coated beads for 30 s, and iATP was assessed by HPLC. [6] Data represent means \u00c2\u00b1 S.D. of n = 3 separate experiments; *, p < 0.05. [7] D and E, Jurkat cells (D) were treated with the indicated concentrations of CCCP and CD4+ T cells (E) were treated with CCCP (1 \u00ce\u00bcm), rotenone (1 \u00ce\u00bcm) or vehicle control for 10 min and ATP release into the supernatant was measured with a bioluminescence assay after stimulating cells for 30 s with anti-CD3/CD28-coated beads. [8] Data represent means \u00c2\u00b1 S.D. (n = 3); *, p < 0.05 versus control.  [1] T cell activation triggers a complex sequence of events that results in the formation of an immune synapse (IS) between T cells and accessory cells .  [2] The IS facilitates close cellular interactions between these cells, which is required for thorough antigen processing and the commitment of T cells to proliferate. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Bioluminescence",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is measured using a bioluminescence assay to assess ATP release from Jurkat cells after stimulation. The bioluminescence method provides a quantitative measure of ATP levels, which are crucial for evaluating cellular energy status and function during T cell activation. This indicates a direct relationship where bioluminescence serves as a tool to quantify ATP, linking the two terms closely in the context of cellular metabolism and immune response.",
+        "reason": "The score of 5 reflects a strong relevance, as ATP is directly measured using a bioluminescence assay, indicating a critical relationship in assessing cellular energy dynamics during T cell activation.",
+        "score": 5
+    }
+}

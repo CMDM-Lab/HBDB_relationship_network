@@ -1,0 +1,10 @@
+{
+    "context": "[1] A starting value of \u00e2\u02c6\u20194 for the intercept was used to prevent convergence problems. [2] PR were adjusted for age and smoking habits (categorical: never-, ex- or current smoker). [1] Analysis of variance was used to compare the personal characteristics and spirometric test results of workers with the general population sample. [2] Self-reported data on job history in the diacetyl plant were used to assess associations among process operators between lung function variables and duration of work in the diacetyl plant. [1] Two-sided p values of 0.05 or less were considered to represent associations unlikely to be due to chance. [2] For internal comparisons among small subgroups, we examined marginally significant p values of 0.1 or less. [1] In 2005, 175 (89%) workers completed a questionnaire and underwent spirometric lung function tests. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione, also known as diacetyl, is indirectly related to the 'process' of assessing lung function among workers in a diacetyl plant. The study examines the impact of job history and duration of work in the diacetyl plant on lung function variables, suggesting that the process of working with diacetyl may influence respiratory health. However, the specific interactions between Butane-2,3-dione and the processes involved are not explicitly detailed.",
+        "reason": "The score of 3 reflects a moderate relevance, as Butane-2,3-dione is linked to the occupational process being studied, but the relationship lacks detailed exploration of how the chemical specifically affects the process or outcomes.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "In the methodological study, we identified the chromatographic behavior and the MS2 fragmentation of LTB4 in the EBC. The ESI mass spectra in negative ion polarity mode revealed a base peak at m/z 335 for endogenous LTB4 and m/z 339 for internal standard LTB4-d4, corresponding to [M\u2212H]\u2212 ions. To confirm the presence of LTB4 in EBC, this eicosanoid was also detected in MS/MS mode which has a higher specificity. In line with previous studies, one of the most abundant product ion was observed at m/z 195 following collisional activation of the carboxylate anion [M\u2212H]\u2212 of LTB4  . The origin of this ion involves double bond rearrangement initiated by the collisional process followed by carbon-carbon bond cleavage. The proposed mechanism for LTB4 fragmentation involves a cyclization of the conjugated triene to a cyclic diene followed by a complex series of rearrangements, abstraction of the carbon-5 proton by a carbon-12 alkoxide anion or even the carboxylate anion, and formation of anionic site at carbon-11 that undergo a proton shift to form the more stable oxygen-centered anion. The resulting product has the structural characteristics required for a charge-driven \u03b1-hydroxy-\u03b2-ene fragmentation frequently observed for eicosanoids [22\u201324]. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Collision",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is analyzed through mass spectrometry, where its fragmentation is influenced by collisional activation. The study details how collisional processes lead to specific product ions, indicating that collision plays a critical role in the fragmentation and identification of LTB4 in the analysis. This relationship highlights the importance of collision in understanding the structural behavior of LTB4 during mass spectrometric analysis.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and collision, as the context provides detailed mechanisms of how collisional activation affects the fragmentation of LTB4, supported by specific mass spectrometric data.",
+        "score": 4
+    }
+}

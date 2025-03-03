@@ -1,0 +1,10 @@
+{
+    "context": " [2] It is present in the urease gene cluster of Helicobacter pylori and is essential for infection and acid survival, but its role is unknown.  [3] To determine the function of UreI protein, we producedH.  [4] pylori ureI deletion mutants and measured the pH dependence of urease activity of intact and lysed bacteria and the effect of urea on the membrane potential.  [5] We also determinedureI expression, urease activity, and the effect of urea on membrane potential of several gastric and nongastricHelicobacter species.  [6] ureI was found to be present in the genome of the gastric Helicobacter species and absent in the nongastric Helicobacter species studied, as determined by PCR.  [7] Likewise, Western blot analysis confirmed that UreI was expressed only in the gastric Helicobacterspecies.  [8] When UreI is present, acidic medium pH activation of cytoplasmic urease is found, and urea addition increases membrane potential at acidic pH. ",
+    "term_A": "urea",
+    "term_B": "urease activity",
+    "llm_generation": {
+        "summary": "In this context, urea is directly related to urease activity as it serves as a substrate for the enzyme urease, which is crucial for the survival of Helicobacter pylori in acidic environments. The study investigates how urea influences urease activity and membrane potential in various Helicobacter species, highlighting the importance of urease in the bacterium's acid survival mechanism. The presence of UreI protein enhances urease activity in acidic conditions, indicating a significant functional relationship between urea and urease activity.",
+        "reason": "The score of 5 reflects a strong relevance, as urea is essential for urease activity, which is critical for Helicobacter pylori's survival in acidic environments. The context provides clear evidence of their interaction and functional significance.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "[2] This is an indirect measure that may have more uncertainty than in vitro measurements, but this estimate is important because it reflects the enzyme kinetics in situ. [3] We did not measure the Km directly in this work, but our estimated in vivo Km corresponds very well with the high in vitro estimates of the Km of isoprene synthase (; ; ; ; ). [4] Related monoterpene synthases have Kms for their substrate, geranyl diphosphate, between 10 and 100 \u00ce\u00bcm  and sometimes as low as 2.6 \u00ce\u00bcm . [5] The results presented here show that in situ the Km for the allylic diphosphate substrate is much higher for isoprene synthase than for the related monoterpene synthases. [1] Using DOX-d2 we were able to examine the regulation of the early steps of the isoprene biosynthetic pathway. [2] When 2.9 (e.g. [3] Fig. 1) or 7.5 mm (data not shown) DOX-d2 was fed, the exogenous DXP displaced the endogenous supply, but the overall rate of isoprene emission remained constant and presumably so did the concentrations of DMAPP and DXP in the plastid. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "monoterpene synthase",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene is indirectly related to monoterpene synthase through the discussion of enzyme kinetics and substrate interactions in the isoprene biosynthetic pathway. The text highlights the Km values for isoprene synthase and related monoterpene synthases, indicating that while both enzymes are involved in similar metabolic processes, the specific relationship between 2-methylbuta-1,3-diene and monoterpene synthase is not explicitly detailed. The focus is more on the kinetic properties of the enzymes rather than a direct interaction with the compound itself.",
+        "reason": "The score of 3 reflects a moderate relevance, as 2-methylbuta-1,3-diene is part of the broader discussion on enzyme kinetics related to monoterpene synthases, but the specific interactions or functional relationships are not deeply explored.",
+        "score": 3
+    }
+}

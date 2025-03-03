@@ -1,0 +1,10 @@
+{
+    "context": "[4] This effect was reversed by preincubation of the tissue with 250 ng/ml of the Gi inhibitor pertussis toxin (PTX). [5] This experiment confirmed that forskolin stimulated chloride secretion in mouse colon is sensitive to modulation by Gi. [6] However, blocking Gi with PTX had no effect on the hyporesponsiveness to FSK observed either after exposure to SNP or in colons from irradiated mice (fig 7). [1] Nitric oxide mediated reduction of adenylate cyclase activity was independent of an inhibitory G protein coupled mechanism. [2] In Ussing chambers, the change in short circuit current (\u00ce\u201dIsc) was measured in response to 10 \u00ce\u00bcM forskolin in the presence 1 \u00ce\u00bcM somatostatin (SST), an activator of the Gi signalling cascade, and a Gi inhibitor, pertussis toxin (PTX 250 ng/ml). [3] Costimulation with forskolin and SST significantly reduced the secretory response compared with forskolin alone. [4] This effect was reversed when the tissue was incubated for 25 minutes with PTX. ",
+    "term_A": "adenosine 5'-monophosphate",
+    "term_B": "adenylate cyclase activity",
+    "llm_generation": {
+        "summary": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to adenylate cyclase activity through the modulation of signaling pathways. The study discusses how forskolin, a known activator of adenylate cyclase, influences chloride secretion in mouse colon, while nitric oxide's effect on adenylate cyclase activity is noted as independent of Gi protein mechanisms. Although AMP is not explicitly mentioned as a direct modulator, its role as a signaling molecule in the adenylate cyclase pathway is implied, suggesting a connection in the broader context of cellular signaling.",
+        "reason": "The score of 3 reflects a moderate relevance, as adenosine 5'-monophosphate is part of the signaling pathway involving adenylate cyclase, but the context does not provide a direct interaction or detailed discussion of their relationship.",
+        "score": 3
+    }
+}

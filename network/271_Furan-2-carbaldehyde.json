@@ -1,0 +1,1173 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Furan-2-carbaldehyde",
+                    "label": "Furan-2-carbaldehyde",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan-2-carbaldehyde",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan-2-carbaldehyde",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan-2-carbaldehyde",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan-2-carbaldehyde",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan-2-carbaldehyde",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Furan-2-carbaldehyde",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan-2-carbaldehyde",
+                        "label": "Furan-2-carbaldehyde",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Dehydration",
+                        "label": "Dehydration",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Dehydration",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan-2-carbaldehyde",
+                        "label": "Furan-2-carbaldehyde",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide",
+                        "label": "di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Heterocyclic Compounds",
+                        "label": "Heterocyclic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "furan",
+                        "label": "furan",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aromatic Compounds",
+                        "label": "Aromatic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "diethyl phthalate",
+                        "label": "diethyl phthalate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hexoses",
+                        "label": "Hexoses",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pentoses",
+                        "label": "Pentoses",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "bagasse",
+                        "label": "bagasse",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic acid",
+                        "label": "Organic acid",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carboxylic Acids",
+                        "label": "Carboxylic Acids",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carbohydrates",
+                        "label": "Carbohydrates",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Aldehydes",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Heterocyclic Compounds",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "furan",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Aromatic Compounds",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "diethyl phthalate",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Hexoses",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Pentoses",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "bagasse",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Organic acid",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Carboxylic Acids",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Carbohydrates",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan-2-carbaldehyde",
+                        "label": "Furan-2-carbaldehyde",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Oxidation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "inhibitors",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Furan-2-carbaldehyde",
+                        "target": "Process",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan-2-carbaldehyde",
+                        "label": "Furan-2-carbaldehyde",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan-2-carbaldehyde",
+                        "label": "Furan-2-carbaldehyde",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Furan-2-carbaldehyde",
+                        "label": "Furan-2-carbaldehyde",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Dehydration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Dehydration",
+                        "label": "Dehydration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Dehydration_Results.json",
+                        "label": "In this context, Furan-2-carbaldehyde is indirectly related to dehydration through its connection to furfural, which is a product of pentose dehydration. The strain R. eutropha exhibits high metabolic activity on furfural, indicating that dehydration processes in biomass pretreatment can lead to the formation of compounds like Furan-2-carbaldehyde. However, the specific relationship between Furan-2-carbaldehyde and dehydration is not explicitly detailed, making the connection more general.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dehydration",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Dehydration_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide",
+                        "label": "di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "325328",
+                        "label": "Characterization of wood plastic composites made from landfill-derived plastic and sawdust: volatile compounds and olfactometric analysis.\nJS. Félix, C. Domeño, C. Nerín\nWaste Manag 2013 Mar;33(3):645-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23259974"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "325328_Furan-2-carbaldehyde_di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide_Results and discussi.json",
+                        "label": "In this context, Furan-2-carbaldehyde and di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide are both mentioned as volatile organic compounds (VOCs) quantified in various samples, including LDPE and WPC pellets. However, there is no direct discussion of their chemical interactions, functional relationships, or comparative significance within the study, indicating they are simply part of a broader analysis of VOCs without specific relevance to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide",
+                        "target": "325328",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "325328",
+                        "target": "325328_Furan-2-carbaldehyde_di-tert-butylperoxy-3,3,5-trimethylcyclohexane peroxide_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Aldehydes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aldehydes",
+                        "label": "Aldehydes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Aldehydes_Results.json",
+                        "label": "In this context, Furan-2-carbaldehyde is identified as a specific type of aldehyde derived from xylose. The text discusses the metabolic capabilities of R. eutropha, suggesting that it may utilize various sugars after their conversion to aldehydes, including Furan-2-carbaldehyde. This indicates a direct relationship where Furan-2-carbaldehyde is a member of the broader category of aldehydes, specifically relevant to the metabolic processes being studied.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aldehydes",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Aldehydes_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Heterocyclic Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Heterocyclic Compounds",
+                        "label": "Heterocyclic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Heterocyclic Compounds_Discussion.json",
+                        "label": "In this context, Furan-2-carbaldehyde is mentioned as an O-heterocyclic compound involved in the biological oxidation processes carried out by R. eutropha. The text discusses the enzymatic degradation of such compounds, indicating that Furan-2-carbaldehyde is part of a broader category of heterocyclic compounds that can be metabolized by specific microbial strains. However, the relationship is primarily focused on the enzymatic activity rather than a direct interaction between Furan-2-carbaldehyde and heterocyclic compounds as a whole.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Heterocyclic Compounds",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Heterocyclic Compounds_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "furan": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "furan",
+                        "label": "furan",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_furan_Results.json",
+                        "label": "In this context, Furan-2-carbaldehyde is identified as an aldehyde derived from xylose, which is related to furan, a compound that serves as a structural backbone for various derivatives. While the context discusses the metabolic capabilities of R. eutropha with respect to furfural, it implies a connection to furan through the chemical structure, but does not elaborate on their direct relationship or interactions in biological processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "furan",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_furan_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aromatic Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aromatic Compounds",
+                        "label": "Aromatic Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Aromatic Compounds_Introduction.json",
+                        "label": "In this context, Furan-2-carbaldehyde is mentioned as one of the important groups of hydrolysates generated during the acid-catalyzed hydrolysis of biomass, alongside aromatic compounds. Both are categorized as byproducts of biomass pretreatment that can inhibit microbial activity, particularly in ethanol production. However, the specific relationship between Furan-2-carbaldehyde and aromatic compounds is not elaborated upon beyond their shared classification as hydrolysates with inhibitory effects.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aromatic Compounds",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Aromatic Compounds_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "diethyl phthalate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "diethyl phthalate",
+                        "label": "diethyl phthalate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "325328",
+                        "label": "Characterization of wood plastic composites made from landfill-derived plastic and sawdust: volatile compounds and olfactometric analysis.\nJS. Félix, C. Domeño, C. Nerín\nWaste Manag 2013 Mar;33(3):645-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23259974"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "325328_Furan-2-carbaldehyde_diethyl phthalate_Conclusions.json",
+                        "label": "In this context, Furan-2-carbaldehyde and diethyl phthalate are both mentioned as volatile organic compounds (VOCs) identified in wood-plastic composite (WPC) materials. However, their relationship is not explicitly discussed beyond their presence in the VOC profile. The context focuses on the characterization and quantification of various VOCs, including these two compounds, without detailing any specific interactions or functional connections between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "diethyl phthalate",
+                        "target": "325328",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "325328",
+                        "target": "325328_Furan-2-carbaldehyde_diethyl phthalate_Conclusions.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Hexoses": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hexoses",
+                        "label": "Hexoses",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Hexoses_Introduction.json",
+                        "label": "In this context, Furan-2-carbaldehyde is mentioned as a type of furaldehyde derived from hexose degradation during sugar processing. Hexoses, as sugars, are precursors in the formation of furaldehydes like Furan-2-carbaldehyde, which can inhibit microbial activity during ethanol production. The relationship highlights the impact of hexose degradation products on fermentation processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hexoses",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Hexoses_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Pentoses": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pentoses",
+                        "label": "Pentoses",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Pentoses_Results.json",
+                        "label": "In this context, Furan-2-carbaldehyde (furfural) is discussed as a derivative of pentoses, particularly xylose, which is not a good substrate for R. eutropha. However, furfural is identified as a suitable substrate for this organism, indicating a metabolic pathway where pentoses can be converted into more usable forms like furfural. This suggests a relationship where pentoses serve as precursors for the production of Furan-2-carbaldehyde, which can then be utilized by R. eutropha for growth.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Pentoses_Introduction.json",
+                        "label": "In this context, Furan-2-carbaldehyde is mentioned as a furaldehyde derived from pentoses, which are sugars that can be degraded to produce various inhibitors during fermentation processes. The relationship highlights that pentoses serve as precursors for furaldehydes like Furan-2-carbaldehyde, which can inhibit microbial activity in ethanol production. This connection emphasizes the role of pentoses in generating inhibitory compounds that affect fermentation efficiency.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Pentoses_Discussion.json",
+                        "label": "In this context, Furan-2-carbaldehyde is indirectly related to pentoses through the discussion of hydrolysate inhibitors generated during the thermal pretreatment of biomass. The text mentions that pentoses can lead to the formation of inhibitors like furfural, which is a related compound. However, the specific relationship between Furan-2-carbaldehyde and pentoses is not explicitly detailed, indicating a more general connection rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pentoses",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Pentoses_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Pentoses_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Pentoses_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "bagasse": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "bagasse",
+                        "label": "bagasse",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_bagasse_Conclusions.json",
+                        "label": "In this context, Furan-2-carbaldehyde is indirectly related to bagasse as a product of the dilute acid-catalyzed hydrolysis process of bagasse. The hydrolysis of bagasse generates various hydrolysates, including furfural, which is a precursor to Furan-2-carbaldehyde. This indicates that Furan-2-carbaldehyde can be derived from the breakdown of bagasse, linking the two in the biorefinery process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "bagasse",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_bagasse_Conclusions.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Organic acid": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic acid",
+                        "label": "Organic acid",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Organic acid_Introduction.json",
+                        "label": "In this context, Furan-2-carbaldehyde is mentioned as one of the hydrolysates generated during the dilute acid pretreatment of biomass, alongside organic acids. Both Furan-2-carbaldehyde and organic acids are products of biomass hydrolysis, which can inhibit microbial activity, particularly in ethanol production. However, the specific relationship between Furan-2-carbaldehyde and organic acids is not elaborated upon, indicating a general association rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic acid",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Organic acid_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Carboxylic Acids": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carboxylic Acids",
+                        "label": "Carboxylic Acids",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Carboxylic Acids_Discussion.json",
+                        "label": "In this context, Furan-2-carbaldehyde is mentioned as a compound that can be oxidized into carboxylic acids by an aldehyde dehydrogenase enzyme. This indicates a direct biochemical transformation where Furan-2-carbaldehyde serves as a substrate that is converted into carboxylic acids, highlighting a significant metabolic pathway relevant to microbial degradation processes. The relationship is underscored by the mention of specific enzymes involved in this conversion, suggesting a clear functional connection between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carboxylic Acids",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Carboxylic Acids_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Carbohydrates": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carbohydrates",
+                        "label": "Carbohydrates",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "325328",
+                        "label": "Characterization of wood plastic composites made from landfill-derived plastic and sawdust: volatile compounds and olfactometric analysis.\nJS. Félix, C. Domeño, C. Nerín\nWaste Manag 2013 Mar;33(3):645-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23259974"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "325328_Furan-2-carbaldehyde_Carbohydrates_Conclusions.json",
+                        "label": "In this context, Furan-2-carbaldehyde is indirectly related to carbohydrates through its association with the degradation of carbohydrates, as indicated by the mention of furfural, which is linked to carbohydrate breakdown. While Furan-2-carbaldehyde itself is not explicitly discussed, its connection to carbohydrate degradation suggests a potential relevance in the context of food processing and the formation of byproducts from carbohydrates.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbohydrates",
+                        "target": "325328",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "325328",
+                        "target": "325328_Furan-2-carbaldehyde_Carbohydrates_Conclusions.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Oxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Oxidation",
+                        "label": "Oxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_Oxidation_Discussion.json",
+                        "label": "In this context, Furan-2-carbaldehyde is mentioned as an O-heterocyclic compound that undergoes oxidation to form carboxylic acid, facilitated by aldehyde dehydrogenase enzymes. This process highlights the role of oxidation in the biodegradation of organic inhibitors, suggesting a direct relationship between Furan-2-carbaldehyde and oxidation in microbial activity and catabolic pathways.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Oxidation",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_Oxidation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "inhibitors": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653",
+                        "label": "Microbial utilization and biopolyester synthesis of bagasse hydrolysates.\nJ. Yu, H. Stahl\nBioresour. Technol. 2008 Nov;99(17):8042-8.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/18474421"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_inhibitors_Results.json",
+                        "label": "In this context, Furan-2-carbaldehyde is mentioned as one of the organic inhibitors affecting cell growth and PHA biosynthesis. The study discusses how various inhibitors, including Furan-2-carbaldehyde, are removed to low levels during the process, indicating their role in limiting metabolic pathways necessary for polymer precursor production. However, the specific impact of Furan-2-carbaldehyde on the inhibition process is not detailed, suggesting a general relationship with other inhibitors rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "324653_Furan-2-carbaldehyde_inhibitors_Introduction.json",
+                        "label": "In this context, Furan-2-carbaldehyde is implied as a type of furaldehyde, which is mentioned alongside other inhibitors like furfural and 5-hydroxymethylfurfural (HMF). These compounds are noted for their inhibitory effects on ethanol-producing microbes during fermentation processes. While Furan-2-carbaldehyde is not explicitly discussed, its classification as a furaldehyde suggests it may share similar inhibitory properties, contributing to the overall understanding of microbial inhibition in fermentation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "324653",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_inhibitors_Results.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "324653",
+                        "target": "324653_Furan-2-carbaldehyde_inhibitors_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "325328",
+                        "label": "Characterization of wood plastic composites made from landfill-derived plastic and sawdust: volatile compounds and olfactometric analysis.\nJS. Félix, C. Domeño, C. Nerín\nWaste Manag 2013 Mar;33(3):645-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23259974"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "325328_Furan-2-carbaldehyde_Process_Conclusions.json",
+                        "label": "In this context, Furan-2-carbaldehyde is mentioned as one of the volatile organic compounds (VOCs) characterized in wood-plastic composite (WPC) materials. The injection molding process significantly reduced the concentration of Furan-2-carbaldehyde in the samples, indicating a direct relationship between the processing method and the levels of this compound. The process also influenced the formation and degradation of other compounds, highlighting its role in VOC management during WPC production.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "325328",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "325328",
+                        "target": "325328_Furan-2-carbaldehyde_Process_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

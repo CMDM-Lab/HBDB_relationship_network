@@ -1,0 +1,10 @@
+{
+    "context": "As a consequence of this misclassification, sensitivity will be reduced for detecting cancer risk in exposed populations, and the findings across small populations will be variable, which is consistent with the epidemiologic findings. BD is classified as a suspected human carcinogen by IARC, but the cancer risk is uncertain and controversial. Genetic polymorphisms have been observed to affect metabolic rates for both activation and deactivation enzymes important for BD epoxides. The P450 CYP2E1 and CYP2A6 enzymes have been identified as the major phase I oxidation enzymes for butadiene, and both are polymorphic. Alterations in the DraI at intron 6 for CYP2E1 showed changes in protein expression and catalytic activity. The CYP2A6 also has several polymorphisms that affect its activity. The most common variant is CYP2A6*2, which has an exon 3 mutation that results in an inactive protein. ",
+    "term_A": "Buta-1,3-diene",
+    "term_B": "Butadiene",
+    "llm_generation": {
+        "summary": "In this context, Buta-1,3-diene and Butadiene are closely related as Buta-1,3-diene is a common name for Butadiene, which is classified as a suspected human carcinogen. The discussion focuses on the metabolic pathways involving enzymes like CYP2E1 and CYP2A6 that are crucial for the activation and deactivation of Butadiene, highlighting the genetic polymorphisms that influence these metabolic processes. This indicates a direct relationship between the two terms in the context of cancer risk assessment and metabolic enzyme activity.",
+        "reason": "The score of 5 reflects a strong relevance as Buta-1,3-diene is essentially another name for Butadiene, and the context discusses their implications in cancer risk and metabolism, establishing a critical relationship supported by specific metabolic enzyme involvement.",
+        "score": 5
+    }
+}

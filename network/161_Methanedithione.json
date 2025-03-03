@@ -1,0 +1,1089 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Methanedithione",
+                    "label": "Methanedithione",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanedithione",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanedithione",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanedithione",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanedithione",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanedithione",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanedithione",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanedithione",
+                        "label": "Methanedithione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Gastroesophageal reflux disease",
+                        "label": "Gastroesophageal reflux disease",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "Gastroesophageal reflux disease",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanedithione",
+                        "label": "Methanedithione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "acetonitrile",
+                        "label": "acetonitrile",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Amines",
+                        "label": "Amines",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "carbonyl compound",
+                        "label": "carbonyl compound",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "1-Heptene",
+                        "label": "1-Heptene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "isoprene",
+                        "label": "isoprene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "dimethyl sulfide",
+                        "label": "dimethyl sulfide",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "acetonitrile",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "Amines",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "carbonyl compound",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "Toluene",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "pentane",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "1-Heptene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "Acetaldehyde",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "Organic Chemicals",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "isoprene",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "dimethyl sulfide",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanedithione",
+                        "label": "Methanedithione",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "Adjudication",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanedithione",
+                        "target": "Analyte",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanedithione",
+                        "label": "Methanedithione",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanedithione",
+                        "label": "Methanedithione",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanedithione",
+                        "label": "Methanedithione",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Gastroesophageal reflux disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Gastroesophageal reflux disease",
+                        "label": "Gastroesophageal reflux disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114",
+                        "label": "Volatile organic compounds in plasma for the diagnosis of esophageal adenocarcinoma: a pilot study.\nA. Bhatt, MA. Parsi, T. Stevens, S. Gabbard, A. Kumaravel, S. Jang, D. Grove, R. Lopez, S. Murthy, JJ. Vargo, R. Dweik\nGastrointest. Endosc. 2016 Oct;84(4):597-603.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26646671"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_Gastroesophageal reflux disease_Methods.json",
+                        "label": "In this context, Methanedithione is not directly mentioned or linked to gastroesophageal reflux disease (GERD). The focus is on developing a predictive model for differentiating between esophageal adenocarcinoma (EAC) and GERD using compounds like acrylonitrile and carbon disulfide. There is no discussion of Methanedithione's role or relevance to GERD, indicating a lack of connection between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Gastroesophageal reflux disease",
+                        "target": "309114",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_Gastroesophageal reflux disease_Methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "acetonitrile": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "acetonitrile",
+                        "label": "acetonitrile",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114",
+                        "label": "Volatile organic compounds in plasma for the diagnosis of esophageal adenocarcinoma: a pilot study.\nA. Bhatt, MA. Parsi, T. Stevens, S. Gabbard, A. Kumaravel, S. Jang, D. Grove, R. Lopez, S. Murthy, JJ. Vargo, R. Dweik\nGastrointest. Endosc. 2016 Oct;84(4):597-603.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26646671"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_acetonitrile_Results.json",
+                        "label": "In this context, Methanedithione and acetonitrile are both mentioned as volatile organic compounds (VOCs) analyzed in the plasma headspace of patients with esophageal adenocarcinoma (EAC). However, there is no direct discussion of their relationship or interaction; they are simply part of a list of VOCs that were significantly reduced in EAC patients compared to controls. The focus is on their potential as diagnostic markers rather than any specific connection between the two compounds.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_acetonitrile_Methods.json",
+                        "label": "In this context, Methanedithione and acetonitrile are both mentioned as analytes in a study focused on measuring volatile organic compounds (VOCs) from blood samples using SIFT-MS technology. However, there is no direct discussion of their relationship, interactions, or significance beyond their inclusion in the list of analytes being analyzed. They are part of a broader analysis but do not exhibit a specific connection in this context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113",
+                        "label": "Determination of nicotine, tar, volatile organic compounds and carbonyls in mainstream cigarette smoke using a glass filter and a sorbent cartridge followed by the two-phase/one-pot elution method with carbon disulfide and methanol.\nS. Uchiyama, H. Hayashida, R. Izu, Y. Inaba, H. Nakagome, N. Kunugita\nJ Chromatogr A 2015 Dec;1426:48-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26653840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113_Methanedithione_acetonitrile_Results and discussi.json",
+                        "label": "In this context, methanedithione and acetonitrile are both mentioned as solvents tested for their ability to elute nicotine from a cigarette filter pad (CFP). However, there is no direct interaction or comparison between the two solvents regarding their effectiveness or properties. They are simply part of a list of solvents evaluated in the study, with acetonitrile showing lower elution efficiency compared to others, but no specific relationship to methanedithione is established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "acetonitrile",
+                        "target": "309114",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_acetonitrile_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_acetonitrile_Methods.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "acetonitrile",
+                        "target": "309113",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309113",
+                        "target": "309113_Methanedithione_acetonitrile_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Amines": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Amines",
+                        "label": "Amines",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114",
+                        "label": "Volatile organic compounds in plasma for the diagnosis of esophageal adenocarcinoma: a pilot study.\nA. Bhatt, MA. Parsi, T. Stevens, S. Gabbard, A. Kumaravel, S. Jang, D. Grove, R. Lopez, S. Murthy, JJ. Vargo, R. Dweik\nGastrointest. Endosc. 2016 Oct;84(4):597-603.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26646671"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_Amines_Methods.json",
+                        "label": "In this context, Methanedithione and Amines are both mentioned as analytes in a study analyzing headspace samples using SIFT-MS technology. However, there is no direct discussion of their relationship or interaction. Methanedithione is not specifically linked to the amines listed, such as triethyl amine and trimethyl amine, indicating a lack of significant relevance between the two terms in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Amines",
+                        "target": "309114",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_Amines_Methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "carbonyl compound": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "carbonyl compound",
+                        "label": "carbonyl compound",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113",
+                        "label": "Determination of nicotine, tar, volatile organic compounds and carbonyls in mainstream cigarette smoke using a glass filter and a sorbent cartridge followed by the two-phase/one-pot elution method with carbon disulfide and methanol.\nS. Uchiyama, H. Hayashida, R. Izu, Y. Inaba, H. Nakagome, N. Kunugita\nJ Chromatogr A 2015 Dec;1426:48-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26653840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113_Methanedithione_carbonyl compound_Results and discussi.json",
+                        "label": "In this context, Methanedithione is indirectly related to carbonyl compounds through the discussion of their stability and decomposition in a carbon disulfide/methanol solution. While the text mentions carbonyl compounds and their reactions, Methanedithione is not explicitly linked to any specific interactions or effects on carbonyl compounds, indicating a lack of direct relevance between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "carbonyl compound",
+                        "target": "309113",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309113",
+                        "target": "309113_Methanedithione_carbonyl compound_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113",
+                        "label": "Determination of nicotine, tar, volatile organic compounds and carbonyls in mainstream cigarette smoke using a glass filter and a sorbent cartridge followed by the two-phase/one-pot elution method with carbon disulfide and methanol.\nS. Uchiyama, H. Hayashida, R. Izu, Y. Inaba, H. Nakagome, N. Kunugita\nJ Chromatogr A 2015 Dec;1426:48-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26653840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113_Methanedithione_Toluene_Experimental.json",
+                        "label": "In this context, Methanedithione and Toluene are both mentioned as chemicals purchased from different suppliers for use in a study involving various organic compounds. However, there is no discussion of their interaction, functional relationship, or relevance to each other beyond their inclusion in a list of chemicals. They appear coincidentally without any direct connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "309113",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309113",
+                        "target": "309113_Methanedithione_Toluene_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "pentane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114",
+                        "label": "Volatile organic compounds in plasma for the diagnosis of esophageal adenocarcinoma: a pilot study.\nA. Bhatt, MA. Parsi, T. Stevens, S. Gabbard, A. Kumaravel, S. Jang, D. Grove, R. Lopez, S. Murthy, JJ. Vargo, R. Dweik\nGastrointest. Endosc. 2016 Oct;84(4):597-603.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26646671"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_pentane_Methods.json",
+                        "label": "In this context, Methanedithione and pentane are both mentioned as analytes in a study focusing on volatile organic compounds (VOCs) analyzed from blood samples using SIFT-MS technology. However, there is no direct discussion of their relationship, interactions, or significance beyond their inclusion in a list of analytes, indicating they are part of a broader analysis without specific connections to each other.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309217",
+                        "label": "Increased pentane and carbon disulfide in the breath of patients with schizophrenia.\nM. Phillips, M. Sabas, J. Greenberg\nJ. Clin. Pathol. 1993 Sep;46(9):861-4.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/8227439"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309217_Methanedithione_pentane_Abstract.json",
+                        "label": "In this context, Methanedithione is not directly mentioned in relation to pentane, which is identified as a marker of lipid peroxidation in the breath of patients with schizophrenia. The study focuses on the concentrations of pentane and other volatile organic compounds, suggesting a potential link between lipid peroxidation and schizophrenia, but does not establish a clear relationship with Methanedithione. Therefore, while both terms are part of the broader discussion on volatile organic compounds, their specific interaction is not addressed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentane",
+                        "target": "309114",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_pentane_Methods.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentane",
+                        "target": "309217",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309217",
+                        "target": "309217_Methanedithione_pentane_Abstract.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "1-Heptene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-Heptene",
+                        "label": "1-Heptene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114",
+                        "label": "Volatile organic compounds in plasma for the diagnosis of esophageal adenocarcinoma: a pilot study.\nA. Bhatt, MA. Parsi, T. Stevens, S. Gabbard, A. Kumaravel, S. Jang, D. Grove, R. Lopez, S. Murthy, JJ. Vargo, R. Dweik\nGastrointest. Endosc. 2016 Oct;84(4):597-603.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26646671"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_1-Heptene_Results.json",
+                        "label": "In this context, Methanedithione and 1-Heptene are both mentioned as volatile organic compounds (VOCs) analyzed in the plasma headspace of patients with esophageal adenocarcinoma (EAC). However, there is no direct discussion of their relationship or interaction; they are simply part of a list of VOCs that were significantly reduced in EAC patients compared to controls. Their individual roles or connections in the context of EAC diagnosis are not elaborated upon.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_1-Heptene_Methods.json",
+                        "label": "In this context, Methanedithione and 1-Heptene are both mentioned as analytes in a study analyzing volatile organic compounds (VOCs) from blood samples using SIFT-MS technology. However, there is no discussion of their specific interactions, chemical properties, or relevance to each other beyond their inclusion in the list of analytes being measured. They are part of a broader analysis but lack a direct relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "1-Heptene",
+                        "target": "309114",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_1-Heptene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_1-Heptene_Methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Acetaldehyde": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acetaldehyde",
+                        "label": "Acetaldehyde",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114",
+                        "label": "Volatile organic compounds in plasma for the diagnosis of esophageal adenocarcinoma: a pilot study.\nA. Bhatt, MA. Parsi, T. Stevens, S. Gabbard, A. Kumaravel, S. Jang, D. Grove, R. Lopez, S. Murthy, JJ. Vargo, R. Dweik\nGastrointest. Endosc. 2016 Oct;84(4):597-603.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26646671"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_Acetaldehyde_Methods.json",
+                        "label": "In this context, Methanedithione and Acetaldehyde are both mentioned as analytes in a study focusing on volatile organic compounds (VOCs) analyzed from blood samples. However, there is no direct discussion of their relationship, interaction, or significance in the context of the study. They are simply part of a list of compounds being measured, indicating a lack of specific relevance between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acetaldehyde",
+                        "target": "309114",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_Acetaldehyde_Methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Organic Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113",
+                        "label": "Determination of nicotine, tar, volatile organic compounds and carbonyls in mainstream cigarette smoke using a glass filter and a sorbent cartridge followed by the two-phase/one-pot elution method with carbon disulfide and methanol.\nS. Uchiyama, H. Hayashida, R. Izu, Y. Inaba, H. Nakagome, N. Kunugita\nJ Chromatogr A 2015 Dec;1426:48-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26653840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113_Methanedithione_Organic Chemicals_Introduction.json",
+                        "label": "In this context, Methanedithione is not explicitly mentioned, but it can be categorized under organic chemicals, particularly in the context of volatile organic compounds (VOCs) and carbonyls analyzed in cigarette smoke. The discussion focuses on the analytical methods for measuring various organic chemicals, including nicotine and VOCs, but does not detail the specific role or relationship of Methanedithione within this framework. Thus, while both terms are related through the broader category of organic chemicals, their direct interaction is not established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "309113",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309113",
+                        "target": "309113_Methanedithione_Organic Chemicals_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "isoprene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "isoprene",
+                        "label": "isoprene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114",
+                        "label": "Volatile organic compounds in plasma for the diagnosis of esophageal adenocarcinoma: a pilot study.\nA. Bhatt, MA. Parsi, T. Stevens, S. Gabbard, A. Kumaravel, S. Jang, D. Grove, R. Lopez, S. Murthy, JJ. Vargo, R. Dweik\nGastrointest. Endosc. 2016 Oct;84(4):597-603.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26646671"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_isoprene_Methods.json",
+                        "label": "In this context, Methanedithione and isoprene are both mentioned as analytes in a study analyzing volatile organic compounds (VOCs) from blood samples using SIFT-MS technology. However, there is no direct discussion of their relationship, interaction, or significance beyond their inclusion in a list of analytes being measured. They are part of a broader analysis but do not exhibit a specific connection in this context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_isoprene_Results.json",
+                        "label": "In this context, Methanedithione and isoprene are both mentioned as volatile organic compounds (VOCs) analyzed in the plasma headspace of patients with esophageal adenocarcinoma (EAC). However, the relationship between them is not explicitly discussed, and they are included in a list of VOCs that were significantly reduced in EAC patients compared to controls. There is no direct interaction or functional relationship highlighted between Methanedithione and isoprene.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113",
+                        "label": "Determination of nicotine, tar, volatile organic compounds and carbonyls in mainstream cigarette smoke using a glass filter and a sorbent cartridge followed by the two-phase/one-pot elution method with carbon disulfide and methanol.\nS. Uchiyama, H. Hayashida, R. Izu, Y. Inaba, H. Nakagome, N. Kunugita\nJ Chromatogr A 2015 Dec;1426:48-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26653840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113_Methanedithione_isoprene_Experimental.json",
+                        "label": "In this context, Methanedithione and isoprene are both mentioned as chemicals purchased from different suppliers, but there is no direct interaction or relationship discussed between them. They are part of a broader list of chemicals used in the study, with no specific relevance to each other in terms of function or application.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "isoprene",
+                        "target": "309114",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_isoprene_Methods.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_isoprene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "isoprene",
+                        "target": "309113",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309113",
+                        "target": "309113_Methanedithione_isoprene_Experimental.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "dimethyl sulfide": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "dimethyl sulfide",
+                        "label": "dimethyl sulfide",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114",
+                        "label": "Volatile organic compounds in plasma for the diagnosis of esophageal adenocarcinoma: a pilot study.\nA. Bhatt, MA. Parsi, T. Stevens, S. Gabbard, A. Kumaravel, S. Jang, D. Grove, R. Lopez, S. Murthy, JJ. Vargo, R. Dweik\nGastrointest. Endosc. 2016 Oct;84(4):597-603.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26646671"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_dimethyl sulfide_Methods.json",
+                        "label": "In this context, Methanedithione and dimethyl sulfide are both included in a list of volatile organic compounds (VOCs) analyzed using a SIFT-MS instrument. However, there is no direct discussion of their relationship or interaction. They are mentioned as part of a broader analysis of analytes present in blood samples, indicating they are both relevant to the study but without a specific connection between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "dimethyl sulfide",
+                        "target": "309114",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_dimethyl sulfide_Methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113",
+                        "label": "Determination of nicotine, tar, volatile organic compounds and carbonyls in mainstream cigarette smoke using a glass filter and a sorbent cartridge followed by the two-phase/one-pot elution method with carbon disulfide and methanol.\nS. Uchiyama, H. Hayashida, R. Izu, Y. Inaba, H. Nakagome, N. Kunugita\nJ Chromatogr A 2015 Dec;1426:48-55.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26653840"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309113_Methanedithione_Adjudication_Introduction.json",
+                        "label": "In this context, Methanedithione and Adjudication are not directly related. Methanedithione is mentioned in the context of analytical methods for measuring volatile organic compounds and carbonyls in cigarette smoke, while adjudication typically refers to a legal process or decision-making. There is no discussion of how these two terms interact or relate to each other within the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "309113",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309113",
+                        "target": "309113_Methanedithione_Adjudication_Introduction.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Analyte": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114",
+                        "label": "Volatile organic compounds in plasma for the diagnosis of esophageal adenocarcinoma: a pilot study.\nA. Bhatt, MA. Parsi, T. Stevens, S. Gabbard, A. Kumaravel, S. Jang, D. Grove, R. Lopez, S. Murthy, JJ. Vargo, R. Dweik\nGastrointest. Endosc. 2016 Oct;84(4):597-603.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26646671"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "309114_Methanedithione_Analyte_Methods.json",
+                        "label": "In this context, Methanedithione is not explicitly mentioned as one of the analytes being measured. Instead, the focus is on a list of 22 preselected analytes analyzed using SIFT-MS technology. While Methanedithione could potentially be an analyte of interest in other studies, it is not directly related to the analytes discussed here, indicating a lack of specific connection in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Analyte",
+                        "target": "309114",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "309114",
+                        "target": "309114_Methanedithione_Analyte_Methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

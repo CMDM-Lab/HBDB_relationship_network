@@ -1,0 +1,10 @@
+{
+    "context": "[3] In a parallel experiment, LTB4 levels in saliva were found to be high (140\u00e2\u20ac\u201c1,358\u00e2\u20ac\u2026pg\u00c2\u00b7mL-1) in healthy volunteers. [4] Through use of a sensitive method for measurement of \u00ce\u00b1-amylase in EBC, it was found that all samples that were positive for LTB4 also contained \u00ce\u00b1-amylase. [5] Therefore, it was concluded that saliva is a possible source of LTB4 in EBC. [1] LTB4 levels in EBC have been reported to be increased in several respiratory diseases such as asthma, COPD  and cystic fibrosis . [2] The levels reported are generally in the 10\u00e2\u20ac\u201c130\u00e2\u20ac\u2026pg\u00c2\u00b7mL-1 concentration range, although, in more recent publications, the data are expressed as amounts of LTB4 obtained during a defined time period of tidal breathing . [3] The vast majority of published papers report on LTB4-like immunoreactivity (LTB4-IR) by the use of EIA measurements, but a recent paper by Montuschi et al.  validated the measurements of LTB4 with mass spectrometry. [4] There is, thus, no doubt that LTB4 may be present in EBC. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Respiration Disorders",
+    "llm_generation": {
+        "summary": "Leukotriene B4 (LTB4) is implicated in various respiratory disorders, as evidenced by its elevated levels in exhaled breath condensate (EBC) of patients with conditions like asthma, COPD, and cystic fibrosis. The presence of LTB4 in EBC suggests its potential role as a biomarker for inflammation in respiratory diseases, linking it directly to respiratory dysfunction.",
+        "reason": "The score of 5 reflects a strong relevance between LTB4 and respiratory disorders, as LTB4 levels are significantly increased in several respiratory diseases, indicating its critical role in the pathophysiology of these conditions.",
+        "score": 5
+    }
+}

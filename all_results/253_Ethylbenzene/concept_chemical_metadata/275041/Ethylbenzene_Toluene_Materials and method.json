@@ -1,0 +1,10 @@
+{
+    "context": "COD measurements complied with the AFNOR NFT 90-101 standard. MLSS and MLVSS were characterized following, AFNOR 90-105 and AFNOR 90-029 standards respectively. Naphthalene (NAP) was purchased from Aldrich. Benzene (B), toluene (T), ethylbenzene (E), p-xylene (X), 2,4-dichlorophenol (DCP), 3,5-dimethylphenol (DMP), methanol, ethanol and acetate were all purchased from Sigma (more than 99% purity). The aromatic compounds concentrations in the liquid phase were evaluated by HS-GC\u2013MS. In the GC\u2013MS method, helium was used as a carrier gas at a column flow rate of 1.2\u00a0mL\u00a0min\u22121. The injection port temperature was 250\u00a0\u00b0C and 1\u00a0mL of gas was injected in split mode (with a ratio of 1:20) for samples having concentrations greater than 1\u00a0ppm. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both mentioned as aromatic compounds purchased from Sigma with high purity for use in a study involving gas chromatography-mass spectrometry (GC-MS). However, there is no discussion of their specific interactions, roles, or relationships within the experimental framework, indicating they are simply part of a list of chemicals used in the analysis.",
+        "reason": "The score of 1 reflects a very low relationship, as ethylbenzene and toluene are merely listed together as purchased chemicals without any further context or interaction described between them in the study.",
+        "score": 1
+    }
+}

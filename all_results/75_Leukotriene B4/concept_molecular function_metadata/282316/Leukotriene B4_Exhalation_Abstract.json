@@ -1,0 +1,10 @@
+{
+    "context": "[2] \u00ce\u00b1-amylase activity was detected in the LTB4-positive samples. [3] In contrast, LTB4 was detected in all examined sputum supernatants in the same study (median 1,190\u00e2\u20ac\u2026pg\u00c2\u00b7mL-1). [4] The median LTB4 level in saliva was 469\u00e2\u20ac\u2026pg\u00c2\u00b7mL-1. [1] High levels of leukotriene B4 in saliva and the presence of leukotriene B4 in exhaled breath condensate only when \u00ce\u00b1-amylase was detected, indicate that leukotriene B4 found in exhaled breath condensate is the result of saliva contamination. [2] As leukotriene B4 was consistently present in sputum supernatants, exhaled breath condensate may be inappropriate for monitoring airway leukotriene B4. [1] Exhaled breath condensate (EBC) has gained considerable attention as a new noninvasive technique for measuring markers of airway inflammation . [2] The procedure normally involves tidal breathing for 5\u00e2\u02c6\u201915\u00e2\u20ac\u2026min and passage of the expired air through a cold trap where the fluid phase is condensed. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, leukotriene B4 (LTB4) is detected in exhaled breath condensate (EBC) samples, but its presence is attributed to saliva contamination rather than being a direct marker of airway inflammation. The study suggests that while LTB4 can be found in exhaled breath, it may not be a reliable indicator for monitoring airway conditions due to this contamination issue. Thus, the relationship between LTB4 and exhalation is significant but complicated by the influence of saliva.",
+        "reason": "The score of 4 reflects a significant connection between leukotriene B4 and exhalation, as LTB4 is measured in exhaled breath condensate. However, the contamination from saliva complicates its use as a reliable biomarker, indicating a strong but nuanced relationship.",
+        "score": 4
+    }
+}

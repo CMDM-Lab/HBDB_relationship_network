@@ -1,0 +1,584 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "1-methyl-4-propan-2-ylbenzene",
+                    "label": "1-methyl-4-propan-2-ylbenzene",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-propan-2-ylbenzene",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-propan-2-ylbenzene",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-propan-2-ylbenzene",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-propan-2-ylbenzene",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-propan-2-ylbenzene",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1-methyl-4-propan-2-ylbenzene",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-propan-2-ylbenzene",
+                        "label": "1-methyl-4-propan-2-ylbenzene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Bury",
+                        "label": "Bury",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-propan-2-ylbenzene",
+                        "target": "Bury",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-propan-2-ylbenzene",
+                        "label": "1-methyl-4-propan-2-ylbenzene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Monoterpenes",
+                        "label": "Monoterpenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-propan-2-ylbenzene",
+                        "target": "n-hexanal",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-propan-2-ylbenzene",
+                        "target": "Monoterpenes",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-propan-2-ylbenzene",
+                        "target": "Toluene",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-propan-2-ylbenzene",
+                        "target": "Organic Chemicals",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-propan-2-ylbenzene",
+                        "label": "1-methyl-4-propan-2-ylbenzene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1-methyl-4-propan-2-ylbenzene",
+                        "target": "Adjudication",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-propan-2-ylbenzene",
+                        "label": "1-methyl-4-propan-2-ylbenzene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-propan-2-ylbenzene",
+                        "label": "1-methyl-4-propan-2-ylbenzene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1-methyl-4-propan-2-ylbenzene",
+                        "label": "1-methyl-4-propan-2-ylbenzene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Bury": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Bury",
+                        "label": "Bury",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564",
+                        "label": "Characterisation of odorants emissions from landfills by SPME and GC/MS.\nE. Davoli, ML. Gangai, L. Morselli, D. Tonelli\nChemosphere 2003 May;51(5):357-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12598001"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564_1-methyl-4-propan-2-ylbenzene_Bury_Results and discussi.json",
+                        "label": "In this context, 1-methyl-4-propan-2-ylbenzene (p-cymene) is mentioned as a marker for elder wastes that have been buried before biogas collection. The relationship is indirect, as p-cymene is identified as a tracer of biogas, but there is no detailed discussion on how it specifically relates to the act of burying waste or its implications in the context of malodour sources.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Bury",
+                        "target": "257564",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257564",
+                        "target": "257564_1-methyl-4-propan-2-ylbenzene_Bury_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "n-hexanal": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "n-hexanal",
+                        "label": "n-hexanal",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564",
+                        "label": "Characterisation of odorants emissions from landfills by SPME and GC/MS.\nE. Davoli, ML. Gangai, L. Morselli, D. Tonelli\nChemosphere 2003 May;51(5):357-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12598001"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564_1-methyl-4-propan-2-ylbenzene_n-hexanal_Results and discussi.json",
+                        "label": "In this context, 1-methyl-4-propan-2-ylbenzene and n-hexanal are both mentioned as components of volatile organic compounds (VOCs) analyzed in air samples around a landfill. However, there is no direct discussion of their specific interactions or relationships. They are part of a broader analysis of odorants and markers associated with different waste types, but their individual roles or connections are not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "n-hexanal",
+                        "target": "257564",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257564",
+                        "target": "257564_1-methyl-4-propan-2-ylbenzene_n-hexanal_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Monoterpenes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Monoterpenes",
+                        "label": "Monoterpenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564",
+                        "label": "Characterisation of odorants emissions from landfills by SPME and GC/MS.\nE. Davoli, ML. Gangai, L. Morselli, D. Tonelli\nChemosphere 2003 May;51(5):357-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12598001"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564_1-methyl-4-propan-2-ylbenzene_Monoterpenes_Results and discussi.json",
+                        "label": "In this context, 1-methyl-4-propan-2-ylbenzene (also known as p-cymene) is mentioned alongside monoterpenes, specifically limonene, as part of the volatile organic compounds (VOCs) emitted from municipal solid waste (MSW) landfills. While both compounds are categorized as VOCs and share similar molecular weight characteristics, the context does not provide a detailed discussion of their specific interactions or functional relationships, indicating a general association rather than a direct connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Monoterpenes",
+                        "target": "257564",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257564",
+                        "target": "257564_1-methyl-4-propan-2-ylbenzene_Monoterpenes_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257583",
+                        "label": "Occurrence of organic pollutants in recovered soil fines from construction and demolition waste.\nYC. Jang, TG. Townsend\nWaste Manag 2001 ;21(8):703-15.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11699628"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257583_1-methyl-4-propan-2-ylbenzene_Toluene_Conclusions.json",
+                        "label": "In this context, 1-methyl-4-propan-2-ylbenzene (also known as 4-isopropyltoluene) and toluene are both identified as volatile organic compounds (VOCs) analyzed in soil samples from construction and demolition waste recycling facilities. They are mentioned together in the context of leachability tests, where toluene is noted for its high leachability compared to other compounds. However, the specific relationship between 1-methyl-4-propan-2-ylbenzene and toluene is not elaborated upon beyond their classification as VOCs present in the samples.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257583_1-methyl-4-propan-2-ylbenzene_Toluene_Results and discussi.json",
+                        "label": "In this context, 1-methyl-4-propan-2-ylbenzene (also known as 4-isopropyltoluene) is mentioned alongside toluene as part of a list of volatile organic compounds (VOCs) found in soil samples. Both compounds are noted for their common use as solvents and fuel components. However, the context does not elaborate on any specific interactions or functional relationships between 1-methyl-4-propan-2-ylbenzene and toluene beyond their shared classification as VOCs.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564",
+                        "label": "Characterisation of odorants emissions from landfills by SPME and GC/MS.\nE. Davoli, ML. Gangai, L. Morselli, D. Tonelli\nChemosphere 2003 May;51(5):357-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12598001"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564_1-methyl-4-propan-2-ylbenzene_Toluene_Results and discussi.json",
+                        "label": "In this context, 1-methyl-4-propan-2-ylbenzene (also known as isobutylbenzene) and toluene are both mentioned as compounds analyzed in air samples using gas chromatography. However, the context does not provide any specific information about their relationship, interactions, or comparative significance beyond their identification as components of the air samples. They are part of a broader analysis of volatile organic compounds (VOCs) but lack a direct connection in the discussion.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "257583",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257583",
+                        "target": "257583_1-methyl-4-propan-2-ylbenzene_Toluene_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257583",
+                        "target": "257583_1-methyl-4-propan-2-ylbenzene_Toluene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "257564",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257564",
+                        "target": "257564_1-methyl-4-propan-2-ylbenzene_Toluene_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Organic Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Organic Chemicals",
+                        "label": "Organic Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257583",
+                        "label": "Occurrence of organic pollutants in recovered soil fines from construction and demolition waste.\nYC. Jang, TG. Townsend\nWaste Manag 2001 ;21(8):703-15.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11699628"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257583_1-methyl-4-propan-2-ylbenzene_Organic Chemicals_Conclusions.json",
+                        "label": "In this context, 1-methyl-4-propan-2-ylbenzene (also known as 4-isopropyltoluene) is mentioned as one of the volatile organic compounds (VOCs) analyzed in the recovered fines from construction and demolition (C&D) waste recycling facilities. It is categorized under organic chemicals, which include various VOCs identified in the samples. However, the specific relationship or significance of 1-methyl-4-propan-2-ylbenzene within the broader category of organic chemicals is not elaborated upon, indicating a general classification rather than a detailed interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Organic Chemicals",
+                        "target": "257583",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257583",
+                        "target": "257583_1-methyl-4-propan-2-ylbenzene_Organic Chemicals_Conclusions.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564",
+                        "label": "Characterisation of odorants emissions from landfills by SPME and GC/MS.\nE. Davoli, ML. Gangai, L. Morselli, D. Tonelli\nChemosphere 2003 May;51(5):357-68.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12598001"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "257564_1-methyl-4-propan-2-ylbenzene_Adjudication_Results and discussi.json",
+                        "label": "In this context, 1-methyl-4-propan-2-ylbenzene (also known as isobutylbenzene) is mentioned in relation to the analysis of air samples using μGC and GC/MS methods. However, there is no direct connection or discussion regarding 'Adjudication' in relation to this compound. The term 'Adjudication' does not appear to have any relevance to the chemical analysis or the compounds being studied, indicating a lack of relationship between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "257564",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "257564",
+                        "target": "257564_1-methyl-4-propan-2-ylbenzene_Adjudication_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        }
+    }
+}

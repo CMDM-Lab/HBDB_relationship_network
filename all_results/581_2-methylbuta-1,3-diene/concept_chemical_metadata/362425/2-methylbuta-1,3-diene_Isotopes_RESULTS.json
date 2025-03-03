@@ -1,0 +1,10 @@
+{
+    "context": "[7] All effects were regarded as significant at P < 0.05. [8] The PS and CS scenarios were also performed under elevated [CO2]. [1] The emission of lipoxygenase (LOX) products (mass-to-charge ratio = 99 [indicated as m99 hereafter] and m101; Supplemental Fig. S3), methyl vinyl ketone (MVK) and/or methacrolein (MACR; both m71), could not be detected. [2] In IE plants, we detected as m71 the double isotope 13C of isoprene (i.e. [3] 13C212C3H8), which represents 0.305% of the isoprene emissions at m69 (Supplemental Fig. S3A). [4] Monoterpenes (m137), which are primarily emitted by young, immature poplar leaves , were detected in trace amounts, particularly at the beginning of the experiment, whereas sesquiterpenes (m205) were never detected (data not shown). [1] In addition to isoprene, MeOH was the second most abundant VOC. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Isotopes",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene is indirectly related to isotopes through the mention of isoprene emissions, specifically the detection of the double isotope 13C of isoprene. While 2-methylbuta-1,3-diene is a structural isomer of isoprene, the context primarily focuses on the isotopic analysis of isoprene rather than a direct relationship with 2-methylbuta-1,3-diene itself. Thus, the connection is weak and primarily based on their shared category as volatile organic compounds (VOCs).",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are related through the broader context of VOC emissions and isotopic analysis, but there is no detailed discussion of their specific relationship.",
+        "score": 2
+    }
+}

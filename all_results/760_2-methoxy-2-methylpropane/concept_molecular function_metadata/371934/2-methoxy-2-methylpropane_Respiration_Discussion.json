@@ -1,0 +1,10 @@
+{
+    "context": "The geometric mean concentration is approximated by the median (Lawryk and Weisel, 1996). The proportion of MTBE (6\u20138% by volume) in the gasoline manufactured by all Korean petroleum companies was approximately half of that in the wintertime fuel (13\u201315%) used in many CO non-attainment areas of the United States (Lioy et al., 1994). Considering only the proportion of MTBE in the gasoline sold in the two areas, lower MTBE levels would be expected in passenger cars in Korea. The opposite results indicate that the effect of the MTBE proportion in gasoline on the in-car level was exceeded by the effects of other driving parameters such as the vehicle type, commute route and vehicle ventilation, along with meteorological parameters such as inversion and the mixing height. Unfortunately, we were unable to collect the necessary data to verify this assertion. Meanwhile, the in-car MTBE levels in the present study are lower than those of a previous study (Jo and Park, 1998), which was conducted in the same study city during the winters of 1996 and 1997. This in-vehicle concentration difference may be due to the commute route difference between the two studies. ",
+    "term_A": "2-methoxy-2-methylpropane",
+    "term_B": "Respiration",
+    "llm_generation": {
+        "summary": "In this context, 2-methoxy-2-methylpropane (MTBE) is mentioned in relation to gasoline composition and its levels in passenger cars, but there is no direct discussion of its impact on respiration. The focus is on the concentration of MTBE in gasoline and its effects on in-car levels, without addressing any respiratory implications or biological interactions with respiration.",
+        "reason": "The score of 1 reflects a lack of any relevant relationship between 2-methoxy-2-methylpropane and respiration, as they are mentioned in the same context but without any discussion of their interaction or significance to each other.",
+        "score": 1
+    }
+}

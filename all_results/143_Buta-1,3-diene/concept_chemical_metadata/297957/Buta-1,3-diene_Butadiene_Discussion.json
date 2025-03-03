@@ -1,0 +1,10 @@
+{
+    "context": "[3] Cigarette smoking provides a far greater exposure to these compounds than does wok cooking, so the smaller increases seen in this study are fully plausible . [4] The high biomarker levels seen in smokers are consistent with the known amounts of benzene, acrolein, and crotonaldehyde in cigarette smoke and with the far higher risk for lung cancer from smoking compared with indoor fume exposure. [1] We did not observe increases in biomarkers of exposure to 1,3-butadiene or PAH. [2] Levels of 1,3-butadiene in fumes from heated oils are far lower than those of several other volatile compounds such as acrolein . [3] Therefore, this result is not unexpected. [4] Although PAHs have been identified in cooking oil fumes , they are high molecular weight, nonvolatile compounds. [5] Thus, their uptake under normal cooking circumstances would be less likely than that of the more volatile compounds such as benzene, acrolein, and crotonaldehyde. ",
+    "term_A": "Buta-1,3-diene",
+    "term_B": "Butadiene",
+    "llm_generation": {
+        "summary": "In this context, Buta-1,3-diene and Butadiene are mentioned in relation to exposure levels in cigarette smoke and cooking fumes. However, the text primarily discusses 1,3-butadiene, which is a specific compound that is a type of butadiene. The relationship is not elaborated upon, and the focus is on exposure levels rather than a direct interaction or comparison between the two terms.",
+        "reason": "The score of 2 reflects an indirect connection, as Buta-1,3-diene is a specific form of butadiene, but the context does not provide detailed information on their relationship or interactions beyond their classification as compounds.",
+        "score": 2
+    }
+}

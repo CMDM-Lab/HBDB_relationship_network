@@ -1,0 +1,10 @@
+{
+    "context": "[3] The authors also showed that ROS production depends on Ca2+ influx and mitochondrial Ca2+ uptake . [4] Taken together with these findings, our results indicate that mitochondrial ROS as well as ATP production have important roles in T cell activation. [5] We found a spike in ATP production that may fuel autocrine purinergic signaling processes that contribute to Ca2+ influx as well as intracellular processes associated with T cell proliferation. [6] Taken together with previous reports, we conclude that mitochondria have at least three different tasks in T cell activation: generating a rapid burst in ATP production that triggers autocrine purinergic signaling, production of ROS that regulate downstream signaling pathways, and regulation of cytosolic Ca2+ homeostasis that sustains T cell responses. [1] T cells are able to respond with remarkable sensitivity and selectivity to the faint antigen-induced signals generated at the IS . [2] While it has been proposed that T cells must possess sophisticated amplification mechanisms that help them respond to such weak external signals, the nature of these amplification mechanisms has remained elusive . [3] Purinergic signal amplification could explain this enigma. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Regulation",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is crucial for T cell activation, as its production is linked to autocrine purinergic signaling processes that regulate calcium influx and support T cell proliferation. The regulation of ATP production and its signaling effects are essential for maintaining cytosolic calcium homeostasis, which is vital for T cell responses. Thus, ATP plays a significant role in the regulatory mechanisms that enhance T cell activation and function.",
+        "reason": "The score of 5 reflects a strong and direct relationship between ATP and regulation, as ATP production is explicitly linked to regulatory processes in T cell activation and signaling pathways, highlighting its critical role in cellular regulation.",
+        "score": 5
+    }
+}

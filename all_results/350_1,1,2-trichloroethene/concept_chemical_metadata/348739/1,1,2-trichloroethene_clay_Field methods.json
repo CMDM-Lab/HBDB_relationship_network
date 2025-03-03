@@ -1,0 +1,10 @@
+{
+    "context": "The lower estimates are representative of the aquitards, while the higher estimates are those of the permeable aquifers. Based on groundwater monitoring data collected in 2002 by an environmental firm 1 , the TCE plume dimensions at this site were estimated to be \u223c1.2\u00a0km long and \u223c0.3\u00a0km wide (Fig. 1). Apart from TCE, only trace amounts of the dechlorination by-product cis-1,2-DCE were detected at a few locations near the source, suggesting low-levels of microbial reductive dechlorination activity in this aquifer. Initial site characterization indicated that the TCE plume was confined to the shallow aquifer zone (\u223c12\u201323\u00a0m bgs), bounded by a low permeability stiff clay layer. Subsequent data, including the present investigation, confirm that TCE contamination has penetrated deeper, at least up to 30\u00a0m bgs. Thus, the three surficial aquifers of interest to the present study are the Q1, Q2, and Q3 aquifers, which are affected by episodes of recharge from infiltration. Note that the water table for all groundwater samplings during this study was below the level that had been designated as the Q1 sub-aquifer. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "clay",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is discussed in relation to its contamination of groundwater, which is confined by a low permeability clay layer. The clay acts as a barrier that limits the movement of TCE within the aquifer system, indicating a physical relationship where the clay influences the distribution and potential remediation of TCE in the groundwater. However, there is no detailed discussion of chemical interactions between TCE and clay.",
+        "reason": "The score of 3 reflects a moderate relevance, as the clay layer is significant in controlling the movement of TCE in the aquifer, but there is no direct chemical interaction or detailed analysis of their relationship beyond the physical containment aspect.",
+        "score": 3
+    }
+}

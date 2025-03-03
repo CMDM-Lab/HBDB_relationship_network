@@ -1,0 +1,10 @@
+{
+    "context": "[6] ATP concentrations in the supernatant (C) or inside the cells (D) were determined after stimulation for 1 min with anti-CD3/CD28 antibody-coated beads. [7] Data shown are means \u00c2\u00b1 S.D. (n = 3\u00e2\u20ac\u201c8); *, p < 0.05. [1] IS formation and mitochondrial translocation are actin cytoskeleton-dependent processes . [2] Latrunculin B, an inhibitor of actin polymerization, markedly reduced the release of ATP from cells stimulated with beads. [3] This suppression by latrunculin B was in the same range as that caused by the gap channel inhibitor carbenoxolone (CBX; Fig. 4C). [4] In contrast to CBX, latrunculin B also reduced the increase in intracellular ATP levels after cell stimulation (Fig. 4D). [5] Taken together, these findings suggest that mitochondrial translocation has an important role in shaping the spatiotemporal patterns of ATP release at the IS during T cell activation. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Polymerization",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is linked to the process of polymerization through the action of latrunculin B, which inhibits actin polymerization and subsequently reduces ATP release from stimulated cells. This indicates that actin polymerization is crucial for ATP dynamics during T cell activation, suggesting a significant relationship between ATP levels and the polymerization of actin in cellular processes.",
+        "reason": "The score of 4 reflects a significant connection between ATP and polymerization, as the inhibition of actin polymerization directly impacts ATP release and intracellular levels during T cell activation, supported by experimental data.",
+        "score": 4
+    }
+}

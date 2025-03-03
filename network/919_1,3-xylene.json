@@ -1,0 +1,1721 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "1,3-xylene",
+                    "label": "1,3-xylene",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-xylene",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-xylene",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-xylene",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-xylene",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-xylene",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "1,3-xylene",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-xylene",
+                        "label": "1,3-xylene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Roger's disease",
+                        "label": "Roger's disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Dermo-",
+                        "label": "Dermo-",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Roger's disease",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Dermo-",
+                        "score": 15
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-xylene",
+                        "label": "1,3-xylene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Bromides",
+                        "label": "Bromides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sulfhydryl Compounds",
+                        "label": "Sulfhydryl Compounds",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "3-xylene",
+                        "score": 23
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Toluene",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Chemicals",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Bromides",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Sulfhydryl Compounds",
+                        "score": 9
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-xylene",
+                        "label": "1,3-xylene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Skin Absorption",
+                        "label": "Skin Absorption",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pressure- physical agent",
+                        "label": "Pressure- physical agent",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "catalase activity",
+                        "label": "catalase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cell Survival",
+                        "label": "Cell Survival",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Skin Absorption",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Pressure- physical agent",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Adjudication",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "catalase activity",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Synthesis",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Cell Survival",
+                        "score": 21
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Analyte",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "1,3-xylene",
+                        "target": "Inflammation",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-xylene",
+                        "label": "1,3-xylene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-xylene",
+                        "label": "1,3-xylene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "1,3-xylene",
+                        "label": "1,3-xylene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Roger's disease": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Roger's disease",
+                        "label": "Roger's disease",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812",
+                        "label": "The effect of m-xylene on cytotoxicity and cellular antioxidant status in rat dermal equivalents.\nCA. Coleman, BE. Hull, JN. McDougal, JV. Rogers\nToxicol. Lett. 2003 Apr;142(1-2):133-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12765247"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Roger's disease_Discussion.json",
+                        "label": "In this context, 1,3-xylene is discussed as a volatile organic compound (VOC) that can induce cytotoxicity and skin irritation, potentially leading to oxidative stress and DNA damage. However, there is no direct mention of Roger's disease or any specific relationship between 1,3-xylene and this disease. The focus is primarily on the effects of m-xylene on cellular antioxidants and skin irritation, without establishing a connection to Roger's disease.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Roger's disease_Introduction.json",
+                        "label": "In this context, 1,3-xylene is mentioned as a volatile organic compound (VOC) that can induce oxidative stress, particularly in the study of dermal toxicity. However, there is no direct mention or exploration of Roger's disease in relation to 1,3-xylene. The focus is primarily on the chemical's irritant properties and its effects on rat dermal fibroblasts, without establishing a clear connection to Roger's disease.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Roger's disease_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is discussed in relation to its concentration in fibroblasts and its effects on cell viability and biochemical activity. However, there is no mention or implication of Roger's disease, which is a specific condition. The relationship between 1,3-xylene and Roger's disease is not established or explored, indicating a lack of direct relevance between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Roger's disease",
+                        "target": "275812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Roger's disease_Discussion.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Roger's disease_Introduction.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Roger's disease_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Dermo-": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Dermo-",
+                        "label": "Dermo-",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826",
+                        "label": "Improved method for in vitro assessment of dermal toxicity for volatile organic chemicals.\nJV. Rogers, JN. McDougal\nToxicol. Lett. 2002 Sep;135(1-2):125-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12243871"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Dermo-_Discussion.json",
+                        "label": "In this context, 1,3-xylene is discussed in relation to its exposure and distribution in dermal equivalents during toxicology assessments. The focus is on how m-xylene, a related compound, interacts with skin and tissue culture media, emphasizing the importance of partition coefficients in understanding chemical concentrations in fibroblasts. However, the term 'Dermo-' is not explicitly defined or connected to 1,3-xylene beyond its implication in dermal exposure, leading to a lack of direct relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Dermo-_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is evaluated for its effects on dermal equivalents, specifically assessing cell viability after exposure. The study calculates the concentration of m-xylene in fibroblasts within these dermal equivalents, indicating a direct relationship between the chemical exposure and the biological response of the dermal cells. The analysis aims to understand how 1,3-xylene impacts cell viability in a controlled environment, highlighting its relevance in dermal toxicity studies.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Dermo-_Results.json",
+                        "label": "In this context, 1,3-xylene is mentioned as a volatile chemical used in dermal equivalent toxicity assessments. The study compares the viability of dermal equivalents exposed to m-xylene in different exposure systems. However, there is no direct relationship established between 1,3-xylene and the term 'Dermo-', which appears to refer to dermal equivalents without further elaboration on their interaction or significance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812",
+                        "label": "The effect of m-xylene on cytotoxicity and cellular antioxidant status in rat dermal equivalents.\nCA. Coleman, BE. Hull, JN. McDougal, JV. Rogers\nToxicol. Lett. 2003 Apr;142(1-2):133-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12765247"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Dermo-_Discussion.json",
+                        "label": "In this context, 1,3-xylene is linked to dermal effects through its cytotoxicity in fibroblasts, where it induces a decrease in cellular antioxidants like thiols and catalase. The study suggests that oxidative stress may contribute to the cytotoxic effects of 1,3-xylene on dermal cells, indicating a potential relationship between the chemical and dermal health. However, the term 'Dermo-' is not explicitly defined or elaborated upon in the context, limiting the depth of the relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Dermo-_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is mentioned in relation to dermal equivalents, which are used to study the cytotoxic effects of m-xylene exposure. The study investigates whether antioxidants like N-acetylcysteine (NAC) or catalase can protect these dermal equivalents from the cytotoxicity induced by m-xylene. While 1,3-xylene is part of the broader category of xylene compounds, the specific relationship to dermal equivalents is indirect, focusing more on the effects of m-xylene rather than a direct interaction with 1,3-xylene itself.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Dermo-_Results.json",
+                        "label": "In this context, 1,3-xylene is mentioned in relation to its cytotoxic effects on cells, while 'Dermo-' likely refers to dermal exposure or dermal equivalents used in the study. The study assesses the viability of cells exposed to various conditions, including m-xylene and catalase treatment, but does not provide a direct relationship between 1,3-xylene and dermal exposure. The focus is more on the effects of xylene on cell viability rather than a specific interaction with dermal exposure methods.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dermo-",
+                        "target": "275826",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Dermo-_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Dermo-_Materials and method.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Dermo-_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dermo-",
+                        "target": "275812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Dermo-_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Dermo-_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Dermo-_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "3-xylene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "3-xylene",
+                        "label": "3-xylene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826",
+                        "label": "Improved method for in vitro assessment of dermal toxicity for volatile organic chemicals.\nJV. Rogers, JN. McDougal\nToxicol. Lett. 2002 Sep;135(1-2):125-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12243871"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_3-xylene_Results.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned as volatile organic compounds (VOCs) relevant to the study of dermal equivalent viability under chemical exposure. However, the text primarily focuses on m-xylene and its effects on cell viability, with no direct comparison or interaction between 1,3-xylene and 3-xylene discussed. Their relationship is implied through their classification as xylene isomers, but no specific functional or experimental connection is established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_3-xylene_Materials and method.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned as isomers of xylene, but there is no direct discussion of their specific relationship or interactions. The focus is primarily on m-xylene concentrations and their effects in experimental setups, without elaborating on the differences or similarities between 1,3-xylene and 3-xylene. Thus, they appear in the same context but without a clear connection.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_3-xylene_Discussion.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both isomers of xylene, but the text primarily discusses m-xylene (meta-xylene) and its partition coefficients in biological systems. While 1,3-xylene and 3-xylene are mentioned as related compounds, the focus is on m-xylene's behavior in fibroblasts and collagen, without a direct comparison or interaction between the two isomers. Thus, their relationship is implied through their classification as xylenes but lacks specific details.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_3-xylene_Introduction.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned as volatile organic compounds (VOCs) relevant to a study on chemical exposure in cultured cells. However, the text does not provide specific details about their individual properties, interactions, or comparative significance. They are part of a broader discussion on the relationship between chemical concentrations and biological responses, but no direct relationship between the two xylene isomers is established.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650",
+                        "label": "The use of permeation tube device and the development of empirical formula for accurate permeation rate.\nJ. Susaya, KH. Kim, JW. Cho, D. Parker\nJ Chromatogr A 2011 Dec;1218(52):9328-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22129573"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650_1,3-xylene_3-xylene_Conclusions.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned as model compounds within a study focused on permeation rates of volatile organic compounds (VOCs). However, there is no specific discussion of their individual properties, interactions, or comparative significance. They are treated as part of a broader analysis of permeation rates without a direct relationship established between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650_1,3-xylene_3-xylene_Results and discussi.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned as part of a broader analysis involving xylene isomers in relation to their performance in power regression models. However, there is no specific discussion of their individual properties, interactions, or significance in the context provided. They are treated as part of a group of compounds (BTX) without a detailed examination of their relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650_1,3-xylene_3-xylene_Methods.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned as part of the BTX (benzene, toluene, xylene) standards used in a calibration procedure for gas analysis. However, there is no specific discussion of their individual properties, interactions, or significance beyond their inclusion in the same analytical framework. They are treated as part of a group of compounds without detailed exploration of their relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650_1,3-xylene_3-xylene_Introduction.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned as part of a broader discussion on the performance of permeation testing (PT) devices for volatile organic compounds (VOCs). However, there is no specific interaction or relationship detailed between the two isomers. They are included in a list of target analytes (BTX) but are not compared or analyzed in relation to each other within the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812",
+                        "label": "The effect of m-xylene on cytotoxicity and cellular antioxidant status in rat dermal equivalents.\nCA. Coleman, BE. Hull, JN. McDougal, JV. Rogers\nToxicol. Lett. 2003 Apr;142(1-2):133-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12765247"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_3-xylene_Results.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned in relation to their effects on cell viability during exposure to volatile organic compounds (VOCs). However, the specific relationship between these two is not detailed, as the focus is primarily on m-xylene and the effects of pretreatment with catalase and NAC on cell viability. The mention of 1,3-xylene and 3-xylene does not indicate a direct interaction or comparison between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_3-xylene_Materials and method.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both isomers of xylene mentioned in relation to m-xylene exposure and its cytotoxic effects on dermal equivalents. However, the context primarily focuses on m-xylene and the protective effects of antioxidants against its toxicity, without detailing any specific interactions or comparisons between 1,3-xylene and 3-xylene. Their mention is more about their classification as xylene isomers rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_3-xylene_Discussion.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both isomers of xylene, but the focus is primarily on m-xylene (which is 1,2-xylene) and its cytotoxic effects on rat dermal fibroblasts. The study discusses the oxidative stress induced by m-xylene, suggesting that while 1,3-xylene is mentioned, its specific relationship to the observed effects of m-xylene is not directly explored. The mention of both compounds indicates they belong to the same chemical family, but their individual roles in the context are not elaborated upon.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_3-xylene_Introduction.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned as volatile organic compounds (VOCs) related to the study of dermal toxicity and oxidative stress. However, the specific relationship between these two is not elaborated upon, as the focus is primarily on m-xylene's effects. The mention of xylene as an irritant suggests a general category of compounds rather than a direct interaction or comparison between 1,3-xylene and 3-xylene.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275853",
+                        "label": "Volatile organic compounds (VOCs) in surface coating materials: Their compositions and potential as an alternative fuel.\nTV. Dinh, IY. Choi, YS. Son, KY. Song, Y. Sunwoo, JC. Kim\nJ. Environ. Manage. 2016 Mar;168:157-64.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26708646"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275853_1,3-xylene_3-xylene_Experimental methods.json",
+                        "label": "In this context, 1,3-xylene and 3-xylene are both mentioned as components of volatile organic compounds (VOCs) emitted from coating materials. However, the context does not provide specific details about their individual roles or interactions. They are grouped under the broader category of xylene isomers, but no direct relationship or comparison between 1,3-xylene and 3-xylene is established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "275826",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_3-xylene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_3-xylene_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_3-xylene_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_3-xylene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "275650",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275650",
+                        "target": "275650_1,3-xylene_3-xylene_Conclusions.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275650",
+                        "target": "275650_1,3-xylene_3-xylene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275650",
+                        "target": "275650_1,3-xylene_3-xylene_Methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275650",
+                        "target": "275650_1,3-xylene_3-xylene_Introduction.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "275812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_3-xylene_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_3-xylene_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_3-xylene_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_3-xylene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "3-xylene",
+                        "target": "275853",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275853",
+                        "target": "275853_1,3-xylene_3-xylene_Experimental methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650",
+                        "label": "The use of permeation tube device and the development of empirical formula for accurate permeation rate.\nJ. Susaya, KH. Kim, JW. Cho, D. Parker\nJ Chromatogr A 2011 Dec;1218(52):9328-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22129573"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650_1,3-xylene_Toluene_Conclusions.json",
+                        "label": "In this context, 1,3-xylene and toluene are both mentioned as model compounds (BTX) whose permeation rates are being evaluated under varying conditions. The study highlights the need for empirical equations to predict permeation rates more accurately for these compounds, indicating they are part of a broader analysis of volatile organic compounds. However, there is no direct interaction or specific relationship discussed between 1,3-xylene and toluene beyond their inclusion in the same category of compounds being studied.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650_1,3-xylene_Toluene_Results and discussi.json",
+                        "label": "In this context, 1,3-xylene and toluene are both mentioned as part of a study analyzing the performance of different volatile organic compounds (VOCs) in relation to flow rates and regression models. While they are included in the same analysis, the context does not provide specific details about their direct interactions or comparative significance, focusing instead on their individual regression equations and relative biases in measurements.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650_1,3-xylene_Toluene_Introduction.json",
+                        "label": "In this context, 1,3-xylene and toluene are both mentioned as target analytes in the evaluation of permeation rates using PT devices. They are part of a group of volatile organic compounds (VOCs) that include benzene, toluene, and m-xylene (BTX). However, the context does not provide any specific interaction or functional relationship between 1,3-xylene and toluene beyond their inclusion in the same study, indicating they are both being assessed for their permeation characteristics without further elaboration on their chemical or biological interactions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650_1,3-xylene_Toluene_Methods.json",
+                        "label": "In this context, 1,3-xylene and toluene are both mentioned as components of the BTX (benzene, toluene, xylene) standards used in a gas analysis procedure. They are part of a calibration process involving sorbent tubes and carrier gas, indicating they are analyzed together in the same experimental setup. However, there is no detailed discussion of their specific interactions or relationships beyond their inclusion in the BTX standard mixture.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275853",
+                        "label": "Volatile organic compounds (VOCs) in surface coating materials: Their compositions and potential as an alternative fuel.\nTV. Dinh, IY. Choi, YS. Son, KY. Song, Y. Sunwoo, JC. Kim\nJ. Environ. Manage. 2016 Mar;168:157-64.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26708646"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275853_1,3-xylene_Toluene_Experimental methods.json",
+                        "label": "In this context, 1,3-xylene and toluene are both mentioned as volatile organic compounds (VOCs) associated with emissions from coating materials. They are part of a broader discussion on the composition ratios of VOCs emitted, indicating that both compounds are relevant in the study of air quality and pollution from marine SCMs. However, their specific interactions or comparative significance are not detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "275650",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275650",
+                        "target": "275650_1,3-xylene_Toluene_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275650",
+                        "target": "275650_1,3-xylene_Toluene_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275650",
+                        "target": "275650_1,3-xylene_Toluene_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275650",
+                        "target": "275650_1,3-xylene_Toluene_Methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "275853",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275853",
+                        "target": "275853_1,3-xylene_Toluene_Experimental methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826",
+                        "label": "Improved method for in vitro assessment of dermal toxicity for volatile organic chemicals.\nJV. Rogers, JN. McDougal\nToxicol. Lett. 2002 Sep;135(1-2):125-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12243871"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Chemicals_Discussion.json",
+                        "label": "In this context, 1,3-xylene is discussed as a volatile chemical whose evaporation affects cell viability in fibroblast cultures. The study highlights the challenges in determining accurate toxic concentrations due to the evaporation of 1,3-xylene, which is categorized as a chemical. However, the relationship is primarily focused on the specific behavior of 1,3-xylene rather than a broader discussion of its chemical properties or interactions with other chemicals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Chemicals_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is mentioned as a specific chemical being studied for its effects on cell viability in dermal equivalents. The study involves calculating the concentration of m-xylene in fibroblasts and assessing its impact on cell viability using the MTT assay. While 1,3-xylene is a type of chemical, the context does not elaborate on its broader relationship with other chemicals, focusing instead on its specific role in the experiment.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Chemicals_Introduction.json",
+                        "label": "In this context, 1,3-xylene is mentioned as a specific volatile organic compound (VOC) within a broader discussion about chemicals used in a system designed to maintain constant chemical doses for in vitro exposure studies. The focus is on understanding the relationship between chemical concentrations and biological responses, indicating that 1,3-xylene is part of the larger category of chemicals being studied for their effects on cultured cells. However, there is no detailed exploration of its specific properties or interactions beyond its classification as a chemical.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Chemicals_Results.json",
+                        "label": "In this context, 1,3-xylene is mentioned as a specific chemical being tested for its effects on dermal equivalents in a study assessing cell viability. The study compares the impact of chemical evaporation from exposure mediums containing m-xylene, which is a related compound, indicating that 1,3-xylene is part of a broader category of chemicals being evaluated for their biological effects. However, the relationship is not deeply explored beyond its classification as a chemical under investigation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "275826",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Chemicals_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Chemicals_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Chemicals_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Chemicals_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Bromides": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Bromides",
+                        "label": "Bromides",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826",
+                        "label": "Improved method for in vitro assessment of dermal toxicity for volatile organic chemicals.\nJV. Rogers, JN. McDougal\nToxicol. Lett. 2002 Sep;135(1-2):125-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12243871"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Bromides_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is mentioned as a compound whose concentration was measured during an experiment involving dermal equivalents, while bromides are not directly referenced in terms of their relationship to 1,3-xylene. The focus is primarily on the effects of m-xylene on cell viability, with no discussion of bromides or their potential interactions with xylene. Thus, there is no clear connection established between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Bromides",
+                        "target": "275826",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Bromides_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Sulfhydryl Compounds": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sulfhydryl Compounds",
+                        "label": "Sulfhydryl Compounds",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812",
+                        "label": "The effect of m-xylene on cytotoxicity and cellular antioxidant status in rat dermal equivalents.\nCA. Coleman, BE. Hull, JN. McDougal, JV. Rogers\nToxicol. Lett. 2003 Apr;142(1-2):133-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12765247"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Sulfhydryl Compounds_Discussion.json",
+                        "label": "In this context, 1,3-xylene is implicated in inducing cytotoxicity and oxidative stress in fibroblasts, leading to a decrease in cellular antioxidants, specifically sulfhydryl compounds (thiols). The study indicates that exposure to 1,3-xylene results in a significant reduction of these antioxidants, suggesting a direct relationship where the presence of 1,3-xylene contributes to the depletion of sulfhydryl compounds due to oxidative damage.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Sulfhydryl Compounds_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is mentioned in relation to cell viability assays, but there is no direct discussion of its relationship with sulfhydryl compounds. While sulfhydryl compounds are often involved in redox reactions and may interact with various organic compounds, the context does not provide specific evidence or details linking 1,3-xylene to sulfhydryl compounds or their biological significance together.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Sulfhydryl Compounds_Results.json",
+                        "label": "In this context, 1,3-xylene is linked to the observed decrease in sulfhydryl compounds, specifically DTNB-reactive thiol levels, following exposure. The study indicates that exposure to m-xylene leads to a dose-dependent reduction in thiol levels, which are important for maintaining cellular redox balance and enzymatic activity, including catalase. This suggests a potential oxidative stress response associated with 1,3-xylene exposure, impacting sulfhydryl compound levels.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sulfhydryl Compounds",
+                        "target": "275812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Sulfhydryl Compounds_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Sulfhydryl Compounds_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Sulfhydryl Compounds_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Skin Absorption": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Skin Absorption",
+                        "label": "Skin Absorption",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826",
+                        "label": "Improved method for in vitro assessment of dermal toxicity for volatile organic chemicals.\nJV. Rogers, JN. McDougal\nToxicol. Lett. 2002 Sep;135(1-2):125-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12243871"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Skin Absorption_Introduction.json",
+                        "label": "In this context, 1,3-xylene is discussed as a volatile organic compound (VOC) that, like m-xylene, can induce skin inflammation and is absorbed through the skin. The study highlights the effects of xylene exposure, including increased blood and tissue concentrations, leading to inflammatory responses such as plasma extravasation and leukocyte infiltration. This suggests a direct relationship between 1,3-xylene and skin absorption, emphasizing the compound's potential irritancy and toxicity upon dermal exposure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Skin Absorption",
+                        "target": "275826",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Skin Absorption_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Pressure- physical agent": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pressure- physical agent",
+                        "label": "Pressure- physical agent",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826",
+                        "label": "Improved method for in vitro assessment of dermal toxicity for volatile organic chemicals.\nJV. Rogers, JN. McDougal\nToxicol. Lett. 2002 Sep;135(1-2):125-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12243871"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Pressure- physical agent_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is mentioned as part of an experimental setup involving the equilibration of volatile organic compounds in sealed vials under specific conditions, including pressure changes. However, the relationship between 1,3-xylene and pressure as a physical agent is not explicitly discussed or analyzed, indicating a lack of direct interaction or significance in the study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pressure- physical agent",
+                        "target": "275826",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Pressure- physical agent_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826",
+                        "label": "Improved method for in vitro assessment of dermal toxicity for volatile organic chemicals.\nJV. Rogers, JN. McDougal\nToxicol. Lett. 2002 Sep;135(1-2):125-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12243871"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Adjudication_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is mentioned in relation to statistical analysis of dermal equivalent viability and its concentration effects over time. However, there is no direct connection or relevance to the term 'Adjudication,' which typically refers to a legal process or decision-making. The two terms appear in the same context but do not interact or relate meaningfully.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812",
+                        "label": "The effect of m-xylene on cytotoxicity and cellular antioxidant status in rat dermal equivalents.\nCA. Coleman, BE. Hull, JN. McDougal, JV. Rogers\nToxicol. Lett. 2003 Apr;142(1-2):133-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12765247"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Adjudication_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is mentioned in relation to a study assessing cell viability in fibroblasts after exposure to various concentrations of xylene. However, the term 'Adjudication' appears unrelated to the chemical analysis or biological effects being discussed. There is no direct connection or relevance between 1,3-xylene and adjudication in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "275826",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Adjudication_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "275812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Adjudication_Materials and method.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "catalase activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "catalase activity",
+                        "label": "catalase activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812",
+                        "label": "The effect of m-xylene on cytotoxicity and cellular antioxidant status in rat dermal equivalents.\nCA. Coleman, BE. Hull, JN. McDougal, JV. Rogers\nToxicol. Lett. 2003 Apr;142(1-2):133-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12765247"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_catalase activity_Results.json",
+                        "label": "In this context, 1,3-xylene exposure is linked to a decrease in catalase activity in fibroblasts within dermal equivalents. The study shows that as the concentration of m-xylene increases, catalase activity declines in a time- and dose-dependent manner, indicating a potential toxic effect of 1,3-xylene on cellular antioxidant defenses. This suggests that 1,3-xylene may impair the ability of fibroblasts to manage oxidative stress, as evidenced by the significant reduction in catalase activity observed at both 1 and 4 hours post-exposure.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_catalase activity_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is analyzed for its concentration in fibroblasts, while catalase activity is assessed as part of the evaluation of cellular responses to exposure. Although both terms are mentioned in relation to the effects of m-xylene exposure on fibroblast viability and cellular function, there is no direct discussion of how 1,3-xylene specifically influences catalase activity or any mechanistic relationship between them.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_catalase activity_Discussion.json",
+                        "label": "In this context, 1,3-xylene exposure is linked to a decrease in catalase activity in dermal fibroblasts. The study indicates that exposure to m-xylene results in a time- and dose-dependent reduction in cellular viability and endogenous antioxidants, including catalase. While catalase pretreatment showed a marginal increase in cell viability, it was not statistically significant, suggesting that the relationship between 1,3-xylene and catalase activity is relevant but not strongly impactful in terms of protective effects against oxidative stress.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "catalase activity",
+                        "target": "275812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_catalase activity_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_catalase activity_Materials and method.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_catalase activity_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Synthesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812",
+                        "label": "The effect of m-xylene on cytotoxicity and cellular antioxidant status in rat dermal equivalents.\nCA. Coleman, BE. Hull, JN. McDougal, JV. Rogers\nToxicol. Lett. 2003 Apr;142(1-2):133-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12765247"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Synthesis_Discussion.json",
+                        "label": "In this context, 1,3-xylene is mentioned in relation to its cytotoxic effects on fibroblasts, particularly in the context of oxidative stress and skin irritation. However, the term 'Synthesis' does not have a direct connection to 1,3-xylene within the provided text. The focus is on the protective effects of NAC against m-xylene-induced cytotoxicity rather than any synthesis process involving 1,3-xylene.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Synthesis",
+                        "target": "275812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Synthesis_Discussion.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Cell Survival": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cell Survival",
+                        "label": "Cell Survival",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826",
+                        "label": "Improved method for in vitro assessment of dermal toxicity for volatile organic chemicals.\nJV. Rogers, JN. McDougal\nToxicol. Lett. 2002 Sep;135(1-2):125-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12243871"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Cell Survival_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is examined for its effects on cell survival, specifically in dermal equivalents exposed to m-xylene. The viability of these cells is assessed using the MTT assay, which measures mitochondrial activity as an indicator of cell health. The study focuses on how exposure to m-xylene impacts cell survival over a defined time period, suggesting a direct relationship between the chemical exposure and cellular viability.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Cell Survival_Results.json",
+                        "label": "In this context, 1,3-xylene is indirectly related to cell survival through its impact on fibroblast viability. The study demonstrates that exposure to m-xylene, a structural isomer of 1,3-xylene, decreases cell viability in fibroblasts with increasing concentration. The EC50 value indicates the concentration at which cell survival is significantly affected, suggesting a toxicological relationship between xylene exposure and cell survival outcomes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275826_1,3-xylene_Cell Survival_Discussion.json",
+                        "label": "In this context, 1,3-xylene is indirectly related to cell survival through its impact on fibroblast viability during exposure experiments. The study compares cell viability in unsealed versus sealed environments, highlighting that m-xylene evaporation in unsealed plates leads to higher fibroblast survival rates. This suggests that the concentration of 1,3-xylene affects cell survival, but the relationship is primarily inferred from the effects of m-xylene rather than a direct analysis of 1,3-xylene's specific impact.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812",
+                        "label": "The effect of m-xylene on cytotoxicity and cellular antioxidant status in rat dermal equivalents.\nCA. Coleman, BE. Hull, JN. McDougal, JV. Rogers\nToxicol. Lett. 2003 Apr;142(1-2):133-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12765247"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Cell Survival_Materials and method.json",
+                        "label": "In this context, 1,3-xylene is evaluated for its effects on cell survival, specifically in fibroblast cultures. The study measures cell viability in response to varying concentrations of 1,3-xylene, determining the EC50 value, which indicates the concentration at which 50% of the cells survive. This suggests a direct relationship between 1,3-xylene exposure and cell survival outcomes, highlighting its potential cytotoxic effects.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Cell Survival_Results.json",
+                        "label": "In this context, 1,3-xylene is evaluated for its impact on cell survival in an in vitro study. The viability of cells exposed to 1,3-xylene is indirectly assessed through comparisons with m-xylene exposures and the effects of pretreatment with catalase and NAC. The study indicates that pretreatment can enhance cell viability, suggesting that 1,3-xylene exposure may influence cell survival, although the specific effects of 1,3-xylene alone are not detailed.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Cell Survival_Discussion.json",
+                        "label": "In this context, 1,3-xylene exposure is linked to decreased cell survival in dermal fibroblasts, as indicated by a time- and dose-dependent reduction in catalase activity, which is an antioxidant enzyme. The study suggests that while the addition of catalase may provide some marginal protection against cytotoxicity induced by 1,3-xylene, it does not significantly improve cell viability over time. This indicates a detrimental effect of 1,3-xylene on cell survival, likely through mechanisms involving oxidative stress.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cell Survival",
+                        "target": "275826",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Cell Survival_Materials and method.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Cell Survival_Results.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275826",
+                        "target": "275826_1,3-xylene_Cell Survival_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cell Survival",
+                        "target": "275812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Cell Survival_Materials and method.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Cell Survival_Results.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Cell Survival_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Analyte": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Analyte",
+                        "label": "Analyte",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650",
+                        "label": "The use of permeation tube device and the development of empirical formula for accurate permeation rate.\nJ. Susaya, KH. Kim, JW. Cho, D. Parker\nJ Chromatogr A 2011 Dec;1218(52):9328-35.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22129573"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275650_1,3-xylene_Analyte_Introduction.json",
+                        "label": "In this context, 1,3-xylene is mentioned as part of a group of target analytes (benzene, toluene, and m-xylene) evaluated for their permeation rates using PT devices. However, the relationship between 1,3-xylene and the term 'analyte' is not explicitly detailed, as the focus is on the performance of the PT devices rather than on the specific interactions or characteristics of 1,3-xylene as an analyte. The mention is more about its inclusion in a broader study rather than a direct relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Analyte",
+                        "target": "275650",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275650",
+                        "target": "275650_1,3-xylene_Analyte_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inflammation",
+                        "label": "Inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812",
+                        "label": "The effect of m-xylene on cytotoxicity and cellular antioxidant status in rat dermal equivalents.\nCA. Coleman, BE. Hull, JN. McDougal, JV. Rogers\nToxicol. Lett. 2003 Apr;142(1-2):133-42.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12765247"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "275812_1,3-xylene_Inflammation_Discussion.json",
+                        "label": "In this context, 1,3-xylene is identified as a volatile organic compound (VOC) that can induce skin irritation and inflammation upon exposure. The study highlights that m-xylene exposure leads to cytotoxicity and a decrease in cellular antioxidants, suggesting that oxidative stress and free radical formation contribute to the inflammatory response. The relationship is significant as it connects the irritant properties of m-xylene with the biological effects of inflammation and oxidative damage.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inflammation",
+                        "target": "275812",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "275812",
+                        "target": "275812_1,3-xylene_Inflammation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

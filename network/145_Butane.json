@@ -1,0 +1,2125 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Butane",
+                    "label": "Butane",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Butane",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ventricular Fibrillation",
+                        "label": "Ventricular Fibrillation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Acute myocardial ischemia",
+                        "label": "Acute myocardial ischemia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Morphologically altered structure",
+                        "label": "Morphologically altered structure",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Ventricular Fibrillation",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Acute myocardial ischemia",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Morphologically altered structure",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Liquefied petroleum gas",
+                        "label": "Liquefied petroleum gas",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Chlorinated",
+                        "label": "Hydrocarbons, Chlorinated",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ozone",
+                        "label": "Ozone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "XAD-2 resin",
+                        "label": "XAD-2 resin",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Halogenated",
+                        "label": "Hydrocarbons, Halogenated",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aliphatic hydrocarbon",
+                        "label": "Aliphatic hydrocarbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Propane",
+                        "label": "Propane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Methane",
+                        "label": "Methane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Fluorocarbons",
+                        "label": "Fluorocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "isopentane",
+                        "label": "isopentane",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Liquefied petroleum gas",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Hydrocarbons, Chlorinated",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Ozone",
+                        "score": 14
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "XAD-2 resin",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Toluene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Hydrocarbons, Halogenated",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Butane",
+                        "score": 18
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Elements",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Aliphatic hydrocarbon",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Propane",
+                        "score": 15
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Methane",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Fluorocarbons",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Hydrocarbons",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "isopentane",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "propellant",
+                        "label": "propellant",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Leak NOS",
+                        "label": "Leak NOS",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Accident caused by unspecified fire",
+                        "label": "Accident caused by unspecified fire",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Microcirculation",
+                        "label": "Microcirculation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asphyxia",
+                        "label": "Asphyxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiratory Depression",
+                        "label": "Respiratory Depression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Hypoxia",
+                        "label": "Hypoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "cardiac arrhythmia",
+                        "label": "cardiac arrhythmia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Fatal Outcome",
+                        "label": "Fatal Outcome",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "propellant",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Leak NOS",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Accident caused by unspecified fire",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Microcirculation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Asphyxia",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Respiratory Depression",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Hypoxia",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Inspiration function",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "cardiac arrhythmia",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Butane",
+                        "target": "Fatal Outcome",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Ventricular Fibrillation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ventricular Fibrillation",
+                        "label": "Ventricular Fibrillation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Ventricular Fibrillation_Discussion.json",
+                        "label": "In this context, butane is linked to ventricular fibrillation through its anesthetic effects on the central nervous system (CNS) and its potential to sensitize the myocardium to adrenaline. Inhalation of butane can lead to fatal arrhythmias, particularly ventricular fibrillation, following sudden physical stress or emotional triggers. The text suggests that butane exposure may contribute to sudden cardiac events, highlighting a critical relationship between the substance and the risk of arrhythmias.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ventricular Fibrillation",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Ventricular Fibrillation_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Acute myocardial ischemia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Acute myocardial ischemia",
+                        "label": "Acute myocardial ischemia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Acute myocardial ischemia_Discussion.json",
+                        "label": "In this context, butane inhalation is implicated as a cause of asphyxia, which subsequently leads to acute myocardial ischemic lesions. The text suggests that the pathophysiological effects of butane contribute to severe respiratory distress, resulting in insufficient oxygen supply to the heart, thereby causing ischemia. This establishes a direct link between butane exposure and acute myocardial ischemia through the mechanism of asphyxia.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Acute myocardial ischemia",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Acute myocardial ischemia_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Morphologically altered structure": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Morphologically altered structure",
+                        "label": "Morphologically altered structure",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Morphologically altered structure_Discussion.json",
+                        "label": "In this context, butane is discussed in relation to its lipophilic properties and potential effects on the myocardium, leading to fatal arrhythmias. However, there is no direct mention of morphologically altered structures specifically linked to butane intoxication. The text indicates that no pathognomonic morphological changes have been identified for butane exposure, suggesting a lack of established structural alterations associated with its toxicity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Morphologically altered structure",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Morphologically altered structure_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Liquefied petroleum gas": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Liquefied petroleum gas",
+                        "label": "Liquefied petroleum gas",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Liquefied petroleum gas_Introduction.json",
+                        "label": "In this context, butane is identified as a specific type of liquefied petroleum gas (LPG), which is commonly used in products like lighter fluid and aerosol sprays. The text discusses the dangers associated with inhaling butane, highlighting its classification as an aliphatic hydrocarbon and its role as a propellant. The relationship is clear as butane is a component of LPG, and both are associated with inhalant abuse and toxicity.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Liquefied petroleum gas",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Liquefied petroleum gas_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons, Chlorinated": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Chlorinated",
+                        "label": "Hydrocarbons, Chlorinated",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Hydrocarbons, Chlorinated_Introduction.json",
+                        "label": "In this context, butane is identified as an aliphatic hydrocarbon that is commonly abused as an inhalant, alongside other hydrocarbons and chlorinated compounds. The text discusses the dangers of inhalant abuse, which includes substances like butane and chlorinated hydrocarbons, highlighting their classification and the health risks associated with their inhalation. However, the relationship is primarily categorical, as both butane and chlorinated hydrocarbons are mentioned as substances involved in inhalant abuse without a detailed interaction between them.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons, Chlorinated",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Hydrocarbons, Chlorinated_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Ozone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ozone",
+                        "label": "Ozone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Ozone_Discussion.json",
+                        "label": "In this context, butane is mentioned as a non-halogenated hydrocarbon that replaced halogenated hydrocarbons like Freon due to environmental concerns regarding ozone layer depletion. The text discusses the health risks associated with butane inhalation, particularly its potential to induce cardiac arrhythmias. However, the relationship with ozone is primarily environmental, focusing on the shift in propellant use to protect the ozone layer rather than a direct interaction between butane and ozone.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292",
+                        "label": "Propane and butane emission sources to ambient air of Mexico City metropolitan area.\nL. Jaimes, J. Sandoval\nSci. Total Environ. 2002 Apr;289(1-3):243-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12049400"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Ozone_Results and discussi.json",
+                        "label": "In this context, butane is discussed in relation to its emissions and their impact on ozone formation. The study indicates that the concentration of butane, when compared to propane, affects the maximum ozone produced during the experiment. Specifically, as the ratio of butane to propane increases, the maximum ozone production diminishes, suggesting a significant interaction between butane emissions and ozone levels in the atmosphere.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Ozone_Introduction.json",
+                        "label": "In this context, butane is identified as a significant contributor to ozone formation in urban smog, particularly in the Mexico City Metropolitan Area (MCMA). The study highlights the role of butane, along with propane, in the production of ozone through various emission sources, including exhaust and evaporative emissions. The research aims to understand the reactivity of these compounds in ozone production, indicating a direct relationship between butane emissions and increased ozone levels in the atmosphere.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Ozone_Methodology.json",
+                        "label": "In this context, butane and ozone are indirectly related through their involvement in air quality studies, particularly in smog chamber experiments aimed at understanding ozone formation. The experiments measured the initial concentrations of hydrocarbons, including butane, to assess their contribution to ozone levels in the atmosphere. However, the specific interaction between butane and ozone is not detailed, focusing instead on their roles in broader environmental monitoring.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Ozone_Conclusions.json",
+                        "label": "In this context, butane and ozone are indirectly related through discussions on air quality and the reactivity of LP gas components. The study suggests that changing the formulation of LP gas to include more propane, which is less reactive than butane, could help reduce ozone formation in the atmosphere. However, the specific interaction between butane and ozone is not deeply explored, focusing instead on the broader implications for air quality improvement.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ozone",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Ozone_Discussion.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Ozone",
+                        "target": "300292",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Ozone_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Ozone_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Ozone_Methodology.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Ozone_Conclusions.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "XAD-2 resin": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "XAD-2 resin",
+                        "label": "XAD-2 resin",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_XAD-2 resin_Methods.json",
+                        "label": "In this context, butane is mentioned as a substance related to the investigation of potential causes of death, specifically in connection with butane lighter refills found at the scene. XAD-2 resin is utilized as an extraction medium in the chemical-toxicological analysis of various biological samples. The relationship between butane and XAD-2 resin is indirect, as the resin is used to extract and analyze substances, including butane, from biological samples, but no direct interaction or specific relevance between the two is established.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "XAD-2 resin",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_XAD-2 resin_Methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Toluene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Toluene",
+                        "label": "Toluene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Toluene_Introduction.json",
+                        "label": "In this context, butane and toluene are both identified as volatile substances commonly abused for their psychoactive effects, particularly among children and adolescents. They are categorized as inhalants that can lead to serious health risks, including suffocation and sudden sniffing death syndrome. Both substances are mentioned in the broader discussion of inhalant abuse, highlighting their shared characteristics as inhalants but without a detailed exploration of their specific interactions or comparative effects.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Toluene",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Toluene_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons, Halogenated": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons, Halogenated",
+                        "label": "Hydrocarbons, Halogenated",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Hydrocarbons, Halogenated_Discussion.json",
+                        "label": "In this context, butane is mentioned as a non-halogenated hydrocarbon that replaced halogenated hydrocarbons, such as Freon, in aerosol propellants due to environmental concerns. The text discusses the health risks associated with inhaling butane, particularly its potential to induce cardiac arrhythmias, contrasting it with the dangers posed by halogenated hydrocarbons. This indicates a relationship where butane is categorized under hydrocarbons while also being compared to halogenated variants regarding safety and health implications.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons, Halogenated",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Hydrocarbons, Halogenated_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Butane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Butane_Discussion.json",
+                        "label": "In this context, butane is mentioned as a substance involved in a case of asphyxia leading to acute myocardial lesions. The inhalation of butane is directly linked to the cause of asphyxia and subsequent death, highlighting its toxicological impact on the cardiovascular system. However, the term 'butane' is repeated without introducing new information or distinct interactions, limiting the depth of analysis.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Butane_Results.json",
+                        "label": "In this context, butane is mentioned multiple times as a substance detected in various biological samples, including blood, urine, lung, and brain. The presence of butane is confirmed through headspace chromatography, indicating its significance in the analysis of the samples. However, there is no discussion of different roles or interactions of butane, as it is consistently referred to in the same context without differentiation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Butane_Introduction.json",
+                        "label": "In this context, butane is discussed as a liquefied petroleum gas with various applications, including use in lighter fluid and as a propellant. The text highlights the toxic effects of butane, particularly when inhaled, leading to asphyxiation and potential fatal outcomes. The mention of butane in different forms (n-butane, isobutane) emphasizes its relevance in toxicological cases, particularly in instances of abuse and accidental inhalation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Butane_Methods.json",
+                        "label": "In this context, butane is mentioned twice as part of a sample preparation process involving t-butanol and butane from a lighter refill found at a crime scene. The analysis focuses on comparing chromatograms of the butane sample from the scene with a known butane sample. The relationship is purely procedural, as both instances refer to the same chemical compound used in forensic analysis without any additional context or interaction described.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292",
+                        "label": "Propane and butane emission sources to ambient air of Mexico City metropolitan area.\nL. Jaimes, J. Sandoval\nSci. Total Environ. 2002 Apr;289(1-3):243-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12049400"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Butane_Conclusions.json",
+                        "label": "In this context, butane is mentioned in relation to its reactivity compared to propane in the formulation of liquefied petroleum gas (LP gas) for improving air quality in the Mexico City Metropolitan Area (MCMA). The discussion focuses on the need for specific studies on the reactivity of butane and its impact on ozone formation, indicating its significance in environmental chemistry. However, since both mentions refer to the same compound, the relationship is more about its properties rather than an interaction with another distinct entity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Butane_Introduction.json",
+                        "label": "In this context, butane is mentioned as a component of the LP gas that contributes to urban smog formation in the Mexico City Metropolitan Area (MCMA). The study highlights the importance of butane, along with propane, in the ambient air and its role in ozone production. However, the relationship is not elaborated upon beyond its identification as a reactive compound in smog formation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Butane_Results and discussi.json",
+                        "label": "In this context, butane is discussed primarily in relation to its usage as a domestic fuel and its emissions profile compared to propane. The text highlights that butane is a significant component of exhaust and evaporative emissions from fossil fuel combustion, indicating its relevance in environmental studies. However, the relationship is not elaborated upon beyond its presence in emissions and fuel consumption statistics.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Butane_Methodology.json",
+                        "label": "In this context, butane is mentioned multiple times in relation to emissions testing from fuel storage tanks and vehicle systems. The experiments focus on measuring concentrations of hydrocarbons, including butane, in the atmosphere and their role in ozone formation. However, the relationship is not elaborated upon beyond its presence in the emissions being studied.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Butane",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Butane_Discussion.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Butane_Results.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Butane_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Butane_Methods.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Butane",
+                        "target": "300292",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Butane_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Butane_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Butane_Results and discussi.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Butane_Methodology.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Elements": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Elements_Methods.json",
+                        "label": "In this context, butane is mentioned in relation to a forensic investigation involving chemical-toxicological analysis. However, the term 'elements' is not specifically defined or connected to butane within the provided text. The analysis focuses on the presence of butane in lighter refills found at the scene, but does not elaborate on its elemental composition or any direct relationship to the broader category of elements in chemistry.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Elements",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Elements_Methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aliphatic hydrocarbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aliphatic hydrocarbon",
+                        "label": "Aliphatic hydrocarbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Aliphatic hydrocarbon_Introduction.json",
+                        "label": "In this context, butane is identified as a specific example of an aliphatic hydrocarbon, which is a broader class of hydrocarbons characterized by straight or branched chains. The text discusses butane's properties, uses, and associated health risks, particularly in the context of inhalant abuse. This establishes a clear relationship where butane is a member of the aliphatic hydrocarbon family, highlighting its classification and relevance in discussions about inhalants.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aliphatic hydrocarbon",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Aliphatic hydrocarbon_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Propane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propane",
+                        "label": "Propane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Propane_Introduction.json",
+                        "label": "In this context, butane and propane are both identified as aliphatic hydrocarbons commonly found in products like lighter fluid and aerosol sprays. The text discusses the toxicological implications of butane inhalation, particularly in cases of abuse, while mentioning that accidental inhalation often involves a mixture of butane, propane, and isobutane. However, the relationship between butane and propane is not explored in detail beyond their classification as similar hydrocarbons used in similar applications.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292",
+                        "label": "Propane and butane emission sources to ambient air of Mexico City metropolitan area.\nL. Jaimes, J. Sandoval\nSci. Total Environ. 2002 Apr;289(1-3):243-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12049400"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Propane_Introduction.json",
+                        "label": "In this context, butane and propane are discussed as components of liquefied petroleum gas (LP gas) that significantly contribute to urban smog formation in the Mexico City Metropolitan Area (MCMA). The study highlights the high concentrations of propane and butane in ambient air and their role in ozone production, indicating a direct relationship between these two hydrocarbons in terms of their environmental impact and reactivity in smog formation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Propane_Methodology.json",
+                        "label": "In this context, butane and propane are both mentioned as hydrocarbons involved in emissions testing from fuel storage tanks and motor vehicles. The experiments focus on measuring their concentrations and their role in ozone formation within smog chambers. However, there is no detailed discussion of their specific interactions or comparative significance beyond their shared involvement in the emissions analysis.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Propane_Results and discussi.json",
+                        "label": "In this context, butane and propane are both discussed as components of liquefied petroleum (LP) gas, with propane being more prevalent in ambient air samples compared to butane. The analysis indicates that while both gases are used as domestic fuels, their emissions and concentrations differ, with propane being more abundant in LP gas and butane being more concentrated in exhaust emissions from fossil fuel combustion. This suggests a relationship based on their usage and environmental presence, but does not delve into their chemical interactions or specific functional roles.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Propane_Conclusions.json",
+                        "label": "In this context, butane and propane are discussed as components of liquefied petroleum gas (LP gas) in relation to their reactivity and impact on air quality. The recommendation to increase propane concentration over butane is based on propane's lower reactivity, suggesting a direct relationship where the choice of gas formulation can influence environmental outcomes, particularly ozone formation. This indicates a significant connection between the two gases in terms of their chemical properties and implications for air quality management.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Propane",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Propane_Introduction.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Propane",
+                        "target": "300292",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Propane_Introduction.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Propane_Methodology.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Propane_Results and discussi.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Propane_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Methane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methane",
+                        "label": "Methane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Methane_Introduction.json",
+                        "label": "In this context, butane and methane are both mentioned as aliphatic hydrocarbons commonly found in inhalants that are abused for their psychoactive effects. While butane is specifically described in terms of its use as a propellant and its associated health risks, methane is not elaborated upon in detail. Their relationship lies in their classification as hydrocarbons and their presence in inhalant products, but no direct interaction or comparison is made between the two.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Methane",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Methane_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Fluorocarbons": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Fluorocarbons",
+                        "label": "Fluorocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Fluorocarbons_Introduction.json",
+                        "label": "In this context, butane and fluorocarbons are both identified as volatile substances commonly abused through inhalation methods among adolescents. They are categorized alongside other inhalants like toluene and propane, which are used to achieve a 'high.' Both substances pose significant health risks, including suffocation and sudden death due to their effects on oxygen displacement and respiratory function. However, the context does not delve into specific interactions or comparative effects between butane and fluorocarbons beyond their shared classification as inhalants.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Fluorocarbons",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Fluorocarbons_Introduction.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Hydrocarbons": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hydrocarbons",
+                        "label": "Hydrocarbons",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Hydrocarbons_Discussion.json",
+                        "label": "In this context, butane is identified as a specific type of hydrocarbon with notable effects on the central nervous system (CNS) due to its lipophilic properties. The inhalation of butane, categorized under hydrocarbons, is linked to serious health risks, including cardiac arrhythmias and potential fatal outcomes. The relationship emphasizes butane's role as a volatile hydrocarbon that can sensitize the myocardium to adrenaline, leading to dangerous physiological responses.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hydrocarbons",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Hydrocarbons_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "isopentane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "isopentane",
+                        "label": "isopentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_isopentane_Discussion.json",
+                        "label": "In this context, butane and isopentane are mentioned as non-halogenated hydrocarbons that replaced halogenated hydrocarbons like Freon in aerosol propellants due to environmental concerns. Both compounds are discussed in relation to their potential health risks when inhaled, particularly in cases of abuse or accidental exposure, but their specific relationship or interaction is not elaborated upon.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "isopentane",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_isopentane_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "propellant": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "propellant",
+                        "label": "propellant",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_propellant_Discussion.json",
+                        "label": "In this context, butane is identified as a non-halogenated hydrocarbon that has been used as a propellant in aerosol cans, replacing halogenated hydrocarbons like Freon due to environmental concerns. The text discusses the health risks associated with inhaling butane, particularly its potential to induce cardiac arrhythmias, highlighting its role as a propellant linked to both recreational use and accidental deaths.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_propellant_Introduction.json",
+                        "label": "In this context, butane is identified as a liquefied petroleum gas commonly used as a propellant in various consumer products, including lighter fluid and aerosol sprays. It is highlighted for its potential for abuse as an inhalant, where it acts as a simple asphyxiant by displacing oxygen, leading to toxicity and fatal outcomes. The relationship between butane and propellant is significant, as butane's primary use in products is as a propellant, which is also linked to its abuse and associated health risks.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "propellant",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_propellant_Discussion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_propellant_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Leak NOS": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Leak NOS",
+                        "label": "Leak NOS",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292",
+                        "label": "Propane and butane emission sources to ambient air of Mexico City metropolitan area.\nL. Jaimes, J. Sandoval\nSci. Total Environ. 2002 Apr;289(1-3):243-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12049400"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Leak NOS_Results and discussi.json",
+                        "label": "In this context, butane is discussed in relation to its consumption as a domestic fuel and its emissions profile compared to propane. The mention of 'leak NOS' refers to the potential sources of propane emissions from LP gas leaks and incomplete combustion. While butane is noted for its higher concentration in exhaust emissions, the relationship with leak NOS is indirect, focusing on the comparative analysis of emissions rather than a direct interaction or functional relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Leak NOS",
+                        "target": "300292",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Leak NOS_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Accident caused by unspecified fire": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Accident caused by unspecified fire",
+                        "label": "Accident caused by unspecified fire",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292",
+                        "label": "Propane and butane emission sources to ambient air of Mexico City metropolitan area.\nL. Jaimes, J. Sandoval\nSci. Total Environ. 2002 Apr;289(1-3):243-7.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/12049400"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "300292_Butane_Accident caused by unspecified fire_Conclusions.json",
+                        "label": "In this context, butane is discussed in relation to its presence in ambient air and emissions from fossil fuel combustion, particularly LP gas. However, there is no direct mention of an accident caused by an unspecified fire related to butane. The focus is on the comparative concentrations of butane and propane in the environment, without any explicit connection to fire incidents or accidents.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Accident caused by unspecified fire",
+                        "target": "300292",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "300292",
+                        "target": "300292_Butane_Accident caused by unspecified fire_Conclusions.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "Microcirculation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Microcirculation",
+                        "label": "Microcirculation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Microcirculation_Discussion.json",
+                        "label": "In this context, butane is discussed in relation to its lipophilicity, which allows it to integrate into the lipid layer of the basal capillary membrane, potentially obstructing microcirculation. This blockage may contribute to ischemic changes in the myocardium, indicating a significant relationship between butane exposure and impaired microcirculation, particularly in the context of chronic hypoxia and its effects on cardiac health.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Microcirculation",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Microcirculation_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Asphyxia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asphyxia",
+                        "label": "Asphyxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Asphyxia_Discussion.json",
+                        "label": "In this context, butane inhalation is directly linked to asphyxia, which is identified as the primary cause of acute myocardial lesions in the cases discussed. The inhalation of butane leads to a lack of oxygen, resulting in asphyxia and subsequent death. The pathophysiological changes in the lungs due to butane exposure are highlighted as contributing factors to the asphyxia experienced by the individuals, indicating a critical and harmful relationship between the two terms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Asphyxia_Introduction.json",
+                        "label": "In this context, butane is identified as a volatile substance commonly abused through inhalation, which can lead to asphyxia. As a simple asphyxiant, butane displaces oxygen in the air, preventing it from reaching vital tissues and organs, thereby causing toxicity and potentially resulting in suffocation or death. The relationship is critical, as inhalation of butane directly contributes to the risk of asphyxia in users.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asphyxia",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Asphyxia_Discussion.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Asphyxia_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Respiratory Depression": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiratory Depression",
+                        "label": "Respiratory Depression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Respiratory Depression_Introduction.json",
+                        "label": "In this context, butane is identified as a volatile substance commonly abused through inhalation, which can lead to respiratory depression among other serious health risks. The inhalation of butane displaces oxygen in the lungs, resulting in reduced oxygen availability to vital organs, thereby causing respiratory depression. This relationship highlights the dangers associated with inhalant abuse, particularly in children and adolescents.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Respiratory Depression_Discussion.json",
+                        "label": "In this context, butane is linked to respiratory depression through its anesthetic and narcotic effects on the central nervous system (CNS). Inhalation of butane can lead to hypoxia and respiratory depression, which are identified as potential mechanisms for sudden death associated with volatile inhalant abuse. The lipophilic nature of butane allows it to accumulate in lipid-rich tissues, including the brain, exacerbating its depressant effects on respiration.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiratory Depression",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Respiratory Depression_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Respiratory Depression_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Hypoxia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Hypoxia",
+                        "label": "Hypoxia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Hypoxia_Discussion.json",
+                        "label": "In this context, butane is discussed in relation to its lipophilicity, which allows it to integrate into the lipid layer of the basal capillary membrane, potentially obstructing microcirculation. This obstruction may contribute to chronic hypoxia, which is identified as a significant factor leading to ischemic changes in the myocardium. The relationship suggests that butane exposure could exacerbate hypoxic conditions, particularly in the context of chronic lung issues.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Hypoxia",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Hypoxia_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Inspiration function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Inspiration function",
+                        "label": "Inspiration function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Inspiration function_Discussion.json",
+                        "label": "In this context, butane is implicated as a cause of asphyxia, which directly affects the inspiration function. The inhalation of butane leads to acute myocardial lesions and histological changes in the lungs, contributing to impaired respiratory function and ultimately resulting in death. The relationship highlights the critical impact of butane exposure on the ability to breathe effectively.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Inspiration function_Introduction.json",
+                        "label": "In this context, butane is described as a gaseous propellant that can be abused through inhalation, leading to asphyxiation by displacing oxygen. This displacement directly impacts the inspiration function, as it prevents oxygen from reaching vital tissues and organs, potentially resulting in fatal outcomes. The report highlights cases of sudden death linked to butane inhalation, emphasizing its toxic effects on respiratory function.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Inspiration function",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Inspiration function_Discussion.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Inspiration function_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "cardiac arrhythmia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "cardiac arrhythmia",
+                        "label": "cardiac arrhythmia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_cardiac arrhythmia_Introduction.json",
+                        "label": "In this context, butane is identified as a volatile substance commonly abused through inhalation, which can lead to severe health consequences, including cardiac arrhythmia. The inhalation of butane can trigger sudden sniffing death syndrome, where a burst of catecholamines may induce ventricular fibrillation, resulting in fatal arrhythmias. This highlights a direct and dangerous relationship between butane abuse and cardiac arrhythmia, particularly in the context of inhalant-related deaths.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_cardiac arrhythmia_Discussion.json",
+                        "label": "In this context, butane is linked to cardiac arrhythmia through its anesthetic and narcotic effects on the central nervous system (CNS). Inhalation of butane is suspected to sensitize the myocardium to adrenaline, potentially leading to fatal arrhythmias, such as ventricular fibrillation, especially during stress or physical exertion. The text suggests that hypoxia, respiratory depression, and cardiac arrhythmia are mechanisms contributing to sudden death associated with butane inhalation, highlighting a significant health risk related to its use.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "cardiac arrhythmia",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_cardiac arrhythmia_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_cardiac arrhythmia_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Fatal Outcome": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Fatal Outcome",
+                        "label": "Fatal Outcome",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203",
+                        "label": "Immunohistochemical detection of early myocardial damage in two sudden deaths due to intentional butane inhalation. Two case reports with review of literature.\nI. Novosel, Z. Kovačić, S. Gusić, L. Batelja, M. Nestić, S. Seiwerth, J. Skavić\nJ Forensic Leg Med 2011 Apr;18(3):125-31.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/21420651"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "299203_Butane_Fatal Outcome_Introduction.json",
+                        "label": "In this context, butane is identified as a liquefied petroleum gas that can lead to fatal outcomes when abused as an inhalant. The report discusses two cases of sudden death linked to the intentional inhalation of butane from a cigarette lighter refill. The inhalation of butane acts as a simple asphyxiant, displacing oxygen and causing toxicity, which can result in death. This establishes a direct and critical relationship between butane exposure and fatal outcomes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Fatal Outcome",
+                        "target": "299203",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "299203",
+                        "target": "299203_Butane_Fatal Outcome_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        }
+    }
+}

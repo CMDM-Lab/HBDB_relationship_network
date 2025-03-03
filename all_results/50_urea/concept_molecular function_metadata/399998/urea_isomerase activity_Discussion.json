@@ -1,0 +1,10 @@
+{
+    "context": "[8] It was reported that sulfhydryl groups could be oxidized through heat treatment but that much longer heating times (>30 min) were required . [9] To observe complete inhibition of catalytic activities of RCH and GSH, longer heat inactivation treatment times appeared to be necessary. [1] RCH-catalyzed conversions of 13-cRA to t-RA were also far more sensitive to urea (a potent protein denaturant) than were GSH-catalyzed reactions. [2] Isomerase activities of RCH declined by approximately 50 and 75% after incubation with urea for 20 and 40 min, respectively, at 37\u00c2\u00b0C. [3] The sharp decreases in the catalytic activities of RCH were likely the result of denaturation of the conceptal isomerase by urea, rather than the effects of urea on nonenzymatic catalysis. [4] This was supported by the observation that urea showed no effects on GSH-catalyzed reactions at the same incubation times (20 and 40 min). [5] Although urea could eventually affect nonenzymatic, GSH-catalyzed reactions, much longer incubation times (1 and 2 hr) were required to observe significant inhibition. ",
+    "term_A": "urea",
+    "term_B": "isomerase activity",
+    "llm_generation": {
+        "summary": "In this context, urea is shown to significantly impact isomerase activity, specifically that of RCH. The study indicates that incubation with urea leads to a marked decline in isomerase activity, with reductions of approximately 50% and 75% after 20 and 40 minutes, respectively, at 37\u00b0C. This suggests that urea acts as a potent denaturant, affecting the catalytic function of the isomerase enzyme, while having no significant effect on GSH-catalyzed reactions within the same timeframe.",
+        "reason": "The score of 4 reflects a strong connection between urea and isomerase activity, as the context provides quantitative data showing significant inhibition of isomerase activity due to urea, indicating a clear and impactful relationship.",
+        "score": 4
+    }
+}

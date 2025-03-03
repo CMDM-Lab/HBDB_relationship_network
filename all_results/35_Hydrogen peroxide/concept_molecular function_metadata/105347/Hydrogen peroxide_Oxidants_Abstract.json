@@ -1,0 +1,10 @@
+{
+    "context": "[1] In summary, during VCAM-1 signaling, ROS oxidize, and transiently activate PKC\u00ce\u00b1. [2] This activation of PKC\u00ce\u00b1 is required for VCAM-1-dependent spleen cell migration. [3] Thus, we have defined a novel mechanism for VCAM-1 signaling and identified a function for oxidized PKC\u00ce\u00b1 during VCAM-1-dependent spleen cell migration. [1] Aims: Hydrogen peroxide (H2O2) is the major oxidant involved in cataract formation. [2] Lens epithelial cells have been suggested to be the first site of oxidative damage. [3] The authors investigated the relationship between H2O2-induced cytotoxicity and activation of nuclear factor kappa B (NF-\u00ce\u00baB) in human lens epithelial (HLE) cells. [1] Methods: HLE B-3 cells were stimulated by various concentrations of H2O2 in the presence or absence of pyrrolidine dithiocarbamate (PDTC), a potent inhibitor of NF-\u00ce\u00baB. ",
+    "term_A": "Hydrogen peroxide",
+    "term_B": "Oxidants",
+    "llm_generation": {
+        "summary": "In this context, hydrogen peroxide (H2O2) is identified as a major oxidant implicated in cataract formation, highlighting its role in oxidative damage within lens epithelial cells. The study explores the cytotoxic effects of H2O2 and its relationship with the activation of nuclear factor kappa B (NF-\u03baB), indicating that H2O2 acts as a significant oxidant in cellular signaling and damage processes.",
+        "reason": "The score of 4 reflects a strong connection between hydrogen peroxide and oxidants, as H2O2 is specifically mentioned as a major oxidant involved in cataract formation and oxidative damage, supported by experimental investigation of its effects on cell signaling.",
+        "score": 4
+    }
+}

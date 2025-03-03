@@ -1,0 +1,10 @@
+{
+    "context": "In this paper, emissions of VOCs and ammonia measured from single PVC materials and adhesives were compared to the results from on-site measured complete structures. The study is a part of a larger investigation of material emissions and indoor air concentrations in newly established residential buildings with low-emitting materials, the results of which have been published partially recently (J\u00e4rnstr\u00f6m et al., 2006, 2007). The study buildings and materials as well as the sampling and analysis techniques have been presented in the other previous publications (J\u00e4rnstr\u00f6m, 2006, 2007). The analysis of ammonia is non-specific and is a total measure of ammonia including \u201caliphatic\u201d amines. For consistency, the same numbering is used for the buildings as in the previous publications. The buildings where PVC was used as the floor covering material included buildings 1 (two apartments), 2, 4, and 7 (two apartments). No adhesive was used in the installation of the floor covering in one of the apartments in building 7. ",
+    "term_A": "ammonia",
+    "term_B": "Amines",
+    "llm_generation": {
+        "summary": "In this context, ammonia and amines are related through the analysis of volatile organic compounds (VOCs) emitted from PVC materials and adhesives. The study notes that the measurement of ammonia is non-specific and includes 'aliphatic' amines, indicating that both compounds are part of the broader category of emissions being investigated. However, the relationship is not deeply explored beyond this classification.",
+        "reason": "The score of 2 reflects an indirect connection between ammonia and amines, as they are both mentioned in the context of VOC emissions. However, their specific interactions or functional relationships are not detailed, limiting the relevance.",
+        "score": 2
+    }
+}

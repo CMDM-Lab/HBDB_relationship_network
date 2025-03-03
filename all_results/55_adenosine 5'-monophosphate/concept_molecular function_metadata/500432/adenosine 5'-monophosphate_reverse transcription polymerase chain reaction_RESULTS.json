@@ -1,0 +1,10 @@
+{
+    "context": "[6] Samples were negative when assayed for contamination by genomic DNA (data not shown). [7] AC5/6 immunoreactivity was located specifically within epithelial cells of the mouse colonic mucosa, with the most intense staining in the crypt region (fig 2). [8] Positive immunoreactivity for AC5/6 was also observed in T84 cells (fig 3). [1] Distribution of adenylate cyclase isoforms 1\u00e2\u20ac\u201c9 (AC1\u00e2\u20ac\u201c9) in intestinal epithelium was identified by reverse transcription-polymerase chain reaction. [2] cDNA from total RNA was amplified for 40 cycles by polymerase chain reaction. [3] (A) Adenylate cyclase isoform mRNA expression in human biopsy samples (n\u00e2\u20ac\u0160=\u00e2\u20ac\u01602). [4] (B) Adenylate cyclase isoforms in cultured intestinal T84 epithelial cells (n\u00e2\u20ac\u0160=\u00e2\u20ac\u01604). ",
+    "term_A": "adenosine 5'-monophosphate",
+    "term_B": "reverse transcription polymerase chain reaction",
+    "llm_generation": {
+        "summary": "In this context, adenosine 5'-monophosphate (AMP) is indirectly related to reverse transcription polymerase chain reaction (RT-PCR) through the study of adenylate cyclase isoforms in intestinal epithelium. The RT-PCR technique is employed to analyze the expression of these isoforms, which may be influenced by AMP levels, but the specific relationship between AMP and RT-PCR is not explicitly detailed in the provided information.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms are involved in the broader context of gene expression analysis, but there is no direct discussion of their interaction or specific relevance to each other.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "No correlation was found between 8-iso-PGF2\u03b1 and other variables measured after the challenge in AERD group.PGE2 in EBC Baseline PGE2 in EBC did not differ between the study groups. Following l-ASA challenge, no significant change in PGE2 concentration was observed in AERD or ATA subjects (Fig. 2). Administered dose of l-ASA had no effect on PGE2 concentration. A positive correlation was present between EBC concentration of 8-iso-PGE2 and PGE2 (\u03c1 =0.43; p =0.023) after the challenge, but only in the AERD group.Urinary excretion of LTE4 The median uLTE4 level was higher in all of the pre- or post-challenge urine samples of AERD than in ATA subjects (Table 3 ). At the onset of bronchial symptoms, AERD subjects demonstrated a decrease in median uLTE4 excretion (p =0.036), whereas their uLTE4 returned to its baseline level 2 and 4h after the test. In AERD group post-challenge 8-iso-PGE2 in EBC correlated positively with uLTE4 level measured at the onset of the symptoms (\u03c3 =0.42; p =0.047). No changes or correlations were noted in uLTE4 in the consecutive urine samples of ATA. ",
+    "term_A": "Leukotriene E4",
+    "term_B": "Excretory function",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene E4 (LTE4) is measured in urine samples to assess its excretory function in patients with Aspirin-Exacerbated Respiratory Disease (AERD). The study found that urinary excretion of LTE4 was higher in AERD subjects compared to controls, and its levels correlated with bronchial symptoms. This indicates that LTE4 plays a role in the excretory function related to inflammatory responses in AERD.",
+        "reason": "The score of 4 reflects a significant connection between LTE4 and excretory function, as the study provides evidence of elevated LTE4 levels in urine correlating with bronchial symptoms in AERD patients, indicating its relevance in the context of excretion and inflammation.",
+        "score": 4
+    }
+}

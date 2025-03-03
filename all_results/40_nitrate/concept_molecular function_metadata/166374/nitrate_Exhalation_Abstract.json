@@ -1,0 +1,10 @@
+{
+    "context": "[2] Cystic fibrosis (CF) is a chronic lung condition associated with deceased exhaled NO. [3] Strategies to increase exhaled NO in CF have yielded inconsistent results. [4] A potential new method of increasing systemic NO involves ingestion of dietary, inorganic nitrate which is reduced to nitrite and NO. [5] We present the case of a 12-year-old, athletic boy with CF who demonstrated acute but marked increases in exhaled NO following dietary nitrate consumption compared to placebo\n [1] Nitric oxide (NO) is a ubiquitous signaling molecule with multiple systemic and airway roles. [2] Cystic fibrosis (CF) is a chronic lung condition that is associated with decreased fraction of exhaled NO (FeNO).\u00e2\u20ac\u201c [1] The impact of decreased FeNO in CF is unclear. ",
+    "term_A": "nitrate",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, nitrate is linked to exhalation through its role in increasing exhaled nitric oxide (NO) levels in patients with cystic fibrosis (CF). The study highlights that dietary nitrate can be ingested and subsequently converted to nitrite and NO, leading to acute increases in exhaled NO, which is typically decreased in CF. This suggests a potential therapeutic approach to enhance airway function in CF patients by improving exhaled NO levels.",
+        "reason": "The score of 4 reflects a significant connection between nitrate and exhalation, as the context provides evidence of dietary nitrate's ability to increase exhaled NO in cystic fibrosis patients, indicating a clear physiological relationship.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Values were expressed as percentage predicted normal. Baseline values were measured after 15 min rest and taken as the highest of three readings. Single readings only were taken at other times. Measurement of exhaled 8-isoprostane EBC samples were collected using a specially design glass condensing chamber as described previously. 8-Isoprostane concentrations in EBC were measured by a specific enzyme immunoassay (EIA) kit (Cayman Chemical, Ann Arbor, MI, USA). The assay has been validated to obtain a high correlation (0.95) between added known amounts of 8-isoprostane and the concentration measured by EIA. The antiserum used in this assay has a 100% cross-reactivity with 8-isoprostane and < 0.3% with prostaglandin analogues. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha, specifically referred to as 8-isoprostane, is measured in exhaled breath condensate (EBC) samples. The study highlights the collection and quantification of this biomarker in exhalation, indicating its relevance as a potential indicator of oxidative stress or inflammation in respiratory conditions. The method used for measurement ensures high accuracy and specificity for 8-isoprostane, linking it directly to exhalation as a noninvasive diagnostic approach.",
+        "reason": "The score of 4 reflects a significant connection between 8-epi-PGF2alpha and exhalation, as the context discusses the measurement of this biomarker in exhaled breath. The methodology and validation of the assay provide strong support for their relationship in assessing respiratory health.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "Five-point linear calibration curves were prepared using carbon disulfide stock solution and run with each sample batch. Calibration curves all achieved R2 values > 0.998. BTEX air concentration was derived from the equation by Violante et al. (2006) and Heibati et al. (2017): C ( \u00b5g / m 3 ) = m ( \u03bc g ) Q x ( ml min ) . t ( min ) 1 , 000 , 000 where m = mass of analytes; Qx = uptake rate of substances (0.08L/min for benzene; 0.074L/min for toluene; 0.061L/min for ethylbenzene and xylenes); and t = exposure time.Biological monitoring of BTEX in urine Concentrations of BTEX compounds in urine were measured by gas chromatography mass spectrometry following SPME. Briefly, 5mL of urine was immediately transferred into 20mL glass vials containing 0.5g of NaCl. The benzene-d6 internal standard solution (1\u00b5L) was added and the vial was immediately sealed with magnetic crimp caps with a silicone-PTFE septa (Sigma Aldrich). Samples were shaken then kept at \u2212 20\u00b0C. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Urinary concentration",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene is analyzed as part of a biological monitoring study where its concentration in urine is measured using gas chromatography mass spectrometry. The study aims to assess the urinary concentration of BTEX compounds, including ethylbenzene, to evaluate exposure levels in individuals. The relationship is significant as it highlights the use of urinary concentration as a biomarker for ethylbenzene exposure.",
+        "reason": "The score of 4 reflects a strong connection between ethylbenzene and urinary concentration, as the context discusses the measurement of ethylbenzene levels in urine to monitor exposure. This relationship is supported by the methodology described, indicating a clear relevance in the context of biological monitoring.",
+        "score": 4
+    }
+}

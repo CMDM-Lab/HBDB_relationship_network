@@ -1,0 +1,10 @@
+{
+    "context": "One final numerical experiment (Expt 4) was carried out to investigate the effect of higher water saturation on the conclusions of the study. This simulation incorporated higher initial water saturation together with the layered sand structure of SS and CS; the results reveal several complicated influences of water saturation on TCE removal. Higher water saturation absorbed more heat and therefore retarded the overall TCE removal substantially. An accompanying effect is the reduction of TCE evaporation-enhancement and so the reduction of TCE accumulation at the steam front, which in this simulation prevented the downward movement of NAPL TCE in the early part of the simulation period. On the other hand, once the TCE penetrated to the underlying coarse sand, the lack of effective heating because of the high water saturation led to faster downward TCE movement. Chlorinated solvents (e.g., trichloroethene, tetrachloroethene, carbon tetrachloride) and hydrocarbon fuels (gasoline, aviation fuel, diesel fuel) are ubiquitous contaminants of subsurface environments for industrialized areas. Characterization and remediation of sites contaminated by these organic immiscible liquids are complicated by a host of issues (see Brusseau et al., in press, for a recent review). ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Steam",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) and steam are related through the investigation of TCE removal processes influenced by water saturation levels. The study indicates that higher water saturation affects TCE evaporation and accumulation at the steam front, ultimately impacting the efficiency of TCE removal. However, the relationship is primarily focused on the physical processes rather than a direct chemical interaction between TCE and steam.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses how steam (influenced by water saturation) affects the removal of TCE, indicating an interaction in the remediation process, but lacks detailed chemical or biological implications.",
+        "score": 3
+    }
+}

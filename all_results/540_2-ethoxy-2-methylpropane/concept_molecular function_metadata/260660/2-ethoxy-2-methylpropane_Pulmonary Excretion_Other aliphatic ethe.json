@@ -1,0 +1,10 @@
+{
+    "context": "TBA is further metabolized into 2-methyl-1,2-propanediol and \u03b1-hydroxyisobuteric acid, both of which are subsequently excreted in urine (Johanson et al., 1995). The kinetic profile of ETBE in humans could be described by four phases in blood (average half-lives of 2, 18 min, 1.7 and 2.8 h) and two phases in urine (8 min and 8.6 h). Post exposure half-lives of TBA in blood and urine were on average 2 and 8 h, respectively. On an equimolar basis, the 48 h pulmonary excretion of TBA accounted for 1.4\u20133.8% of the absorbed ETBE. Urinary excretion of ETBE and TBA was low, below 1% of ETBE uptake, indicating further metabolism of TBA, or other routes of metabolism and elimination. The kinetics of ETBE and TBA were linear up to 50 ppm, and TBA is a more appropriate biomarker for ETBE than the parent itself. Acetone levels in blood were higher after ETBE than control human volunteers, indicating that acetone is a byproduct of ETBE metabolism (Nihl\u00e9n et al., 1998a). ",
+    "term_A": "2-ethoxy-2-methylpropane",
+    "term_B": "Pulmonary Excretion",
+    "llm_generation": {
+        "summary": "In this context, 2-ethoxy-2-methylpropane (ETBE) is discussed in relation to its metabolic byproducts, particularly TBA, which is excreted through pulmonary routes. The study highlights that a small percentage of absorbed ETBE is excreted via the lungs, indicating a connection between ETBE metabolism and pulmonary excretion. However, the focus is primarily on TBA rather than a direct examination of ETBE's relationship with pulmonary excretion.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses the pulmonary excretion of TBA as a metabolite of ETBE, indicating some level of interaction. However, the relationship is not deeply explored, focusing more on TBA's excretion than on ETBE's direct impact.",
+        "score": 3
+    }
+}

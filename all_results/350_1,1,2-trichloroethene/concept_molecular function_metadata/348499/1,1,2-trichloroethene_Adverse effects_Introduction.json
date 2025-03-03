@@ -1,0 +1,10 @@
+{
+    "context": "Chlorinated volatile organic compounds (CVOCs) have been found in municipal and hazardous waste landfill sites and contaminated groundwater. Especially, trichloroethylene (TCE), known as a degreaser or solvent, is frequently detected in landfill leachate or groundwater. The International Agency for Research on Cancer distributed TCE to \u201cgroup 2A\u201d, which meant that TCE was suspected to be carcinogenic for humans. TCE also may have an adverse effect on kidneys, vessels, and the liver and so on if a human is exposed to TCE. Since the density of TCE is greater than that of water, TCE seeps down below the water table and causes widespread contamination of soils and underground aquifers. High-density polyethylene (HDPE) geomembrane is widely used as a landfill liner or vertical wall for the purpose of containment of hazardous waste and contaminated groundwater. HDPE geomembrane mitigates the mass transfer of aqueous and inorganic contaminants effectively. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Adverse effects",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene is indirectly related to adverse effects through its association with trichloroethylene (TCE), which is highlighted as having potential carcinogenic properties and adverse effects on human health, particularly affecting the kidneys, vessels, and liver upon exposure. The mention of TCE's classification by the International Agency for Research on Cancer and its environmental impact underscores the health risks associated with chlorinated volatile organic compounds, including 1,1,2-trichloroethene.",
+        "reason": "The score of 4 reflects a significant connection between 1,1,2-trichloroethene and adverse effects, as the context discusses the health risks associated with TCE, which is chemically related to 1,1,2-trichloroethene. The evidence of potential carcinogenicity and organ-specific toxicity supports this relationship.",
+        "score": 4
+    }
+}

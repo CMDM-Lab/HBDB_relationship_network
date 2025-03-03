@@ -1,0 +1,10 @@
+{
+    "context": "[4] The protonated state of this histidine is important for acid activation of transport. [1] Acid survival of prokaryotes depends on the maintenance of suitable levels of cytoplasmic and periplasmic pH to maintain their PMF.Helicobacter pylori survives between pH 4.0 and 8.5 in the absence of urea and grows between pH 6.0 and 8.0 . [2] A neutral pH\u00e2\u20ac\u201coptimum urease must be shielded from gastric acidity and prevented from being active at neutral pH to avoid lethal alkalinization . [3] Urea transport via UreI allows the internal urease of H. pylori to generate ammonia in an acid environment, buffering the periplasm. [4] This allows the organism to survive and grow in the stomach in the presence of usual gastric urea concentrations. [5] The absence of transport by UreI at neutral pH prevents high urease activity in the absence of gastric acidity, as occurs during digestion. [6] The combination of a high level of a neutral pH\u00e2\u20ac\u201coptimum urease and an acid-regulated urea channel explains whyH. ",
+    "term_A": "urea",
+    "term_B": "urea transport",
+    "llm_generation": {
+        "summary": "In this context, urea and urea transport are closely related through the function of the UreI transporter in Helicobacter pylori. Urea transport is essential for the bacterium to utilize urea for ammonia production, which helps buffer the acidic environment of the stomach. This mechanism is crucial for the survival and growth of H. pylori in gastric conditions, highlighting the direct dependence of urea transport on the presence of urea for effective acid survival.",
+        "reason": "The score of 5 reflects a strong relevance, as urea transport is directly linked to the utilization of urea by H. pylori for survival in acidic environments. The context provides clear evidence of this relationship, emphasizing the critical role of urea transport in the organism's physiology.",
+        "score": 5
+    }
+}

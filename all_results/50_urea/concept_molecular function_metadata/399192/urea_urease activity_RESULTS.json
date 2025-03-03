@@ -1,0 +1,10 @@
+{
+    "context": "[1] Effect of detergent permeabilization on the urease activity of intact H. pylori and H. pylori ureImutant. [2] Addition of 0.01% C12E8 to intactH. [3] pylori and H. pylori ureI mutant increases urease activity at neutral pH. [4] Urease activity was measured radiometrically under strong buffering conditions in the presence of 5 mM urea as described in Materials and Methods (micromoles of CO2 liberated per minute per milligram of protein; n = 3,  \u00c2\u00b1SEM). [1] Effect of urea on membrane potential at acidic pH.We have shown that the addition of 5 mM urea to H. pylori in 100 mM phosphate buffer at pH 6.0 and below results in an increase in the transmembrane potential to approximately \u00e2\u02c6\u2019100 mV . [2] Figure 5 shows the effect of 5 mM urea addition on the membrane potential of the H. pylori ureI-negative mutant and the parent strain at pH 4.5 under pH clamp conditions. [3] The membrane potential of the wild-type strain increased following urea addition as previously reported . ",
+    "term_A": "urea",
+    "term_B": "urease activity",
+    "llm_generation": {
+        "summary": "In this context, urea is directly related to urease activity, as the study investigates how the addition of urea influences the activity of urease in Helicobacter pylori. The presence of 5 mM urea is shown to enhance urease activity, which is measured by the amount of CO2 liberated, indicating a clear functional relationship between urea and urease activity in the experimental setup.",
+        "reason": "The score of 5 reflects a strong relevance, as urea is essential for urease activity, and the study provides direct evidence of how urea enhances this enzymatic function, demonstrating a critical relationship in the context of H. pylori metabolism.",
+        "score": 5
+    }
+}

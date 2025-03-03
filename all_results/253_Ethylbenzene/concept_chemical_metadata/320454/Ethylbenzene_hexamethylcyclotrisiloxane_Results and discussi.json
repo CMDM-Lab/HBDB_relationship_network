@@ -1,0 +1,10 @@
+{
+    "context": "The sampling and analytical methods employed for the chamber test were also utilized for this in-vehicle test. Frequency of occurrence The AFs emitted 84 compounds, and all 26 household products emitted at least one compound. Nevertheless, Table 1 presents the frequency of occurrence for the 50 analytes that satisfied the cut-off point for the reporting compounds, as described above. Eleven analytes occurred at a frequency of more than 50%: toluene (100%), bis(trimethylsilyl)acetylene (96%), benzene (92%), hexamethylcyclotrisiloxane (81%), pentadecane (81%), ethanol (65%), ethyl benzene (62%), limonene (58%), m,p-xylene (57%), and tetramethylsilane (50%). Among these 11 compounds, five compounds (toluene, benzene, ethyl benzene, and m,p-xylene) are listed as either a toxic air contaminant, a hazardous air pollutant, or as being on California\u2032s Proposition 65 List (OEHHA, 2003). The United States Occupational Safety and Health Administration (OSHA) suggested the guidelines of 200, 1, 100, and 100 parts per million (ppm) for toluene, benzene, ethyl benzene, and xylene, respectively (OSHA, 1998). These toxic or hazardous compounds are prevalent in households or public buildings and can be caused by a variety of sources (Tucker, 2000; Edwards et al., 2005; Zuraimi et al., 2006). ",
+    "term_A": "Ethylbenzene",
+    "term_B": "hexamethylcyclotrisiloxane",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and hexamethylcyclotrisiloxane are both identified as compounds emitted from household products, with ethylbenzene occurring in 62% of samples and hexamethylcyclotrisiloxane in 81%. While both are listed among the analytes monitored for their prevalence and potential toxicity, there is no direct discussion of their chemical interactions or specific health implications related to each other.",
+        "reason": "The score of 2 reflects an indirect connection, as both compounds are mentioned in the context of emissions from household products, but there is no detailed discussion of their relationship or interactions.",
+        "score": 2
+    }
+}

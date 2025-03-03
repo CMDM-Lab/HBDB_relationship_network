@@ -1,0 +1,10 @@
+{
+    "context": "Of the 48 VOCs detected in pork in the present study, acetoin, diacetyl, 3-methyl-1-butanol showed the strongest correlation with bacterial growth in high-oxygen MAP pork loin and collar. These compounds were produced in all four monitored batches of pork indicating that the compounds were produced in both chilled loin and collar with pH ranging from 5.4 to 6.4. Acetoin and diacetyl are the main volatile metabolites of B. thermosphacta and LAB growing in meat under aerobic conditions (Casaburi et al., 2015, Dainty, 1996). Acetoin and diacetyl have previously been identified as important bacterial metabolites in raw pork (De Pablo et al., 1989, J\u00e4\u00e4skel\u00e4inen et al., 2012, Ordonez et al., 1991) and beef (Casaburi et al., 2011, Dainty et al., 1985, Dainty et al., 1989, Ercolini et al., 2011). P. phosphoreum has been observed to produce diacetyl, 3-methyl-1-butanol and/or 3-hydroxy-2-butanone in raw cod (Fruekilde and Dalgaard, 2000). Oxygen in modified atmosphere increases the production of diacetyl that originates from chemical oxidative decarboxylation of 2-acetolacate (Axelsson, 2004). Acetoin is a reduction product of diacetyl but can also be produced directly from 2-acetolacate by enzymatic decarboxylation. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "Metabolites",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione (diacetyl) is identified as a significant volatile metabolite produced by bacteria such as B. thermosphacta and LAB in pork under aerobic conditions. The study highlights the role of diacetyl and its reduction product, acetoin, as key metabolites associated with bacterial growth in meat, indicating their importance in the metabolic processes occurring during meat storage and spoilage.",
+        "reason": "The score of 4 reflects a strong connection between Butane-2,3-dione and metabolites, as diacetyl is explicitly mentioned as a primary bacterial metabolite in the context of meat spoilage, supported by evidence of its production and correlation with bacterial growth.",
+        "score": 4
+    }
+}

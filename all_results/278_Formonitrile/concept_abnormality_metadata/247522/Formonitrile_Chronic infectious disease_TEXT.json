@@ -1,0 +1,10 @@
+{
+    "context": "[4] As healthy adults generate HCN in their mouth, only nose-exhaled breath should be used . [5] It was thought that P. aeruginosa was the only cyanogenic organism in the CF lung, but a recent study demonstrated production of the nonvolatile cyanide ion by strains of Burkholderia cepacia complex (BCC) when cultured under biofilm but not planktonic conditions . [6] We replicated the methodology of this in vitro experiment, but rather than using a selective electrode to measure cyanide ions trapped in sodium hydroxide, we used selected ion flow tube mass spectrometry (SIFT-MS) to measure the headspace concentration of HCN. [7] In addition we investigated whether HCN is an in vivo marker of BCC infection by measuring its concentration in mouth- and nose-exhaled breath in adults with CF and chronic BCC infection.  [1] Ethical approval for the study was provided by the NRES Committee North West (11/NW/0102).  [2] Adult CF patients were recruited with chronic BCC infection but free from P. aeruginosa infection.  [3] Chronic BCC infection was defined as BCC in >50% of sputum samples (minimum of 4 samples) over the previous 12 months. ",
+    "term_A": "Formonitrile",
+    "term_B": "Chronic infectious disease",
+    "llm_generation": {
+        "summary": "In this context, Formonitrile is indirectly related to chronic infectious disease through its association with hydrogen cyanide (HCN) production by Burkholderia cepacia complex (BCC) in patients with cystic fibrosis (CF). The study investigates HCN as a potential marker for BCC infection, which is a chronic condition in CF patients. However, Formonitrile itself is not directly discussed as a factor in the disease process, limiting the depth of the relationship.",
+        "reason": "The score of 2 reflects an indirect connection, as Formonitrile is associated with HCN production linked to chronic BCC infection in CF patients, but there is no detailed discussion of its specific role or impact on the disease.",
+        "score": 2
+    }
+}

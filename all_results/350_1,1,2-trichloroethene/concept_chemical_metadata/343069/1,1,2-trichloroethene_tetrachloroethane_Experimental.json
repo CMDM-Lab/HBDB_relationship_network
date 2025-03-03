@@ -1,0 +1,10 @@
+{
+    "context": "Chemicals and standards Analytical grade cyclohexane, n-hexane and n-heptane as well as sodium chloride were obtained from Merck (Darmstadt, Germany). Analytical grade cyclopentane was supplied from Fluka (Buchs, Switzerland). Reagent water for optimization and validation consisted of deionized tap water. Neat chloroform, 1,1,1-trichloroethane, trichloroethylene, 1,1,2-trichloroethane, tetrachloroethene, 1,1,1,2-tetrachloroethane, 1,1,2,2-tetrachloroethane were obtained from Supelco (Bellfonte, PA, USA). A stock solution in methanol was prepared at a concentration of 1.5mg/l. Spiking different volumes of the undiluted and diluted stock solution, batches with a concentration in the range of 5ng/l to 150\u03bcg/l were prepared. One stock solution in cyclopentane with a concentration of 10\u03bcg/l was produced. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "tetrachloroethane",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene and tetrachloroethane are both mentioned as chemicals obtained from the same supplier, Supelco. They are part of a list of chlorinated solvents used in analytical chemistry. However, there is no discussion of their specific interactions, properties, or relevance to each other beyond their inclusion in the same inventory of chemicals.",
+        "reason": "The score of 1 reflects a very low relationship, as 1,1,2-trichloroethene and tetrachloroethane are simply listed together among other chemicals without any indication of a functional or chemical relationship.",
+        "score": 1
+    }
+}

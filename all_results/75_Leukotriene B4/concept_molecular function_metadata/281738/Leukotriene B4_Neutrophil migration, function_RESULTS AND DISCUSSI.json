@@ -1,0 +1,10 @@
+{
+    "context": "[11] Error bars indicate standard error of the mean. [12] *, P < 0.05; **, P < 0.005; ***, P < 0.0005. [1] Neutrophils are also recruited into tissues during parasite infection, although they are often far outnumbered by eosinophils . [2] The known involvement of LTB4 in neutrophil migration prompted us to test whether neutrophils would respond to nematodes. [3] Neutrophils isolated from mouse bone marrow exhibited >30-fold reduced migration toward C. elegans compared with eosinophils (Fig. 4 E). [4] Sephadex beads, which are recognized by SIGN-R1 , also induced migration of eosinophils in an Alox5-dependent fashion, whereas neutrophils did not respond at all (not depicted). [5] Neutrophils are known to produce LTB4 in response to Fc receptor engagement . ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Neutrophil migration, function",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is implicated in the migration of neutrophils, particularly in response to nematode infections. The study highlights that neutrophils produce LTB4 upon Fc receptor engagement, suggesting that LTB4 plays a significant role in mediating neutrophil migration and function during immune responses. The comparison of neutrophil and eosinophil migration further emphasizes the specific role of LTB4 in neutrophil activity.",
+        "reason": "The score of 4 reflects a significant connection between LTB4 and neutrophil migration, supported by evidence of LTB4's role in neutrophil responses to infections. The context provides a clear link between the two terms, indicating LTB4's importance in neutrophil function.",
+        "score": 4
+    }
+}

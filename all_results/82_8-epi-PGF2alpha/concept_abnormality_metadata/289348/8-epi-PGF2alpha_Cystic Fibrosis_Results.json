@@ -1,0 +1,10 @@
+{
+    "context": "[2] The horizontal bars indicate mean levels. [1] Concentrations of carbon monoxide (CO) in exhaled air of normal subjects and patients with cystic fibrosis. [2] The horizontal bars indicate mean levels. [1] (A) Correlation between 8-isoprostane concentrations in breath condensate and forced expiratory volume in one second (FEV1) in patients with cystic fibrosis (r = \u00e2\u20ac\u201c0.61; [2] p<0.005). [3] (B) Correlation between 8-isoprostane concentrations in breath condensate and carbon monoxide in exhaled air in patients with cystic fibrosis (r = 0.66; p<0.002). [1] 8-Isoprostane, the most well characterised compound belonging to the F2-isoprostanes, a group of prostaglandin F2\u00ce\u00b1stereoisomers, is formed in vivo by reactive oxygen species (ROS) peroxidation of arachidonic acid, independent of the action of cyclo-oxygenase. ",
+    "term_A": "8-epi-PGF2alpha",
+    "term_B": "Cystic Fibrosis",
+    "llm_generation": {
+        "summary": "In this context, 8-epi-PGF2alpha, specifically referenced as 8-isoprostane, is correlated with lung function in cystic fibrosis patients. The study indicates a significant negative correlation between 8-isoprostane levels in breath condensate and forced expiratory volume (FEV1), suggesting that higher oxidative stress, indicated by increased 8-isoprostane, may be associated with poorer lung function in cystic fibrosis. Additionally, a positive correlation with carbon monoxide levels further emphasizes the role of oxidative stress in this disease.",
+        "reason": "The score of 4 reflects a significant connection between 8-epi-PGF2alpha and cystic fibrosis, supported by quantitative correlations with lung function metrics. The evidence suggests that oxidative stress, indicated by 8-isoprostane levels, plays a critical role in the pathology of cystic fibrosis.",
+        "score": 4
+    }
+}

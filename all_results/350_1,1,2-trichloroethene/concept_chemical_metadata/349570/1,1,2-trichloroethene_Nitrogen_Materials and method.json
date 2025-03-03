@@ -1,0 +1,10 @@
+{
+    "context": "Air was introduced into the system using a 5-horsepower air compressor and extracted at the same flow rate using a 3/4-horsepower vacuum pump. The air was humidified to greater than 95% RH prior to injection to prevent drying of the soil during the experiment. Humidification was performed by passing the air through a water tower consisting of schedule 40 PVC pipe (0.3m diameter, 1.8m length) containing wire mesh to increase mass transfer. TCE, CFM, and SF6 were contained in a high pressure gas cylinder custom-mixed with a balance of nitrogen to desired concentrations of approximately 25, 75, and 50ppmv, respectively (Spectra Gases, Alpha, NJ). Pure helium gas was introduced via a high pressure cylinder. Heptane was introduced to the lysimeter using a vapor saturator. Air from the compressor was passed through 4L of pure liquid heptane contained in schedule 40 PVC pipe (6in. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Nitrogen",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is mentioned as part of a gas mixture that includes nitrogen as a balance gas. The nitrogen serves to dilute the concentration of TCE and other gases in the high-pressure gas cylinder. However, there is no discussion of any chemical interaction or biological relevance between TCE and nitrogen beyond their coexistence in the gas mixture.",
+        "reason": "The score of 1 reflects a very low relationship, as 1,1,2-trichloroethene and nitrogen are simply mentioned together in the context of a gas mixture without any direct interaction or functional relationship discussed.",
+        "score": 1
+    }
+}

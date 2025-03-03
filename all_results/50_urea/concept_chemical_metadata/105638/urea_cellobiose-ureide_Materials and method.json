@@ -1,0 +1,10 @@
+{
+    "context": "The protein concentration in all samples was determined by the method of Lowryusing bovine serum albumin as standards. Lactose ureide and maltose ureide were synthesized by acid-catalyzed condensation of lactose/maltose and urea according to the method of Hoffmann [11, 12]. Arabinose ureide was synthesized using the method developed by Helfrich and Kosche. Cellobiose ureide was produced by dissolving 15 g of d-cellobiose and 5.26 g urea in 22 ml boiling water. The mixture was cooled to room temperature and then adjusted to pH 3. After heating at 45\u00b0C for 12 days the product was crystallized after ethanol addition (1:5 ratio). After cooling to 4\u00b0C the solution was seeded with a few cellobiose ureide crystals. ",
+    "term_A": "urea",
+    "term_B": "cellobiose-ureide",
+    "llm_generation": {
+        "summary": "In this context, urea is a key reactant in the synthesis of cellobiose-ureide, which is produced through the acid-catalyzed condensation of d-cellobiose and urea. The process involves dissolving both components in boiling water, adjusting the pH, and heating to facilitate the formation of the ureide compound. This indicates a direct chemical relationship where urea is essential for the creation of cellobiose-ureide.",
+        "reason": "The score of 5 reflects a strong relevance, as urea is directly involved in the synthesis of cellobiose-ureide, indicating a critical chemical relationship supported by the detailed synthesis process described in the context.",
+        "score": 5
+    }
+}

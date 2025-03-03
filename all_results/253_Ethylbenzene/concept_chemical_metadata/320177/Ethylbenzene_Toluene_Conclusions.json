@@ -1,0 +1,10 @@
+{
+    "context": "The VOCs emission results measured using the 20L small chamber and FLEC showed similar trends. There was a strong correlation (R 2 =0.72) between the rates of TVOC emission, as measured by the 20L small chamber and the FLEC. These results also indicate that the rate of TVOC emission increased with increasing joint edge length. The main VOCs emitted from laminate flooring were toluene, ethylbenzene and xylene. There were more unidentified VOCs emitted than identified VOCs. Laminate flooring that is heated using a floor heating system emitted higher levels of formaldehyde than when an air circulation system was used. The levels of TVOC emission from laminate flooring heated using an air circulation system were higher than when heated by the floor heating system, due to the higher ventilation rate. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both identified as volatile organic compounds (VOCs) emitted from laminate flooring. The study highlights their presence among other VOCs, indicating a shared source of emission. However, there is no detailed discussion of their specific interactions or comparative significance in the context of VOC emissions from flooring materials.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and toluene are mentioned together as VOCs emitted from the same source (laminate flooring), but their relationship lacks detailed exploration or direct interaction.",
+        "score": 2
+    }
+}

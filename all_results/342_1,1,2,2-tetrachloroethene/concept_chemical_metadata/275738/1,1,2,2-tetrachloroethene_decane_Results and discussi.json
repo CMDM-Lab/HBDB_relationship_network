@@ -1,0 +1,10 @@
+{
+    "context": "Spreading mixes the sources of VOC emissions and thus \u201cdilutes\u201d strong concentrations. There was a peak concentration for toluene (7880\u03bcg/m3) from 11:30 a.m. to 12:30 p.m. in the area located next to the trucks tipping the waste and another peak concentration (8230\u03bcg/m3) from 12:37 p.m. to 1:37 p.m. at the edge of the open cell. This was probably due to the fact that the waste tipped by the trucks was spread mechanically over the surface of the open cell, approximately an hour after being tipped. The strongest concentrations (\u03bcg/m3), measured next to the trucks corresponded to the following VOCs: tetrachloroethylene (7320), toluene (7880), limonene (3270), m-xylene (2510), trichloroethylene (2470) heptane (1730), ethylbenzene (1340) and decane (1290). These are the compounds found most often at high concentrations, which is hardly surprising given that they are frequently used as solvents, cleaning and degreasing products, perfume additives, etc. By comparing the results obtained adjacent to the trucks and those obtained at the edge of the cell in operation, the same VOCs forming most of the emissions can be observed, highlighting that the emission was mostly due to fresh waste. 3.2.2.3 ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "decane",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene and decane are both identified as volatile organic compounds (VOCs) present in high concentrations due to their common use as solvents and in cleaning products. However, the context does not provide any specific interaction or relationship between the two compounds beyond their co-occurrence in the emissions from waste tipping activities. They are part of a broader discussion on VOC emissions but lack a direct connection.",
+        "reason": "The score of 2 reflects an indirect relationship, as both compounds are mentioned in the same context regarding VOC emissions, but there is no detailed discussion of their interaction or specific relevance to each other.",
+        "score": 2
+    }
+}

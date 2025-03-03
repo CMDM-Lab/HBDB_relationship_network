@@ -1,0 +1,10 @@
+{
+    "context": " [8] TCE was undetectable in rats given 0.0001 mg/kg, but it exhibited linear kinetics from 0.1 to 5.0 mg/kg.  [9] Bioavailability was consistent over this dosage range, ranging from 12.5 to 16.4%. [10] The presence of these limited amounts of TCE in the arterial blood disprove the aforementioned hypothesis, yet demonstrate that first-pass hepatic and pulmonary elimination in the rat afford its extrahepatic organs protection from potential adverse effects by the majority of the low levels of TCE absorbed from drinking water. [1] Extensive use of volatile organic chemicals (VOCs), including 1,1,2-trichloroethylene (TCE), has resulted in their common occurrence in drinking water supplies. [2] TCE is the most frequently found chemical contaminant in groundwater in the proximity of hazardous waste sites in the United States. [3] TCE was often detected in the blood of 982 nonoccupationally exposed adults evaluated in the National Health and Nutrition Examination Survey  and more recently in a subset of 951 persons . [4] Concentrations typically found in finished drinking water in the United States range from parts per trillion (ppt) to parts per billion (ppb) . ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Organic Chemicals",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is identified as a volatile organic chemical (VOC) that is commonly found in drinking water supplies and is frequently detected in blood samples of nonoccupationally exposed individuals. The discussion highlights TCE's prevalence as an organic chemical contaminant, particularly in groundwater near hazardous waste sites, indicating its significance as a representative example of organic chemicals in environmental health studies.",
+        "reason": "The score of 4 reflects a significant connection between TCE and organic chemicals, as TCE is explicitly categorized as a VOC and discussed in relation to its environmental impact and health implications. The context provides evidence of TCE's common occurrence and relevance in studies of organic chemical contamination.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "IL-12p70: r=0.03, p=0.74; TNF-\u03b1: r=0.01, p=0.89). This was also true when EBC nitrite was correlated to EBC cytokines normalized to protein concentration in EBC (data not shown). Considering, that EBC cytokines likely represent pulmonary or airway inflammation, EBC nitrite did not appear to be an indicator of that same process. Correlation of EBC cytokines with pulmonary function tests No significant correlation was observed between any of the pulmonary function tests (FEV1, FVC, FEV1/FVC, RV, TLC, ITGV) and the levels of cytokines in EBC in the entire patient group, the same was true for COPD or healthy subgroups (data not shown). Discussion Our study was aimed at investigating the relationship of EBC nitrite and pulmonary hyperinflation. For that purpose, EBC nitrite was analyzed in healthy individuals, smokers without any sign of lung disease, and stable COPD in GOLD-stages 0\u20134 and was correlated with pulmonary function tests and with inflammatory cytokines in breath condensate. ",
+    "term_A": "Nitrite",
+    "term_B": "Inflammation",
+    "llm_generation": {
+        "summary": "In this context, nitrite levels in exhaled breath condensate (EBC) were analyzed to investigate their relationship with pulmonary inflammation, as indicated by cytokine levels. However, the study found no significant correlation between EBC nitrite and inflammatory cytokines, suggesting that nitrite may not serve as an effective indicator of airway inflammation in the studied populations, including healthy individuals and those with COPD.",
+        "reason": "The score of 2 reflects an indirect connection between nitrite and inflammation, as both are discussed in the context of pulmonary health. However, the lack of significant correlation indicates that their relationship is not well-defined or supported by evidence.",
+        "score": 2
+    }
+}

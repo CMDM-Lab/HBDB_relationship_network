@@ -1,0 +1,1372 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Pentane",
+                    "label": "Pentane",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Pentane",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Pentane",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Pentane",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Pentane",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Pentane",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Pentane",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pentane",
+                        "label": "Pentane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Asthma",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pentane",
+                        "label": "Pentane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "vermiculite",
+                        "label": "vermiculite",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrogen",
+                        "label": "Nitrogen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aliphatic hydrocarbon",
+                        "label": "Aliphatic hydrocarbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Minerals",
+                        "label": "Minerals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Propane",
+                        "label": "Propane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Methane",
+                        "label": "Methane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "isoprene",
+                        "label": "isoprene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "WATER,DISTILLED",
+                        "label": "WATER,DISTILLED",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "vermiculite",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Carbon",
+                        "score": 9
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Nitrogen",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "pentane",
+                        "score": 29
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Butane",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Aliphatic hydrocarbon",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Minerals",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Propane",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Methane",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "isoprene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "WATER,DISTILLED",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pentane",
+                        "label": "Pentane",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sterility",
+                        "label": "Sterility",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adaptation",
+                        "label": "Adaptation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Sterility",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Adaptation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Pentane",
+                        "target": "Lipid Peroxidation",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pentane",
+                        "label": "Pentane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pentane",
+                        "label": "Pentane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pentane",
+                        "label": "Pentane",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Asthma": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Asthma",
+                        "label": "Asthma",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374129",
+                        "label": "\"Haemoxygenase-1 induction and exhaled markers of oxidative stress in lung diseases\", summary of the ERS Research Seminar in Budapest, Hungary, September, 1999.\nI. Horváth, W. MacNee, FJ. Kelly, PN. Dekhuijzen, M. Phillips, G. Döring, AM. Choi, M. Yamaya, FH. Bach, D. Willis, LE. Donnelly, KF. Chung, PJ. Barnes\nEur. Respir. J. 2001 Aug;18(2):420-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11529303"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374129_Pentane_Asthma_Markers of oxidative.json",
+                        "label": "In this context, pentane is mentioned as a volatile gas detected in the breath of asthma patients, with its levels increasing during asthma exacerbations and decreasing during recovery. This suggests a potential role of pentane as a biomarker for oxidative stress and inflammation associated with asthma, indicating its relevance to the disease's severity and management.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Asthma",
+                        "target": "374129",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374129",
+                        "target": "374129_Pentane_Asthma_Markers of oxidative.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "vermiculite": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "vermiculite",
+                        "label": "vermiculite",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156",
+                        "label": "Elucidating the key role of the fungal mycelium on the biodegradation of n-pentane as a model hydrophobic VOC.\nA. Vergara-Fernández, F. Scott, P. Moreno-Casas, L. Díaz-Robles, R. Muñoz\nChemosphere 2016 Aug;157:89-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27209557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_vermiculite_Materials and method.json",
+                        "label": "In this context, pentane and vermiculite are related through an experimental setup designed to assess the adsorption characteristics of n-pentane on vermiculite. The study aims to validate the assumption of negligible pentane adsorption by determining the adsorption isotherm, indicating a direct investigation of their interaction in a controlled environment. The results are crucial for understanding the behavior of pentane in relation to vermiculite's properties.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_vermiculite_Results and discussi.json",
+                        "label": "In this context, pentane and vermiculite are related through an adsorption experiment where n-pentane was tested for its interaction with vermiculite as an adsorbent at 30 °C. The study indicates that the maximum adsorption capacity of vermiculite for n-pentane is low (0.12 mg g−1), suggesting that the primary mechanism for n-pentane removal in the bioreactor is not adsorption but rather its metabolization by the aerial fungal biomass present. This highlights the limited role of vermiculite in the degradation process of n-pentane.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "vermiculite",
+                        "target": "374156",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_vermiculite_Materials and method.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_vermiculite_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Carbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Carbon",
+                        "label": "Carbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156",
+                        "label": "Elucidating the key role of the fungal mycelium on the biodegradation of n-pentane as a model hydrophobic VOC.\nA. Vergara-Fernández, F. Scott, P. Moreno-Casas, L. Díaz-Robles, R. Muñoz\nChemosphere 2016 Aug;157:89-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27209557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_Carbon_Results and discussi.json",
+                        "label": "In this context, pentane is identified as a hydrophobic carbon source that is being biodegraded by Pseudomonas aeruginosa in a biofilter. The study highlights the role of aerial fungal biomass in enhancing the efficiency of pentane degradation, indicating a direct relationship between pentane as a carbon source and the microbial activity involved in its breakdown. The presence of hydrophobic proteins on fungal hyphae is also noted, which are triggered by the hydrophobic nature of pentane, further emphasizing the connection between pentane and carbon in the context of biodegradation.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_Carbon_Materials and method.json",
+                        "label": "In this context, pentane is utilized as the sole carbon and energy source for fungal biomass growth in a controlled experimental setup. The relationship between pentane and carbon is direct, as pentane, a hydrocarbon, serves as a carbon source for the microorganisms, highlighting its role in microbial metabolism and energy production during the experiment.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Carbon",
+                        "target": "374156",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_Carbon_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_Carbon_Materials and method.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Nitrogen": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrogen",
+                        "label": "Nitrogen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156",
+                        "label": "Elucidating the key role of the fungal mycelium on the biodegradation of n-pentane as a model hydrophobic VOC.\nA. Vergara-Fernández, F. Scott, P. Moreno-Casas, L. Díaz-Robles, R. Muñoz\nChemosphere 2016 Aug;157:89-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27209557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_Nitrogen_Materials and method.json",
+                        "label": "In this context, pentane is analyzed in terms of its concentration and removal capacity in a bioreactor, while nitrogen is utilized as a carrier gas in the analytical methods for measuring pentane and CO2 concentrations. The relationship is primarily technical, focusing on the role of nitrogen in facilitating the detection of pentane rather than any direct chemical or biological interaction between the two substances.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrogen",
+                        "target": "374156",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_Nitrogen_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "pentane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "pentane",
+                        "label": "pentane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025",
+                        "label": "Effects of ionic strength on the production of short chain volatile hydrocarbons by Dunaliella salina (Teodoresco).\nJ. Muñoz, SM. Mudge, A. Sandoval\nChemosphere 2004 Feb;54(8):1267-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14664856"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_pentane_Conclusions.json",
+                        "label": "In this context, pentane is mentioned as one of the volatile organic compounds (VOCs) released by algae in response to varying ionic strengths. The production of pentane, along with other short-chain aliphatic hydrocarbons, is noted to be greater at lower ionic strengths, suggesting a relationship between environmental conditions and VOC release. However, the mention of pentane does not provide additional insights into its specific role or interactions beyond its classification as a VOC.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_pentane_Discussion.json",
+                        "label": "In this context, pentane is discussed as a short-chain aliphatic hydrocarbon that serves as an excretory product from surplus cellular hydrocarbons in marine phytoplankton. The flux rates of pentane are calculated based on varying salinity levels, indicating its role in cellular osmoregulation. The mention of pentane in different ionic strengths highlights its significance in the metabolic processes of these organisms, although it is referred to consistently as 'pentane' throughout the text.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_pentane_Results.json",
+                        "label": "In this context, pentane is mentioned as a volatile organic compound (VOC) produced in cultures with varying ionic strengths. The production of pentane and butane occurs at similar concentrations in a 0.5 M NaCl solution, indicating their co-production under specific conditions. However, the context does not elaborate on any distinct functional relationship between the two mentions of pentane, as they refer to the same compound.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_pentane_Material and methods.json",
+                        "label": "In this context, pentane is mentioned as part of a compressed gas mixture used as a primary standard for the determination of volatile organic compounds (VOCs). The term 'pentane' appears twice, indicating it is the same compound being referenced. However, there is no detailed discussion of its specific role or interactions within the study, merely its inclusion in a standard preparation process.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156",
+                        "label": "Elucidating the key role of the fungal mycelium on the biodegradation of n-pentane as a model hydrophobic VOC.\nA. Vergara-Fernández, F. Scott, P. Moreno-Casas, L. Díaz-Robles, R. Muñoz\nChemosphere 2016 Aug;157:89-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27209557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_pentane_Mathematical model.json",
+                        "label": "In this context, pentane is mentioned as a model hydrophobic volatile organic compound (VOC) used in experiments involving the biomass of Fusarium sp. The term 'Pentane' and 'pentane' refer to the same chemical compound, indicating its role in the study. However, there is no additional discussion of its specific interactions or significance beyond its identification as a VOC for mass transfer calculations.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_pentane_Introduction.json",
+                        "label": "In this context, pentane is specifically referred to as n-pentane, which is the target compound for biodegradation by the filamentous fungus Fusarium solani. The study focuses on modeling the growth of mycelium and quantifying the contributions of both aerial and non-aerial fungal biomass in the biodegradation process of n-pentane. The relationship is clear as the research aims to understand how effectively this fungus can degrade n-pentane, highlighting its significance in bioremediation efforts.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_pentane_Results and discussi.json",
+                        "label": "In this context, pentane is discussed in terms of its biodegradation in a biofilm system. The study highlights the behavior of n-pentane, indicating that its concentration in the biofilm decreases despite higher concentrations in the gas phase. This suggests that the presence of aerial biomass enhances the biodegradation process of n-pentane, affecting its availability to microorganisms. The relationship is focused on the environmental and biological interactions of pentane within the system.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_pentane_Materials and method.json",
+                        "label": "In this context, pentane is mentioned multiple times as a chemical being analyzed in terms of its inlet concentration and removal capacity in a bioreactor setup. The focus is on measuring the concentrations of n-pentane and CO2 during the experiments, indicating that pentane is the subject of study regarding its elimination and metabolic processes. However, there is no distinction made between 'Pentane' and 'pentane' as separate entities; they refer to the same compound in different contexts.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_pentane_Conclusion.json",
+                        "label": "In this context, pentane is mentioned as a hydrophobic volatile organic compound (VOC) whose removal efficiency (EC) is influenced by the configuration of a fungal biofilter (FB). The study highlights that the presence of aerial biomass enhances the transport surface area, leading to improved solubility and removal of n-pentane. The relationship emphasizes the role of pentane in the context of biofiltration and its environmental impact, particularly regarding health effects associated with mold growth and MVOCs.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374129",
+                        "label": "\"Haemoxygenase-1 induction and exhaled markers of oxidative stress in lung diseases\", summary of the ERS Research Seminar in Budapest, Hungary, September, 1999.\nI. Horváth, W. MacNee, FJ. Kelly, PN. Dekhuijzen, M. Phillips, G. Döring, AM. Choi, M. Yamaya, FH. Bach, D. Willis, LE. Donnelly, KF. Chung, PJ. Barnes\nEur. Respir. J. 2001 Aug;18(2):420-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11529303"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374129_Pentane_pentane_Markers of oxidative.json",
+                        "label": "In this context, pentane is mentioned as a volatile gas detected in the breath, used to measure lipid peroxidation and reflect oxidative stress. The text indicates that exhaled pentane levels increase during asthma exacerbations and decrease during recovery, suggesting its role as a potential biomarker for oxidative stress in respiratory conditions. However, the relationship is primarily observational without detailed mechanistic insights.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentane",
+                        "target": "374025",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_pentane_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_pentane_Discussion.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_pentane_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_pentane_Material and methods.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentane",
+                        "target": "374156",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_pentane_Mathematical model.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_pentane_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_pentane_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_pentane_Materials and method.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_pentane_Conclusion.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "pentane",
+                        "target": "374129",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374129",
+                        "target": "374129_Pentane_pentane_Markers of oxidative.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Butane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Butane",
+                        "label": "Butane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025",
+                        "label": "Effects of ionic strength on the production of short chain volatile hydrocarbons by Dunaliella salina (Teodoresco).\nJ. Muñoz, SM. Mudge, A. Sandoval\nChemosphere 2004 Feb;54(8):1267-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14664856"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_Butane_Results.json",
+                        "label": "In this context, pentane and butane are both mentioned as volatile organic compounds (VOCs) produced at approximately equal concentrations in a 0.5 M NaCl solution. Their production is part of a broader study on VOC generation by cultures under varying ionic strengths, indicating a shared metabolic pathway or environmental condition influencing their synthesis. However, the specific relationship between pentane and butane is not elaborated upon beyond their co-occurrence in the same experimental conditions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_Butane_Material and methods.json",
+                        "label": "In this context, pentane and butane are both mentioned as components of a compressed gas mixture used as a primary standard for volatile organic compounds (VOCs) analysis. They are part of a standard preparation process for gas chromatography, indicating they are utilized in similar analytical applications. However, there is no detailed discussion of their specific interactions or functional relationships beyond their inclusion in the same gas mixture.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_Butane_Conclusions.json",
+                        "label": "In this context, pentane and butane are both mentioned as short-chain aliphatic hydrocarbons that are released as volatile organic compounds (VOCs) by algae in response to extracellular ionic strength. The study indicates that the production of these VOCs is influenced by ionic strength, with greater production at lower ionic strengths. However, there is no detailed discussion of their specific interactions or comparative significance beyond their classification as VOCs.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Butane",
+                        "target": "374025",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_Butane_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_Butane_Material and methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_Butane_Conclusions.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Aliphatic hydrocarbon": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aliphatic hydrocarbon",
+                        "label": "Aliphatic hydrocarbon",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025",
+                        "label": "Effects of ionic strength on the production of short chain volatile hydrocarbons by Dunaliella salina (Teodoresco).\nJ. Muñoz, SM. Mudge, A. Sandoval\nChemosphere 2004 Feb;54(8):1267-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14664856"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_Aliphatic hydrocarbon_Conclusions.json",
+                        "label": "In this context, pentane is identified as a short-chain aliphatic hydrocarbon among other volatile organic compounds (VOCs) produced by algae in response to varying ionic strengths. The study suggests that pentane, along with ethane, propane, and butane, is released as a by-product of the algae's metabolic processes, particularly when glycerol is less needed for osmotic regulation. This indicates that pentane is a specific example of an aliphatic hydrocarbon produced under certain environmental conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aliphatic hydrocarbon",
+                        "target": "374025",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_Aliphatic hydrocarbon_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Minerals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Minerals",
+                        "label": "Minerals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156",
+                        "label": "Elucidating the key role of the fungal mycelium on the biodegradation of n-pentane as a model hydrophobic VOC.\nA. Vergara-Fernández, F. Scott, P. Moreno-Casas, L. Díaz-Robles, R. Muñoz\nChemosphere 2016 Aug;157:89-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27209557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_Minerals_Materials and method.json",
+                        "label": "In this context, pentane is utilized as a model hydrophobic volatile organic compound (VOC) in a mineral salt medium (MSM) that contains various minerals essential for microbial growth and degradation processes. The minerals listed, such as NaNO3, MgSO4, and CaSO4, provide necessary nutrients for the fungi involved in the degradation of pentane, indicating a supportive relationship where minerals facilitate the biological activity related to pentane degradation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Minerals",
+                        "target": "374156",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_Minerals_Materials and method.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Propane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Propane",
+                        "label": "Propane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025",
+                        "label": "Effects of ionic strength on the production of short chain volatile hydrocarbons by Dunaliella salina (Teodoresco).\nJ. Muñoz, SM. Mudge, A. Sandoval\nChemosphere 2004 Feb;54(8):1267-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14664856"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_Propane_Conclusions.json",
+                        "label": "In this context, pentane and propane are both mentioned as short-chain aliphatic hydrocarbons that are released as volatile organic compounds (VOCs) by algae in response to extracellular ionic strength. The study indicates that the production of these VOCs is influenced by ionic strength, with greater production at lower ionic strengths. However, there is no detailed discussion of their specific interactions or comparative significance beyond their classification as VOCs.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_Propane_Results.json",
+                        "label": "In this context, pentane and propane are both mentioned as volatile organic compounds (VOCs) produced by cells grown in culture media with varying ionic strengths. The study highlights the production of these hydrocarbons in relation to the growth conditions, but does not provide specific details on their interaction or comparative significance. They are part of a broader analysis of VOCs generated under different conditions, indicating a general relationship as components of the same experimental setup.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_Propane_Material and methods.json",
+                        "label": "In this context, pentane and propane are both mentioned as components of a compressed gas mixture used as a primary standard for the determination of volatile organic compounds (VOCs). They are part of a standard preparation process involving gas chromatography analysis. However, there is no detailed discussion of their specific interactions or functional relationships beyond their inclusion in the same gas mixture.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Propane",
+                        "target": "374025",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_Propane_Conclusions.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_Propane_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_Propane_Material and methods.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Methane": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methane",
+                        "label": "Methane",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025",
+                        "label": "Effects of ionic strength on the production of short chain volatile hydrocarbons by Dunaliella salina (Teodoresco).\nJ. Muñoz, SM. Mudge, A. Sandoval\nChemosphere 2004 Feb;54(8):1267-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14664856"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_Methane_Results.json",
+                        "label": "In this context, pentane and methane are both mentioned as volatile organic compounds (VOCs) produced by cells grown in culture media with varying ionic strengths. While pentane was detected in cultures at different ionic strengths, methane was only produced at 0.5 M NaCl, which is unusual since methane is typically associated with anaerobic bacteria. This suggests a potential relationship in their production under specific conditions, but the context does not elaborate on their direct interaction or significance beyond their presence in the same experimental setup.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_Methane_Material and methods.json",
+                        "label": "In this context, pentane and methane are both mentioned as components of a compressed gas mixture used as a primary standard for volatile organic compounds (VOCs) analysis. They are part of a standard preparation process for gas chromatography, indicating their roles in analytical chemistry but without any direct interaction or specific relationship discussed between them in the study.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156",
+                        "label": "Elucidating the key role of the fungal mycelium on the biodegradation of n-pentane as a model hydrophobic VOC.\nA. Vergara-Fernández, F. Scott, P. Moreno-Casas, L. Díaz-Robles, R. Muñoz\nChemosphere 2016 Aug;157:89-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27209557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_Methane_Introduction.json",
+                        "label": "In this context, pentane and methane are both mentioned as volatile organic compounds (VOCs) that are treated in gas-phase biofilters, particularly using filamentous fungi as biocatalysts. The discussion highlights the challenges of mass transfer and biodegradation of hydrophobic VOCs, including pentane and methane, in biofiltration systems. However, the relationship between pentane and methane is not explicitly detailed beyond their shared categorization as VOCs addressed in similar treatment processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Methane",
+                        "target": "374025",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_Methane_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_Methane_Material and methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Methane",
+                        "target": "374156",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_Methane_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "isoprene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "isoprene",
+                        "label": "isoprene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025",
+                        "label": "Effects of ionic strength on the production of short chain volatile hydrocarbons by Dunaliella salina (Teodoresco).\nJ. Muñoz, SM. Mudge, A. Sandoval\nChemosphere 2004 Feb;54(8):1267-71.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/14664856"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374025_Pentane_isoprene_Discussion.json",
+                        "label": "In this context, pentane and isoprene are both discussed as volatile organic compounds (VOCs) produced by marine phytoplankton under varying salinity conditions. The flux rates of pentane are calculated in relation to salinity, while isoprene is mentioned as having similar measurement values. The relationship suggests that both compounds are involved in cellular processes related to osmoregulation, although specific interactions between them are not detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "isoprene",
+                        "target": "374025",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374025",
+                        "target": "374025_Pentane_isoprene_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "WATER,DISTILLED": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "WATER,DISTILLED",
+                        "label": "WATER,DISTILLED",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156",
+                        "label": "Elucidating the key role of the fungal mycelium on the biodegradation of n-pentane as a model hydrophobic VOC.\nA. Vergara-Fernández, F. Scott, P. Moreno-Casas, L. Díaz-Robles, R. Muñoz\nChemosphere 2016 Aug;157:89-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27209557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_WATER,DISTILLED_Materials and method.json",
+                        "label": "In this context, pentane and distilled water are mentioned in relation to an experimental setup involving vermiculite and gas adsorption studies. Distilled water is used for moisture control in the bioreactor, while pentane is the volatile organic compound being adsorbed. Their relationship is indirect, as they serve different roles in the experiment—pentane as the adsorbate and distilled water as a medium for maintaining moisture conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "WATER,DISTILLED",
+                        "target": "374156",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_WATER,DISTILLED_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Sterility": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sterility",
+                        "label": "Sterility",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156",
+                        "label": "Elucidating the key role of the fungal mycelium on the biodegradation of n-pentane as a model hydrophobic VOC.\nA. Vergara-Fernández, F. Scott, P. Moreno-Casas, L. Díaz-Robles, R. Muñoz\nChemosphere 2016 Aug;157:89-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27209557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_Sterility_Materials and method.json",
+                        "label": "In this context, pentane is used as a feeding substrate in a bioreactor system, while sterility is emphasized during the extraction of biomass. The process involves maintaining sterile conditions when handling the solid supports to prevent contamination, ensuring that microbial activity is preserved. However, the relationship between pentane and sterility is indirect, as pentane's role is primarily as a substrate rather than a factor influencing sterility directly.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sterility",
+                        "target": "374156",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_Sterility_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Adaptation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adaptation",
+                        "label": "Adaptation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156",
+                        "label": "Elucidating the key role of the fungal mycelium on the biodegradation of n-pentane as a model hydrophobic VOC.\nA. Vergara-Fernández, F. Scott, P. Moreno-Casas, L. Díaz-Robles, R. Muñoz\nChemosphere 2016 Aug;157:89-96.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27209557"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374156_Pentane_Adaptation_Results and discussi.json",
+                        "label": "In this context, pentane is linked to the adaptation of fungal biomass in a biofilter system for its biodegradation. The study indicates that the fungal biomass adapted to effectively remove n-pentane, as evidenced by a significant increase in elimination capacity (EC) over time. This adaptation is crucial for optimizing the biodegradation process, highlighting the relationship between pentane and the biological adaptation of the microorganisms involved.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adaptation",
+                        "target": "374156",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374156",
+                        "target": "374156_Pentane_Adaptation_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Lipid Peroxidation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Lipid Peroxidation",
+                        "label": "Lipid Peroxidation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374129",
+                        "label": "\"Haemoxygenase-1 induction and exhaled markers of oxidative stress in lung diseases\", summary of the ERS Research Seminar in Budapest, Hungary, September, 1999.\nI. Horváth, W. MacNee, FJ. Kelly, PN. Dekhuijzen, M. Phillips, G. Döring, AM. Choi, M. Yamaya, FH. Bach, D. Willis, LE. Donnelly, KF. Chung, PJ. Barnes\nEur. Respir. J. 2001 Aug;18(2):420-30.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/11529303"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "374129_Pentane_Lipid Peroxidation_Markers of oxidative.json",
+                        "label": "In this context, pentane is identified as a volatile gas that can be detected in breath samples and is used as a biomarker for lipid peroxidation, which reflects oxidative stress. The levels of exhaled pentane are reported to increase during asthma exacerbations, indicating a direct relationship between pentane levels and lipid peroxidation associated with oxidative stress in respiratory conditions. This suggests that pentane can serve as an indicator of lipid peroxidation in various diseases, including asthma, COPD, and cystic fibrosis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Lipid Peroxidation",
+                        "target": "374129",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "374129",
+                        "target": "374129_Pentane_Lipid Peroxidation_Markers of oxidative.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

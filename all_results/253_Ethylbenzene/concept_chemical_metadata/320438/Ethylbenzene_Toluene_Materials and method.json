@@ -1,0 +1,10 @@
+{
+    "context": "The sampling volume was about 1L for each run. However, the waste gas injected to GC was only 300mL for analysis. Before assessing the toxicity of VOCs, the concentrations of main toxic VOCs in the motorcycle were measured and shown in Table 1 . The test results shows that the main toxic VOCs are benzene, toluene, ethyl benzene and xylene. PAHs were also extracted from the motorcycle exhaust. The sampled PAHs can be classified into two phases, gaseous PAHs and solid PAHs. Samples of PAHs were taken from the exhaust gas of motorcycle engine. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and toluene are both identified as main toxic volatile organic compounds (VOCs) present in motorcycle exhaust. They are mentioned together in the analysis of VOC concentrations, indicating they are part of the same category of pollutants. However, there is no detailed discussion of their specific interactions or comparative toxicity within the context provided.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as ethylbenzene and toluene are listed together as toxic VOCs in motorcycle exhaust, sharing a general category but lacking a detailed exploration of their relationship or interactions.",
+        "score": 2
+    }
+}

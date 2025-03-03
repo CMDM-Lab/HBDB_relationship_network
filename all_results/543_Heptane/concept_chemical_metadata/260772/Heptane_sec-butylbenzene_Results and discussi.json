@@ -1,0 +1,10 @@
+{
+    "context": "The target VOCs accounted for only a small fraction of the fuel, specifically, 10% and 6% (wt) of ULSD and B20, respectively. As a blend of 20% soy-based methyl esters and 80% petroleum diesel blend, B20 would have 80% of the petroleum-derived VOCs of conventional ULSD if the base fuel was unaltered. However, the TTVOC concentration of B20 was only 36% of that in ULSD; n-butylbenzene, naphthalene and cyclohexane had fractions below 40%; and many C9\u2013C14 straight-chain alkanes and benzene had fractions of around 60%. In contrast, p-isopropyltoluene, 1,2,4-trimethylbenzene, n-heptane and n-pentadecane had the expected fraction (80\u00b15%), while ethylbenzene, p-,m-xylene, o-xylene, isopropylbenzene, n-propylbenzene, sec-butylbenzene, and n-octane had high fractions (>110%). These data indicate that the composition of the ULSD used in B20 differed from conventional ULSD. As noted, VOC compositions of diesel and biodiesel blends have been rarely reported. In a 2006 study of diesel fuel in Taiwan, the top five VOCs were C13\u2013C16 and C18 straight-chain alkanes, accounting for 46% of the target compounds (Peng et al., 2006). ",
+    "term_A": "Heptane",
+    "term_B": "sec-butylbenzene",
+    "llm_generation": {
+        "summary": "In this context, heptane and sec-butylbenzene are both mentioned as components of volatile organic compounds (VOCs) found in diesel and biodiesel blends. However, their specific relationship is not detailed, and they are presented as part of a broader analysis of VOC composition in fuels. There is no direct interaction or functional relationship discussed between heptane and sec-butylbenzene.",
+        "reason": "The score of 2 reflects a low relevance, as heptane and sec-butylbenzene are both included in the discussion of VOCs in fuel blends, but there is no direct interaction or significant relationship explored between the two compounds.",
+        "score": 2
+    }
+}

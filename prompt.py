@@ -4,8 +4,8 @@ import os
 # Ensure API key is set
 # os.environ["OPENAI_API_KEY"] = os.getenv('OPENAI_API_KEY')
 # print(os.getenv('OPENAI_API_KEY'))
-os.environ["OPENAI_API_KEY"] = "XXXX"
 
+os.environ["OPENAI_API_KEY"] = "Your API KEY"
 
 client = OpenAI()
 # Path to save the response of gpt4o

@@ -1,0 +1,10 @@
+{
+    "context": "[6] In fact, few experimental studies have satisfactorily explained the processes that determine the transfer of different molecules from the lungs and airways into condensates of exhaled air. [1] Leukotriene (LT)B4 is a potent chemotactic mediator that may be involved in several inflammatory reactions in the lungs and airways , . [2] LTB4 is produced predominantly by activated neutrophils, but also by alveolar macrophages and in transcellular reactions involving inflammatory cells and surrounding structural elements . [3] In addition to recruiting neutrophils and causing increased microvascular permeability , LTB4 may stimulate lymphocyte migration in the lung  and constriction of pulmonary blood vessels via indirect mechanisms . [4] In comparison with healthy subjects, the LTB4 levels have been reported to be elevated in EBC collected from subjects with asthma , cystic fibrosis  and chronic obstructive pulmonary disease (COPD) . [1] The primary aim of the present study was to measure the levels of immunoreactive LTB4 in EBC collected in a human model where a pronounced neutrophilic inflammation was induced . [2] The model involves a standardised exposure of healthy subjects in a pig house for 3\u00e2\u20ac\u2026h. ",
+    "term_A": "Leukotriene B4",
+    "term_B": "Lymphocytic migration",
+    "llm_generation": {
+        "summary": "In this context, Leukotriene B4 (LTB4) is identified as a potent chemotactic mediator that plays a significant role in inflammatory responses within the lungs and airways. It is noted to stimulate lymphocyte migration, indicating a direct relationship where LTB4 facilitates the movement of lymphocytes during inflammatory processes. This suggests that LTB4 is crucial for the recruitment of lymphocytes, particularly in conditions characterized by inflammation such as asthma and COPD.",
+        "reason": "The score of 4 reflects a strong connection between LTB4 and lymphocytic migration, as LTB4 is explicitly described as stimulating this migration in the context of lung inflammation, supported by its role in recruiting immune cells.",
+        "score": 4
+    }
+}

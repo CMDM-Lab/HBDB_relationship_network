@@ -1,0 +1,10 @@
+{
+    "context": "[2] In detail, normality was verified with Shapiro-Wilk test, homoscedasticity was verified with Bartlett\u00e2\u20ac\u2122s and/or nonparametric Levene\u00e2\u20ac\u2122s test, and differences among samples were verified with either ANOVA (normality and homogeneous variances) or Welch\u00e2\u20ac\u2122s one-way ANOVA (normality and nonhomogeneous variances) followed by post hoc lsd or Waller-Duncan test, respectively, and with Kruskal-Wallis (nonnormality and homogeneous variances) or Friedman test (nonnormality and nonhomogeneous variances). [1] Supplemental Figure S1.              Fruit drop dynamics in cv Red Chief. [1] Supplemental Figure S2. [2] PTR-MS measurements showing ionization of isoprene fragments as a function of collision energy. [1] Supplemental Figure S3. [2] Isoprene emission in control and BA- or MET-treated fruitlets of cv Red Chief. [1] Supplemental Figure S4. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "ionization",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene, also known as isoprene, is mentioned in relation to ionization measurements of its fragments during PTR-MS (Proton Transfer Reaction Mass Spectrometry) analysis. The study investigates how collision energy affects the ionization of isoprene fragments, indicating a direct relationship between the compound and the ionization process. However, the specific role of 2-methylbuta-1,3-diene in the broader context of the study is not elaborated upon, limiting the depth of the relationship.",
+        "reason": "The score of 3 reflects a moderate relevance, as 2-methylbuta-1,3-diene is directly involved in the ionization process being studied, but the context does not provide extensive details on their interaction or significance beyond the ionization measurements.",
+        "score": 3
+    }
+}

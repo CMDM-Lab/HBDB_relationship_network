@@ -1,0 +1,10 @@
+{
+    "context": "[8] At the end of the experiment, the animals were returned to the holding tanks for recovery. [1] The water samples were examined for ammonia nitrogen (ammonia-N) and urea nitrogen (urea-N) content according to Ivancic and Deggobis  and Rahmatullah and Boyde , respectively. [2] Ammonia fluxes to the water (JNH3/NH4+; \u00ce\u00bcmol N kg\u00e2\u02c6\u20191 h\u00e2\u02c6\u20191) and urea fluxes to the water (JUrea; \u00ce\u00bcmol N kg\u00e2\u02c6\u20191 h\u00e2\u02c6\u20191) were calculated as the appearance of ammonia or urea in the water after accounting for the time of the flux period, the mass of the animal, and the concentration of ammonia or urea at the preceding time point or water change. [3] Measured urea concentrations were multiplied by a factor of two in order to account for the two nitrogen atoms in urea. [4] The percentage of total nitrogenous waste excretion (ammonia-N + urea-N) accounted for by urea-N was also calculated. [1] Midshipman fish (N=6) were killed with an overdose of anaesthetic [1 g l\u00e2\u02c6\u20191 tricaine methanesulfonate (MS-222); Syndel Laboratories, BC, Canada] following 7\u00e2\u20ac\u201c12 days of fasting in the laboratory. [2] Another group of midshipman (N=6) was hand-fed ~2.5% of their body mass with shrimp (as above) for 5 days and killed in the same manner 10 h following the last meal. ",
+    "term_A": "urea",
+    "term_B": "Atom",
+    "llm_generation": {
+        "summary": "In this context, urea is discussed in relation to nitrogenous waste excretion in midshipman fish, where its concentration is measured and calculated based on the nitrogen atoms it contains. The mention of 'atom' refers to the nitrogen atoms in urea, indicating a basic chemical relationship. However, there is no detailed exploration of how urea interacts with or relates to the concept of an atom beyond this basic chemical composition.",
+        "reason": "The score of 2 reflects an indirect connection, as urea is analyzed for its nitrogen content, which involves atoms, but there is no significant discussion of their relationship beyond this basic chemical fact.",
+        "score": 2
+    }
+}

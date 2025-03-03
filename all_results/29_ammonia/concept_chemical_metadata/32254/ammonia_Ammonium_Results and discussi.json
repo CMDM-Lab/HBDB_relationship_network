@@ -1,0 +1,10 @@
+{
+    "context": "Thus, the presence of hydrogen sulphide is to be expected. Ammonia was not detected in the experimental set-up used to characterise the leachate, probably due to excessive moisture in the atmosphere, especially during the night. Therefore, this excess water in Ogawa passive samplers could have prevented the ammonia from being retained in the filter, because ammonia is very soluble in water. In any case, NH3 emissions would be small because the leachate has a pH of around 7, and taking into account the ammonium/ammonia equilibrium, NH4 + prevails under acid conditions and remains in the liquid phase. A specific experiment was conducted to determine ammonia emissions from a more alkaline leachate (pH ca. 8), by using the MX6 Ibrid portable detector in a small vessel. The ammonia concentration was one quarter that of hydrogen sulphide (NH3: 8ppmv; H2S: 32ppmv). ",
+    "term_A": "ammonia",
+    "term_B": "Ammonium",
+    "llm_generation": {
+        "summary": "In this context, ammonia (NH3) and ammonium (NH4+) are discussed in relation to their chemical equilibrium in leachate with varying pH levels. The text indicates that under acidic conditions, ammonium predominates due to the solubility of ammonia in water. The study highlights the conditions affecting ammonia emissions and the balance between these two forms, emphasizing their interrelated nature in environmental chemistry.",
+        "reason": "The score of 4 reflects a significant connection between ammonia and ammonium, as the context discusses their equilibrium and the conditions affecting their presence in leachate. The relationship is supported by the discussion of pH effects and solubility, indicating a clear chemical interaction.",
+        "score": 4
+    }
+}

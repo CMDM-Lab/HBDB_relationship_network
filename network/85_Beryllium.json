@@ -1,0 +1,1324 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Beryllium",
+                    "label": "Beryllium",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Beryllium",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Beryllium",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Beryllium",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Beryllium",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Beryllium",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Beryllium",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Beryllium",
+                        "label": "Beryllium",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sarcoidosis",
+                        "label": "Sarcoidosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chronic berylliosis",
+                        "label": "Chronic berylliosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Granulomatous disorder",
+                        "label": "Granulomatous disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Berylliosis",
+                        "label": "Berylliosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pneumonia",
+                        "label": "Pneumonia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "immunotoxicity",
+                        "label": "immunotoxicity",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Sarcoidosis",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Chronic berylliosis",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Granulomatous disorder",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Berylliosis",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Pneumonia",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "immunotoxicity",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Beryllium",
+                        "label": "Beryllium",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metals",
+                        "label": "Metals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nitrogen",
+                        "label": "Nitrogen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "beryl",
+                        "label": "beryl",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Aluminum",
+                        "label": "Aluminum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metals, Light",
+                        "label": "Metals, Light",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Metals",
+                        "score": 10
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Nitrogen",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "beryl",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Chemicals",
+                        "score": 6
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Aluminum",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Metals, Light",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Beryllium",
+                        "label": "Beryllium",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "cytokine secretion",
+                        "label": "cytokine secretion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Granulomatous inflammation",
+                        "label": "Granulomatous inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "cytokine secretion",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Respiration",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Exhalation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Granulomatous inflammation",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Beryllium",
+                        "target": "Process",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Beryllium",
+                        "label": "Beryllium",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Beryllium",
+                        "label": "Beryllium",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Beryllium",
+                        "label": "Beryllium",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Sarcoidosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sarcoidosis",
+                        "label": "Sarcoidosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Sarcoidosis_Introduction.json",
+                        "label": "In this context, beryllium (Be) is linked to sarcoidosis through its role in causing chronic beryllium disease (CBD), which resembles sarcoidosis. Both conditions involve granulomatous inflammation in the lungs, and CBD requires prior sensitization to beryllium. The immunological responses in CBD, characterized by CD4+ T-lymphocyte activation and Th1 cytokine production, parallel those observed in sarcoidosis, indicating a significant relationship between beryllium exposure and the development of sarcoidosis-like symptoms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sarcoidosis",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Sarcoidosis_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Chronic berylliosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chronic berylliosis",
+                        "label": "Chronic berylliosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Chronic berylliosis_Introduction.json",
+                        "label": "In this context, beryllium (Be) is directly linked to chronic beryllium disease (CBD), also known as berylliosis, which is a granulomatous lung disorder that arises after sensitization to Be. The text discusses the immunological mechanisms involved in CBD, including Be-specific hypersensitivity and the role of CD4+ T-lymphocytes and Th1-type cytokines in the inflammatory response. This establishes a clear and significant relationship between beryllium exposure and the development of chronic berylliosis, highlighting the health risks associated with Be exposure in various industries.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Chronic berylliosis_Discussion.json",
+                        "label": "In this context, beryllium is directly linked to chronic berylliosis, a condition characterized by granulomatous inflammation in the lungs due to beryllium exposure. The activation of CD4+ T cells in response to beryllium antigens leads to the release of proinflammatory cytokines, such as TNF-α, which are implicated in the pathogenesis of chronic berylliosis. The study highlights the importance of understanding inflammatory and oxidative biomarkers in assessing lung pathobiology related to beryllium exposure.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chronic berylliosis",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Chronic berylliosis_Introduction.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Chronic berylliosis_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Granulomatous disorder": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Granulomatous disorder",
+                        "label": "Granulomatous disorder",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Granulomatous disorder_Introduction.json",
+                        "label": "In this context, beryllium (Be) is directly linked to granulomatous disorders, specifically chronic beryllium disease (CBD), which is characterized by granulomatous inflammation in the lungs. The disease arises after sensitization to beryllium, leading to immune responses involving CD4+ T-lymphocytes and Th1-type cytokines, which contribute to the formation of granulomas. This highlights a clear and significant relationship between beryllium exposure and the development of granulomatous disorders.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Granulomatous disorder",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Granulomatous disorder_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Berylliosis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Berylliosis",
+                        "label": "Berylliosis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Berylliosis_Introduction.json",
+                        "label": "In this context, beryllium (Be) is directly linked to berylliosis, a chronic granulomatous lung disease that arises from exposure to beryllium and its compounds. The text describes how sensitization to beryllium leads to an immune response characterized by CD4+ T-lymphocyte activation and Th1-type cytokine production, resulting in granulomatous inflammation in the lungs. This establishes a clear and critical relationship between beryllium exposure and the development of berylliosis, highlighting the disease's dependence on prior sensitization to the metal.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Berylliosis",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Berylliosis_Introduction.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Pneumonia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pneumonia",
+                        "label": "Pneumonia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Pneumonia_Conclusion.json",
+                        "label": "In this context, beryllium is linked to pulmonary inflammation in workers exposed to its poorly soluble forms, suggesting a potential association with respiratory conditions such as pneumonia. The study indicates that exposure to beryllium may trigger inflammatory responses, including the release of TNF-α, which could contribute to lung-related diseases. However, the direct relationship between beryllium exposure and pneumonia is not explicitly established, necessitating further research to confirm these findings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pneumonia",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Pneumonia_Conclusion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "immunotoxicity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "immunotoxicity",
+                        "label": "immunotoxicity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_immunotoxicity_Discussion.json",
+                        "label": "In this context, beryllium is linked to immunotoxicity through its role in chronic beryllium disease (CBD), where exposure leads to granulomatous inflammation in the lungs and activation of CD4+ T cells. The release of proinflammatory cytokines, particularly TNF-α, is associated with beryllium exposure, indicating a clear immunotoxic effect. Experimental studies further support this relationship by demonstrating varying cytokine responses based on the chemical form of beryllium, with certain forms causing greater pulmonary toxicity. The study highlights a significant correlation between occupational exposure duration and increased TNF-α levels, underscoring beryllium's immunotoxic potential.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "immunotoxicity",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_immunotoxicity_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Metals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metals",
+                        "label": "Metals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Metals_Material and methods.json",
+                        "label": "In this context, beryllium (Be) is discussed as a specific metal that workers are exposed to during machining tasks involving various metal alloys. The study focuses on assessing exposure to beryllium in relation to other metals and pneumotoxicants, indicating that beryllium is categorized within the broader group of metals that can pose respiratory health risks. However, the relationship is primarily about exposure assessment rather than a detailed interaction between beryllium and other metals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Metals_Results.json",
+                        "label": "In this context, beryllium is discussed as a specific metal that is part of various alloys, particularly copper-beryllium and aluminum-beryllium. The study focuses on exposure levels to beryllium in different job tasks within plants, highlighting its classification as a metal and its relevance in occupational health assessments. However, the relationship is primarily about exposure rather than a detailed interaction with other metals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Metals_Introduction.json",
+                        "label": "In this context, beryllium is identified as a naturally occurring metal with significant applications in various high-tech industries. The discussion highlights its physical and mechanical properties, as well as the health risks associated with exposure to beryllium and its compounds, particularly chronic beryllium disease (CBD). This establishes a clear relationship between beryllium and the broader category of metals, emphasizing its classification and relevance in both industrial and health contexts.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metals",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Metals_Material and methods.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Metals_Results.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Metals_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Nitrogen": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Nitrogen",
+                        "label": "Nitrogen",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Nitrogen_Discussion.json",
+                        "label": "In this context, beryllium and nitrogen are mentioned in relation to a study on exhaled biomarkers in workers exposed to beryllium. While the study found a significant relationship between cumulative beryllium exposure and TNF-α levels, it did not establish any significant relationships between beryllium exposure and nitrogen reactive species, including both volatile and nonvolatile nitrogen intermediates. This indicates that while both terms are present, their direct relationship is weak and not supported by the findings.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Nitrogen",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Nitrogen_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "beryl": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "beryl",
+                        "label": "beryl",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364",
+                        "label": "Development of retrospective quantitative and qualitative job-exposure matrices for exposures at a beryllium processing facility.\nJR. Couch, M. Petersen, C. Rice, MK. Schubauer-Berigan\nOccup Environ Med 2011 May;68(5):361-5.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20974744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364_Beryllium_beryl_Introduction.json",
+                        "label": "In this context, beryllium and beryl are related as beryl is a mineral form of beryllium. While beryllium is used in various industries due to its unique properties, the text notes that most forms of beryllium, except for beryl and bertrandite ore, are associated with health risks. This indicates a distinction in the safety profile of beryl compared to other beryllium compounds, highlighting its relevance in discussions about beryllium exposure and related diseases.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "beryl",
+                        "target": "292364",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292364",
+                        "target": "292364_Beryllium_beryl_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Chemicals": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Chemicals",
+                        "label": "Chemicals",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364",
+                        "label": "Development of retrospective quantitative and qualitative job-exposure matrices for exposures at a beryllium processing facility.\nJR. Couch, M. Petersen, C. Rice, MK. Schubauer-Berigan\nOccup Environ Med 2011 May;68(5):361-5.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20974744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364_Beryllium_Chemicals_Methods.json",
+                        "label": "In this context, beryllium is categorized as a chemical that is assessed for exposure risks in various industrial settings. The methodology developed for exposure assessment includes qualitative categorization of beryllium based on its physical forms and associated risk factors. Beryllium is thus treated as a specific chemical of interest within a broader analysis of chemical exposure in the workplace.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Chemicals_Discussion.json",
+                        "label": "In this context, beryllium is discussed as a specific chemical that induces inflammatory responses, particularly in chronic beryllium disease (CBD). The relationship is highlighted through the examination of cytokine release, particularly TNF-α, in response to different chemical forms of beryllium. The study emphasizes the toxicological effects of beryllium compounds, linking them to immune responses and pulmonary toxicity, thus establishing a clear connection between beryllium as a chemical and its biological impact.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "292364",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292364",
+                        "target": "292364_Beryllium_Chemicals_Methods.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Chemicals",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Chemicals_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Aluminum": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Aluminum",
+                        "label": "Aluminum",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Aluminum_Results.json",
+                        "label": "In this context, beryllium and aluminum are mentioned in relation to their presence in specific alloys used in various job tasks at different plants. Beryllium is noted for its exposure levels in tasks involving copper-beryllium and aluminum-beryllium alloys. However, the context does not elaborate on any direct chemical or biological interactions between beryllium and aluminum, focusing instead on exposure assessment and occupational safety.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Aluminum_Material and methods.json",
+                        "label": "In this context, beryllium and aluminum are related through their presence in specific alloys used in machining industries. The study examines the effects of occupational exposure to poorly soluble forms of beryllium, particularly in alloys that also contain aluminum. The focus is on the health impacts of beryllium exposure, with aluminum being a component of some beryllium alloys, indicating a potential interaction in occupational settings. However, the relationship is primarily centered on beryllium's effects rather than a direct interaction between the two metals.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Aluminum_Introduction.json",
+                        "label": "In this context, beryllium and aluminum are both mentioned in relation to occupational exposure in a primary aluminum production plant. The study focuses on the quantification of beryllium in exhaled breath condensate (EBC) of workers, highlighting the potential health effects of beryllium exposure. While aluminum is referenced as part of the production environment, there is no direct discussion of a relationship between beryllium and aluminum in terms of their biochemical interactions or health impacts, making their connection indirect and primarily contextual.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Aluminum",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Aluminum_Results.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Aluminum_Material and methods.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Aluminum_Introduction.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Metals, Light": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metals, Light",
+                        "label": "Metals, Light",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364",
+                        "label": "Development of retrospective quantitative and qualitative job-exposure matrices for exposures at a beryllium processing facility.\nJR. Couch, M. Petersen, C. Rice, MK. Schubauer-Berigan\nOccup Environ Med 2011 May;68(5):361-5.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20974744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364_Beryllium_Metals, Light_Introduction.json",
+                        "label": "In this context, beryllium is identified as a light metal with unique physical properties, such as excellent thermal conductivity and a high melting point, making it valuable in various industries, including aircraft construction and medical devices. The discussion emphasizes beryllium's classification as a light metal and its associated health risks, linking it to the broader category of light metals due to its specific applications and properties.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metals, Light",
+                        "target": "292364",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292364",
+                        "target": "292364_Beryllium_Metals, Light_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "cytokine secretion": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "cytokine secretion",
+                        "label": "cytokine secretion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_cytokine secretion_Discussion.json",
+                        "label": "In this context, beryllium exposure is linked to the secretion of proinflammatory cytokines, particularly TNF-α, in patients with chronic beryllium disease (CBD). The activation of CD4+ T cells in response to beryllium antigens leads to increased cytokine production, indicating a direct relationship between beryllium exposure and cytokine secretion. Experimental studies further support this connection by demonstrating varying patterns of cytokine secretion based on the chemical form of beryllium, with certain forms causing greater pulmonary toxicity and cytokine release.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "cytokine secretion",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_cytokine secretion_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Respiration": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Respiration",
+                        "label": "Respiration",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364",
+                        "label": "Development of retrospective quantitative and qualitative job-exposure matrices for exposures at a beryllium processing facility.\nJR. Couch, M. Petersen, C. Rice, MK. Schubauer-Berigan\nOccup Environ Med 2011 May;68(5):361-5.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20974744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364_Beryllium_Respiration_Abstract.json",
+                        "label": "In this context, beryllium is mentioned in relation to exposure measurements in a plant setting, which can have implications for respiratory health. The study discusses the assessment of airborne beryllium levels, which is critical as inhalation of beryllium can lead to respiratory diseases, including chronic beryllium disease. However, the specific effects of beryllium exposure on respiration are not detailed in the provided context.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Respiration_Discussion.json",
+                        "label": "In this context, beryllium exposure is linked to respiratory health, particularly through its impact on lung deposition of fine particles. The study highlights that machining beryllium generates small particles that can penetrate deep into the lungs, potentially leading to increased levels of inflammatory markers like TNF-α in exhaled breath condensate (EBC). This suggests a significant relationship between beryllium exposure and respiratory effects, particularly in the context of chronic beryllium disease (CBD).",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "292364",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292364",
+                        "target": "292364_Beryllium_Respiration_Abstract.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Respiration",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Respiration_Discussion.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Exhalation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Exhalation",
+                        "label": "Exhalation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Exhalation_Introduction.json",
+                        "label": "In this context, beryllium is analyzed as a potential biomarker in exhaled breath condensate (EBC) of workers exposed to poorly soluble forms of beryllium in machining industries. The study aims to investigate the correlation between beryllium concentrations in EBC and pulmonary inflammation, highlighting the significance of exhalation as a method for assessing respiratory effects due to beryllium exposure. This suggests a direct relationship between beryllium exposure and its measurable presence in exhaled breath, indicating potential health implications for workers.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Exhalation",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Exhalation_Introduction.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Granulomatous inflammation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Granulomatous inflammation",
+                        "label": "Granulomatous inflammation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089",
+                        "label": "Effects of occupational exposure to poorly soluble forms of beryllium on biomarkers of pulmonary response in exhaled breath of workers in machining industries.\nA. Radauceanu, M. Grzebyk, JL. Edmé, N. Chérot-Kornobis, D. Rousset, M. Dziurla, V. De Broucker, G. Hédelin, A. Sobaszek, S. Hulo\nToxicol. Lett. 2016 Nov;263:26-33.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27777105"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292089_Beryllium_Granulomatous inflammation_Discussion.json",
+                        "label": "In this context, beryllium is linked to granulomatous inflammation through its role in chronic beryllium disease (CBD). The presence of beryllium antigens activates CD4+ T cells, which release proinflammatory cytokines like TNF-α, leading to the development of granulomatous inflammation in the lungs. This relationship highlights the immunotoxic effects of beryllium exposure and its association with lung pathobiology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Granulomatous inflammation",
+                        "target": "292089",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292089",
+                        "target": "292089_Beryllium_Granulomatous inflammation_Discussion.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364",
+                        "label": "Development of retrospective quantitative and qualitative job-exposure matrices for exposures at a beryllium processing facility.\nJR. Couch, M. Petersen, C. Rice, MK. Schubauer-Berigan\nOccup Environ Med 2011 May;68(5):361-5.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/20974744"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "292364_Beryllium_Process_Methods.json",
+                        "label": "In this context, beryllium is associated with various processes and job descriptions within an industrial hygiene framework. The methodology developed for exposure assessment involves categorizing beryllium based on its chemical and physical forms as they relate to specific processes and job roles. This indicates that the handling and exposure to beryllium are influenced by the processes in which it is involved, highlighting the importance of process-related factors in assessing beryllium exposure risks.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "292364",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "292364",
+                        "target": "292364_Beryllium_Process_Methods.json",
+                        "score": 3
+                    }
+                }
+            ]
+        }
+    }
+}

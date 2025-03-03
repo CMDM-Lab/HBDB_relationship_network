@@ -1,0 +1,10 @@
+{
+    "context": "Lee et al. reported that the heart rate was significantly reduced following treatment with ethanol extract of P. ginseng in anesthetized dogs. Jeon et al. reported that saponin fraction of KRG decreased the heart rate in the anesthetized rats. In this experiment, the heart rate was also decreased by KRG in humans. The formation or and modulation of nitric oxide (NO) levels in the lung has both beneficial and deleterious roles in airway diseases. NO is a potentially useful non-invasive marker of airway inflammation and has important regulatory functions in the lower airways. NO and  NO 3 \u2212 concentrations increase during inflammatory conditions such as asthma, bronchiectasis, and viral infections. Therefore, NO is important in the pathogenesis of cardiovascular disease as well as in the regulation of cardiovascular functions. ",
+    "term_A": "Nitric oxide",
+    "term_B": "AIRWAY DISEASE",
+    "llm_generation": {
+        "summary": "In this context, nitric oxide (NO) is highlighted for its dual role in airway diseases, acting as both a marker of airway inflammation and a regulatory molecule in the lower airways. Increased levels of NO and its metabolites are associated with inflammatory conditions such as asthma and bronchiectasis, indicating its significant involvement in the pathogenesis of airway diseases. This suggests that NO is crucial for understanding and potentially managing airway inflammation and related disorders.",
+        "reason": "The score of 5 reflects a strong relevance between nitric oxide and airway disease, as the context discusses NO's role as a non-invasive marker of inflammation and its involvement in various airway conditions, indicating a critical relationship.",
+        "score": 5
+    }
+}

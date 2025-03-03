@@ -1,0 +1,10 @@
+{
+    "context": "Since urea is absorbable over the intestinal mucosa, it is likely that the small amount of urea solution (100 mg 13C-urea in 50 ml water) has been absorbed before it reached the caecum. In the duodenal 13C-UBT of these twenty H. pylori positive patients, three had a 13C enrichment increase 15 min after administration of the labeled urea. Two of these three patients received H. pylori eradication therapy and a follow-up duodenal 13C-UBT showed no 13C enrichment. We hypothesized that duodenogastric reflux of the introduced urea solution to the stomach may be the cause. We also found an early small rise of 13C enrichment at 5 min in H. pylori negative patients. This is compatible with the observation of Marshall et al. that a labeled urea mouthwash would cause a positive 14C-UBT. Although our patients washed their mouths with tap water, there was some labeled urea left to react with urease in the oral cavity and to cause a small rise of 13C enrichment. ",
+    "term_A": "urea",
+    "term_B": "Duodenogastric Reflux",
+    "llm_generation": {
+        "summary": "In this context, urea is discussed in relation to its absorption in the intestinal mucosa and its potential role in duodenogastric reflux. The study indicates that labeled urea was absorbed before reaching the caecum, and the hypothesis suggests that duodenogastric reflux may explain the observed 13C enrichment in patients. This implies a connection between urea absorption and the reflux process, particularly in the context of H. pylori infection and its treatment outcomes.",
+        "reason": "The score of 4 reflects a significant connection between urea and duodenogastric reflux, as the study provides evidence of urea's absorption and its potential reflux into the stomach, impacting diagnostic outcomes. The relationship is supported by observations of 13C enrichment linked to both urea and reflux.",
+        "score": 4
+    }
+}

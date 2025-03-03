@@ -1,0 +1,10 @@
+{
+    "context": "Of this, 98.4% was used as domestic fuel (cooking and water heating) and the 1.6% residual (4 MBD) for carburation. In the metropolitan area, LP gas consumption in the same year was 52.6 MBD, which is 20.6% of the total consumption. Based on these figures, the consumption of gasoline was 209.8% higher than LP gas in the MCMA, but the gasoline light compounds accounted only for the 10% of the total evaporative emissions and emissions from the exhaust. However, the ambient air of the samples analyzed registers a higher quantity of propane than butane, at an average ratio of 1.65, and the only possible source of the propane was LP gas from leaks and incomplete combustion. Exhaust and evaporative emissions associated with the burning of fossil fuels in vehicles introduce a higher concentration of butane than propane. The C3/C4 concentration ratio is always less than 0.5. On the contrary, the concentration of propane present in LP gas is higher than that of butane. ",
+    "term_A": "Butane",
+    "term_B": "Leak NOS",
+    "llm_generation": {
+        "summary": "In this context, butane is discussed in relation to its consumption as a domestic fuel and its emissions profile compared to propane. The mention of 'leak NOS' refers to the potential sources of propane emissions from LP gas leaks and incomplete combustion. While butane is noted for its higher concentration in exhaust emissions, the relationship with leak NOS is indirect, focusing on the comparative analysis of emissions rather than a direct interaction or functional relationship.",
+        "reason": "The score of 2 reflects an indirect connection between butane and leak NOS, as they are both involved in discussions about gas emissions and leaks, but there is no detailed exploration of their direct relationship or interaction.",
+        "score": 2
+    }
+}

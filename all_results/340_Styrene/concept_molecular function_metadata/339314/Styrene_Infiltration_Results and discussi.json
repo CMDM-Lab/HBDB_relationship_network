@@ -1,0 +1,10 @@
+{
+    "context": "Since 1,1-dichloroethene, methylene chloride, chloroform, trichloroethene, and tetrachloroethene are primarily used as solvents, detergents, and insecticides, the cancer risks associated with these VOCs became more significant at the selected restaurants and homes. Higher lifetime cancer risks associated with airborne exposures to styrene were only observed in the administrative and printing offices and air-conditioned classrooms. Airborne styrene mainly originated from vehicle emissions. As these indoor environments were located near highly trafficked roads, the indoor levels of styrene recorded at these sampling sites were probably elevated due to the infiltration of outdoor air contaminated with automobile exhaust. The restaurant, the canteen, and two homes were susceptible to the influence of airborne chloroform. Higher lifetime cancer risks related to the chloroform exposures were observed at the restaurant and canteen.Uncertainty analysis Uncertainties exist in the risk assessment of exposure. These include uncertainties in measurement (Fritz and Schenk, 1987), uncertainties in values assigned to population exposure variables (Wallace, 1991), and the uncertainties introduced in risk characterization due to day-to-day, place-to-place variations in concentrations (Kim et al., 2002). ",
+    "term_A": "Styrene",
+    "term_B": "Infiltration",
+    "llm_generation": {
+        "summary": "In this context, styrene is linked to infiltration as it is primarily found in indoor environments due to the infiltration of outdoor air contaminated with vehicle emissions. The study highlights that elevated indoor levels of styrene were observed in administrative and printing offices, suggesting that infiltration of outdoor air significantly contributes to the indoor concentration of this volatile organic compound (VOC).",
+        "reason": "The score of 4 reflects a significant connection between styrene and infiltration, as the context provides evidence that outdoor air contamination directly influences indoor styrene levels, indicating a clear relationship between the two.",
+        "score": 4
+    }
+}

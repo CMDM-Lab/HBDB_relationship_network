@@ -1,0 +1,10 @@
+{
+    "context": "Analyses of freshly fallen snow sampled at high altitudes and in arctic regions revealed the presence of BTEX (e.g. toluene) at concentrations up to 1.09\u03bcg L\u22121 (Gr\u00f6llert and Puxbaum, 2000; Kos and Ariya, 2006; Fries et al., 2008). Therefore, further experiments are necessary to assess the temperature dependence of the partitioning of (volatile) hydrophobic compounds between the gas phase and supercooled water/ice. The present study investigated the partitioning of BTEX, MTBE, and ETBE between supercooled water/ice and the gas phase. The laboratory experiments were carried out in 20mL vials, and gas phase analysis was carried out by static headspace (HS) tests in combination with gas chromatography/mass spectrometry (GC/MS). The analytes were selected from compounds previously detected in field snow samples (Kolb and P\u00fcttmann, 2006; Fries et al., 2008). Chemicals Two standard solutions (Neochema; Bodenheim, Germany) were used: standard solution 1 was BTEX, and standard solution 2 comprised methyl-tert-butyl ether (MTBE) and ethyl-tert-butyl ether (ETBE). ",
+    "term_A": "2-ethoxy-2-methylpropane",
+    "term_B": "ethyl tert-butyl ether",
+    "llm_generation": {
+        "summary": "In this context, 2-ethoxy-2-methylpropane and ethyl tert-butyl ether (ETBE) are both mentioned as part of a study investigating the partitioning of volatile organic compounds (VOCs) between supercooled water/ice and the gas phase. However, there is no direct discussion of their specific interactions or comparative significance within the study, as the focus is primarily on BTEX compounds and ethers in general rather than on the relationship between these two specific compounds.",
+        "reason": "The score of 2 reflects a low relevance, as both compounds are included in the broader category of ethers studied for their partitioning behavior, but there is no detailed exploration of their relationship or interaction in the context provided.",
+        "score": 2
+    }
+}

@@ -1,0 +1,1532 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                    "label": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Infection",
+                        "label": "Infection",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Mite Infestations",
+                        "label": "Mite Infestations",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Infection",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Mite Infestations",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Monoterpenes",
+                        "label": "Monoterpenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sesquiterpenes",
+                        "label": "Sesquiterpenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "linalool",
+                        "label": "linalool",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Pheromone",
+                        "label": "Pheromone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "geraniol",
+                        "label": "geraniol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "methylheptenone",
+                        "label": "methylheptenone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "sabinene",
+                        "label": "sabinene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "nerolidol",
+                        "label": "nerolidol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "jasmonate",
+                        "label": "jasmonate",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Monoterpenes",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Sesquiterpenes",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "linalool",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Metabolites",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Pheromone",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "geraniol",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "methylheptenone",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "sabinene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "nerolidol",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "jasmonate",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "gene induction",
+                        "label": "gene induction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Gene Expression",
+                        "label": "Gene Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "lipoxygenase pathway",
+                        "label": "lipoxygenase pathway",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Regulation",
+                        "label": "Regulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Signal Transduction",
+                        "label": "Signal Transduction",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "gene induction",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Drug Interactions",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "volatile substances",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Gene Expression",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "lipoxygenase pathway",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Regulation",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "Signal Transduction",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "monoterpene synthase",
+                        "label": "monoterpene synthase",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "4S-limonene synthase",
+                        "label": "4S-limonene synthase",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "monoterpene synthase",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "target": "4S-limonene synthase",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Infection": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Infection",
+                        "label": "Infection",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Infection_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is mentioned in the context of plant responses to infection by G. cichoracearum, where it is part of the volatile compounds emitted from infected plants. The study highlights the role of jasmonates and other volatiles in mediating plant defense mechanisms against infections. However, the specific relationship between (3e)-3,7-dimethylocta-1,3,6-triene and the infection itself is not explicitly detailed, indicating a broader involvement of volatile compounds in plant defense rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Infection",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Infection_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Mite Infestations": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Mite Infestations",
+                        "label": "Mite Infestations",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Mite Infestations_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is indirectly related to mite infestations through its role as a product of terpene synthases, which are induced in response to such infestations. The context discusses the synthesis of (E)-β-ocimene, a compound that may play a role in plant defense mechanisms against pests like spider mites. However, the specific relationship between (3e)-3,7-dimethylocta-1,3,6-triene and mite infestations is not explicitly detailed, making the connection more general.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Mite Infestations",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Mite Infestations_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Monoterpenes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Monoterpenes",
+                        "label": "Monoterpenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Monoterpenes_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is identified as a specific type of monoterpene emitted by lima bean plants in response to jasmonic acid (JA) treatment. The context highlights that various monoterpenes, including (3e)-3,7-dimethylocta-1,3,6-triene, are part of the volatile profiles associated with plant defense mechanisms against herbivory, particularly from spider mites. This indicates a direct relationship where (3e)-3,7-dimethylocta-1,3,6-triene is categorized under monoterpenes, which are crucial for plant signaling and defense responses.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Monoterpenes_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene, specifically (E)-β-ocimene, is identified as a prominent member of the monoterpenes class. It plays a crucial role in plant defense mechanisms, emitted in response to herbivore damage and pathogen infection. The context highlights its significance in attracting natural enemies of herbivores and inducing plant defense genes, underscoring its functional relevance as a monoterpene in ecological interactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Monoterpenes",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Monoterpenes_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Monoterpenes",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Monoterpenes_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Sesquiterpenes": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Sesquiterpenes",
+                        "label": "Sesquiterpenes",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Sesquiterpenes_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is identified as a product of the enzyme (E)-β-ocimene synthase (MtEBOS) from M. truncatula, which specifically produces (E)-β-ocimene rather than sesquiterpenes. While sesquiterpenes are a broader class of terpenes, the context indicates that MtEBOS does not function in their production, highlighting a distinction between this compound and sesquiterpenes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Sesquiterpenes",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Sesquiterpenes_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "linalool": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "linalool",
+                        "label": "linalool",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_linalool_Materials and method.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene and linalool are both terpenes involved in plant metabolism, specifically in the biosynthesis of volatile organic compounds. The context discusses various terpene synthases, including those that produce linalool, indicating a potential relationship in their biosynthetic pathways. However, the specific interaction or functional relationship between these two compounds is not elaborated upon in detail.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_linalool_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene and linalool are both identified as volatile organic compounds (VOCs) emitted from tobacco plants treated with jasmonic acid (MeJA) in response to powdery mildew infection. While the context highlights their presence among other terpenes released from the plants, it does not detail any specific interaction or functional relationship between these two compounds, indicating they are part of a broader response to stress rather than directly related to each other.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "linalool",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_linalool_Materials and method.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "linalool",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_linalool_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Metabolites": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Metabolites",
+                        "label": "Metabolites",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Metabolites_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is a specific volatile organic compound (VOC) that is categorized as a metabolite produced by plants, particularly in response to treatments like MeJA. The context discusses the emissions of various terpenes and metabolites in MeJA-treated plants, highlighting the role of (3e)-3,7-dimethylocta-1,3,6-triene among other terpenes. This indicates a direct relationship where (3e)-3,7-dimethylocta-1,3,6-triene is one of the metabolites produced in response to environmental stimuli, showcasing its significance in plant metabolism.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Metabolites",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Metabolites_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Pheromone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Pheromone",
+                        "label": "Pheromone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Pheromone_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is a type of terpenoid that can be released by plants in response to herbivore damage, similar to other terpenes like (E)-β-ocimene. These compounds, including (3e)-3,7-dimethylocta-1,3,6-triene, are often involved in plant signaling and can function as pheromones to attract natural enemies of herbivores, thereby playing a role in plant defense mechanisms. The context suggests that these volatile compounds are part of a blend that helps protect plants, indicating a significant relationship between the terpenoid and its role as a pheromone in ecological interactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Pheromone",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Pheromone_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "geraniol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "geraniol",
+                        "label": "geraniol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_geraniol_Materials and method.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene and geraniol are both terpenes involved in plant metabolism, specifically in the biosynthesis of volatile organic compounds. The context discusses various terpene synthases, including geraniol synthase, which is responsible for the production of geraniol. While (3e)-3,7-dimethylocta-1,3,6-triene is not directly linked to geraniol in the provided context, they share a common pathway in terpenoid biosynthesis, indicating a potential relationship in plant secondary metabolite production.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "geraniol",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_geraniol_Materials and method.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "methylheptenone": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "methylheptenone",
+                        "label": "methylheptenone",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_methylheptenone_Results and discussi.json",
+                        "label": "In this context, (3e)-3,7-dimethylocta-1,3,6-triene and methylheptenone are both mentioned as volatile organic compounds (VOCs) emitted by plants, particularly in response to MeJA treatment. However, there is no direct discussion of their specific relationship or interaction. They are part of a broader analysis of terpenes and other VOCs in treated versus control plants, indicating they may share a common pathway in plant metabolism but lack detailed interaction evidence.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "methylheptenone",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_methylheptenone_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "sabinene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "sabinene",
+                        "label": "sabinene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_sabinene_Materials and method.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene and sabinene are both mentioned in the context of terpene synthases and their sequence comparisons in various plant species. However, the context does not provide specific information about their functional relationship or interactions. They are part of a broader discussion on monoterpene and sesquiterpene synthases, indicating they belong to the same category of compounds but lack direct relevance to each other in this context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "sabinene",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_sabinene_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "nerolidol": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "nerolidol",
+                        "label": "nerolidol",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_nerolidol_Materials and method.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene and nerolidol are both terpenes mentioned in the context of a sequence comparison of terpene synthases from various plant species. The context highlights the alignment of sequences related to different terpene synthases, including those that produce nerolidol. While they are part of the same biochemical pathway, the specific relationship or interaction between these two compounds is not elaborated upon in detail.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "nerolidol",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_nerolidol_Materials and method.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "jasmonate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "jasmonate",
+                        "label": "jasmonate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_jasmonate_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene and jasmonate are related through their roles in plant defense mechanisms and signaling pathways. The context discusses the emission of volatile organic compounds (VOCs) in response to methyl jasmonate (MeJA) treatment, which includes jasmonate as a signaling molecule. The presence of (3e)-3,7-dimethylocta-1,3,6-triene among the emitted compounds suggests it may play a role in the plant's response to stress, potentially acting in concert with jasmonate to enhance defense against pathogens like G. cichoracearum.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "jasmonate",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_jasmonate_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "gene induction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "gene induction",
+                        "label": "gene induction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_gene induction_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is mentioned in the context of plant responses to pathogens, specifically regarding the induction of genes related to defense mechanisms. The study indicates that pre-treatment with this compound, along with others like MeJA and (E)-2-hexenal, leads to significant changes in the expression of genes associated with reducing the severity of powdery mildew infections. This suggests a direct relationship between the volatile compound and the induction of defense-related genes in tobacco plants.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "gene induction",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_gene induction_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Drug Interactions": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Drug Interactions",
+                        "label": "Drug Interactions",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Drug Interactions_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene, specifically in the form of (E)-β-ocimene, is mentioned in the context of plant responses to infection and stress, but there is no direct discussion of drug interactions. The focus is on the emission of this compound from treated plants and its potential role in stress-related gene activation. While drug interactions may be relevant in a broader context, they are not specifically addressed in relation to (3e)-3,7-dimethylocta-1,3,6-triene in this study.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Drug Interactions",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_Drug Interactions_Results and discussi.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "volatile substances": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "volatile substances",
+                        "label": "volatile substances",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_volatile substances_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene, specifically the (E)-β-ocimene isomer, is identified as a volatile substance that plays a role in plant signaling and defense mechanisms. It is emitted by plants in response to herbivore damage, influencing neighboring plants' defense responses. This highlights the functional significance of (3e)-3,7-dimethylocta-1,3,6-triene as a volatile compound involved in ecological interactions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_volatile substances_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is identified as one of the volatile organic compounds (VOCs) emitted from tobacco plants treated with methyl jasmonate (MeJA) in response to powdery mildew infection. This compound, along with other terpenes, plays a role in plant defense and signaling, indicating its classification as a volatile substance. The study highlights the significance of these emissions in the context of plant responses to biotic stress.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "volatile substances",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_volatile substances_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "volatile substances",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_volatile substances_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Gene Expression": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Gene Expression",
+                        "label": "Gene Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Gene Expression_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene, specifically (E)-β-ocimene, is a volatile compound produced in response to herbivore damage in plants, indicating a relationship with gene expression. The context suggests that the low levels of (E)-β-ocimene in undamaged plants may be due to low constitutive gene expression. This implies that gene expression plays a crucial role in the biosynthesis of this compound in response to environmental stressors.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Gene Expression_Conclusions.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene, identified as (E)-β-ocimene, is linked to gene expression through the regulation of terpene synthase gene expression in M. truncatula. The study indicates that herbivore damage leads to increased volatile release, which correlates with the accumulation of transcripts for the MtEBOS gene, suggesting that gene expression is crucial for terpene production in response to environmental stressors like wounding.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Gene Expression",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Gene Expression_Results and discussi.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Gene Expression_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "lipoxygenase pathway": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "lipoxygenase pathway",
+                        "label": "lipoxygenase pathway",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573",
+                        "label": "Role of pathogen-induced volatiles in the Nicotiana tabacum-Golovinomyces cichoracearum interaction.\nM. Quaglia, M. Fabrizi, A. Zazzerini, C. Zadra\nPlant Physiol. Biochem. 2012 Mar;52:9-20.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22305063"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_lipoxygenase pathway_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is not directly mentioned in the context, but the lipoxygenase pathway is referenced through the emission of (E)-2-hexenal, a derivative of this pathway. The context discusses the volatile organic compounds (VOCs) emitted by tobacco plants in response to infection, highlighting the role of the lipoxygenase pathway in producing certain VOCs. However, the specific relationship between (3e)-3,7-dimethylocta-1,3,6-triene and the lipoxygenase pathway is not established, as the former compound is not explicitly linked to the pathway's activity or products in the provided information.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "lipoxygenase pathway",
+                        "target": "259573",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259573",
+                        "target": "259573_(3e)-3,7-dimethylocta-1,3,6-triene_lipoxygenase pathway_Results and discussi.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Regulation": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Regulation",
+                        "label": "Regulation",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Regulation_Conclusions.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene, a terpene, is mentioned in the context of its regulation at the transcript level in response to wounding and herbivore factors in M. truncatula. The study highlights the importance of gene expression regulation in the production of terpenes, indicating a direct relationship between the compound and its regulatory mechanisms during stress responses in plants.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Regulation",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Regulation_Conclusions.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Signal Transduction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Signal Transduction",
+                        "label": "Signal Transduction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Signal Transduction_Results and discussi.json",
+                        "label": "In this context, (3e)-3,7-dimethylocta-1,3,6-triene, specifically the volatile compound (E)-β-ocimene, is implicated in plant signaling and defense mechanisms. It plays a role in signal transduction by activating ethylene release and defense-related gene expression in uninfested plants when they perceive volatiles from damaged neighbors. This indicates a significant relationship between the compound and the process of signal transduction in plant defense responses.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Signal Transduction",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_Signal Transduction_Results and discussi.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "monoterpene synthase": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "monoterpene synthase",
+                        "label": "monoterpene synthase",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_monoterpene synthase_Results and discussi.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene is mentioned in the context of monoterpene synthases, specifically in relation to the enzymatic activity of (E)-β-ocimene synthase. The discussion highlights the conservation of certain motifs in terpene synthases and compares the sequence of MtEBOS with other known monoterpene synthases. While (3e)-3,7-dimethylocta-1,3,6-triene is not directly linked to a specific monoterpene synthase activity, it is part of a broader analysis of terpene synthase functions and their evolutionary relationships.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "monoterpene synthase",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_monoterpene synthase_Results and discussi.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "4S-limonene synthase": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "4S-limonene synthase",
+                        "label": "4S-limonene synthase",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587",
+                        "label": "Medicago truncatula (E)-beta-ocimene synthase is induced by insect herbivory with corresponding increases in emission of volatile ocimene.\nWG. Navia-Giné, JS. Yuan, A. Mauromoustakos, JB. Murphy, F. Chen, KL. Korth\nPlant Physiol. Biochem. 2009 May;47(5):416-25.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/19249223"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_4S-limonene synthase_Materials and method.json",
+                        "label": "(3e)-3,7-dimethylocta-1,3,6-triene and 4S-limonene synthase are related through their involvement in the biosynthesis of terpenes. The context discusses various monoterpene synthases, including 4S-limonene synthase, which is responsible for synthesizing limonene, a compound that can be derived from (3e)-3,7-dimethylocta-1,3,6-triene. This indicates a biochemical pathway where (3e)-3,7-dimethylocta-1,3,6-triene may serve as a substrate or intermediate in the enzymatic reactions catalyzed by 4S-limonene synthase, linking them in the context of terpene biosynthesis.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "4S-limonene synthase",
+                        "target": "259587",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "259587",
+                        "target": "259587_(3e)-3,7-dimethylocta-1,3,6-triene_4S-limonene synthase_Materials and method.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

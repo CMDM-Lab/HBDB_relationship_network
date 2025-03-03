@@ -1,0 +1,10 @@
+{
+    "context": "[4] Incubation of membranes with sublytic amounts of digitonin according to the procedure of Amar-Costesec et al.  improved separation of PMs from other membranes (Fig. 2). [5] Both concentrations of digitonin tested resulted in similar changes in distribution of marker activity and protein content. [1] Enrichment of PMs from 150 mg of cortex of mouse brain. [2] Crude membranes resulting from extensive blending of tissue in high salt, high pH, and 4 m urea were either treated with 2 (light gray lines and bars) and 4 mg/ml (dark gray lines and bars) digitonin or nontreated with the detergent (black lines and bars) and separated in Percoll density gradients. [3] The gradients were fractionated, and the fractions were assayed for \u00ce\u00b3-glutamyl transpeptidase activity and protein content. [4] The data are mean values from four independent experiments. [5] A shows the distribution of the PM marker activity. ",
+    "term_A": "urea",
+    "term_B": "Detergents",
+    "llm_generation": {
+        "summary": "In this context, urea is mentioned as part of a crude membrane preparation process involving high salt and high pH conditions, while detergents, specifically digitonin, are used to treat these membranes for separation purposes. However, there is no direct discussion of how urea interacts with detergents or their combined effects on membrane properties, indicating a lack of a significant relationship between the two terms.",
+        "reason": "The score of 2 reflects an indirect connection, as urea is part of the membrane preparation process where detergents are also used, but their specific relationship or interaction is not elaborated upon in the context.",
+        "score": 2
+    }
+}

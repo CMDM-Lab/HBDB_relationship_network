@@ -1,0 +1,10 @@
+{
+    "context": "1,1,2-Trichloroethane, 1,1-dichloroethylene, chloromethane, 1,1,2,2-tetrachloroethane, 1,2-dicloroethane and vinyl chloride were found in only a very few points while hexachlorobutadiene was never found. In conclusion, the presence of VOCs in Sicilian groundwaters is influenced by anthropogenic activity. In fact, the concentration of the VOCs measured with the proposed monitoring, SPME based method, exceeded the guideline values proposed by the EC in only three aquifers, all three of which are located close to industrial and intense agricultural areas. Perchloroethylene (PCE) is an aliphatic, halogenated hydrocarbon used commercially in dry cleaning, textile processing, and metal cleaning operations. Due to its wide variety of uses and prevalence in air and in ground water near industrial sites, exposure can occur through inhalation as well as through ingestion from contaminated water sources. PCE and other volatile organic compounds (VOCs) primarily affect the central nervous system due to their high lipophilicity. Thus, information regarding the neurotoxicity of PCE is important to risk assessors and agencies regulating this and other VOCs. ",
+    "term_A": "1,1,2,2-tetrachloroethene",
+    "term_B": "Aliphatic hydrocarbon",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2,2-tetrachloroethene is mentioned as a volatile organic compound (VOC) alongside other chlorinated hydrocarbons. While it is categorized under halogenated hydrocarbons, the term 'aliphatic hydrocarbon' generally refers to a broader class of hydrocarbons that do not contain halogens. The relationship is weak as the context does not provide specific interactions or relevance between 1,1,2,2-tetrachloroethene and aliphatic hydrocarbons, focusing instead on the environmental impact of VOCs.",
+        "reason": "The score of 2 reflects an indirect connection, as both terms relate to hydrocarbons but lack detailed discussion of their relationship or specific interactions in the context provided.",
+        "score": 2
+    }
+}

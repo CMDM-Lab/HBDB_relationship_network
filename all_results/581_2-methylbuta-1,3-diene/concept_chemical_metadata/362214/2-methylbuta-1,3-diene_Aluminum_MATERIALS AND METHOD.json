@@ -1,0 +1,10 @@
+{
+    "context": "[5] The data were analyzed by a least squares fit described by , and the error bars on the photoacoustic data give the uncertainty of the fit. [6] All measurements were made at 30\u00c2\u00b0C (except for heatfleck measurements) and 1,000 \u00ce\u00bcmol m\u00e2\u02c6\u20192 s\u00e2\u02c6\u20191 light. [7] After turning on light, basal isoprene emission rate was determined before adding exogenous DOX-d2. [8] After isoprene-d2 reached its constant level, leaves were removed from the chamber and quickly frozen in liquid nitrogen and stored in liquid nitrogen (covered by aluminum foil) until they were used for DMAPP assays. [1] For determining the DMAPP amount, we used the method of ; briefly, leaf tissue was ground in liquid nitrogen and afterward distilled water was added. [2] The samples were then centrifuged in a microfuge for 15 min at 4\u00c2\u00b0C. [3] The supernatant was injected into a glass vial already filled with sulfuric acid (8 m), flushed with gaseous nitrogen, and sealed. ",
+    "term_A": "2-methylbuta-1,3-diene",
+    "term_B": "Aluminum",
+    "llm_generation": {
+        "summary": "In this context, 2-methylbuta-1,3-diene (isoprene) and aluminum are mentioned in a study involving leaf tissue analysis and photoacoustic measurements. However, there is no direct interaction or relationship discussed between isoprene and aluminum. The mention of aluminum appears incidental, as it is used to cover samples during storage, without any implication of a chemical or biological interaction with isoprene.",
+        "reason": "The score of 1 reflects a very low relationship, as 2-methylbuta-1,3-diene and aluminum are mentioned in the same context but without any direct relevance or interaction between them.",
+        "score": 1
+    }
+}

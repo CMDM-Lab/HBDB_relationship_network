@@ -1,0 +1,10 @@
+{
+    "context": "A simplification inherent in the base problem geometry is that the domain consists of a single stratigraphic unit, albeit with a heterogeneous permeability structure. Scenarios 4 and 5 involve adding a low permeability clay layer between the water table and foundation slab within the vadose zone, as depicted on Figs. 1b and 2. Otherwise, the permeability structure of the domain remains unchanged relative to the base scenario. Scenarios 4 and 5 differ in that the infiltration rate is increased from 0 to 0.2m/year to investigate the impact of water saturation within the clay layer on the fate and transport of TCE through the vadose zone. For scenario 4 when infiltration is 0m/year, the water saturation of the clay layer is S q =0.90 due to its close proximity to the capillary fringe and high air entry pressure P cgq (S q =1)=10.11kPa . At this water saturation, the Darcy flux of the gas phase (see Eq.\u00a0(2)) is reduced as k rg (S g =0.10)=0.43 effectively diminishing the advective flux of TCE in the gas phase between the top of the capillary fringe and the base of the foundation slab. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Infiltration",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is discussed in relation to infiltration rates within a stratigraphic unit that includes a low permeability clay layer. The study investigates how varying infiltration rates affect water saturation and the transport of TCE through the vadose zone. Increased infiltration rates are hypothesized to influence the movement of TCE, highlighting a connection between infiltration dynamics and the fate of this contaminant in the environment.",
+        "reason": "The score of 4 reflects a significant connection between TCE and infiltration, as the study examines how changes in infiltration rates impact the transport of TCE. The context provides evidence of this relationship through the analysis of water saturation and Darcy flux, indicating a clear interaction.",
+        "score": 4
+    }
+}

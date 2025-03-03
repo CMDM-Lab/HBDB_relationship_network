@@ -1,0 +1,10 @@
+{
+    "context": "Thus, several replicate experiments (typically 4 or 5 replicates) were performed under different conditions (no moisture and I ave=3\u00d710\u221210 ein/cm2 s). The relative standard deviation (RSD) varied from 0.8 (for CTC in air at 80ppm) to 15% (for chloroform in air at 1340ppm). As can be expected, the largest error was encountered for experiments with high concentrations when chain reactions occur. Typically, the experiments with CTC always exhibited good reproducibility, while the relative error was larger for experiments with chloroform and TCE.Intermediate products of VOC photodegradation In order to evaluate the gas phase mechanisms of chlorinated VOC oxidation, reaction mixtures were analyzed by GC-MS. In N2, hexachloroethane was identified as one of the intermediates for both chloroform and CTC. Pentachloroethane and CTC were also detected in the photodegradation of chloroform in nitrogen. Based on a careful review of previous studies and the current results, the following reactions are proposed for chloroform degradation in N2  ; (32) CHCl 2 +CCl 3 \u2192C 2 HCl 5, (33) C 2 HCl 5+Cl \u2192C 2 Cl 5 +HCl, (34) C 2 Cl 5 +Cl \u2192C 2 Cl 6, (36) CCl 3 +Cl \u2192CCl 4, (37) CCl 3 +CCl 3 \u2192C 2 Cl 6. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "Oxidation",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (CTC) is discussed in relation to its oxidation processes during photodegradation experiments. The study analyzes the gas phase mechanisms of chlorinated volatile organic compounds (VOCs) like CTC, focusing on the identification of intermediate products formed during oxidation reactions. However, the specific oxidation pathways or mechanisms for CTC are not detailed, limiting the depth of the relationship.",
+        "reason": "The score of 3 reflects a moderate relevance, as 1,1,2-trichloroethene is involved in oxidation reactions during its photodegradation, but the context lacks detailed exploration of the specific oxidation mechanisms or effects related to CTC.",
+        "score": 3
+    }
+}

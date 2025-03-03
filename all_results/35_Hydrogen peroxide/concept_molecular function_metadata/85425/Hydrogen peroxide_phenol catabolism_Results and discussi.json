@@ -1,0 +1,10 @@
+{
+    "context": "Similarly to the effect of 2-CP concentration, two ranges of evolution were detected on both curves. First, in the range from 0.5 to 6\u00a0mM, a significant amount of 2-CP was degraded by BRP-CLEAs and maximal conversion (31%) was obtained at an initial rate of 0.247\u00a0mg\u00a0L\u22121\u00a0min\u22121. A dramatic decrease of the rate and the yield of conversion were then observed beyond 6\u00a0mM of H2O2. This phenomenon was also encountered during phenol degradation by peroxidases, as a consequence of the partial inactivation of peroxidases due to the excess of hydrogen peroxide (B\u00f3dalo et\u00a0al., 2008; Deva et\u00a0al., 2014).Effect of the BRP-CLEAs activity Generally, increasing the enzyme amount in the reaction medium has a significant direct effect on the rate of reaction. The influence of this parameter on 2-CP removal was investigated by varying BRP-CLEAs activity from 0.5 to 3\u00a0UI\u00a0mL\u22121. Experiments were conducted under optimal conditions (2-CP\u00a0=\u00a080\u00a0mg\u00a0L\u22121; H2O2\u00a0=\u00a06\u00a0mM; contact time\u00a0=\u00a0100\u00a0min). Fig.\u00a04 demonstrates the effect of BRP-CLEAs activity on 2-CP degradation process. ",
+    "term_A": "Hydrogen peroxide",
+    "term_B": "phenol catabolism",
+    "llm_generation": {
+        "summary": "In this context, hydrogen peroxide (H2O2) is implicated in the degradation of phenol, specifically through the activity of peroxidases. The study indicates that while H2O2 can enhance the degradation of phenol at lower concentrations, excessive amounts lead to a decrease in the rate and yield of phenol catabolism due to the inactivation of peroxidases. This highlights a critical balance in the concentration of H2O2 for effective phenol degradation.",
+        "reason": "The score of 4 reflects a significant connection between hydrogen peroxide and phenol catabolism, as the context provides evidence of H2O2's role in the enzymatic degradation process and its detrimental effects at higher concentrations, indicating a clear relationship.",
+        "score": 4
+    }
+}

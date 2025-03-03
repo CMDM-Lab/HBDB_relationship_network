@@ -1,0 +1,10 @@
+{
+    "context": "N-hexane was associated with increased risk for asthmatics in the second trimester (28%) and whole pregnancy for asthmatics (54%) and non-asthmatics (28%). Methyl ethyl ketone increased risk 23\u201324% for all pregnancy windows only among women with asthma. For m-xylene and p-xylene, all windows had significantly elevated risks (20\u201362%) for asthmatics but only whole pregnancy exposure increased risk for non-asthmatics (25\u201333%). The pattern of preeclampsia risk was similar for o-xylene but the magnitude of increase was smaller than with the other xylene compounds. Propene increased risk only for asthmatics in the first trimester (15%) and after whole pregnancy exposure (17%). Sesquiterpene increased preeclampsia risk for asthmatics (16%) after first trimester exposure and after second trimester exposure in non-asthmatics (6%). Toluene in all pregnancy time windows increased risk among asthmatics (31\u201338%) but only increased preeclampsia risk in non-asthmatics after second trimester exposure (14%). ",
+    "term_A": "Sulfur dioxide",
+    "term_B": "Pre-Eclampsia",
+    "llm_generation": {
+        "summary": "In this context, sulfur dioxide is not directly mentioned in relation to pre-eclampsia. The focus is on various volatile organic compounds (VOCs) and their associated risks for pre-eclampsia among asthmatic and non-asthmatic women during pregnancy. While the study discusses the impact of other compounds, sulfur dioxide's specific effects on pre-eclampsia are not addressed, indicating a lack of direct relationship.",
+        "reason": "The score of 1 reflects that sulfur dioxide and pre-eclampsia are mentioned in the same context, but there is no discussion or evidence of their relationship. They appear coincidentally without any direct relevance.",
+        "score": 1
+    }
+}

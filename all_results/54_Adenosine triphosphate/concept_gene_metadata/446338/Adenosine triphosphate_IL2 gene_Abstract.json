@@ -1,0 +1,10 @@
+{
+    "context": "[3] However, the sources of the ATP that drives this process are not known. [4] We found that stimulation of T cells triggers a spike in cellular ATP production that doubles intracellular ATP levels in <30 s and causes prolonged ATP release into the extracellular space. [5] Cell stimulation triggered rapid mitochondrial Ca2+ uptake, increased oxidative phosphorylation, a drop in mitochondrial membrane potential (\u00ce\u201d\u00cf\u02c6m), and the accumulation of active mitochondria at the immune synapse of stimulated T cells. [6] Inhibition of mitochondria with CCCP, KCN, or rotenone blocked intracellular ATP production, ATP release, intracellular Ca2+ signaling, induction of the early activation marker CD69, and IL-2 transcription in response to cell stimulation. [7] These findings demonstrate that rapid activation of mitochondrial ATP production fuels the purinergic signaling mechanisms that regulate T cells and define their role in host defense. [1] Critically ill patients often develop profound immunosuppression and nosocomial infections due to impaired T cell function . [2] However, the underlying mechanisms leading to T cell dysfunction have remained unclear . ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "IL2 gene",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is crucial for T cell activation and the transcription of the IL-2 gene. The stimulation of T cells leads to a rapid increase in ATP levels, which is essential for various cellular processes, including the induction of IL-2 transcription. Inhibition of mitochondrial ATP production disrupts this process, indicating that ATP is a key regulator of IL-2 expression in T cells, linking energy metabolism to immune function.",
+        "reason": "The score of 4 reflects a significant connection between ATP and the IL-2 gene, as ATP production is directly linked to the transcription of IL-2 in T cells. The context provides evidence of this relationship through experimental findings, highlighting the importance of ATP in immune signaling.",
+        "score": 4
+    }
+}

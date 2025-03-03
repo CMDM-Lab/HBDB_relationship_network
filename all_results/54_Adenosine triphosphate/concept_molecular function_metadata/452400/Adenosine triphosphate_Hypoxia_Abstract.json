@@ -1,0 +1,10 @@
+{
+    "context": "[4] Fax: 34-985103157. [5] E-mail: parra{at}biosun.medicina.uniovi.es. [1] Mitochondria are confronted with low oxygen levels in the microenvironment within tissues; yet, isolated mitochondria are routinely studied under air-saturated conditions that are effectively hyperoxic, increase oxidative stress, and may impair mitochondrial function. [2] Under hypoxia, on the other hand, respiration and ATP supply are restricted. [3] Under these conditions of oxygen limitation, any compromise in the coupling of oxidative phosphorylation to oxygen consumption could accentuate ATP depletion, leading to metabolic failure. [4] To address this issue, we have developed the approach of oxygen-injection microcalorimetry and ADP-injection respirometry for evaluating mitochondrial function at limiting oxygen supply. [5] Whereas phosphorylation efficiency drops during ADP limitation at high oxygen levels, we show here that oxidative phosphorylation is more efficient at low oxygen than at air saturation, as indicated by higher ratios of ADP flux to total oxygen flux at identical submaximal rates of ATP synthesis. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Hypoxia",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) and hypoxia are closely related through the impact of low oxygen levels on mitochondrial function. Under hypoxic conditions, ATP production is compromised due to restricted respiration, leading to ATP depletion and potential metabolic failure. The study highlights the importance of understanding ATP synthesis efficiency in relation to oxygen availability, indicating that mitochondrial function can be more efficient at low oxygen levels compared to hyperoxic conditions.",
+        "reason": "The score of 4 reflects a significant connection between ATP and hypoxia, as the context discusses how hypoxia directly affects ATP production and mitochondrial function, supported by evidence of efficiency changes in oxidative phosphorylation under varying oxygen levels.",
+        "score": 4
+    }
+}

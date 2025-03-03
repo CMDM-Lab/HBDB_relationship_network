@@ -1,0 +1,10 @@
+{
+    "context": "Similarly, the instantaneous state population fractions, denoted M(t), Mp(t), AMp(t), and AM(t), were computed from the zeroth spatial moment of the number state distributions. In steady state, \u3008M\u3009, \u3008Mp\u3009, \u3008AMp\u3009, and \u3008M\u3009 denote the respective average values over one period. During isometric force development instantaneous force is explicitly computed from n(x, t). The rate of ATP consumption was separately computed for each of the four transition processes indicated in Fig. 1: the detachment of Mp from AMp: {formula not available us MathML} the detachment of M from AM: {formula not available us MathML} the phosphorylation of M: {formula not available us MathML} and the phosphorylation of AM: {formula not available us MathML} The total ATP consumption rate (denoted ATPtot in the figures) is the sum of these four terms. The cyclic rate of ATP consumption (denoted ATPcycl in the figures) is designated as that component associated only with bridge detachments, i.e., the sum of the first two terms above. In particular, in steady state, the average (over one period) cross-bridge cycling rate is proportional to the average ATPcycl. Average fractional phosphorylation of myosin was calculated as \u3008Mp\u3009+\u3008AMp\u3009. ",
+    "term_A": "Adenosine triphosphate",
+    "term_B": "Process",
+    "llm_generation": {
+        "summary": "In this context, adenosine triphosphate (ATP) is crucial for various processes, particularly in muscle contraction and energy metabolism. The text discusses the computation of ATP consumption rates associated with different transition processes during isometric force development. ATP is directly linked to the energy required for these processes, indicating its fundamental role in cellular and muscular functions.",
+        "reason": "The score of 4 reflects a significant connection between ATP and the processes described, as ATP consumption is explicitly calculated for multiple transition processes, demonstrating its critical role in energy metabolism and muscle function.",
+        "score": 4
+    }
+}

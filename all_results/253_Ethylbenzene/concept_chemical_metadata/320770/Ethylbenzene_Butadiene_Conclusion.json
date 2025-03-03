@@ -1,0 +1,10 @@
+{
+    "context": "Higher T/B ratio (5.5) was found in Causeway Bay than in other urban areas, while T/B ratio of 1.2 was found in Hok Tsui. The concentrations of VOCs at five urban sites in Hong Kong were quantified by using canister with GC/MS system in accordance with the US EPA Method TO-14. The accuracies of VOCs analysis were validated with quality assurance and quality control (QA/QC) procedures. VOCs (1,3-butadiene, methylene chloride, chloroform, trichloroethene, tetrachloroethene, 1,1,1-trichloroethane, benzene, toluene, ethylbenzene, m,p-xylene, o-xylene and styrene) were identified at roadside urban areas in Hong Kong. The concentrations of VOCs ranged from undetectable to 1396 \u03bcg/m3. Among all of the VOC species, toluene has the highest concentration. High concentrations of chlorinated compounds were found at Kwai Chung where it is located in an industrial area with industrial emissions. ",
+    "term_A": "Ethylbenzene",
+    "term_B": "Butadiene",
+    "llm_generation": {
+        "summary": "In this context, ethylbenzene and butadiene are both identified as volatile organic compounds (VOCs) present in urban air samples collected in Hong Kong. However, the text does not provide any specific information about their relationship, interactions, or comparative significance. They are mentioned alongside other VOCs, indicating their presence in the same environmental study but lacking any direct connection or functional relationship.",
+        "reason": "The score of 2 reflects an indirect connection, as both ethylbenzene and butadiene are categorized as VOCs analyzed in the same study. However, there is no detailed discussion of their interactions or specific relevance to each other.",
+        "score": 2
+    }
+}

@@ -1,0 +1,908 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Methanamine",
+                    "label": "Methanamine",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanamine",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanamine",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanamine",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanamine",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanamine",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Methanamine",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanamine",
+                        "label": "Methanamine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Alkalemia",
+                        "label": "Alkalemia",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "Alkalemia",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanamine",
+                        "label": "Methanamine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Alkalies",
+                        "label": "Alkalies",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Amines",
+                        "label": "Amines",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "methylamine",
+                        "label": "methylamine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "methylamine hydrochloride",
+                        "label": "methylamine hydrochloride",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "WATER,DISTILLED",
+                        "label": "WATER,DISTILLED",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "Alkalies",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "Amines",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "methylamine",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "methylamine hydrochloride",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "WATER,DISTILLED",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanamine",
+                        "label": "Methanamine",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "methionine catabolism",
+                        "label": "methionine catabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Permissiveness, Biological Function",
+                        "label": "Permissiveness, Biological Function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Alkalinization",
+                        "label": "Alkalinization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "Adjudication",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "methionine catabolism",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "Permissiveness, Biological Function",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "Alkalinization",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Methanamine",
+                        "target": "inhibitors",
+                        "score": 7
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanamine",
+                        "label": "Methanamine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanamine",
+                        "label": "Methanamine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Methanamine",
+                        "label": "Methanamine",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "Alkalemia": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Alkalemia",
+                        "label": "Alkalemia",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_Alkalemia_Discussion.json",
+                        "label": "In this context, methanamine is discussed in relation to its potential antimicrobial activity and metabolic pathways in the bacterium P. haloplanktis TAC125. However, there is no direct mention or exploration of alkalemia, which refers to a condition of increased blood pH. The relationship between methanamine and alkalemia is not established, as the focus is primarily on the metabolic processes and antimicrobial properties of methanamine without linking it to pH changes or alkalemia.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_Alkalemia_Results.json",
+                        "label": "In this context, methanamine is mentioned in relation to its effects on the growth of Bcc strains in alkaline pH conditions. While the study evaluates the growth of these strains at various pH levels, including alkaline conditions, there is no direct discussion of alkalemia, which refers to an excess of base in the body fluids. The relationship between methanamine and alkalemia is not explicitly established, as the focus is on microbial growth rather than physiological pH imbalances.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Alkalemia",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_Alkalemia_Discussion.json",
+                        "score": 1
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_Alkalemia_Results.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Alkalies": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Alkalies",
+                        "label": "Alkalies",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_Alkalies_Results.json",
+                        "label": "In this context, methanamine is discussed in relation to its effect on the pH of the growth medium, which is relevant to the concept of alkalies. The treatment with methylamine raises the pH of the medium, indicating a shift towards more alkaline conditions. However, the relationship is not deeply explored, as the study primarily focuses on the growth of Bcc strains at various pH levels rather than a direct interaction between methanamine and alkalies. The inhibition of bacterial growth by methylamine appears to be independent of the pH changes induced.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Alkalies",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_Alkalies_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Amines": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Amines",
+                        "label": "Amines",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_Amines_Discussion.json",
+                        "label": "In this context, methanamine is identified as a specific type of amine that may be produced during the catabolism of L-methionine in P. haloplanktis TAC125. The study highlights the potential antimicrobial properties of methylamine, a derivative of methanamine, suggesting a functional relationship where methanamine contributes to the broader category of amines with biological activity. However, the focus is primarily on methylamine rather than a detailed exploration of its relationship with other amines.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Amines",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_Amines_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "methylamine": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "methylamine",
+                        "label": "methylamine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_methylamine_Material and methods.json",
+                        "label": "In this context, methanamine and methylamine are closely related as methylamine is a derivative of methanamine. The experiment involves the use of methylamine hydrochloride to generate gaseous methylamine, which is then tested on Burkholderia cepacia complex strains. This indicates a direct chemical relationship where methylamine is utilized in the study, highlighting its relevance in the experimental setup.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_methylamine_Introduction.json",
+                        "label": "In this context, methanamine and methylamine are related as methylamine is identified as a volatile organic compound (VOC) produced by the bacterium P. haloplanktis TAC125 when grown in a medium enriched with L-methionine. While methanamine is not explicitly mentioned as a product, it is structurally related to methylamine, suggesting a potential connection in the metabolic pathways involved in VOC production. However, the focus is primarily on methylamine's antimicrobial activity against Bcc strains, with methanamine's role remaining unclear.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_methylamine_Results.json",
+                        "label": "In this context, methanamine and methylamine are related as both are amines that can influence the growth of Bcc strains. The study discusses the sensitivity of Bcc strains to methylamine, indicating that while some strains can grow at alkaline pH levels, they are inhibited by methylamine regardless of pH. This suggests a potential interaction between these two compounds in terms of microbial growth inhibition, although methanamine is not explicitly mentioned as being tested in the same capacity.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_methylamine_Discussion.json",
+                        "label": "In this context, methanamine and methylamine are related as both are amines, but the focus is primarily on methylamine's antimicrobial properties against Bcc strains. While methanamine is not explicitly discussed, its structural similarity to methylamine suggests potential relevance. However, the context does not provide a direct interaction or comparison between the two compounds, limiting the strength of their relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "methylamine",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_methylamine_Material and methods.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_methylamine_Introduction.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_methylamine_Results.json",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_methylamine_Discussion.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "methylamine hydrochloride": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "methylamine hydrochloride",
+                        "label": "methylamine hydrochloride",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_methylamine hydrochloride_Material and methods.json",
+                        "label": "In this context, methanamine and methylamine hydrochloride are directly related through a chemical reaction process. Methylamine hydrochloride serves as a precursor to generate gaseous methylamine via an acid-base reaction with sodium hydroxide. The amount of methylamine produced is quantitatively linked to the amount of methylamine hydrochloride used, indicating a clear functional relationship between the two compounds in the experimental setup.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "methylamine hydrochloride",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_methylamine hydrochloride_Material and methods.json",
+                        "score": 5
+                    }
+                }
+            ]
+        },
+        "WATER,DISTILLED": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "WATER,DISTILLED",
+                        "label": "WATER,DISTILLED",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_WATER,DISTILLED_Material and methods.json",
+                        "label": "In this context, methanamine is produced through a chemical reaction involving methylamine hydrochloride and sodium hydroxide, with distilled water serving as a solvent for the methylamine hydrochloride. The distilled water is essential for dissolving the salt to facilitate the generation of gaseous methylamine, indicating a functional relationship where water is a necessary component in the preparation of methanamine for the experiment.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "WATER,DISTILLED",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_WATER,DISTILLED_Material and methods.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Adjudication": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Adjudication",
+                        "label": "Adjudication",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_Adjudication_Material and methods.json",
+                        "label": "In this context, methanamine is discussed in relation to its synthesis and identification through gas chromatography-mass spectrometry (GC-MS) techniques, particularly focusing on its role in determining the Minimum Volatile Inhibitory Concentration (MVIC) for certain bacterial strains. However, there is no mention or connection to 'adjudication,' which typically refers to a legal process or decision-making, indicating a lack of relevance between the two terms.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Adjudication",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_Adjudication_Material and methods.json",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        "methionine catabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "methionine catabolism",
+                        "label": "methionine catabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_methionine catabolism_Discussion.json",
+                        "label": "In this context, methanamine is indirectly related to methionine catabolism through the metabolic pathways of P. haloplanktis TAC125. The study indicates that L-methionine addition leads to the production of methylamine, suggesting that methionine catabolism may involve novel metabolic routes that result in methylamine synthesis. However, the specific relationship between methanamine and methionine catabolism is not explicitly detailed, indicating a more exploratory connection.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "methionine catabolism",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_methionine catabolism_Discussion.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Permissiveness, Biological Function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Permissiveness, Biological Function",
+                        "label": "Permissiveness, Biological Function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_Permissiveness, Biological Function_Results.json",
+                        "label": "In this context, methanamine is discussed in relation to its inhibitory effects on the growth of Bcc strains, suggesting a potential biological function related to growth permissiveness. The study indicates that while some strains can grow at alkaline pH levels, their growth is inhibited by methanamine, implying that the compound may affect the permissiveness of the growth environment for these bacteria. However, the exact biological function of methanamine in this context remains unclear, as it does not directly correlate with pH tolerance.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Permissiveness, Biological Function",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_Permissiveness, Biological Function_Results.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Alkalinization": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Alkalinization",
+                        "label": "Alkalinization",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_Alkalinization_Results.json",
+                        "label": "In this context, methanamine is linked to the process of alkalinization of the growth medium. The study indicates that exposure to methanamine leads to an increase in the pH of the TYP liquid medium, suggesting that methanamine can induce alkalinization. This change in pH may influence the growth inhibition of certain bacteria, highlighting a significant relationship between methanamine exposure and the alkalinization effect on the medium.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Alkalinization",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_Alkalinization_Results.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "inhibitors": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214",
+                        "label": "Pseudoalteromonas haloplanktis produces methylamine, a volatile compound active against Burkholderia cepacia complex strains.\nF. Sannino, E. Parrilli, GA. Apuzzo, D. de Pascale, P. Tedesco, I. Maida, E. Perrin, M. Fondi, R. Fani, G. Marino, ML. Tutino\nN Biotechnol 2017 Mar;35:13-18.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/27989956"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_inhibitors_Results.json",
+                        "label": "In this context, methanamine is evaluated for its role as an inhibitor of bacterial growth, specifically against B. cenocepacia strains. The study investigates the Minimum Volatile Inhibitory Concentration (MVIC) of methanamine, demonstrating its effectiveness in inhibiting bacterial growth at certain concentrations. This indicates a direct relationship where methanamine acts as an inhibitor, affecting the growth of specific bacterial strains.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "248214_Methanamine_inhibitors_Material and methods.json",
+                        "label": "In this context, methanamine is discussed in relation to its role as a volatile compound, specifically methylamine, which is synthesized and tested for its inhibitory effects on bacterial strains. The term 'inhibitors' refers to the Minimum Volatile Inhibitory Concentration (MVIC) of methylamine, indicating its potential to inhibit bacterial growth. However, the relationship is primarily focused on the measurement of inhibition rather than a detailed exploration of how methanamine functions as an inhibitor.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "248214",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_inhibitors_Results.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "248214",
+                        "target": "248214_Methanamine_inhibitors_Material and methods.json",
+                        "score": 3
+                    }
+                }
+            ]
+        }
+    }
+}

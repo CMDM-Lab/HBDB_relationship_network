@@ -1,0 +1,10 @@
+{
+    "context": "The temperature of the experimental set-up was maintained at 30(\u00b13)\u00b0C using a thermoregulated chamber. Experiments were performed in triplicate. The wire-mesh boxes containing the solid support were inoculated with 30\u00a0mL of a MSM suspension of active mycelium (fungal biomass) at an initial concentration of 0.35 gbiomass L\u22121 (equivalent to 3.28 mgbiomass g\u22121 dry vermiculite). The reactors were supplied with 30\u00a0g\u00a0m\u22123 of n-pentane in the air headspace as the only carbon and energy source and were operated batch wise for 30 days. The fungal inoculum was previously grown for three weeks at 30\u00a0\u00b0C in MSM containing potato dextrose agar (2.0\u00a0g\u00a0L\u22121) and glycerol (1.0\u00a0g\u00a0L\u22121) (Vergara-Fern\u00e1ndez et\u00a0al., 2011a). Continuous n-pentane feeding under sterile conditions was initiated when fungal growth achieved the stationary phase by day 30, which was inferred by the negligible CO2 production and the presence of a high aerial biomass density. Before the onset of n-pentane feeding, 5\u00a0mL of MSM was supplemented in order to maintain the microbial activity while limiting the growth of biomass. ",
+    "term_A": "Pentane",
+    "term_B": "Carbon",
+    "llm_generation": {
+        "summary": "In this context, pentane is utilized as the sole carbon and energy source for fungal biomass growth in a controlled experimental setup. The relationship between pentane and carbon is direct, as pentane, a hydrocarbon, serves as a carbon source for the microorganisms, highlighting its role in microbial metabolism and energy production during the experiment.",
+        "reason": "The score of 5 reflects a strong relevance, as pentane is explicitly identified as the only carbon source for the fungal biomass, establishing a critical relationship in the context of microbial metabolism and energy utilization.",
+        "score": 5
+    }
+}

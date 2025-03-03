@@ -1,0 +1,10 @@
+{
+    "context": "Even with well designed covers, few landfills are thought to recover more than 60% of the available gas, and the losses to the atmosphere through the surface are one of the most important causes (Johannessen, 1999). Therefore, strict control and maintenance of landfills is essential if gas leaks are to be prevented. For this purpose, recent studies suggest landfill biocovers as an effective solution for odour reduction (Capanema et al., 2014; He et al., 2011; Lakhouit et al., 2014). As regards composting, it is known that ammonia is one of the main components of the emissions that result from this practice, especially when the nitrogen content of the composting wastes is high. Ammonia emissions from composting depend on the following parameters: the C/N ratio of the waste, composting temperature and pH. A pH greater than 8 promotes the transformation of NH+ 4 to NH3, and ammonia emissions rise with temperature (Beck-Friis et al., 2001; Pagans et al., 2006a). Hydrogen sulphide, methyl mercaptan, dimethyl sulphide, carbon disulphide and dimethyl disulphide are volatile sulphur compounds produced by composting. ",
+    "term_A": "ammonia",
+    "term_B": "Nitrogen",
+    "llm_generation": {
+        "summary": "In this context, ammonia is highlighted as a significant emission from composting processes, particularly when nitrogen content in the composting materials is high. The relationship between ammonia and nitrogen is intrinsic, as ammonia (NH3) is a nitrogenous compound that can be produced from the decomposition of organic matter containing nitrogen. The emissions of ammonia are influenced by factors such as the carbon-to-nitrogen (C/N) ratio, temperature, and pH levels during composting, indicating a direct connection between nitrogen content and ammonia production.",
+        "reason": "The score of 4 reflects a strong relationship between ammonia and nitrogen, as ammonia is a nitrogen compound produced during composting. The context provides evidence of how nitrogen content affects ammonia emissions, demonstrating a clear and significant connection.",
+        "score": 4
+    }
+}

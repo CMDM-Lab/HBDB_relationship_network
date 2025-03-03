@@ -1,0 +1,10 @@
+{
+    "context": "[5] A detailed comparison could not be made because sampling times were relatively short, and the MAC value is based on an 8 h time weighted average (TWA). [1] Although exposure data were limited, available data suggest that diacetyl exposure before 2001 in the production plant was as high as in the index microwave popcorn plant where the first cases of BOS were described. [2] In this index plant, mixers had a mean area exposure of 180 mg/m3 diacetyl, with a range up to 467 mg/m3, as determined by full-shift area sampling. [1] In the microwave popcorn industry, diacetyl was the predominant chemical among many found in air samples of volatiles and was used as a proxy for flavouring exposure. [2] The spectrum of potential causative agents in this production plant is much smaller than in the index microwave popcorn plant. [3] After several control measures were implemented in the diacetyl plant to enclose the process, diacetyl levels were lower but still in the range found in the microwave popcorn plants where cases of BOS were found. [4] This supports the conclusion that the diacetyl concentration in our study was high enough to be potentially associated with cases of BOS. ",
+    "term_A": "Butane-2,3-dione",
+    "term_B": "volatile substances",
+    "llm_generation": {
+        "summary": "In this context, Butane-2,3-dione, also known as diacetyl, is identified as a volatile substance predominantly found in air samples from the microwave popcorn industry. It serves as a proxy for flavoring exposure, indicating its significance among other volatile substances in the production environment. The discussion highlights diacetyl's concentration levels and potential health implications, particularly in relation to cases of bronchiolitis obliterans syndrome (BOS).",
+        "reason": "The score of 4 reflects a significant connection between Butane-2,3-dione and volatile substances, as diacetyl is explicitly mentioned as a key volatile compound in the context of exposure and health risks. The context provides evidence of its relevance in occupational settings.",
+        "score": 4
+    }
+}

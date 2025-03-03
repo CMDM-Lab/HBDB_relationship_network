@@ -1,0 +1,10 @@
+{
+    "context": "Without correction by the internal standard, the slope of the calibration curve with solid phase extraction was 85.0% of the slope for the calibration standards without SPE. After correction by the internal standard, the slope of the linear calibration curve was 98.8% the slope of the standards without SPE. Compared to the slope of the calibration curve of 3-NT standards in EBC the slope of the calibration in NH4Ac buffer was 9.5% higher. Furthermore, the method was proven to be accurate when tested against artificial synthesis of nitrotyrosine under worst case conditions. In this experiment no additional nitrotyrosine was found. Ratios of peak area of 3-NT/13C9-NT measured in the calibration solutions were linear over a range of 0\u2013500pg/mL (Fig. 3 ). The results of the analysis of replicate standard solution are shown in Table 3 . ",
+    "term_A": "3-Nitrotyrosine",
+    "term_B": "Synthesis",
+    "llm_generation": {
+        "summary": "In this context, 3-Nitrotyrosine (3-NT) is discussed in relation to its calibration and analysis methods, particularly in the context of artificial synthesis. The study demonstrates the accuracy of the method used to measure 3-NT, indicating that the synthesis of nitrotyrosine was effectively tested under controlled conditions. However, the relationship between 3-NT and the broader concept of synthesis is primarily focused on the analytical methodology rather than a detailed exploration of the synthesis process itself.",
+        "reason": "The score of 3 reflects a moderate relevance, as 3-Nitrotyrosine is linked to the concept of synthesis through the discussion of analytical methods and calibration. However, the context does not provide extensive details on the synthesis process itself, limiting the depth of their relationship.",
+        "score": 3
+    }
+}

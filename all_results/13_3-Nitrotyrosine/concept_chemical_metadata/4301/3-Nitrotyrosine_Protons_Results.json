@@ -1,0 +1,10 @@
+{
+    "context": "EBC protein levels directly correlated with NOx (r =0.50, p <0.0001), 8-isoprostane and hydrogen peroxide as above. EBC nitrogen oxides (NOx) and 3-nitrotyrosine EBC NOx was measurable in all groups. A trend towards increasing EBC NOx concentrations in patients with DPT and asbestosis compared with normal controls was observed but did not reach statistical significance. EBC levels of NOx did not correlate with 3-nitrotyrosine or hydrogen ion (H+) concentration in EBC. However, NOx correlated directly with protein (r =0.64, p <0.0001), 8-isoprostane (r =0.59, p <0.0001) and H2O2 (r =0.61, p <0.0001) in EBC in all groups. 3-Nitrotyrosine was difficult to detect in EBC of normal subjects. Most of the results were close to the limit of detection of the assay and below this in 20 patients. ",
+    "term_A": "3-Nitrotyrosine",
+    "term_B": "Protons",
+    "llm_generation": {
+        "summary": "In this context, 3-Nitrotyrosine and protons (H+) are mentioned in relation to their presence in exhaled breath condensate (EBC) samples. While 3-Nitrotyrosine is correlated with nitrogen oxides (NOx) and other oxidative stress markers, there is no direct correlation established between 3-Nitrotyrosine and H+ concentration in EBC. This suggests that while both are measured in the same biological samples, their relationship is not significant or well-defined.",
+        "reason": "The score of 2 reflects an indirect connection, as both 3-Nitrotyrosine and protons are part of the same study on EBC, but their relationship lacks detailed discussion or significant correlation, indicating they share a general context without a direct interaction.",
+        "score": 2
+    }
+}

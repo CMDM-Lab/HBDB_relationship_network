@@ -1,0 +1,10 @@
+{
+    "context": " [1] In a subset of patients with primary pulmonary hypertension (PPH), high doses of oral calcium-channel blockers (CCB) produce a sustained clinical and haemodynamic improvement.  [2] However, significant side-effects have been reported during acute testing with CCB.  [3] Therefore, to identify accurately patients who may benefit from long-term CCB therapy, there is a need for a safe, potent and short-acting vasodilator.  [4] The aim of this study was to compare the acute response to inhaled nitric oxide (NO) and oral high doses of CCB in 33 consecutive patients with PPH.  [5] A significant acute vasodilator response was defined by a fall in both mean pulmonary artery pressure and total pulmonary resistance by >20%.  [6] Ten patients responded acutely to NO, nine of whom responded acutely to CCB, without any complications.  [7] The 23 other patients failed to respond to NO and CCB. ",
+    "term_A": "Nitric oxide",
+    "term_B": "Inspiration function",
+    "llm_generation": {
+        "summary": "In this context, nitric oxide (NO) is evaluated as a potential vasodilator for patients with primary pulmonary hypertension (PPH), particularly in comparison to calcium-channel blockers (CCB). While the study focuses on the acute response to inhaled NO, it indirectly relates to inspiration function by potentially improving pulmonary hemodynamics, which can enhance respiratory efficiency. However, the specific relationship between NO and inspiration function is not explicitly detailed in the context provided.",
+        "reason": "The score of 3 reflects a moderate relevance, as nitric oxide is linked to pulmonary function through its vasodilatory effects, which can influence respiratory efficiency. However, the context does not provide a direct discussion of its impact on inspiration function.",
+        "score": 3
+    }
+}

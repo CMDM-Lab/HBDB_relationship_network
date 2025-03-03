@@ -1,0 +1,10 @@
+{
+    "context": " [2] Appl.  [3] Pharmacol.  [4] 47, 41-46, 1979); b) select an appropriate vehicle for the volatile substrate; c) examine the rate of metabolism of TCE by different rat hepatic microsomal preparations; d) determine TCE metabolic rate constants; and e) assess the influence of oleic acid and linoleic acid (the two major fatty acids in corn oil) on TCE metabolism.  [5] TCE was incorporated into a 1% Alkamuls aqueous emulsion and incubated with cofactors and the 10,000g supernatant or the microsomal fraction of livers of male Sprague-Dawley rats (275-325 g) in sealed headspace vials.  [6] Different trials were conducted to elucidate time-, enzyme-, and substrate-activity relationships.  [7] The apparent Km and Vmax were 2.0 microM and 1.9 nmol/mg protein/10 min for substrate concentrations ranging from 0.3 to 34 microM in the 10,000g fraction.  [8] The apparent Km and Vmax for the microsomal fraction were 4.17 microM and 8.0 nmol/mg protein/10 min, respectively. ",
+    "term_A": "1,1,2-trichloroethene",
+    "term_B": "cofactor",
+    "llm_generation": {
+        "summary": "In this context, 1,1,2-trichloroethene (TCE) is being studied for its metabolism in rat hepatic microsomal preparations, where cofactors are utilized to facilitate this metabolic process. The experiments aim to assess how different fatty acids, such as oleic and linoleic acid, influence TCE metabolism, indicating that cofactors play a crucial role in the enzymatic activity related to TCE processing. However, the specific interactions between TCE and the cofactors are not elaborated in detail.",
+        "reason": "The score of 3 reflects a moderate relevance, as the context discusses the role of cofactors in the metabolism of TCE, indicating a functional relationship. However, the details of this interaction are not extensively explored, limiting the strength of their connection.",
+        "score": 3
+    }
+}

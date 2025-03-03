@@ -1,0 +1,10 @@
+{
+    "context": " [9] For example, initial oxidation of glutamine synthetase converts an arginine residue to the carbonyl-bearing derivative, \u00ce\u00b3-glutamyl semialdehyde, but this derivative can be further oxidized to glutamic acid. [10] Of note, 5 mM urea is a normal plasma concentration, and the range in uremia is 20\u00e2\u20ac\u201c80 mM. [11] Thus, the level of urea normally present in blood can cause protein carbonylation, and the higher urea in renal failure can account for the increased carbonylation observed in that condition . [1] High concentrations of urea directly affect enzyme activity and denature proteins . [2] Therefore, it is conceivable that urea-induced carbonylation of cell proteins could be a direct chemical effect of urea. [3] To test this hypothesis, we added 300 mM urea for 15 min directly to homogenates of cells that had been at 300 mosmol/kg. [4] Direct addition of urea does not cause protein carbonylation (data not shown). ",
+    "term_A": "urea",
+    "term_B": "enzyme activity",
+    "llm_generation": {
+        "summary": "In this context, urea is discussed in relation to its effects on enzyme activity and protein denaturation. It is noted that high concentrations of urea can directly affect enzyme activity and lead to protein carbonylation, particularly in conditions of renal failure where urea levels are elevated. The study suggests a potential chemical effect of urea on cellular proteins, indicating a significant relationship between urea concentration and enzyme function.",
+        "reason": "The score of 4 reflects a strong connection between urea and enzyme activity, supported by evidence that high urea levels can denature proteins and affect enzyme function. The context provides a clear link between urea concentration and its biochemical effects, although some experimental results are not fully detailed.",
+        "score": 4
+    }
+}

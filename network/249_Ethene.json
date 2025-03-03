@@ -1,0 +1,2137 @@
+{
+    "compound_network": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "Ethene",
+                    "label": "Ethene",
+                    "type": "compound"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_abnormality_metadata",
+                    "label": "abnormality",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_chemical_metadata",
+                    "label": "chemical",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_molecular function_metadata",
+                    "label": "molecular function",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_gene_metadata",
+                    "label": "gene",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_location_metadata",
+                    "label": "location",
+                    "type": "metadata"
+                }
+            },
+            {
+                "data": {
+                    "id": "concept_animal model_metadata",
+                    "label": "animal model",
+                    "type": "metadata"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethene",
+                    "target": "concept_abnormality_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethene",
+                    "target": "concept_chemical_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethene",
+                    "target": "concept_molecular function_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethene",
+                    "target": "concept_gene_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethene",
+                    "target": "concept_location_metadata",
+                    "score": null
+                }
+            },
+            {
+                "data": {
+                    "type": "compound_to_metadata",
+                    "source": "Ethene",
+                    "target": "concept_animal model_metadata",
+                    "score": null
+                }
+            }
+        ]
+    },
+    "metadata_networks": {
+        "concept_abnormality_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethene",
+                        "label": "Ethene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "protrusion",
+                        "label": "protrusion",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "protrusion",
+                        "score": 8
+                    }
+                }
+            ]
+        },
+        "concept_chemical_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethene",
+                        "label": "Ethene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "carboxylate",
+                        "label": "carboxylate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "jasmonate",
+                        "label": "jasmonate",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Elements",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "carboxylate",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "jasmonate",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "concept_molecular function_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethene",
+                        "label": "Ethene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cell Growth",
+                        "label": "Cell Growth",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Germination",
+                        "label": "Germination",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Reverse Transcription",
+                        "label": "Reverse Transcription",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "cell wall modification",
+                        "label": "cell wall modification",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Permissiveness, Biological Function",
+                        "label": "Permissiveness, Biological Function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Mechanical pressure",
+                        "label": "Mechanical pressure",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Anabolism",
+                        "label": "Anabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Protein Binding",
+                        "label": "Protein Binding",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Transcription, Genetic",
+                        "label": "Transcription, Genetic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Dormancy",
+                        "label": "Dormancy",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Gene Expression",
+                        "label": "Gene Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "transcription factor binding",
+                        "label": "transcription factor binding",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "ethylene biosynthesis",
+                        "label": "ethylene biosynthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Signal Transduction",
+                        "label": "Signal Transduction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "enzyme activity",
+                        "label": "enzyme activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Cell Growth",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Germination",
+                        "score": 13
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Reverse Transcription",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "cell wall modification",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Permissiveness, Biological Function",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Mechanical pressure",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Anabolism",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Synthesis",
+                        "score": 11
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Protein Binding",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Transcription, Genetic",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Dormancy",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Gene Expression",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "transcription factor binding",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "inhibitors",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "ethylene biosynthesis",
+                        "score": 12
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Signal Transduction",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "enzyme activity",
+                        "score": 7
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Process",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_gene_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethene",
+                        "label": "Ethene",
+                        "type": "compound"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "CAPS gene",
+                        "label": "CAPS gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "TFAP2C gene",
+                        "label": "TFAP2C gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Candidate Disease Gene",
+                        "label": "Candidate Disease Gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Alleles",
+                        "label": "Alleles",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Homologous Gene",
+                        "label": "Homologous Gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "aminoethoxyvinylglycine",
+                        "label": "aminoethoxyvinylglycine",
+                        "type": "concept"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "CAPS gene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "TFAP2C gene",
+                        "score": 3
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Candidate Disease Gene",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Alleles",
+                        "score": 8
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "Homologous Gene",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "compound_to_concept",
+                        "source": "Ethene",
+                        "target": "aminoethoxyvinylglycine",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "concept_location_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethene",
+                        "label": "Ethene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        },
+        "concept_animal model_metadata": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Ethene",
+                        "label": "Ethene",
+                        "type": "compound"
+                    }
+                }
+            ],
+            "edges": []
+        }
+    },
+    "concept_networks": {
+        "protrusion": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "protrusion",
+                        "label": "protrusion",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_protrusion_Abstract.json",
+                        "label": "In this context, ethylene (referred to as ethene) is linked to the process of radicle protrusion during seed germination, particularly in thermotolerant lettuce genotypes. Ethylene production is associated with increased activity of cell wall-remodeling enzymes, such as endo-β-mannanase, which facilitate the weakening of the lettuce endosperm, thereby enabling the radicle to protrude. This suggests a direct stimulatory effect of ethylene on the mechanisms that promote seed germination and radicle emergence.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_protrusion_DISCUSSION.json",
+                        "label": "In this context, ethene is implicated in the process of seed germination, specifically in promoting the weakening of the endosperm cap to facilitate radicle protrusion. Ethylene's role in inducing endosperm weakening is crucial for allowing the radicle to emerge, highlighting a direct relationship between ethylene signaling and the mechanical process of protrusion during germination.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "protrusion",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_protrusion_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_protrusion_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Elements": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Elements",
+                        "label": "Elements",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Elements_RESULTS.json",
+                        "label": "In this context, ethene is mentioned in relation to gene expression patterns influenced by AVG and ethylene during seed germination. However, the term 'elements' appears to refer to general components or factors involved in the study, without a specific connection to ethene. The relationship is not explicitly defined, indicating a lack of direct relevance between the two terms.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Elements_DISCUSSION.json",
+                        "label": "In this context, ethene (ethylene) is discussed in relation to its role in promoting gibberellin (GA) biosynthesis and action, which is crucial for embryonic cell growth and germination. However, the term 'elements' is not explicitly defined or connected to ethene in a meaningful way, making their relationship unclear. Ethene's involvement in gene expression and physiological processes does not directly relate to the concept of 'elements' as a category, which could refer to chemical elements or components in a broader sense.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Elements",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Elements_RESULTS.json",
+                        "score": 2
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Elements_DISCUSSION.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "carboxylate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "carboxylate",
+                        "label": "carboxylate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_carboxylate_Abstract.json",
+                        "label": "In this context, ethene is indirectly related to carboxylate through the ethylene biosynthetic pathway in plants. Ethylene is produced from 1-aminocyclopropane carboxylate (ACC), which is synthesized from S-adenosyl-Met by ACC synthase. While carboxylate is not explicitly discussed, it serves as a precursor in the pathway leading to ethylene production, linking the two terms in the context of plant physiology and seed dormancy regulation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "carboxylate",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_carboxylate_Abstract.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "jasmonate": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "jasmonate",
+                        "label": "jasmonate",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_jasmonate_DISCUSSION.json",
+                        "label": "In this context, ethene and jasmonate are linked through their roles in plant stress responses. The study discusses how ERF transcription factors integrate signals from ethylene, jasmonate, and abscisic acid (ABA) to manage responses to abiotic stresses. This suggests that both compounds are part of a signaling network that regulates plant tolerance to environmental challenges, although their specific interactions are not detailed.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "jasmonate",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_jasmonate_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Cell Growth": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Cell Growth",
+                        "label": "Cell Growth",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Cell Growth_DISCUSSION.json",
+                        "label": "In this context, ethylene (referred to as ethene) is implicated in promoting cell growth through its role in stimulating gibberellin (GA) biosynthesis, specifically via the LsERF1 transcription factor. This interaction suggests that ethylene enhances embryonic cell growth, which is a known effect of GA action, thereby facilitating processes like germination and cell expansion in plant development.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Cell Growth_Abstract.json",
+                        "label": "In this context, ethylene (often referred to as ethene) is implicated in promoting cell growth during the germination of lettuce seeds, particularly under high-temperature conditions. Ethylene enhances the activity of enzymes like endo-β-mannanase, which are crucial for cell wall remodeling, facilitating radicle protrusion and subsequent cell expansion. Additionally, ethylene's interaction with gibberellins (GA) and abscisic acid (ABA) suggests a complex regulatory role in seed germination and growth processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Cell Growth",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Cell Growth_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Cell Growth_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Germination": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Germination",
+                        "label": "Germination",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Germination_Abstract.json",
+                        "label": "In this context, ethene is linked to germination through its role in regulating the biosynthesis of gibberellins (GA), which are crucial for seed germination. Ethylene promotes GA biosynthesis, enabling germination at higher temperatures, and acts as a negative regulator of abscisic acid (ABA), further facilitating the germination process. The coordinated regulation of ethylene and GA biosynthetic enzymes in lettuce seeds highlights their significant interaction in promoting germination under varying conditions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Germination_RESULTS.json",
+                        "label": "In this context, ethene (ethylene) is discussed in relation to its role in seed germination. The failure of ethylene to induce gene expression associated with germination suggests that it does not promote germination in the tested seeds. Conversely, the expression of dormancy-associated genes was higher in seeds treated with AVG compared to those imbibed in water, indicating a complex interaction between ethylene and dormancy mechanisms that ultimately affects germination outcomes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Germination_DISCUSSION.json",
+                        "label": "In this context, ethene is suggested to play a crucial role in promoting germination by stimulating the biosynthesis and action of gibberellins (GA), particularly through the expression of the LsGA3ox1 gene. The interaction between ethylene and GA is posited to help overcome abscisic acid (ABA) inhibition, facilitating radicle emergence during seed germination. This indicates a significant regulatory relationship where ethylene enhances the germination process via hormonal interactions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Germination",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Germination_Abstract.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Germination_RESULTS.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Germination_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Reverse Transcription": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Reverse Transcription",
+                        "label": "Reverse Transcription",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Reverse Transcription_RESULTS.json",
+                        "label": "In this context, ethene is examined for its role in regulating gene expression related to seed germination and dormancy. The study employs quantitative reverse transcription-PCR to assess the expression levels of various genes influenced by ethylene, indicating a connection between ethylene signaling and reverse transcription processes in the context of gene expression regulation during seed imbibition. However, the relationship is primarily focused on gene expression rather than a direct interaction with reverse transcription itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Reverse Transcription",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Reverse Transcription_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "cell wall modification": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "cell wall modification",
+                        "label": "cell wall modification",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_cell wall modification_RESULTS.json",
+                        "label": "In this context, ethylene (referred to as ethene) is linked to the regulation of gene expression associated with seed germination and dormancy. Specifically, the gene LsMAN1, which is involved in cell wall modification, is mentioned as being influenced by ethylene. This suggests that ethylene plays a role in promoting the expression of genes that facilitate changes in the cell wall necessary for seed germination, indicating a direct relationship between ethylene and cell wall modification processes during seed development.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "cell wall modification",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_cell wall modification_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Permissiveness, Biological Function": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Permissiveness, Biological Function",
+                        "label": "Permissiveness, Biological Function",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Permissiveness, Biological Function_RESULTS.json",
+                        "label": "In this context, ethylene (referred to as ethene) is linked to the biological function of seed germination, particularly in its role as a promoter of germination recovery in specific genotypes. The permissiveness of germination is influenced by temperature and the expression of germination-associated genes, which are regulated by ethylene. The study indicates that ethylene's presence can enhance the expression of genes necessary for germination, suggesting a critical biological function in overcoming dormancy and facilitating seed germination under optimal conditions.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Permissiveness, Biological Function_DISCUSSION.json",
+                        "label": "In this context, ethylene (term_A) plays a crucial role in promoting germination and thermotolerance in seeds, particularly those with PI alleles at Htg9.1. Ethylene's interaction with gibberellins (GA) helps to overcome the inhibitory effects of abscisic acid (ABA), indicating its permissive biological function in seed germination. The study highlights how ethylene alters hormonal balances to favor GA, thus facilitating germination under high-temperature conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Permissiveness, Biological Function",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Permissiveness, Biological Function_RESULTS.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Permissiveness, Biological Function_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Mechanical pressure": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Mechanical pressure",
+                        "label": "Mechanical pressure",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Mechanical pressure_DISCUSSION.json",
+                        "label": "In this context, ethene is implicated in the process of seed germination, where it plays a role in promoting endosperm weakening through ethylene-related responses. Mechanical pressure, generated by the growth of the embryonic radicle/hypocotyl, stimulates these ethylene responses, leading to the induction of genes that facilitate the weakening of the endosperm cap. Thus, ethene and mechanical pressure are interconnected in the regulation of seed germination, with mechanical pressure acting as a trigger for ethylene-mediated processes.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Mechanical pressure",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Mechanical pressure_DISCUSSION.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Anabolism": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Anabolism",
+                        "label": "Anabolism",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Anabolism_DISCUSSION.json",
+                        "label": "In this context, ethylene (referred to as ethene) is implicated in promoting gibberellin (GA) biosynthesis, which is essential for anabolism during seed germination. The data suggest that ethylene enhances the expression of genes related to GA production, thereby facilitating cell growth and overcoming the inhibitory effects of abscisic acid (ABA). This indicates a significant role of ethylene in anabolic processes associated with seed development and germination.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Anabolism_RESULTS.json",
+                        "label": "In this context, ethene (ethylene) is linked to the regulation of gene expression associated with seed germination and dormancy, which are critical anabolic processes in plant development. The presence of ethylene influences the expression of various biosynthetic genes, indicating its role in promoting anabolic pathways necessary for seed growth and recovery from dormancy. This suggests that ethylene acts as a signaling molecule that enhances anabolic processes during germination.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Anabolism_Abstract.json",
+                        "label": "In this context, ethylene (referred to as ethene) is implicated in the regulation of seed germination and thermotolerance through its signaling pathways. The study highlights the role of ethylene in promoting gibberellin (GA) biosynthesis, which is crucial for overcoming the inhibitory effects of abscisic acid (ABA) during seed germination. This suggests that ethylene signaling is linked to anabolic processes that facilitate growth and development in response to environmental stressors, such as high temperatures.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Anabolism",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Anabolism_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Anabolism_RESULTS.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Anabolism_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Synthesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Synthesis",
+                        "label": "Synthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Synthesis_Abstract.json",
+                        "label": "In this context, ethene is discussed in relation to its role in promoting the expression of biosynthetic enzymes for gibberellins (GA) and its interaction with abscisic acid (ABA) during seed germination. Ethene's influence on the synthesis of these hormones suggests a regulatory role in the synthesis pathways that facilitate germination under varying temperature conditions. The coordinated regulation of ethylene and GA biosynthetic enzymes indicates a significant relationship between ethene and the synthesis of these hormones, particularly in the context of seed dormancy and germination.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Synthesis_DISCUSSION.json",
+                        "label": "In this context, ethylene (referred to as ethene) plays a crucial role in promoting the synthesis of gibberellins (GA) in lettuce seeds, which helps overcome the inhibitory effects of abscisic acid (ABA) on germination. Ethylene's action is linked to the stimulation of GA biosynthesis through the transcription factor LsERF1, indicating a significant relationship between ethylene and the synthesis of GA, essential for seed germination and thermotolerance.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Synthesis_RESULTS.json",
+                        "label": "In this context, ethene is indirectly related to the synthesis process as it is involved in ethylene biosynthesis, which is crucial for seed germination. The study examines how temperature affects ethylene production and its subsequent impact on germination, indicating that ethylene synthesis is a key factor in the germination process. However, the specific synthesis of ethene itself is not the primary focus of the discussion.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Synthesis",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Synthesis_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Synthesis_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Synthesis_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Protein Binding": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Protein Binding",
+                        "label": "Protein Binding",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Protein Binding_DISCUSSION.json",
+                        "label": "In this context, ethylene (referred to as 'ethene') is mentioned in relation to the protein-binding affinity of ERF transcription factors, which are involved in plant stress responses. The study suggests that changes in protein binding, potentially influenced by ethylene, may affect the transcriptional regulation of genes associated with stress tolerance. However, the specific interaction between ethylene and protein binding is not elaborated upon, indicating a more indirect relationship.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Protein Binding",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Protein Binding_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Transcription, Genetic": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Transcription, Genetic",
+                        "label": "Transcription, Genetic",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Transcription, Genetic_DISCUSSION.json",
+                        "label": "In this context, ethylene (referred to as 'ethene') is implicated in the regulation of transcription factors, specifically ERF (Ethylene Response Factor) proteins, which play a role in plant stress responses. The study discusses how ERF1 can bind to promoter motifs and activate genes associated with heat shock and other stresses, indicating a connection between ethylene signaling and genetic transcription processes. However, the relationship is more about ethylene's role in influencing transcription factor activity rather than a direct link to genetic transcription itself.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Transcription, Genetic",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Transcription, Genetic_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Dormancy": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Dormancy",
+                        "label": "Dormancy",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Dormancy_DISCUSSION.json",
+                        "label": "In this context, ethylene is highlighted as a key hormone that interacts with gibberellins (GA) to regulate seed dormancy and germination. The study indicates that ethylene can counteract the inhibitory effects of abscisic acid (ABA) on dormancy, particularly in seeds with specific genetic backgrounds. This suggests that ethylene plays a significant role in promoting germination and overcoming dormancy, especially under conditions that would typically inhibit seed sprouting.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Dormancy_Abstract.json",
+                        "label": "In this context, ethylene (term_A) is linked to the regulation of seed dormancy (term_B) in plants, particularly in the Compositae family. Ethylene is associated with the release of dormancy in seeds, such as lettuce and sunflower, by alleviating inhibitory effects on germination. The production of ethylene is influenced by environmental factors, and its role in promoting seed germination and overcoming dormancy is highlighted through its interaction with enzymatic activities that facilitate radicle protrusion.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Dormancy_RESULTS.json",
+                        "label": "In this context, ethene is linked to the regulation of dormancy in Sal seeds through its influence on gene expression. Exposure to ethylene affects germination-promoting genes and dormancy-associated genes differently. While ethylene exposure did not enhance germination, it reversed the effects of AVG on dormancy-related genes, indicating a complex relationship where ethylene plays a role in breaking dormancy but does not directly promote germination under certain conditions.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Dormancy",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Dormancy_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Dormancy_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Dormancy_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Gene Expression": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Gene Expression",
+                        "label": "Gene Expression",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Gene Expression_DISCUSSION.json",
+                        "label": "In this context, ethylene (referred to as ethene) is shown to influence gene expression related to gibberellin (GA) biosynthesis and action, particularly through the transcription factor LsERF1. Ethylene promotes the expression of genes involved in GA synthesis, which in turn reduces the inhibitory effects of abscisic acid (ABA) on seed germination. The data suggest a significant interaction where ethylene alters gene expression patterns to favor GA, facilitating germination processes in seeds.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Gene Expression_RESULTS.json",
+                        "label": "In this context, ethene (ethylene) is linked to gene expression in the germination process of Sal seeds. The study indicates that ethylene exposure influences the expression of specific genes associated with dormancy and germination, such as LsGA2ox2 and LsNCED4. The patterns of gene expression suggest that ethylene plays a role in modulating these genes, which is critical for seed germination. The relationship is further supported by the examination of promoter regions for transcription factor binding sites, indicating a direct connection between ethylene signaling and gene expression regulation.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Gene Expression",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Gene Expression_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Gene Expression_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "transcription factor binding": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "transcription factor binding",
+                        "label": "transcription factor binding",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_transcription factor binding_RESULTS.json",
+                        "label": "In this context, ethene is linked to transcription factor binding through its role in regulating gene expression associated with seed dormancy and germination. The study identifies specific transcription factor binding sites in the promoter regions of genes influenced by ethylene, suggesting that ethene exposure can modulate the activity of transcription factors that regulate these genes. This indicates a direct relationship between ethene and the mechanisms of transcription factor binding in the context of plant physiology.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "transcription factor binding",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_transcription factor binding_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "inhibitors": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "inhibitors",
+                        "label": "inhibitors",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_inhibitors_Abstract.json",
+                        "label": "In this context, ethylene (referred to as ethene) is linked to the regulation of seed germination under high-temperature conditions, where it interacts with the hormone gibberellin (GA) to counteract the inhibitory effects of abscisic acid (ABA). The study suggests that ethylene signaling, particularly through the ETHYLENE RESPONSE FACTOR1 (LsERF1), plays a crucial role in promoting germination despite elevated temperatures, indicating that inhibitors like ABA can negatively affect this process. Thus, ethylene acts as a promoter against the inhibitory effects of ABA on seed germination.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_inhibitors_DISCUSSION.json",
+                        "label": "In this context, ethylene is discussed in relation to its role in overcoming the inhibitory effects of abscisic acid (ABA) on seed germination, particularly in the presence of gibberellins (GA). Ethylene appears to promote GA biosynthesis, which is crucial for germination, while inhibitors like PAC (a GA synthesis inhibitor) can block this process. The interaction suggests that ethylene and GA work together to counteract ABA's inhibitory action, highlighting a significant relationship between ethylene and the mechanisms involving inhibitors in seed dormancy and germination.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_inhibitors_RESULTS.json",
+                        "label": "In this context, ethylene (term_A) is discussed in relation to its role in seed germination, particularly under high-temperature conditions. The use of inhibitors, specifically paclobutrazol (PAC), demonstrates that blocking gibberellin (GA) biosynthesis affects germination. The results indicate that ethylene's action cannot reverse the inhibitory effects of PAC, suggesting that ethylene and inhibitors interact in a complex manner during the germination process, with ethylene being essential for germination under certain conditions, while inhibitors can block this process.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "inhibitors",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_inhibitors_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_inhibitors_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_inhibitors_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "ethylene biosynthesis": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "ethylene biosynthesis",
+                        "label": "ethylene biosynthesis",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_ethylene biosynthesis_MATERIALS AND METHOD.json",
+                        "label": "In this context, ethene is directly related to ethylene biosynthesis as it is the gaseous product measured during the experimental setup for assessing ethylene production from seeds. The methodology involves sealing seeds in vials and measuring the ethylene content over time, indicating that ethene is a key component in the process of ethylene biosynthesis during seed germination.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_ethylene biosynthesis_RESULTS.json",
+                        "label": "In this context, ethene is directly related to ethylene biosynthesis, as the expression of genes associated with ethylene production (such as LsACO1 and LsACS1) is influenced by ethylene exposure. The study indicates that ethylene plays a crucial role in regulating germination-associated gene expression, suggesting that ethene is a key component in the biosynthesis pathway that affects seed germination and dormancy processes.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_ethylene biosynthesis_DISCUSSION.json",
+                        "label": "In this context, ethene is indirectly related to ethylene biosynthesis as it is implied that ethylene, a plant hormone, plays a crucial role in seed germination processes. The expression patterns of genes associated with both GA and ethylene biosynthesis suggest that ethylene may be synthesized in response to certain conditions, such as light and temperature, to promote germination. However, the specific role of ethene itself is not explicitly detailed, indicating a more general connection to the biosynthesis pathway rather than a direct interaction.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "ethylene biosynthesis",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_ethylene biosynthesis_MATERIALS AND METHOD.json",
+                        "score": 5
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_ethylene biosynthesis_RESULTS.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_ethylene biosynthesis_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Signal Transduction": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Signal Transduction",
+                        "label": "Signal Transduction",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Signal Transduction_Abstract.json",
+                        "label": "In this context, ethene (ethylene) is linked to signal transduction through its role in regulating seed germination and thermotolerance in lettuce. The study highlights the involvement of ethylene signaling, particularly the lettuce homolog of ETHYLENE RESPONSE FACTOR1 (LsERF1), in promoting gibberellin (GA) biosynthesis, which counteracts the inhibitory effects of abscisic acid (ABA) during high-temperature conditions. This connection illustrates how ethylene acts as a signaling molecule that influences physiological responses in plants.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Signal Transduction_RESULTS.json",
+                        "label": "In this context, ethene is linked to signal transduction through its role in regulating seed germination. The study examines how ethylene production, influenced by AVG treatment, affects the sensitivity of different seed genotypes to ethylene concentrations. This indicates that ethylene acts as a signaling molecule, triggering germination processes in response to environmental cues.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Signal Transduction",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Signal Transduction_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Signal Transduction_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "enzyme activity": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "enzyme activity",
+                        "label": "enzyme activity",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_enzyme activity_Abstract.json",
+                        "label": "In this context, ethene (ethylene) is linked to enzyme activity through its role in regulating the activity of enzymes involved in the conversion of ACC to ethylene and the subsequent effects on seed germination. Specifically, an increase in the activity of endo-β-mannanase (EBM), a cell wall-remodeling enzyme, is observed alongside increased ethylene production in thermotolerant lettuce genotypes. This suggests that ethylene directly stimulates enzymatic activity that facilitates radicle protrusion during germination, indicating a significant relationship between ethylene and enzyme activity in plant physiology.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_enzyme activity_RESULTS.json",
+                        "label": "In this context, ethene is indirectly related to enzyme activity through its role in ethylene biosynthesis, which is influenced by temperature and can affect seed germination. The study discusses the use of aminoethoxyvinylglycine (AVG) to inhibit the enzymatic activity of ACC synthase (ACS), a key enzyme in ethylene production. While ethene itself is not directly measured, its production and the associated enzyme activity are critical for understanding germination responses to ethylene.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "enzyme activity",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_enzyme activity_Abstract.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_enzyme activity_RESULTS.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Process": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Process",
+                        "label": "Process",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Process_RESULTS.json",
+                        "label": "In this context, ethylene (referred to as ethene) is involved in the process of seed germination and dormancy regulation. The study assesses how exogenous ethylene influences the expression of various genes associated with these processes. The results indicate that ethylene plays a critical role in promoting germination recovery and regulating gene expression related to biosynthetic and regulatory pathways essential for seed development.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Process",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Process_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "CAPS gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "CAPS gene",
+                        "label": "CAPS gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_CAPS gene_DISCUSSION.json",
+                        "label": "In this context, ethene is implicated in the process of seed germination, where it induces endosperm weakening to facilitate radicle emergence. The CAPS gene, while not directly mentioned, is part of the broader genetic framework involved in the regulation of germination processes. Ethylene's role in promoting the expression of genes related to endosperm cap weakening suggests a potential indirect relationship with the CAPS gene, which may be involved in similar regulatory pathways during germination.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "CAPS gene",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_CAPS gene_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "TFAP2C gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "TFAP2C gene",
+                        "label": "TFAP2C gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_TFAP2C gene_DISCUSSION.json",
+                        "label": "In this context, ethene is implicated in the process of seed germination, where it induces endosperm weakening to facilitate radicle protrusion. The TFAP2C gene, while not directly mentioned, is part of the broader regulatory network involving ERF transcription factors that respond to ethylene signaling. This suggests a potential indirect relationship where ethylene influences the expression of genes like TFAP2C in the context of seed germination, although the specific role of TFAP2C is not detailed in the provided context.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "TFAP2C gene",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_TFAP2C gene_DISCUSSION.json",
+                        "score": 3
+                    }
+                }
+            ]
+        },
+        "Candidate Disease Gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Candidate Disease Gene",
+                        "label": "Candidate Disease Gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Candidate Disease Gene_RESULTS.json",
+                        "label": "In this context, ethylene (referred to as ethene) is linked to the expression of dormancy-associated genes and germination-associated genes in seeds. The study indicates that exposure to ethylene influences gene expression related to germination, particularly in seeds carrying the PI allele at Htg9.1. However, the term 'Candidate Disease Gene' is not explicitly defined or connected to ethylene in the provided context, making the relationship unclear.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Candidate Disease Gene",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Candidate Disease Gene_RESULTS.json",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        "Alleles": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Alleles",
+                        "label": "Alleles",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Alleles_DISCUSSION.json",
+                        "label": "In this context, ethene is linked to the action of GA (gibberellins) in promoting seed germination and thermotolerance, particularly in seeds with PI alleles at Htg9.1. The study indicates that ethylene and GA work together to counteract the inhibitory effects of ABA (abscisic acid) on germination. The relationship highlights the genetic influence of alleles on the physiological response to ethylene, suggesting that specific alleles can affect how seeds respond to hormonal signals during germination.",
+                        "type": "summary"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Alleles_RESULTS.json",
+                        "label": "In this context, ethene is linked to the expression of specific genes associated with germination in seeds, particularly those carrying the PI allele at Htg9.1. The study indicates that exposure to ethylene significantly influences the expression of germination-associated genes while reducing dormancy-associated gene expression. This suggests that the presence of certain alleles may affect how seeds respond to ethylene, highlighting a genetic component in the physiological response to this plant hormone.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Alleles",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Alleles_DISCUSSION.json",
+                        "score": 4
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Alleles_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "Homologous Gene": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "Homologous Gene",
+                        "label": "Homologous Gene",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_Homologous Gene_Abstract.json",
+                        "label": "In this context, ethylene is linked to the thermotolerance of lettuce seeds during high-temperature germination, with a specific focus on a homologous gene, LsERF1, which is associated with ethylene signaling. The study suggests that LsERF1 plays a crucial role in promoting gibberellin (GA) biosynthesis, thereby counteracting the inhibitory effects of abscisic acid (ABA) on seed germination. This indicates a significant relationship between ethylene signaling and the expression of the homologous gene in regulating seed dormancy and germination under temperature stress.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "Homologous Gene",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_Homologous Gene_Abstract.json",
+                        "score": 4
+                    }
+                }
+            ]
+        },
+        "aminoethoxyvinylglycine": {
+            "nodes": [
+                {
+                    "data": {
+                        "id": "aminoethoxyvinylglycine",
+                        "label": "aminoethoxyvinylglycine",
+                        "type": "concept"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858",
+                        "label": "The volatile 6-pentyl-2H-pyran-2-one from Trichoderma atroviride regulates Arabidopsis thaliana root morphogenesis via auxin signaling and ETHYLENE INSENSITIVE 2 functioning.\nA. Garnica-Vergara, S. Barrera-Ortiz, E. Muñoz-Parra, J. Raya-González, A. Méndez-Bravo, L. Macías-Rodríguez, LF. Ruiz-Herrera, J. López-Bucio\nNew Phytol. 2016 Mar;209(4):1496-512.",
+                        "type": "paper",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/26568541"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "316858_Ethene_aminoethoxyvinylglycine_RESULTS.json",
+                        "label": "In this context, ethene and aminoethoxyvinylglycine (AVG) are related through their roles in seed germination and ethylene biosynthesis. AVG is used to inhibit the production of ethylene by blocking the activity of the enzyme ACS, which is crucial for ethylene synthesis. The study investigates how varying concentrations of AVG affect germination temperatures in seeds, indicating a direct interaction where AVG modulates the effects of ethylene on seed germination.",
+                        "type": "summary"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "type": "concept_to_paper",
+                        "source": "aminoethoxyvinylglycine",
+                        "target": "316858",
+                        "score": null
+                    }
+                },
+                {
+                    "data": {
+                        "type": "paper_to_summary",
+                        "source": "316858",
+                        "target": "316858_Ethene_aminoethoxyvinylglycine_RESULTS.json",
+                        "score": 4
+                    }
+                }
+            ]
+        }
+    }
+}

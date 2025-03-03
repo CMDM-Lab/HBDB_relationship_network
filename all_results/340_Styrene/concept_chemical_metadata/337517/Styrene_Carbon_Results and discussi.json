@@ -1,0 +1,10 @@
+{
+    "context": "They were inoculated onto media for isolation and identification. Bacteria, fungi, yeast, and streptomyces were isolated from the integrated bioreactor. Isolates were tested for their ability to biodegrade styrene. These microbial analyses and degradation tests showed that Candida tropicalis, Pseudomonas genera, Aspergillus niger and Penicillium frequentans were able to grow using styrene as a sole carbon and energy source. Pseudomonas strains have often been detected from the biofilters used for styrene removal (Alonso et al., 2003; Okamoto et al., 2003). Aspergillus oryzae and Penicillium sp. have been identified from eukaryotic strains isolated from the biofilters during the treatment of styrene (Cox et al., 1997; Paca et al., 2001). Among yeasts, C. tropicalis has the highest hydrocarbon oxidation ability. ",
+    "term_A": "Styrene",
+    "term_B": "Carbon",
+    "llm_generation": {
+        "summary": "In this context, styrene is identified as a sole carbon and energy source for various microorganisms, including Candida tropicalis and Pseudomonas species, which are capable of biodegrading it. The relationship highlights the role of styrene as a carbon source in microbial metabolism, emphasizing its significance in bioremediation processes involving carbon utilization.",
+        "reason": "The score of 4 reflects a significant connection between styrene and carbon, as styrene serves as a carbon source for microbial growth and degradation. The context provides evidence of specific microorganisms that utilize styrene, indicating a clear relationship in the context of bioremediation.",
+        "score": 4
+    }
+}
