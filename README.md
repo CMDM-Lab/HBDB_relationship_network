@@ -35,7 +35,7 @@ Ensure the host, port, user, and password match your database configuration.
 os.environ["OPENAI_API_KEY"] = "Your API KEY"
 ```
 
-## Steps
+## Build Network Steps
 ### 1. Use gpt-4o-mini to generate scores and summaries:
 ```bash
 python gen_scores.py
@@ -59,3 +59,11 @@ Take acetone for example, you can open the following URL in your browser to view
 ```bash
 http://localhost:8001/index.html?file=28_acetone
 ``` 
+## Evaluation Steps
+### Prepare Dataset
+download `BC8_BioRED_Subtask1_BioCJSON/bc8_biored_task1_train.json` and put it in the same directory
+
+### Run Evaluation
+```bash
+python eval.py
+```
