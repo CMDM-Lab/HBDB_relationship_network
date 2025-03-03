@@ -1,0 +1,10 @@
+{
+    "context": "Then, the mean micropore width, L 0, was obtained by applying the Stoeckli equation. Mercury porosimetry was carried out up to a pressure of 4200kg/cm2 using Quantachrome Autoscan 60 equipment. Pt dispersion was studied by high-resolution transmission electron microscopy (HRTEM) and XRD. Static adsorption measurements of toluene were carried out by exposing 0.2g of each sample, previously dried at 120\u00b0C, in a desiccator containing toluene or acetone at 25\u00b0C (P 0 =26.7 or 240.4Torr, respectively). In these experiments, samples were in contact with a saturated atmosphere of the organic vapour until equilibrium was reached, when the total adsorption capacity of the samples was determined. Samples were weighed every day until no increase in weight was observed. Dynamic VOC adsorption from a VOC/air mixture was measured at different temperatures using a thermobalance. ",
+    "term_A": "acetone",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, acetone and toluene are both organic solvents used in static adsorption experiments to evaluate the adsorption capacity of samples. The study involves exposing samples to saturated atmospheres of either toluene or acetone, measuring their adsorption behavior under controlled conditions. However, the relationship between the two solvents is primarily procedural, focusing on their individual roles in the adsorption process rather than any direct interaction or comparison between them.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as acetone and toluene are mentioned in the same experimental context related to adsorption studies. However, their relationship is not deeply explored, and they are treated as separate entities in the methodology rather than being directly compared or linked.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "In our previous work, a copolymer of methacrylic acid and ethylene glycol dimethacrylate was synthesized and packed into a needle-shaped device as the extraction medium. This particle-packed extraction needle showed a good extraction efficiency, repeatability and sample storage performance for typical VOCs in air samples. The extraction needle was also applied to the analysis of environmental tobacco smokes and smokers\u2019 breath, and further possibility to the breath diagnosis has been suggested. In this study, the particle-packed extraction needle was applied to the GC\u2013MS analysis of breath acetone taken from controlled type-2 diabetes patients. Additionally, time variations of breath and urine acetone concentration of healthy individuals were investigated under the fasting condition. Urine ketone body was also monitored with commercially available urine ketone test strip to confirm the validity of the present method. Materials All the reagents and solvents were of analytical reagent grade and obtained from either Kishida Chemical (Osaka, Japan) or Wako Pure Chemical (Osaka, Japan). ",
+    "term_A": "acetone",
+    "term_B": "Diabetes Mellitus, Non-Insulin-Dependent",
+    "llm_generation": {
+        "summary": "In this context, acetone is analyzed as a potential biomarker in the breath of patients with type-2 diabetes mellitus (non-insulin-dependent). The study utilizes a particle-packed extraction needle for gas chromatography-mass spectrometry (GC-MS) to measure breath acetone levels, indicating its relevance in monitoring metabolic changes associated with diabetes. The investigation also includes urine ketone body monitoring, further supporting the connection between acetone and diabetes management.",
+        "reason": "The score of 4 reflects a significant relationship, as acetone is directly linked to the monitoring of type-2 diabetes through breath analysis, supported by the study's methodology and focus on metabolic indicators.",
+        "score": 4
+    }
+}

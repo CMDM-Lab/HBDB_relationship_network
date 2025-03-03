@@ -1,0 +1,10 @@
+{
+    "context": "In addition to acetone, other volatile organics are present in human breath in significant quantities such as methyl-, ethyl-, and propyl-alcohol and may present potential interferences. We have determined that our system does not undergo a colorimetric response to these compounds under the same exposure conditions as those of acetone. This observation is consistent with the fact that the alcohols are unlikely to react with resorcinol under these conditions. Ketones other than acetone are present in human breath in much smaller proportions (<30ppb levels relative to ppm levels) and include butanone and 2-propanone. We have therefore not attempted to calibrate their response. Our future work will focus on identifying the immobilized reagents necessary for the detection and measurement of other organic compounds in human breath at ppb levels as well as to screen whether such compounds interfere with the quantification of acetone levels using this approach. Such multi-gas detection capability is necessary to de-convolute the complex metabolic processes that are responsible for their generation. ",
+    "term_A": "acetone",
+    "term_B": "Butanones",
+    "llm_generation": {
+        "summary": "In this context, acetone and butanones are both mentioned as volatile organic compounds present in human breath. While acetone is highlighted for its significant levels and the focus of the study, butanones (including butanone and 2-propanone) are noted to be present in much smaller quantities. The study emphasizes the need to calibrate detection systems for acetone while acknowledging the presence of butanones, indicating a relationship based on their classification as ketones but lacking detailed interaction or functional significance.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as acetone and butanones are both categorized as volatile organic compounds, but their relationship is not explored in detail. The mention of butanones is more about their presence rather than a significant interaction with acetone.",
+        "score": 2
+    }
+}

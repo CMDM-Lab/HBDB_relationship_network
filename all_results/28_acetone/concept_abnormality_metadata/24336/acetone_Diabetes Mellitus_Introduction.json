@@ -1,0 +1,10 @@
+{
+    "context": "It is produced by lipolysis, absorbed into the blood stream and is mostly excreted in expired air. As shown by Lord et al., the concentration of acetone in breath changes during the day depending on the amount of carbohydrates received in the diet. Acetone is markedly influenced by the period of fasting, starvation or even type of diet. Moreover, elevated acetone concentrations are produced in patients with uncontrolled diabetes mellitus. However, acetone as a product of intermediary metabolism might vary widely between and within subjects. Despite the obvious importance and interest in the analysis of expired air of fasting people, few authors have published complete trace component analysis in such conditions. A variety of sensitive instruments and techniques are employed in expired air analysis. ",
+    "term_A": "acetone",
+    "term_B": "Diabetes Mellitus",
+    "llm_generation": {
+        "summary": "In this context, acetone is highlighted as a metabolic byproduct that varies in concentration based on dietary intake and fasting states. Notably, elevated levels of acetone are associated with uncontrolled diabetes mellitus, indicating a significant relationship where acetone levels can serve as a potential biomarker for metabolic dysregulation in diabetic patients. This suggests that monitoring acetone in breath could provide insights into metabolic status in diabetes.",
+        "reason": "The score of 4 reflects a significant connection between acetone and diabetes mellitus, as elevated acetone levels are specifically noted in uncontrolled diabetes. This relationship is supported by the context discussing metabolic changes and the potential for acetone to serve as a biomarker in diabetic conditions.",
+        "score": 4
+    }
+}

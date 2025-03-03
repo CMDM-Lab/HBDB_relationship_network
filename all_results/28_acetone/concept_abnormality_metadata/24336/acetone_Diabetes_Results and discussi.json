@@ -1,0 +1,10 @@
+{
+    "context": "In normal individuals acetone breath concentration varies between 10\u201348.4nmoll\u22121 (mean 23.2nmoll\u22121) or 2.9\u20138.9nmoll\u22121  . Acetone in the control sample of a monk which was taken prior to the onset of fasting was indicatively found 8nmoll\u22121, which is in close agreement to the literature. On the other hand, Crote and Pawliszyn have reported increased concentrations of acetone (>50nmoll\u22121) in the breath of patients suffering from diabetes. The indicative median value of 170nmoll\u22121 (4.1ppmv) identified from the monks examined is very close to the range 1.7\u20133.7ppmv reported for diabetic breath. In both situations the mechanism of acetone production is likely the result of lipid mobilization. ",
+    "term_A": "acetone",
+    "term_B": "Diabetes",
+    "llm_generation": {
+        "summary": "In this context, acetone is linked to diabetes through breath concentration measurements. Normal individuals exhibit lower acetone levels, while diabetic patients show significantly elevated acetone concentrations, indicating a potential biomarker for diabetes. The increase in acetone is attributed to lipid mobilization, which is more pronounced in diabetic conditions compared to normal fasting states.",
+        "reason": "The score of 4 reflects a significant connection between acetone and diabetes, supported by quantitative data showing elevated acetone levels in diabetic patients compared to normal individuals. This relationship suggests acetone may serve as a biomarker for diabetes, highlighting its relevance in metabolic processes.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "However, identification of a group of volunteers undergoing starvation for 72h (crucial time for search and rescue operations) for experimentation purposes may be difficult to find. The source and physiological significance of most of VOCs in expired air is still unknown. However, among substances produced endogenously, acetone is considered the most abundant compound in human breath and has attracted scientific attention. Acetone is mainly formed by decarboxylation of acetoacetate and dehydrogenation of isopropanol. It is produced by lipolysis, absorbed into the blood stream and is mostly excreted in expired air. As shown by Lord et al., the concentration of acetone in breath changes during the day depending on the amount of carbohydrates received in the diet. Acetone is markedly influenced by the period of fasting, starvation or even type of diet. ",
+    "term_A": "acetone",
+    "term_B": "Acetoacetates",
+    "llm_generation": {
+        "summary": "In this context, acetone and acetoacetates are related through metabolic processes, specifically in the context of lipolysis. Acetone is produced from the decarboxylation of acetoacetate, which is a key intermediate in the metabolism of fatty acids. This relationship highlights the physiological significance of acetone as a byproduct of fat metabolism, particularly during fasting or starvation when acetoacetate levels increase due to enhanced lipolysis.",
+        "reason": "The score of 4 reflects a significant connection between acetone and acetoacetates, as acetone is directly formed from acetoacetate during metabolic processes. The context provides a clear biochemical relationship supported by metabolic pathways, indicating their relevance in physiology.",
+        "score": 4
+    }
+}

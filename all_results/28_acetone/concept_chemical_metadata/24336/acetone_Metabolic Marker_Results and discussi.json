@@ -1,0 +1,10 @@
+{
+    "context": "Fig. 1 demonstrates a typical TD\u2013GC\u2013MS chromatogram of a fasting individual. Fig. 2 shows an IMS spectrum of the same individual recorded by directing the content of the tedlar bag to the inlet of the GC-IMS. Acetone was the most abundant substance identified by both techniques. Acetone is produced by hepatocytes via decarboxylation of excess Acetyl-CoA and is an important physiological metabolic marker in breath. Ketone bodies are oxidized via the Krebs cycle in peripheral tissue. Fasting for 63h led to a 30-fold increase of acetone content in expired air of the individual with successive measurements. Skrupskii reported a 15-fold increase for individuals after fasting for 24h. ",
+    "term_A": "acetone",
+    "term_B": "Metabolic Marker",
+    "llm_generation": {
+        "summary": "In this context, acetone is identified as a significant metabolic marker produced by hepatocytes during fasting, specifically through the decarboxylation of excess Acetyl-CoA. The study highlights that fasting leads to a substantial increase in acetone levels in expired air, indicating its role as a physiological marker of metabolic state. The relationship is underscored by the quantifiable increase in acetone concentration with prolonged fasting, demonstrating its relevance in metabolic monitoring.",
+        "reason": "The score of 5 reflects a direct and critical relationship between acetone and its role as a metabolic marker, supported by quantitative data showing significant increases in acetone levels during fasting, which is a key physiological process.",
+        "score": 5
+    }
+}

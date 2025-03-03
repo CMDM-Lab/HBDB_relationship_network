@@ -1,0 +1,10 @@
+{
+    "context": "This was due to the fact of increasing the temperature had increased the regeneration of VOCs and decreased the regeneration time. The decrease in regeneration time has strictly implied less consumption of nitrogen. And the increase in superficial velocity decreased the operating cost, where as it slightly increased the cost for acetone and ethyl formate. The interaction effect in the case of acetone has decreased the operating cost significantly in case of acetone compared to the case of dichloromethane and ethyl formate.Simulation results of the hot nitrogen regeneration step An example of simulation results of regeneration concentration and temperature profile of ethyl formate have been shown in the Figs. 6 and 7 . The average error percent of the mass of acetone regenerated between the simulations and the experiments was 3.1%. It had been noticed in Fig. 6, there has been a delay in the regeneration concentration profile of the experimental in comparison with the simulation results. ",
+    "term_A": "acetone",
+    "term_B": "Ethyl formate",
+    "llm_generation": {
+        "summary": "In this context, acetone and ethyl formate are discussed in relation to their operational costs and regeneration processes in a system involving volatile organic compounds (VOCs). The text indicates that increasing temperature affects the regeneration of these compounds, with acetone showing a significant decrease in operating costs compared to ethyl formate and dichloromethane. The simulation results for ethyl formate are also mentioned, highlighting a delay in its regeneration profile compared to acetone, suggesting a comparative analysis of their efficiencies in a specific application.",
+        "reason": "The score of 4 reflects a significant connection between acetone and ethyl formate, as their operational costs and regeneration efficiencies are directly compared in the context. The mention of simulation results and specific performance metrics supports this relationship, indicating a clear relevance in the study of VOCs.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The effective diffusion coefficient takes into account the various diffusion mechanisms which control the migration of the organic component to the adsorption sites (porous, Knudsen, and surface diffusion). It is considered as an adjustable parameter. As a first approximation, effective the mass transfer resistance data was considered to be unchanged in the desorption step.Equilibrium model The value  q i * in the linear driving force model (LDF) is computed from the modified Langmuir isotherm model, which takes into account the temperature effect on the equilibrium data. The parameters of the Langmuir equation were derived from the experimental data measured for the system (dichloromethane \u2013 ACV 404/acetone \u2013 ACV 404/ethyl formate \u2013 ACV 404) at 20, 40, 60 and 80\u00b0C. The R-Stat statistical software was used to check the significance of the computed parameters using an interval of confidence of 95% by student t-test [11\u201313]. The results are summarized in Table 1 . (4) q i * = q m 0 exp ( q m 1 / T ) b 0 exp ( b 1 / T ) P i 1 + b 0 exp ( b 1 / T ) P iEnthalpy balances \u2022 In the gas phase: (5) \u2212 \u03c1 g D L \u2202 2 H \u2202 z 2 + \u03b5 \u03c1 g \u2202 H \u2202 t + \u03b5 \u2202 ( v \u03c1 g H ) \u2202 z + 4 d c 1 h p + d c . ",
+    "term_A": "acetone",
+    "term_B": "Ethyl formate",
+    "llm_generation": {
+        "summary": "In this context, acetone and ethyl formate are both mentioned as components in a system analyzed using the modified Langmuir isotherm model. However, the relationship between them is not explicitly discussed beyond their inclusion in the same experimental setup. The focus is on the diffusion mechanisms and mass transfer resistance rather than any direct interaction or comparison between acetone and ethyl formate.",
+        "reason": "The score of 2 reflects a low relevance, as acetone and ethyl formate are connected through their roles in the same experimental model, but there is no detailed discussion of their interaction or specific relationship within the context provided.",
+        "score": 2
+    }
+}

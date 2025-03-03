@@ -1,0 +1,10 @@
+{
+    "context": "The HOMO values of VOCs were \u221210.77, \u22129.44, \u22129.21, \u22129.28, \u22129.29 and \u22129.18eV for acetone, toluene, ethylbenzene, o-xylene, m-xylene and p-xylene, respectively. Clearly, the degree of adsorption of these VOCs is due to HOMO energy values. 3.6.2 High relative pressure ranges In the high relative pressure ranges (P/P 0 \u22650.5), the adsorption capacity of acetone was higher than toluene, ethylbenzene, m-xylene, p-xylene and o-xylene. Mesopores allow the adsorption to proceed in relatively higher pressures region with a multilayer fashion. By contrast, at relatively high pressures, multilayer adsorption occurs and adsorbate\u2013adsorbate interactions became more prevalent, which should be taken into account. At relatively high pressures, cooperative multilayer adsorption induced by van der Waals. ",
+    "term_A": "acetone",
+    "term_B": "4-xylene",
+    "llm_generation": {
+        "summary": "In this context, acetone and 4-xylene are both volatile organic compounds (VOCs) analyzed for their adsorption properties based on their highest occupied molecular orbital (HOMO) energy values. The study indicates that acetone exhibits a higher adsorption capacity than 4-xylene and other VOCs at high relative pressures, suggesting a significant difference in their interactions with the adsorption medium. This highlights the comparative behavior of these compounds in adsorption processes, particularly under varying pressure conditions.",
+        "reason": "The score of 4 reflects a significant connection between acetone and 4-xylene, as the context provides quantitative data on their adsorption capacities and HOMO values, indicating a clear relationship in their behavior as VOCs under specific conditions.",
+        "score": 4
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The retention efficiency of exhaled acetone determined for this collector (using 7.6 L of exhaled air bubbled in 5 mL of ice-cooled water) is 78%. 23 This factor and acetone losses of 24% during the freezing, storage, and defrosting procedure, constant for 1 to 60 days, 23 was taken into account in the chemical analysis. After collection, the liquid phase was transferred from the impinger to a capped vial and stored in a freezer at \u2212112\u00b0F (\u221280\u00b0C) until acetone analysis could be done. The identification of acetone in defrosted aqueous extracts was done by gas chromatography-mass spectrometry, and quantitative determination was done by spectrophotometry after reaction with salicylaldehyde. 24 Statistical Analysis Data were analyzed using SPSS for Windows, version 13.0 (SPSS Inc) statistical software. The categorical variables are shown as absolute (n) and relative frequency (%), and the groups were compared by Pearson \u03c72 test. To test normality, we used the Kolmogorov-Smirnov test. ",
+    "term_A": "acetone",
+    "term_B": "Adjudication",
+    "llm_generation": {
+        "summary": "In this context, acetone is analyzed for its retention efficiency during collection and subsequent chemical analysis, while 'Adjudication' refers to the statistical analysis methods used to interpret the data. The relationship between acetone and adjudication is indirect, as acetone is a subject of measurement, and adjudication pertains to the evaluation of the collected data rather than a direct interaction or functional relationship.",
+        "reason": "The score of 2 reflects a low relevance, as acetone is involved in a measurement process, while adjudication pertains to the statistical analysis of that data. They share a general context of analysis but lack a direct connection.",
+        "score": 2
+    }
+}

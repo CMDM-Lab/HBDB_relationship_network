@@ -1,0 +1,10 @@
+{
+    "context": "This dilution factor cannot be ignored because the dilution factor unavoidably varies, e.g. when the test subject is breathing deeply or shallowly. In a previous study, performed with the same GC\u2013MS system and sampling method, we made clear that there is an important difference between the composition of alveolar air and mouth air (Van den Velde et al., submitted for publication). Acetone, the most abundant metabolite in alveolar air, is derived from decarboxylation of acetyl-CoA when lipolysis or lipid peroxidation occurs. Acetone levels are elevated in diabetes mellitus, which causes the sweet smell of the breath of these patients. Other ketones that were detected are 2-pentanone and 2-butanone, which have an acetone-like odor. High concentrations of 2-butanone are known to be a marker for lung cancer. Dimethyl sulfide is together with other sulfides responsible for the characteristic odor in the breath of cirrhotic patients. ",
+    "term_A": "acetone",
+    "term_B": "Sweet's Syndrome",
+    "llm_generation": {
+        "summary": "In this context, acetone is identified as a significant metabolite in alveolar air, particularly elevated in conditions like diabetes mellitus, which is associated with a sweet-smelling breath. While Sweet's Syndrome is not directly mentioned, the reference to the sweet odor in diabetic patients suggests a potential link between elevated acetone levels and the syndrome, indicating a possible metabolic connection. However, the relationship is not explicitly detailed.",
+        "reason": "The score of 3 reflects a moderate relevance, as acetone is linked to the sweet smell of breath in diabetes, which may relate to Sweet's Syndrome. However, the context does not provide a direct or detailed connection between acetone and Sweet's Syndrome.",
+        "score": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "With the exception of propane and ethane, these compounds are major species in gasoline and automobile exhaust. Ethane, propane, and n-butane are components of liquefied propane and natural gas. The total carbonyl concentrations plotted by time of day for each aloft location are compared (Fig. 4) to the three ground sites where carbonyls were measured. Acetone measurements were excluded from the aloft carbonyl summations because they seemed suspect in that there were only six observations above the limit of detection and those were quite high, from 16 to 56 ppbC. Although the aloft locations had higher variability than the ground sites and at times show higher values, overall median concentration for both ground and aloft was 8 ppbC. With a ratio to TNMHC of 20% only paraffins were more abundant than carbonyls. The most abundant carbonyls were formaldehyde and acetaldehyde at 3.9 and 2.2 ppbC median values, respectively, which were higher than their respective ground level medians (1.3 and 1.9 ppbC, respectively). ",
+    "term_A": "acetone",
+    "term_B": "Summation",
+    "llm_generation": {
+        "summary": "In this context, acetone is mentioned in relation to carbonyl concentrations measured at various locations, but it was excluded from the aloft carbonyl summations due to suspect measurements. The discussion focuses on the overall carbonyl concentrations and their comparison across different sites, with acetone not being a significant contributor to the summation of carbonyls due to limited and unreliable data.",
+        "reason": "The score of 2 reflects a low relevance, as acetone is indirectly related to the summation of carbonyl concentrations but is excluded from the analysis due to questionable data. Their connection is minimal and lacks detailed interaction.",
+        "score": 2
+    }
+}

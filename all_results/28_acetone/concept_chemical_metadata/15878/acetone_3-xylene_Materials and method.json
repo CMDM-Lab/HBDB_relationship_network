@@ -1,0 +1,10 @@
+{
+    "context": "We also hope to establish the relationships between molecule properties of VOCs and their adsorption on MIL-101, and to explore the underlying adsorption mechanisms. Chemicals Chromium nitrate nonahydrates (99+%), terephthalic acid (TPA) (99+%) and fluorhydric acid (HF) (40+%) were purchased from Sinopharm Chemical Reagent Co., Ltd. (China), Acros organic (USA) and Juhua Reagent Co., Ltd. (China), respectively; acetone (98+%), benzene (98+%), toluene (98+%) and ethylbenzene (98+%) were purchased from Hangzhou Chemical Reagent Co., Ltd (China); o-xylene (98+%), p-xylene (98+%) and m-xylene (98+%) were purchased from Sinopharm Chemical Reagent Co., Ltd. (China). These chemicals were used without any further purification. Selected properties of the VOCs are listed in Table 1 .Synthesis of MIL-101 MIL-101, the highly crystallized green powder of the chromium terephthalate, was synthesized according to the method described in the literature. ",
+    "term_A": "acetone",
+    "term_B": "3-xylene",
+    "llm_generation": {
+        "summary": "In this context, acetone and 3-xylene are both mentioned as volatile organic compounds (VOCs) that were purchased from different suppliers for use in a study related to their adsorption properties on MIL-101. However, there is no discussion of their specific interactions, chemical properties, or any functional relationship between them, indicating they are simply listed as part of a broader collection of chemicals without further elaboration on their relationship.",
+        "reason": "The score of 1 reflects a very low relationship, as acetone and 3-xylene are merely listed among other chemicals without any direct interaction or relevance discussed in the context.",
+        "score": 1
+    }
+}

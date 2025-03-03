@@ -1,0 +1,10 @@
+{
+    "context": "Finally, carbonyl samples were collected on dinitrophenylhydrazine (DNPH) impregnated C-18 Sep-Pak cartridges (Waters Corporation, Milford, MA) by several groups in the field and sent to the Desert Research Institute for analysis by high performance liquid chromatography (HPLC) to quantify 13, C1\u2013C8 species (Zielinska, 1996). In this paper, total non-methane hydrocarbon (TNMHC) concentration is defined as the sum of all of the chromatographic peaks \u2014 identified or not. Carbonyl compounds determined by the cartridge sampling method are not included in the TNMHC summation. However, since no dryer was used prior to analysis, some mass from OVOCs (such as acetone and n-aldehydes which are partially recovered from canister storage, cryogenic preconcentration and chromatographic separation) is included in TNMHC. See Apel et al. (1998) for discussion of OVOC measurement issues. The total of TNMHC and the carbonyls is referred to as TNMOC.Ambient ground level samples Over 300 canister samples were collected at surface sites and aloft locations between August 11 and September 21, 1996. Fig. 1 shows the TNMHC results as a scatter plots of concentration vs. time for each surface monitoring site. ",
+    "term_A": "acetone",
+    "term_B": "Aldehydes",
+    "llm_generation": {
+        "summary": "In this context, acetone and aldehydes are both mentioned as components of non-methane hydrocarbons (TNMHC) and carbonyl compounds analyzed in air samples. Acetone is categorized as an oxygenated volatile organic compound (OVOC) that may be partially recovered during sampling, similar to aldehydes. However, the context does not provide a direct interaction or specific relationship between acetone and aldehydes beyond their classification as compounds measured in the same study.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as acetone and aldehydes are both included in the analysis of carbonyl compounds and OVOCs, indicating they share a general category but lack a detailed discussion of their interaction or significance in the context.",
+        "score": 2
+    }
+}

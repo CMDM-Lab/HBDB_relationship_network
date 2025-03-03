@@ -1,0 +1,10 @@
+{
+    "context": "3.6.1 Low relative pressure ranges It is well known that physical adsorption isotherms are linear at low pressure ranges, where Henry's Law applies. The monolayer region at relatively low pressures (P/P 0 <0.5) was ascribed to physical adsorption of an adsorbent, including two regions: non-cooperative adsorption and cooperative adsorption on heterogeneous surface. The adsorbates occupied most adsorption sites and adsorbent\u2013adsorbate interactions dominated in the adsorption process. The adsorption capacity (P/P 0 <0.5) of acetone was higher than toluene, ethylbenzene, m-xylene, p-xylene and o-xylene due to the low boiling point and high vapor pressure at 298K. In order to provide energy information, the quantum-chemical descriptor (highest occupied molecular orbital (HOMO) energies), of the VOCs was calculated based on Fukui's frontier orbital theory with a PM3 program. The energy of the HOMO is a measurement of the nucleophilicity of a molecule: high reactive molecules have high HOMO energy values. The HOMO values of VOCs were \u221210.77, \u22129.44, \u22129.21, \u22129.28, \u22129.29 and \u22129.18eV for acetone, toluene, ethylbenzene, o-xylene, m-xylene and p-xylene, respectively. ",
+    "term_A": "acetone",
+    "term_B": "Vapour pressure",
+    "llm_generation": {
+        "summary": "In this context, acetone is discussed in relation to its physical properties, particularly its high vapor pressure at 298K, which contributes to its greater adsorption capacity compared to other volatile organic compounds (VOCs) like toluene and xylenes. The relationship highlights how acetone's low boiling point and high vapor pressure influence its behavior in adsorption processes, making it a significant factor in the study of VOCs and their interactions with adsorbents.",
+        "reason": "The score of 4 reflects a significant connection between acetone and vapor pressure, as the context provides evidence of how acetone's high vapor pressure affects its adsorption capacity compared to other VOCs. This relationship is crucial for understanding its physical adsorption behavior.",
+        "score": 4
+    }
+}

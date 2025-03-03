@@ -1,0 +1,10 @@
+{
+    "context": "Prior to our work, optical sensing utilizing these membranes resulted from the complexation or protonation/deprotonation of immobilized dye molecules through interaction with diffusing ion species yielding highly sensitive but, typically, non-specific color responses. The ability of perfluorosulfonic acid groups in protonated perfluorosulfonic ionomers (PFSIs) to catalyze numerous chemical reactions is well known but had never been previously exploited to produce highly selective optodes. Selectivity arises due to the unique spectroscopic products that are produced by the bond breaking, and formation that occurs through chemical reactions of immobilized dyes with agents of interest. In this article, we demonstrate how this unique optical sensing approach may be extended to acetone detection in exhaled breath. Nafion\u00ae membrane (Sigma-Aldrich, Nafion\u00ae 117, protonated, 0.007in. thickness) was used as received and immersed in a 12g/L solution of resorcinol (Acros Organics, 98%) in ethanol (Acros Organics, ACS spectroscopic grade, >95% purity) for 31min as described in further detail in our previous work. The concentration of resorcinol present in the samples was maintained well in excess of the acetone exposure levels, to ensure that it would not limit the reaction. ",
+    "term_A": "acetone",
+    "term_B": "Exhalation",
+    "llm_generation": {
+        "summary": "In this context, acetone is linked to exhalation through the development of an optical sensing method for detecting acetone in exhaled breath. The study highlights the use of Nafion\u00ae membranes to create selective optodes that can identify acetone levels, indicating its relevance as a biomarker in breath analysis. This suggests a direct application of acetone detection in physiological monitoring.",
+        "reason": "The score of 4 reflects a significant connection between acetone and exhalation, as the context discusses a specific method for detecting acetone in breath samples, indicating its potential use in physiological assessments. The relationship is supported by the technical details of the sensing method.",
+        "score": 4
+    }
+}

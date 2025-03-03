@@ -1,0 +1,10 @@
+{
+    "context": "An example of breakthrough curve and temperature profile of ethyl formate during adsorption has been given in Figs. 2 and 3 . The simulation model PROSIM results were coherent with the experimental results and it is evident from the Figs. 2 and 3. The error calculated on the mass of adsorption between the experiment and the simulation were always less than 4% for all the VOCs involved. The error on reproduction of data is always 5% on the adsorption capacity for different VOCs.Comparison of hot nitrogen regeneration results of 3 VOCs \u2013 ACV 404 carbon Tables 3\u20135 summarizes the hot nitrogen regeneration operating conditions and the results (such as regeneration efficiency (RE), Operating Cost (OP\u20ac)) for ethyl formate, acetone and dichloromethane respectively. The regeneration efficiency was calculated by the ratio of mass of VOC generated to the mass of the VOC adsorbed. The operating cost was calculated on the basis of the nitrogen consumption (0.18\u20acm\u22123, Supplier \u2013 Air Liquide) and the energy costs for heating nitrogen (60\u20acMwh\u22121, French electricity tariff). The heat added to nitrogen is calculated by the product of mass flow of nitrogen [m] (kgh\u22121), specific heat capacity of nitrogen [c p ] (KJkg\u22121 K\u22121) and temperature [\u0394T] (K). ",
+    "term_A": "acetone",
+    "term_B": "Carbon",
+    "llm_generation": {
+        "summary": "In this context, acetone is mentioned as one of the volatile organic compounds (VOCs) involved in a study on adsorption and regeneration efficiency. Carbon is indirectly referenced through the mention of ACV 404 carbon, which likely pertains to the carbon-based adsorbent used in the process. However, there is no direct relationship or interaction discussed between acetone and carbon in the context provided.",
+        "reason": "The score of 2 reflects a low relevance, as acetone and carbon are connected through their roles in the adsorption process, but there is no detailed discussion of their interaction or specific functional relationship.",
+        "score": 2
+    }
+}

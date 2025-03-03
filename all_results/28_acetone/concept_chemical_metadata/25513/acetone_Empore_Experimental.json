@@ -1,0 +1,10 @@
+{
+    "context": "A quartz fiber filter disk (Type 2500 QAT-UP, 47mm diameter, ca. 0.64mm thickness, Tokyo Dylec, Tokyo, Japan) and an Empore disk (Type C18FF, 47mm diameter, ca. 0.50mm thickness, 3M, MN, USA), which were set in the first and second layer, respectively, in the sampler, were used as adsorbents. Prior to the sampling of airborne SVOCs, the Empore disks were subjected to ultrasonic cleaning five times for 10min each by 10ml of acetone per disk, and the quartz fiber filter disks were heated at 400\u00b0C for 4h by applying the method by Saito et al.. The sampler was fixed using a tripod in the center of the target room at a height of 1.2\u20131.5m from the floor, and the SVOCs in the indoor air were collected for 24h using the suction pump adjusted to a flow rate of 5.0l/min. The total volume of air passed through the adsorbents resulted in 7.2m3. ",
+    "term_A": "acetone",
+    "term_B": "Empore",
+    "llm_generation": {
+        "summary": "In this context, acetone is used as a cleaning agent for Empore disks prior to sampling airborne semi-volatile organic compounds (SVOCs). The Empore disks serve as adsorbents in the sampling process, while acetone is employed to ensure the disks are free from contaminants before they are utilized in the air sampling setup. This indicates a procedural relationship where acetone is essential for preparing the Empore disks for effective sampling.",
+        "reason": "The score of 4 reflects a significant connection between acetone and Empore, as acetone is directly used to clean the Empore disks, ensuring their effectiveness in the sampling process. This relationship is crucial for the methodology described in the context.",
+        "score": 4
+    }
+}

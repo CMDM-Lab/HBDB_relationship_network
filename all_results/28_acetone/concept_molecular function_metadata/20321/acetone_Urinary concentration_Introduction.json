@@ -1,0 +1,10 @@
+{
+    "context": "This particle-packed extraction needle showed a good extraction efficiency, repeatability and sample storage performance for typical VOCs in air samples. The extraction needle was also applied to the analysis of environmental tobacco smokes and smokers\u2019 breath, and further possibility to the breath diagnosis has been suggested. In this study, the particle-packed extraction needle was applied to the GC\u2013MS analysis of breath acetone taken from controlled type-2 diabetes patients. Additionally, time variations of breath and urine acetone concentration of healthy individuals were investigated under the fasting condition. Urine ketone body was also monitored with commercially available urine ketone test strip to confirm the validity of the present method. Materials All the reagents and solvents were of analytical reagent grade and obtained from either Kishida Chemical (Osaka, Japan) or Wako Pure Chemical (Osaka, Japan). Water was purified by a Milli-Q Water Purification System (Millipore, Tokyo, Japan). ",
+    "term_A": "acetone",
+    "term_B": "Urinary concentration",
+    "llm_generation": {
+        "summary": "In this context, acetone is analyzed in relation to its concentration in breath and urine among controlled type-2 diabetes patients and healthy individuals. The study investigates the time variations of breath and urine acetone concentrations, indicating a potential link between breath acetone levels and urinary concentration as a biomarker for metabolic states, particularly in diabetes management. The use of urine ketone test strips further supports the relevance of urinary acetone concentration in monitoring metabolic conditions.",
+        "reason": "The score of 4 reflects a significant connection between acetone and urinary concentration, as the study explores their relationship in the context of diabetes. The analysis of both breath and urine acetone concentrations suggests a clear interaction, supported by the use of urine ketone test strips for validation.",
+        "score": 4
+    }
+}

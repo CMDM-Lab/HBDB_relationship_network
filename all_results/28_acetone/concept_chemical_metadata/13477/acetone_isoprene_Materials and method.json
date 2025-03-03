@@ -1,0 +1,10 @@
+{
+    "context": "Measurements during physical activity are carried out on a computer-controlled, semi-supine medical ergometer (eBikeL, GE Medical Systems, Milwaukee, USA) operating at constant levels of power independently of the pedal speed. A supporting bed stabilizes the torso of the volunteer thereby reducing movement artifacts appearing in the acquired physiological signals. Five male persons (subjects) in good health between 25 and 35 years old were tested. The acetone and isoprene signals were the counts per second measured at mass-to-charge ratio m/z =59 and 69, respectively. The response time calculated during human breath measurements is defined as the time needed to reach 90% of the final average acetone concentration. Device characterization Fig. 1a shows a schematic of the device consisting of a back-heated substrate with a sensing film of silica-doped WO3 nanoparticles and a T-shaped chamber. The baseline resistance of the sensors in dry air was investigated as a function of operating temperature. ",
+    "term_A": "acetone",
+    "term_B": "isoprene",
+    "llm_generation": {
+        "summary": "In this context, acetone and isoprene are both measured as volatile organic compounds (VOCs) during breath analysis using a medical ergometer. The signals for acetone and isoprene are quantified at specific mass-to-charge ratios, indicating their presence in the breath samples of healthy subjects. However, the context does not elaborate on any direct interaction or functional relationship between acetone and isoprene beyond their simultaneous measurement.",
+        "reason": "The score of 2 reflects a low relevance, as acetone and isoprene are mentioned together in the context of breath analysis, but there is no detailed discussion of their interaction or significance beyond their co-measurement as VOCs.",
+        "score": 2
+    }
+}

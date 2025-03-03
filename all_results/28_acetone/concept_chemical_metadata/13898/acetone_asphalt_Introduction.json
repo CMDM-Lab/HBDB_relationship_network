@@ -1,0 +1,10 @@
+{
+    "context": "This poly(l-Asp) derivative enables the ready removal of organic solvent during the micelle fabrication process and provides functionality that can respond to a slightly acidic pH (i.e., pHe). The DOX-loaded poly(l-Asp-g-DEAP68)-b-PEG micelles showed pH-stimulated drug release patterns: a significantly accelerated DOX release at pH 6.8 and a minimized DOX release at pH 7.4. This multifunctionality of poly(l-Asp-g-DEAP68)-b-PEG is expected to provide efficient strategies and applications for the biomedical field. Volatile organic compounds (VOCs) like dichloromethane, acetone and ethyl formate are widely used in the oil sands process to extract the bitumen from the oil sands. Acetone and ethyl formate have adverse toxic effects on human central nervous system and environment. And dichloromethane even causes cancer to humans and so the European States have decided to ban the use of it for concentration equal to or greater than 0.1 by mass percent. This research work focuses on the removal of VOCs by adsorption using commercial microporous activated carbon and then regenerates the adsorbed phase. ",
+    "term_A": "acetone",
+    "term_B": "asphalt",
+    "llm_generation": {
+        "summary": "In this context, acetone is mentioned as a volatile organic compound (VOC) used in the oil sands process to extract bitumen from asphalt. While acetone is highlighted for its toxic effects on the human central nervous system and the environment, the relationship with asphalt is indirect, focusing more on the extraction process rather than a direct interaction or functional relationship between the two substances.",
+        "reason": "The score of 2 reflects a low relevance, as acetone and asphalt are connected through the oil sands extraction process, but there is no detailed discussion of their interaction or specific functional relationship beyond this context.",
+        "score": 2
+    }
+}

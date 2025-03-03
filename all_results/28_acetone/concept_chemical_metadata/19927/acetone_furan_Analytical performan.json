@@ -1,0 +1,10 @@
+{
+    "context": "In this section, these two practical response coefficients were compared to the theoretical response coefficients in order to determine the most reliable calibration method. Table 2 shows the ECN, the theoretical response coefficients and the practical response coefficients for both of the calibration methods. The response coefficients of toluene, butyl acetate, isopropanol, butanol, isobutanol and 2-butanone for the two methods are in agreement with the theory (Table 2). Moreover, five compounds (furan, 2-methyl furan, ETBE, acetone and ethanol) have a response coefficient superior to the theory. In contrast, acetaldehyde, butanal, methacrolein and especially benzaldehyde show a decrease of their response with dynamic generation. The aldehyde family cannot be adapted for a dynamic generation. These compounds are going to be measured by the calibration with the gas mixture. ",
+    "term_A": "acetone",
+    "term_B": "furan",
+    "llm_generation": {
+        "summary": "In this context, acetone and furan are both mentioned as compounds evaluated for their response coefficients in calibration methods. They are compared to theoretical response coefficients, with both showing superior performance. However, the context does not elaborate on any specific interaction or functional relationship between acetone and furan beyond their inclusion in the same analysis.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as acetone and furan are both included in a comparison of response coefficients, indicating they belong to the same analytical context, but there is no detailed discussion of their relationship or interaction.",
+        "score": 2
+    }
+}

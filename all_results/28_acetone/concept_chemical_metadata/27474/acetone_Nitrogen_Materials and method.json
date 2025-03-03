@@ -1,0 +1,10 @@
+{
+    "context": "The in-situ studies were performed using an acetone bubbling system, which consisted of a mass flow controller feeding a known amount of nitrogen into a glass aerator filled with acetone. The outlet stream was connected to a dilution gas stream to allow gas feeds to reach low ppmv concentrations of acetone in the combined stream. The gas mixture was fed into a sealed sample gas collector maintained at ambient pressure, where it would be opened into the in-situ sensing system. The acetone concentrations present for a given flow rate of nitrogen were determined by collecting samples of the gas mixture and exposing them to the resorcinol-imbibed membranes. The response of this could be measured and the concentration determined from the calibration plot described in the following section. This process provides an accurate controlled inlet stream for the in situ experiments. To identify reaction product, membrane samples were soaked in known volumes of ethanol for 6\u201324h, making sure that there was no observed absorbance of either resorcinol or product remaining in the membrane. ",
+    "term_A": "acetone",
+    "term_B": "Nitrogen",
+    "llm_generation": {
+        "summary": "In this context, acetone and nitrogen are utilized in an acetone bubbling system for in-situ studies. Nitrogen serves as a carrier gas, controlling the flow and concentration of acetone in the gas mixture. The relationship is primarily functional, where nitrogen facilitates the delivery and measurement of acetone concentrations in the experimental setup, but there is no chemical interaction between the two substances discussed.",
+        "reason": "The score of 2 reflects an indirect connection, as acetone and nitrogen are part of the same experimental system, with nitrogen acting as a carrier gas for acetone. However, their relationship lacks detailed interaction or significance beyond their roles in the gas mixture.",
+        "score": 2
+    }
+}

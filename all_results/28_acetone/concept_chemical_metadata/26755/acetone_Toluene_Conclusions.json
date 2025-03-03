@@ -1,0 +1,10 @@
+{
+    "context": "Thus, we conclude that, for practical applications, the discharge power, HRI, and removal efficiency must be balanced. Based on the identified organic by-products and the instantaneous changes in organic by-products from 'plasma off' to 'plasma on' conditions, this study suggests pathways for the plasma removal of toluene. In summary, acetone is a major intermediate after the aromatic ring of toluene has been cracked. Most of the toluene will fragment into acetone first, followed by its conversion to other organic by-products. These observations will guide for the study of the mechanism of aromatic molecule dissociation in plasma. Volatile organic compounds (VOCs) causes many health issues related to Indoor Air Quality (IAQ) [1\u20133]. Indoor air quality improvement has been instituted by various organizations based on the concentration levels of different pollutants [4\u20136]. ",
+    "term_A": "acetone",
+    "term_B": "Toluene",
+    "llm_generation": {
+        "summary": "In this context, acetone and toluene are directly related through the process of toluene degradation. The study indicates that toluene, when subjected to plasma conditions, primarily fragments into acetone as a major intermediate product. This relationship highlights acetone's role in the breakdown pathway of toluene, suggesting a significant connection in the context of organic by-product formation during toluene dissociation.",
+        "reason": "The score of 5 reflects a strong relevance, as acetone is identified as a major intermediate product formed from the breakdown of toluene, indicating a critical and direct relationship in the context of organic compound dissociation.",
+        "score": 5
+    }
+}

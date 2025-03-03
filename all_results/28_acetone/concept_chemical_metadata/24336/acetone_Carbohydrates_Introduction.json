@@ -1,0 +1,10 @@
+{
+    "context": "However, among substances produced endogenously, acetone is considered the most abundant compound in human breath and has attracted scientific attention. Acetone is mainly formed by decarboxylation of acetoacetate and dehydrogenation of isopropanol. It is produced by lipolysis, absorbed into the blood stream and is mostly excreted in expired air. As shown by Lord et al., the concentration of acetone in breath changes during the day depending on the amount of carbohydrates received in the diet. Acetone is markedly influenced by the period of fasting, starvation or even type of diet. Moreover, elevated acetone concentrations are produced in patients with uncontrolled diabetes mellitus. However, acetone as a product of intermediary metabolism might vary widely between and within subjects. ",
+    "term_A": "acetone",
+    "term_B": "Carbohydrates",
+    "llm_generation": {
+        "summary": "In this context, acetone is highlighted as a significant compound produced in the body, primarily through metabolic processes such as lipolysis. Its concentration in breath is notably influenced by dietary carbohydrate intake, with variations observed during fasting or in response to different diets. This suggests a direct relationship where carbohydrate consumption affects acetone levels, particularly in metabolic states like uncontrolled diabetes mellitus.",
+        "reason": "The score of 4 reflects a strong connection between acetone and carbohydrates, as the context discusses how carbohydrate intake directly influences acetone concentration in breath, indicating a significant metabolic relationship.",
+        "score": 4
+    }
+}

@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Relationship Network</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.20.0/cytoscape.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <style>
+        #container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100vw; 
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        #cy {
+            width: 99%; 
+            height: 98vh; 
+            background-color: #f5f5f5;
+            border: 1px solid #ccc;
+        }
+        #backButton {
+            position: absolute;
+            top: 4%;
+            right: 2%;
+            animation-duration: 0.3s; 
+            transition: background-color 0.3s, transform 0.3s;
+            background-color: #d1b8ff; 
+            color: white; 
+            font-size: 16px; 
+            padding: 1%; 
+            border: none; 
+            border-radius: 10px; 
+            cursor: pointer;
+        }
+        #backButton:hover {
+            background-color: #bfa1f7; 
+            color: white; 
+            transform: scale(1.05); 
+            box-shadow: 0px 4px 15px #9d99a3(0, 123, 255, 0.5);
+        }
+        #page-title {
+            position: absolute;
+            top: 2%;
+            left: 3.5%;
+            font-size: 30px;
+            font-weight: bold;
+            color: #4d75b0;
+        }
+        #usage {
+            position: absolute;
+            top: 9%;
+            left: 1%;
+            height: auto;
+            width: auto;
+            padding: 1%;
+            background: linear-gradient(135deg, #ffffff, #bae0df);
+            border: 2px solid #c5c9c6;
+            border-radius: 12px;
+            box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+            max-width: 300px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            color: #515251;
+            display: block;
+        }
+        #toggleusage{
+            position: absolute;
+            top: 10.5%;
+            left: 1.7%;
+            padding: 0.5%;
+            background-color: #d5ede3;
+            color: black;
+            border: 1px solid #717475;
+            border-radius: 1px;
+            cursor: pointer;
+            z-index: 10;
+            font-size: 10px;
+        }
+        #usage h1 {
+            text-align: center;
+            margin: 0 auto;
+            color:#333;
+        }
+        #usage:hover {
+            border-color: #75967d;
+            box-shadow: 4px 8px 14px rgba(0, 0, 0, 0.3);
+        }
+        #instructions {
+            position: absolute;
+            bottom: 3%;
+            right: 2%;
+            height: auto;
+            width: 40%;
+            padding: 1%;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            max-width: 300px;
+            font-size: 15px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            color: #515251;
+            display: block;
+        }
+        #toggleInstructions {
+            position: absolute;
+            bottom: 4%;
+            right: 2.5%;
+            padding: 0.5%;
+            background-color: #d2d5d6;
+            color: black;
+            border: 1px solid #717475;
+            border-radius: 1px;
+            cursor: pointer;
+            z-index: 10;
+            font-size: 10px;
+        }
+        #instructions h1 {
+            text-align: center;
+            margin: 0 auto;
+            font-size: 20px;
+            color:#333;
+        }
+        #current-page {
+            position: absolute;
+            bottom: 2%;
+            left: 2%;
+            font-size: 18px;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            color: #333;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+            font-family: Arial, sans-serif;
+        }
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            box-sizing: border-box;
+        }
+        
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="cy"></div>
+        <button id="backButton">Back to previous network</button>
+    </div>
+    <div id="page-title">{compound name network}</div>
+    <button id="toggleusage">Hide Usage</button>
+    <div id="usage">
+        <h1>Usage</h1>
+        <ul>
+            <li>Use the mouse wheel to zoom in and out of the network</li>
+            <li>You can freely drag nodes to reposition them</li>
+            <li>Click on a node to navigate to the next layer of the network or view more detailed information</li>
+            <li>Click the button in the top-right corner to return to the previous network</li>
+        </ul>
+    </div>    
+    <button id="toggleInstructions">Hide Instructions</button>
+    <div id="instructions">
+       <h1>Network instruction</h1>
+    </div>
+    <div id="current-page"></div>    
+<script>
+
+const instructions = {
+    "metadata_networks": "<li>Every node represents one concept in <strong>{meta_name}</strong> category</li><li>The larger the number on the edge, the stronger the relationship between <strong>{compound_name}</strong> and this concept</li>",
+    "concept_networks": "<li>This network displays the papers related to <strong>{compound_name}</strong> and <strong>{concept_name}</strong></li><li>The larger the number on the edge, the stronger the meaningful relationship is mentioned in this paper</li><li>Click the paper node can link to paper page</li><li>Click the summary node can view the complete summary</li>",
+    "default": "<li>This is the network of <strong>{compound_name}</strong></li><li>Click on the surrounding nodes allows you to view the concepts belonging to the corresponding category</li>",
+};
+
+let networks = {};
+let history = [];
+let compoundName = '';
+let nowmetaParts = ''; 
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const jsonFile = urlParams.get('file');
+
+    fetch(`/${jsonFile}.json`)
+    
+    .then(response => response.json())
+    .then(data => {
+        networks = data;
+        for (const networkKey in networks) {
+            const network = networks[networkKey];
+            // Check if nodes array exists
+            if (network && Array.isArray(network.nodes)) {
+                for (const node of network.nodes) {
+                    if (node.data.type === 'compound') {
+                        compoundName = node.data.id; // Store the found compound ID
+                        break; // Exit the loop once the first compound ID is found
+                    }
+                }
+                break;
+            }
+        }
+        // Log the compoundId or use it as needed
+        // console.log('Compound Name:', compoundName);
+
+        loadNetwork(`compound_network`);
+    })
+    .catch(error => {
+        console.error('Error loading networks:', error);
+        alert('Failed to load network data!');
+    });
+    
+    // Toggle Instructions Functionality
+    const toggleButton = document.getElementById('toggleInstructions');
+    const instructionsDiv = document.getElementById('instructions');
+
+    toggleButton.addEventListener('click', () => {
+        if (instructionsDiv.style.display === 'none') {
+            instructionsDiv.style.display = 'block'; // Show instructions
+            toggleButton.textContent = 'Hide Instructions';
+        } else {
+            instructionsDiv.style.display = 'none'; // Hide instructions
+            toggleButton.textContent = 'Show Instructions';
+        }
+    });
+
+    // Toggle usage Functionality
+    const toggle_Usage_Button = document.getElementById('toggleusage');
+    const usageDiv = document.getElementById('usage');
+
+    toggle_Usage_Button.addEventListener('click', () => {
+        if (usageDiv.style.display === 'none') {
+            usageDiv.style.display = 'block'; // Show instructions
+            toggle_Usage_Button.textContent = 'Hide Usage';
+        } else {
+            usageDiv.style.display = 'none'; // Hide instructions
+            toggle_Usage_Button.textContent = 'Show Usage';
+        }
+    });
+
+// Load network function
+function loadNetwork(networkKey) {
+    const keys = networkKey.split('.');
+    let data = networks;
+    keys.forEach(key => {
+        data = data[key];
+    });
+
+    history.push(networkKey);
+    // updatePageInfo(networkKey);
+
+    let instructionText = instructions[keys[0]] || instructions["default"];
+
+    const nodeId = networkKey.split('.').pop();
+    const metaParts = nodeId.split('_'); // ex: concept_abnorm_metadata -> keep abnorm
+    if (networkKey.startsWith("metadata_networks.")) {
+        instructionText = instructionText.replace("{meta_name}", metaParts[1]).replace("{compound_name}", compoundName);
+    }
+    else if (networkKey.startsWith("concept_networks.")) {
+        instructionText = instructionText.replace("{compound_name}", compoundName).replace("{concept_name}", nodeId);
+    }
+    else{ // top network
+        instructionText = instructionText.replace("{compound_name}", compoundName).replace("{compound_name}", compoundName);
+    }
+
+    // document.getElementById('instructions').textContent += `\n${instructionText}`; // append new instructions while retaining existing text
+    document.getElementById('page-title').innerHTML = `Network of ${compoundName}`;
+    document.getElementById('instructions').innerHTML = '<h1>Network Instruction</h1>';
+    document.getElementById('instructions').innerHTML += `${instructionText}`;
+
+    if (!data.nodes || data.nodes.length === 1) {
+        Swal.fire({
+            icon: 'warning',
+            title: 'No Data Available',
+            text: 'There are no concepts in this category, you can go back and check other categories.',
+        });
+        // return;
+    }
+
+    const cy = cytoscape({
+        container: document.getElementById('cy'),
+        elements: { nodes: data.nodes, edges: data.edges },
+        style: [
+            {
+                selector: 'node[type="compound"]',
+                style: {
+                    'shape': 'ellipse',
+                    'width': ele => {
+                        const label = ele.data('label');
+                        return label.length * 40; // add offset
+                    },
+                    'height': ele => 100,
+                    'font-size': ele =>60,
+                    'background-color': ele => getNodeColor(ele.data('type')),
+                    'label': 'data(label)',
+                    'color': '#fff',
+                    'text-wrap': 'wrap',
+                    'text-valign': 'center',
+                    'text-halign': 'center'
+                }
+            },
+            {
+                selector: 'node[type="metadata"]',
+                style: {
+                    'shape': 'round-rectangle',
+                    'width': ele => {
+                        const label = ele.data('label');
+                        return label.length * 32; // add offset
+                    },
+                    'height': ele => 80,
+                    'font-size': ele => 50,
+                    'background-color': ele => getNodeColor(ele.data('type')),
+                    'label': 'data(label)',
+                    'color': '#363636',
+                    'text-wrap': 'wrap',
+                    'text-valign': 'center',
+                    'text-halign': 'center'
+                }
+            },
+            {
+                selector: 'node[type="concept"]',
+                style: {
+                    'shape': 'round-rectangle', 
+                    'width': ele => {
+                        const label = ele.data('label');
+                        return label.length * 28; // add offset
+                    },
+                    'height': ele => 67,
+                    'font-size': 42,
+                    'background-color': ele => getNodeColor(ele.data('type')),
+                    'label': 'data(label)',
+                    'color': '#363636',
+                    'text-wrap': 'wrap',
+                    'text-valign': 'center',
+                    'text-halign': 'center'
+                }
+            },
+            {
+                selector: 'node[type="paper"]',
+                style: {
+                    'shape': 'round-rectangle',
+                    'width': 410, 
+                    'height': 380, 
+                    'font-size': 28,
+                    'background-color': ele => getNodeColor(ele.data('type')),
+                    'label': 'data(label)',
+                    'color': '#363636',
+                    'text-wrap': 'wrap',
+                    'text-valign': 'center',
+                    'text-halign': 'center',
+                    'text-max-width': '380px',
+                }
+            },
+            {
+                selector: 'node[type="summary"]',
+                style: {
+                    'shape': 'round-rectangle',
+                    'width': '430px',
+                    'height': '350px',
+                    'background-color': ele => getNodeColor(ele.data('type')),
+                    'label': ele => {
+                        const label = ele.data('label');
+                        return label.length > 200 ? `${label.slice(0, 200)}...` : label;
+                    },
+                    'font-size': 30,
+                    'color': '#363636',
+                    'text-wrap': 'wrap',
+                    'text-valign': 'center',
+                    'text-halign': 'center',            
+                    // 'text-align': 'justify',
+                    // 'text-justify': 'inter-word',
+                    'text-max-width': '405px'
+                }
+            },
+
+            // edges style
+            {
+                selector: 'edge[type="compound_to_metadata"]',
+                style: {
+                    'width': 8,
+                    'line-color': '#CCCCCC',
+                    'curve-style': 'haystack',
+                }
+            },
+            {
+                selector: 'edge[type="compound_to_concept"]',
+                style: {
+                    'width': ele => ele.data('score'),
+                    'line-color': "#516fc4",
+                    'target-arrow-color': "#516fc4",
+                    'target-arrow-shape': 'triangle',
+                    'curve-style': 'bezier',
+                    'label': ele => ele.data('score') !== null ? `${ele.data('score')}` : 'No score provided',
+                    'color': '#f51111',
+                    'font-size': 50,
+                    'text-margin-x': 25,
+                    'text-margin-y': -20,
+                    'text-outline-width': 1,
+                    'text-outline-color': 'red',
+                }
+            },
+            {
+                selector: 'edge[type="concept_to_paper"]',
+                style: {
+                    'width': 5,
+                    'line-color': '#ff8e52',
+                    'target-arrow-color': "#ff8e52",
+                    // 'target-arrow-shape': 'triangle',
+                    'curve-style': 'bezier',
+                }
+            },
+            {
+                selector: 'edge[type="paper_to_summary"]',
+                style: {
+                    'width': ele => ele.data('score')**2,
+                    'line-color': ele => getEdgeColor(ele.data('score')),
+                    'target-arrow-color': ele => getEdgeColor(ele.data('score')),
+                    'target-arrow-shape': 'triangle',
+                    'curve-style': 'bezier',
+                    'label': ele => ele.data('score') !== null ? `${ele.data('score')}` : 'No score provided',
+                    'color': '#f51111',
+                    'font-size': 80,
+                    'text-margin-x': 25,
+                    'text-margin-y': -30,
+                    'text-outline-width': 1.5,
+                    'text-outline-color': 'red',
+                }
+            }
+        ],
+        layout: {
+            name: 'cose',
+            fit: true,                
+            padding: 30,                 
+            nodeDimensionsIncludeLabels: true, 
+            animate: true,            
+            animationDuration: 1000,     
+            edgeElasticity: 100,        
+            gravity: 0.0001,          
+            nodeRepulsion: 65000000,        
+            numIter: 5000,           
+        } 
+    });
+
+    cy.on('tap', 'node', (event) => {
+        const nodeData = event.target.data();
+        if (nodeData.type === 'metadata') {
+            loadNetwork(`metadata_networks.${nodeData.id}`);
+        } 
+        else if (nodeData.type === 'concept') {
+            loadNetwork(`concept_networks.${nodeData.id}`);
+        }
+        else if (nodeData.type === 'paper') {
+            const url = nodeData.url; 
+            if (url) {
+                window.open(url, '_blank');
+            } else {
+                alert('No URL found for this paper!');
+            }
+        }
+        else if (nodeData.type === 'summary') {
+            const fullSummary = nodeData.label;
+            Swal.fire({
+                title: 'Relation Summary',
+                html: `<div style="text-align: justify; text-justify: inter-word;">${fullSummary}</div>`,
+                icon: 'success',
+                confirmButtonText: 'OK',
+                customClass: {
+                    popup: 'swal-popup-custom',
+                }
+            });
+        }
+
+    });
+
+    cy.on('mouseover', 'node[type="paper"]', function (evt) {
+        const node = evt.target;
+        const paperInfo = node.data('label'); 
+        const tooltip = document.createElement('div');
+        
+        tooltip.id = 'tooltip';
+        tooltip.style.position = 'absolute';
+        tooltip.style.background = '#9c9894';
+        tooltip.style.color = '#fff';
+        tooltip.style.fontSize = '12px';
+        tooltip.style.padding = '8px';
+        tooltip.style.borderRadius = '5px';
+        tooltip.style.pointerEvents = 'none';
+        tooltip.style.zIndex = 1000;
+        tooltip.textContent = `Click to access paper`;
+
+        document.body.appendChild(tooltip);
+
+        document.addEventListener('mousemove', (e) => {
+            tooltip.style.left = `${e.pageX + 15}px`;
+            tooltip.style.top = `${e.pageY + 15}px`;
+        });
+    });
+    // remove `link to paper`
+    cy.on('mouseout', 'node[type="paper"]', function (evt) {
+        const tooltip = document.getElementById('tooltip');
+        if (tooltip) {
+            tooltip.remove();
+        }
+    });
+
+    cy.on('mouseover', 'node[type="summary"]', function (evt) {
+        const node = evt.target;
+        const paperInfo = node.data('label'); 
+        const tooltip = document.createElement('div');
+        
+        tooltip.id = 'tooltip';
+        tooltip.style.position = 'absolute';
+        tooltip.style.background = '#9c9894';
+        tooltip.style.color = '#fff';
+        tooltip.style.fontSize = '12px';
+        tooltip.style.padding = '8px';
+        tooltip.style.borderRadius = '5px';
+        tooltip.style.pointerEvents = 'none';
+        tooltip.style.zIndex = 1000;
+        tooltip.textContent = `Click to view complete summary`;
+
+        document.body.appendChild(tooltip);
+
+        document.addEventListener('mousemove', (e) => {
+            tooltip.style.left = `${e.pageX + 15}px`;
+            tooltip.style.top = `${e.pageY + 15}px`;
+        });
+    });
+    // remove `link to paper`
+    cy.on('mouseout', 'node[type="summary"]', function (evt) {
+        const tooltip = document.getElementById('tooltip');
+        if (tooltip) {
+            tooltip.remove();
+        }
+    });
+
+    updateCurrentPage(networkKey);
+}
+
+document.getElementById('backButton').addEventListener('click', () => {
+    const button = document.getElementById('backButton');
+    button.style.animation = 'buttonClick'; 
+    if (history.length > 1) {
+        history.pop();
+        const previousNetwork = history.pop(); 
+        loadNetwork(previousNetwork); 
+    } else {
+        Swal.fire({
+            title: 'Here is the top network!',
+            // text: "Here is the top network",
+            icon: 'warning',
+            confirmButtonText: 'OK',
+            customClass: {
+                popup: 'swal-popup-custom',
+            }
+        });
+    }
+    button.addEventListener('animationend', () => { button.style.animation = ''; });
+});
+
+// Node color mapping
+function getNodeColor(type) {
+    const colorMap = {
+        compound: '#6383ba',
+        metadata: '#b5ebd3',
+        concept: '#f7dfbe',
+        paper: '#b2dbc0',
+        summary: '#CCCCCC'
+    };
+    return colorMap[type] || '#CCCCCC';
+}
+
+// Edge color mapping
+function getEdgeColor(score) {
+    if (score == 1){
+        return '#80D4FF'; 
+    } 
+    else if (score == 2){
+        return '#1AB0FF'; 
+    } 
+    else if (score == 3){
+        return '#007ACC'; 
+    } 
+    else if (score == 4){
+        return '#003D99'; 
+    } 
+    else if (score == 5){
+        return '#212a54'; 
+    } 
+    else{
+        return '#CCCCCC'; // defalult
+    }
+}
+// Edge color mapping for green gradient based on score
+function getEdgeColor_dynamic(score) {
+    const maxScore = 200; 
+    const normalizedScore = Math.min(Math.max(score, 0), maxScore); 
+    const greenIntensity = Math.floor((normalizedScore / maxScore) * 255);
+    return `rgb(0, ${greenIntensity}, 0)`;
+}
+function updateCurrentPage(networkKey) {
+    let pageInfo = ''; 
+    const nodeId = networkKey.split('.').pop();
+    const metaParts = nodeId.split('_'); // ex: concept_abnorm_metadata -> keep abnorm
+    if (networkKey.startsWith("metadata_networks.")) {
+        pageInfo = `/${compoundName}/${metaParts[1]}`;
+        nowmetaParts = metaParts[1];
+    }
+    else if (networkKey.startsWith("concept_networks.")) {
+        pageInfo = `/${compoundName}/${nowmetaParts}/${nodeId}`;
+    }
+    else{ // top network
+        pageInfo = `/${compoundName}`;
+    }
+    document.getElementById('current-page').textContent = `Current Page: ${pageInfo}`;
+}
+</script>
+</body>
+</html>

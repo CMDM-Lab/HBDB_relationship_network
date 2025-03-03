@@ -1,0 +1,10 @@
+{
+    "context": "This was due to the fact of increasing the temperature had increased the regeneration of VOCs and decreased the regeneration time. The decrease in regeneration time has strictly implied less consumption of nitrogen. And the increase in superficial velocity decreased the operating cost, where as it slightly increased the cost for acetone and ethyl formate. The interaction effect in the case of acetone has decreased the operating cost significantly in case of acetone compared to the case of dichloromethane and ethyl formate.Simulation results of the hot nitrogen regeneration step An example of simulation results of regeneration concentration and temperature profile of ethyl formate have been shown in the Figs. 6 and 7 . The average error percent of the mass of acetone regenerated between the simulations and the experiments was 3.1%. It had been noticed in Fig. 6, there has been a delay in the regeneration concentration profile of the experimental in comparison with the simulation results. ",
+    "term_A": "acetone",
+    "term_B": "Nitrogen",
+    "llm_generation": {
+        "summary": "In this context, acetone and nitrogen are related through the process of VOC regeneration, where increasing temperature affects the regeneration of volatile organic compounds (VOCs) like acetone while simultaneously decreasing nitrogen consumption. The operational costs associated with acetone are discussed, indicating a significant interaction effect that reduces costs compared to other compounds, suggesting a functional relationship in the regeneration process.",
+        "reason": "The score of 3 reflects a moderate relevance, as acetone's regeneration process is linked to nitrogen consumption, indicating an interaction in the context of operational costs and efficiency. However, the relationship lacks detailed quantitative data or deeper exploration of their interaction.",
+        "score": 3
+    }
+}

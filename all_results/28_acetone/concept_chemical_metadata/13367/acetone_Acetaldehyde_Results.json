@@ -1,0 +1,10 @@
+{
+    "context": "The earthy and green attributes appeared to be linked to high temperatures, solar radiation and PET. Volatile compounds such as butan-2,3-diol, butan-1,3-diol and 2-phenylethanol, appeared to be indicators of the earthy attributes, whereas toluene, 2 methyl-1-propanal and hexanal appeared to be indicators of body and bitterness. High fermentation temperatures were linked with an increase in pyrrole, benzaldehyde and 2-furanmethanol and contrasted with the fruity character and overall quality. Finally, acidity, overall quality, fruity character and aroma quality were located opposite high temperatures and solar radiation and close to acetone and ethanal. These latter volatile compounds could be considered as highland coffee indicators. Climatic conditions during seed development have a major effect on beverage quality Tropical climates are characterised by a reduced seasonal temperature variation, with elevation being the main factor modulating this physical variable. High quality coffees are produced at the higher elevations. ",
+    "term_A": "acetone",
+    "term_B": "Acetaldehyde",
+    "llm_generation": {
+        "summary": "In this context, acetone and acetaldehyde are mentioned as volatile compounds associated with the quality of highland coffee. While both compounds are linked to the overall quality and fruity character of the beverage, the context does not provide a direct interaction or specific relationship between them. Instead, they are presented as indicators influenced by climatic conditions during seed development, suggesting a broader connection to coffee quality rather than a direct chemical relationship.",
+        "reason": "The score of 2 reflects a low relevance, as acetone and acetaldehyde are both mentioned in relation to coffee quality but lack a detailed discussion of their interaction or specific functional relationship within the context.",
+        "score": 2
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "The DOX-loaded poly(l-Asp-g-DEAP68)-b-PEG micelles showed pH-stimulated drug release patterns: a significantly accelerated DOX release at pH 6.8 and a minimized DOX release at pH 7.4. This multifunctionality of poly(l-Asp-g-DEAP68)-b-PEG is expected to provide efficient strategies and applications for the biomedical field. Volatile organic compounds (VOCs) like dichloromethane, acetone and ethyl formate are widely used in the oil sands process to extract the bitumen from the oil sands. Acetone and ethyl formate have adverse toxic effects on human central nervous system and environment. And dichloromethane even causes cancer to humans and so the European States have decided to ban the use of it for concentration equal to or greater than 0.1 by mass percent. This research work focuses on the removal of VOCs by adsorption using commercial microporous activated carbon and then regenerates the adsorbed phase. Many studies have been made on the influence of the operating conditions of adsorption phase [3\u20137]. ",
+    "term_A": "acetone",
+    "term_B": "Adverse effects",
+    "llm_generation": {
+        "summary": "In this context, acetone is identified as a volatile organic compound (VOC) that has adverse toxic effects on the human central nervous system and the environment. The mention of acetone alongside other VOCs highlights its potential health risks, particularly in relation to toxicity and environmental impact. The context emphasizes the need for strategies to mitigate these adverse effects, particularly in industrial applications such as oil sands extraction.",
+        "reason": "The score of 4 reflects a significant connection between acetone and its adverse effects, as the context explicitly discusses the toxicological implications of acetone exposure. This relationship is supported by the mention of its impact on human health and the environment, indicating a clear relevance in the context of safety and toxicity.",
+        "score": 4
+    }
+}

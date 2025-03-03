@@ -1,0 +1,10 @@
+{
+    "context": "Like capsaicin, formalin strongly produced a dose-dependent response. The time\u2013course study suggests that m-xylene, toluene and formalin, as well as capsaicin, were rapidly absorbed into the skin, as the response to each compound peaked within 20min after the initial application. In addition, it is likely that these compounds remained in the skin, as the response to them continued for at least 60min. The other VOCs in this study, n-heptane, n-hexane, cyclohexane, acetone and diethyl ether, had no effect even when unocclusively applied several different times, which corresponded to an approximate 2min occlusive exposure. Our study showed that CP-99,994, which is a tachykinin NK1 receptor antagonist, completely inhibited the skin microvascular leakage induced by the topical capsaicin and formalin. Previously published reports support our current findings (Moussaoui et al., 1993; Damas and Liegeois, 1999). Furthermore, we also found that CP-99,994 partially inhibited the response induced by topical m-xylene, toluene and styrene. ",
+    "term_A": "acetone",
+    "term_B": "n-heptane",
+    "llm_generation": {
+        "summary": "In this context, acetone and n-heptane are both mentioned as volatile organic compounds (VOCs) that were tested for their effects on skin response. However, the study indicates that neither acetone nor n-heptane produced any significant effect when applied to the skin, suggesting that they do not have a relevant interaction or impact in this specific experimental setup. Their mention is more about their classification as VOCs rather than any direct relationship.",
+        "reason": "The score of 2 reflects a low relevance, as acetone and n-heptane are both listed as VOCs tested in the same study, but there is no detailed discussion of their interaction or significance beyond their lack of effect.",
+        "score": 2
+    }
+}

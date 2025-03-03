@@ -1,0 +1,10 @@
+{
+    "context": "As indicated in Fig. 4, meal was supplied when 24h passed from previous meal. It can be seen that the acetone concentration in the breath and urine was gradually increased after the fasting period of about 20h, and then, rapidly decreased after the meal. The results explained the low breath acetone level of controlled type-2 diabetic patient, because a proper treatment led to a significant decrease in serum level of ketone bodies within few hours. The profile for breath acetone has a similar behavior to the urinary concentration, demonstrating that the acetone level in the breath closely reflected their urinary concentration. The time profile of urine ketone body level was also confirmed with commercially available urine ketone test strips. A good correlation was found between the acetone concentration of urine headspace and the results obtained with urine ketone test strip. The correlation between the acetone concentration in the breath and urine samples was depicted in Fig. 5 . ",
+    "term_A": "acetone",
+    "term_B": "Urinary concentration",
+    "llm_generation": {
+        "summary": "In this context, acetone concentration in breath and urine is closely monitored, showing a gradual increase after fasting and a rapid decrease post-meal. The study highlights a strong correlation between breath acetone levels and urinary concentration, indicating that breath acetone can serve as a reliable marker for urinary acetone levels, particularly in the context of monitoring ketone bodies in type-2 diabetic patients.",
+        "reason": "The score of 5 reflects a direct and significant relationship between acetone and urinary concentration, as the study provides strong evidence of their correlation and suggests that breath acetone levels can effectively reflect urinary acetone concentrations.",
+        "score": 5
+    }
+}

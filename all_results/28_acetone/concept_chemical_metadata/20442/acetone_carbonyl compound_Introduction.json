@@ -1,0 +1,10 @@
+{
+    "context": "These PCHs were synthesized using organobentonite, a waste sorbent from wastewater treatments, to reduce their cost and avoid secondary pollution of used organobentonite. In this work, adsorption performance of PCH for six VOCs was examined and related to their physical/chemical properties. Aliphatic acetone was chosen due to its abundance in research laboratories or offices air. Acetone is also the most abundant carbonyl compound widely observed in outdoor and indoor air. Aromatic hydrocarbons account for 22\u201340% of the total ambient VOCs in the modern urban environments. Among aromatic VOCs, toluene, ethylbenzene, o-xylene, m-xylene and p-xylene are most ubiquitous in indoor air and have significant toxicity to human body. Materials Acetone, toluene, ethylbenzene, o-xylene, m-xylene, and p-xylene are of analytical grade, which were purchased and used without further purification (Zhejiang Chemical Reagent Co., Ltd., China). ",
+    "term_A": "acetone",
+    "term_B": "carbonyl compound",
+    "llm_generation": {
+        "summary": "In this context, acetone is identified as a carbonyl compound, specifically noted for its prevalence in both indoor and outdoor air. The text highlights acetone's significance as a volatile organic compound (VOC) and its common presence in laboratory environments. This establishes a direct relationship between acetone and its classification as a carbonyl compound, emphasizing its relevance in air quality studies.",
+        "reason": "The score of 5 reflects a strong relevance, as acetone is explicitly described as the most abundant carbonyl compound in various air environments, establishing a clear and critical relationship between the two terms.",
+        "score": 5
+    }
+}

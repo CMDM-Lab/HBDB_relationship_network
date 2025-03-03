@@ -1,0 +1,10 @@
+{
+    "context": "For the diagnosis of ADHF in the study population, an EBA cutoff of 2.50 \u03bcg/L was as accurate as a BNP cutoff of 424 pg/mL (AUC, 0.94; 95% CI, 0.88-0.99; P < .001) (Fig 3B). By using logistic regression models, we determined that EBA (acetone > 2.5 \u03bcg/L) predicted the clinical profile of HF (chronic HF vs ADHF) in 84.3% of the cases. The same procedures using BNP levels (> 424 pg/mL) identified 92% of the cases. The same classification rate was observed when EBA and BNP levels were considered simultaneously in the logistic regression model. EBA and NYHA Classification To analyze the relationship of EBA to HF severity, we evaluated the EBA concentration according to the NYHA classification. ",
+    "term_A": "acetone",
+    "term_B": "ADHF",
+    "llm_generation": {
+        "summary": "In this context, acetone is evaluated as a potential biomarker for diagnosing acute decompensated heart failure (ADHF). The study indicates that elevated levels of acetone (EBA > 2.5 \u03bcg/L) can accurately predict the clinical profile of heart failure, demonstrating a significant relationship between acetone levels and the severity of heart failure as classified by the NYHA system. This suggests that acetone may serve as a useful diagnostic tool in distinguishing between chronic heart failure and ADHF.",
+        "reason": "The score of 5 reflects a strong relevance, as acetone is directly linked to the diagnosis of ADHF, with statistical support indicating its predictive value in clinical profiles of heart failure. The context emphasizes acetone's role as a biomarker, establishing a critical relationship.",
+        "score": 5
+    }
+}

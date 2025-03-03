@@ -1,0 +1,10 @@
+{
+    "context": "Therefore, HbA1c% is one of the most useful indicator of diabetes and DKA. Exhaled human breath contains a large number of volatile organic compounds (VOCs), especially in low concentration, that related to their blood concentrations and vapor pressure. Analysis of the exhaled breath is a non-invasive method for clinical purposes and much attention has been paid for the determination of particular compounds that might be a biomarker of several diseases [4\u20136]. Acetone is normally included in human breath at ppbv level, and has been regarded as a promising biomarker of diabetes and DKA. Generally, breath acetone concentration for diabetic patient is higher than that for healthy person, and more than 1ppmv of breath acetone was reported. Human urine analysis was also used for the diagnosis of several diseases because of its simple and inexpensive features. Ketone bodies in urine have been widely measured for diabetic patients in clinical practice using a test strip. ",
+    "term_A": "acetone",
+    "term_B": "Diabetes",
+    "llm_generation": {
+        "summary": "In this context, acetone is identified as a volatile organic compound (VOC) present in exhaled breath, which serves as a potential biomarker for diabetes and diabetic ketoacidosis (DKA). Diabetic patients typically exhibit higher breath acetone concentrations compared to healthy individuals, indicating its relevance in non-invasive diabetes diagnosis. Additionally, urine analysis for ketone bodies is commonly employed in clinical settings for diabetes management.",
+        "reason": "The score of 5 reflects a strong and direct relationship between acetone and diabetes, as acetone is specifically highlighted as a promising biomarker for diabetes and DKA, supported by evidence of its elevated levels in diabetic patients compared to healthy controls.",
+        "score": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "context": "It was neglected until recently by scientists and clinicians and is hardly covered in the medical curricula. Halitosis is caused by a number of volatiles, which originate from the oro-pharynx or from alveolar air. For oral malodor, the sulfur containing gases (hydrogen sulfide, methyl mercaptan and dimethyl sulfide), derived from bacterial degradation of sulfur containing amino acids in the oropharynx, play a significant role. Other gases such as indole, skatole, putrescine, cadaverine and acetone are also relevant and sometimes even the dominant cause of halitosis. Mostly (85%) the pathology causing halitosis lies within the oropharynx (tongue coating, gingivitis, periodontitis, tonsillitis). In 10\u201315% of the patients, however, breath malodor has an extra-oral cause. Bad smelling metabolites can be formed/absorbed at any place in the body and be transported by the bloodstream to the lungs. ",
+    "term_A": "acetone",
+    "term_B": "indole",
+    "llm_generation": {
+        "summary": "In this context, acetone and indole are both identified as volatile compounds that can contribute to halitosis, a condition characterized by bad breath. They are mentioned alongside other gases produced from bacterial degradation in the oro-pharynx. While both are relevant to the pathology of halitosis, the context does not elaborate on their specific interactions or comparative significance in causing the condition.",
+        "reason": "The score of 2 reflects a low to moderate relevance, as acetone and indole are both mentioned as contributors to halitosis but without a detailed discussion of their relationship or interaction. They share a general category as volatile compounds but lack a direct connection.",
+        "score": 2
+    }
+}
