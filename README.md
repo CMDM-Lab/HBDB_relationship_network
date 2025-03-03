@@ -1,4 +1,4 @@
-# hbdb codes
+# Codes for HBDB Relationship network
 
 ## Data Requirements
 Download the `hbdb2.sql` and put it in the same directory
@@ -44,7 +44,7 @@ python gen_scores.py
 ```bash
 python extract.py
 ```
-### 3. Build the network structure in the Cytoscape format:
+### 3. Build the network structure in the Cytoscape.js format:
 ```bash
 python build_net.py
 ```
@@ -63,7 +63,17 @@ http://localhost:8001/index.html?file=28_acetone
 ### Prepare Dataset
 download `BC8_BioRED_Subtask1_BioCJSON/bc8_biored_task1_train.json` and put it in the same directory
 
+BioCreative VIII BioRED: https://doi.org/10.1093/database/baae069
+BC8_BioRED dataset is available at https://codalab.lisn.upsaclay.fr/competitions/13377#learn_the_details-dataset
+
 ### Run Evaluation
 ```bash
 python eval.py
 ```
+
+## Notes
+HBDB snapshot (hbdb2.sql) serves as a snapshot of the Human Breathomics Database (HBDB). In this snapshot, all literature information was collected and organized in a MySQL database, along with all recognized biomedical terms and sentences. The full text of some literature was retrieved using Elsevier's Text and Data Mining (TDM) service in HBDB. Redistribution is limited to 200 characters due to the terms of use of the TDM service; therefore, this file is not publicly available.
+
+For the snapshot of HBDB without full text and manually curated dataset dervied from HBDB, please refer to the zenodo record: https://zenodo.org/records/14958797
+
+Notice from Elsevier TDM service: Some rights reserved. This work permits non-commercial use, distribution, and reproduction in any medium, provided the original author and source are credited.
