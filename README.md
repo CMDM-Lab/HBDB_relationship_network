@@ -74,6 +74,6 @@ python eval.py
 ## Notes
 HBDB snapshot (hbdb2.sql) serves as a snapshot of the Human Breathomics Database (HBDB). In this snapshot, all literature information was collected and organized in a MySQL database, along with all recognized biomedical terms and sentences. The full text of some literature was retrieved using Elsevier's Text and Data Mining (TDM) service in HBDB. Redistribution is limited to 200 characters due to the terms of use of the TDM service; therefore, this file is not publicly available.
 
-For the snapshot of HBDB without full text and manually curated dataset dervied from HBDB, please refer to the zenodo record: https://zenodo.org/records/14958797. For the complete context (full text) in the manually curated dataset, please retrieve the original text from original paper through mapping Reference ID to DOI/URL/PubMed ID in the HBDB snapshot.
+For the snapshot of HBDB without full text and manually curated dataset dervied from HBDB, please refer to the zenodo record: https://zenodo.org/records/14958797. To access the complete context (full text) in the manually curated dataset, please retrieve the original text from the original paper by mapping Reference ID to DOI/URL/PubMed ID in the HBDB snapshot.
 
 Notice from Elsevier TDM service: Some rights reserved. This work permits non-commercial use, distribution, and reproduction in any medium, provided the original author and source are credited.
